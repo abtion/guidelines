@@ -1,11 +1,14 @@
 # Guidelines for WordPress sites
 
 
-###### Table of contents
+### Table of contents
 1. [Plugins](#plugins)
 2. [File structure](#file-structure)
 3. [Task runners](#task-runners)
 4. [Using WordPress as a API](#using-wordpress-as-a-api)
+
+
+
 
 
 ### Plugins
@@ -23,6 +26,9 @@ WPMU DEV contains a lot of premium plugins for various use cases. When in a situ
 All-in-one migration tool can be used to migrate sites between domains, if you don't want the hassle of doing it manually.
 
 Yoast SEO is the market leader of SEO plugins for WordPress and has been around for a long time. Yoast should be installed depending on the project.
+
+
+
 
 
 ### File structure
@@ -51,11 +57,18 @@ Define your theme functions here and include them into the main `functions.php`.
 
 - include( get_template_directory() . '/inc/post_types.php' );
 
+
+
+
+
 ### Task runners
 1. [CodeKit](https://codekitapp.com/) / [Gulp](https://gulpjs.com/)
 
 Watching and compiling scss, js - use your prefered settings.
 `gulp.js` pre-defined setup coming soon...
+
+
+
 
 
 ### Using WordPress as an API
