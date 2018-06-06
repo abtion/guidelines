@@ -12,8 +12,6 @@
 
 
 ### Plugins
-Intro
-
 1. [ACF PRO](https://www.advancedcustomfields.com) (Mandatory)
 2. [WPMU DEV](https://premium.wpmudev.org/) (Optional)
 3. [All-in-one migration tool](https://da.wordpress.org/plugins/all-in-one-wp-migration) (Optional)
