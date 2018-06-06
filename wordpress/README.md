@@ -63,5 +63,5 @@ The WP REST API was built into the core in 4.7 and along with that a great [hand
 
 #### Authentication
 Using a WordPress site as a headless CMS will often times need you to implement some sort of [authentication](https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/). The WP REST API supports various auth methods, including:
-[Basic Auth](https://github.com/WP-API/Basic-Auth)
-[JWT](https://da.wordpress.org/plugins/jwt-authentication-for-wp-rest-api/)
+- [Basic Auth](https://github.com/WP-API/Basic-Auth)
+- [JWT](https://da.wordpress.org/plugins/jwt-authentication-for-wp-rest-api/)
