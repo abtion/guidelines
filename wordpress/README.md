@@ -1,8 +1,6 @@
 # Guidelines for WordPress sites
 
-To run installation script, clone the wpinstall.sh file into a pre-made folder for the project and run: 
-
-`sh wpinstall.sh your-database-name`
+To scaffold a new WordPress site, start [here](https://github.com/abtion/Wordpress-Scaffolding). Make sure that you follow the guidelines below.
 
 
 ### Table of contents
