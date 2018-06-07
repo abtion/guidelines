@@ -1,5 +1,9 @@
 # Guidelines for WordPress sites
 
+To run installation script, clone the wpinstall.sh file into a pre-made folder for the project and run: 
+
+`sh wpinstall.sh your-database-name`
+
 
 ### Table of contents
 1. [Plugins](#plugins)
