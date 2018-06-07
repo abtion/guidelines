@@ -13,12 +13,12 @@ echo "---"
 # Configure defaults
 ROOT_NAME="root" 
 DBUSER="root"
-DBPASS="root"
+DBPASS=""
 EMAIL="admin@abtion.com"
 WP_USER="root"
 WP_PASS="root"
 SITE_TITLE="Site"
-SITE_URL_PREFIX="https://newsite.test"
+SITE_URL_PREFIX="http://test.test"
 
 function help() {
   echo "Usage: wpinstall.sh databasename"
@@ -45,11 +45,11 @@ then
   echo ""
   echo "- Installing WordPress website..."
   echo "-----------------------------------------"
-  wp core install --url=$SITE_URL_PREFIX/$1 --title=$SITE_TITLE --admin_email=$EMAIL --admin_name=$WP_USER --admin_password=$WP_PASS
+  wp core install --url=$SITE_URL_PREFIX --title=$SITE_TITLE --admin_email=$EMAIL --admin_name=$WP_USER --admin_password=$WP_PASS
   echo ""
   echo "- Installing plugin (1/2) Advanced Custom Fields PRO..."
   echo "-----------------------------------------"
-  wp plugin install 'https://connect.advancedcustomfields.com/index.php?a=download&p=pro&k=b3JkZXJfaWQ9NzY4MTZ8dHlwZT1kZXZlbG9wZXJ8ZGF0ZT0yMDE2LTAzLTA4IDA2OjU0OjI3'
+  wp plugin install 'https://connect.advancedcustomfields.com/index.php?a=download&p=pro&k=b3JkZXJfaWQ9NzY4MTZ8dHlwZT1kZXZlbG9wZXJ8ZGF0ZT0yMDE2LTAzLTA4IDA2OjU0OjI3' --activate
   echo "Inserting license key for Advanced Custom Fields PRO"
   wp eval 'acf_pro_update_license("b3JkZXJfaWQ9NzY4MTZ8dHlwZT1kZXZlbG9wZXJ8ZGF0ZT0yMDE2LTAzLTA4IDA2OjU0OjI3");'
   echo "- Installing plugin (2/2) WordPress SEO..."
