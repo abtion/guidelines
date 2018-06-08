@@ -29,6 +29,7 @@ after_bundle do
   # Setup Rspec
   run "rm -rf test"
   directory 'spec', "spec"
+  copy_file '.travis.yml'
 
   git :init
   git add: "."
@@ -58,6 +59,7 @@ after_bundle do
   puts "Rspec is ready to run. You can even use Factories."
   puts "We've created a git repo and pushed it to Github. You shoud be able to find it at: github.com/abtion/#{app_name}"
   puts "We've created a Staging app in Heroku. You shoud be able to find it at: https://#{parameterize_app_name}-staging.herokuapp.com/"
+  puts "Next time you make a commit, your test suit will run on TravisCI."
   puts ""
   puts ""
   puts ""

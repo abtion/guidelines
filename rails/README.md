@@ -26,9 +26,15 @@ On mac, you can use:
 brew install hub
 ```
 
+### Features
+- Installs common gems
+- Sets up Rspec
+- Creates a Github repo
+- Creates a staging app in Heroku
+- Sets up [Travis](https://travis-ci.com/abtion/Wokshop)
+
 #### TODO
 
-- Create app on [Travis](https://travis-ci.com/abtion/Wokshop)
 - Dockerize the app with Docker and Docker-Compose
 - Add basic scripts to run the app and other convenient actions
 - Add standard README
