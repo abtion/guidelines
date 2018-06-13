@@ -1,11 +1,25 @@
 require 'pry'
 
-# Run this wil rails new my_app -m muffi-template/rails-template.rb
-#We're redefining #source_path so we can add the template dir and copy files from it
-#to the application
-def source_paths
-  Array(super) +
-    [File.join(File.expand_path(File.dirname(__FILE__)),'muffi_template')]
+# Run this wil rails new my_app -m https://raw.githubusercontent.com/abtion/guidelines/master/rails/rails-template.rb
+
+# Add this template directory to source_paths so that actions like
+# copy_file and template resolve against our source files. If this file was
+# invoked remotely via HTTP, that means the files are not present locally.
+# In that case, use `git clone` to download them to a local temporary dir.
+def add_template_repository_to_source_path
+  if __FILE__ =~ %r{\Ahttps?://}
+    require "tmpdir"
+    tempdir = Dir.mktmpdir("template-tmp")
+    source_paths.unshift(tempdir + "/rails/muffi_template")
+    at_exit {FileUtils.remove_entry(tempdir)}
+    git clone: [
+      "--quiet",
+      "https://github.com/abtion/guidelines.git",
+      tempdir
+    ].map(&:shellescape).join(" ")
+  else
+    source_paths.unshift(File.dirname(__FILE__))
+  end
 end
 
 gem_group :development, :test do
@@ -25,7 +39,8 @@ end
 gem "rubocop", require: false
 
 after_bundle do
-  parameterize_app_name = app_name.parameterize.gsub("_","-")
+  add_template_repository_to_source_path
+  parameterize_app_name = app_name.parameterize.gsub("_", "-")
   # Setup Rspec
   run "rm -rf test"
   directory 'spec', "spec"
