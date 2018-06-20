@@ -3,7 +3,7 @@
 Please, go to the specific folder for more info.
 
 
-###Staging environment
+### Staging environment
 
 **Developing the project:** No need for staging. As no one is using the project, there can (but should not) be "bugs" in production.
   
