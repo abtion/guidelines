@@ -23,15 +23,15 @@ def add_template_repository_to_source_path
 end
 
 add_template_repository_to_source_path
+
 # replace sqlite with postgress
-gsub_file 'Gemfile', /gem 'sqlite3'\n/,''
+gsub_file 'Gemfile', /gem 'sqlite3'\n/, "gem 'pg'"
 gsub_file 'Gemfile', '# Use sqlite3 as the database for Active Record', ''
-gem 'pg'
+
 # overwrite default sqlite3 database configs with postgresql defaults
 copy_file "config/database.yml", force: true
-gsub_file "config/database.yml", /database: myapp_development/, "database: #{app_name}_development"
-gsub_file "config/database.yml", /database: myapp_test/, "database: #{app_name}_test"
-gsub_file "config/database.yml", /database: myapp_production/, "database: #{app_name}_production"
+gsub_file "config/database.yml", /myapp/, "#{app_name}"
+gsub_file "config/database.yml", /MYAPP/, "#{app_name}.upcase"
 
 gem_group :development, :test do
   gem "rspec-rails"
