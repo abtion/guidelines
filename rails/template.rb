@@ -1,6 +1,6 @@
 require 'pry'
 
-# Run this with: rails new my_app -m https://raw.githubusercontent.com/abtion/guidelines/master/rails/rails-template.rb
+# Run this with: rails new my_app -m https://raw.githubusercontent.com/abtion/guidelines/master/rails/template.rb
 
 # Add this template directory to source_paths so that actions like
 # copy_file and template resolve against our source files. If this file was

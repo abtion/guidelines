@@ -6,7 +6,7 @@ We use "Muffi Template" for starting a new project. Muffi template will create a
 and set up the standard tools we always use at Abtion for a Rails project.
 
 ```
-rails new name-of-the-app -m https://raw.githubusercontent.com/abtion/guidelines/master/rails/rails-template.rb
+rails new name-of-the-app -m https://raw.githubusercontent.com/abtion/guidelines/master/rails/template.rb
 ```
 
 ## Muffi Template
