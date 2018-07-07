@@ -1,6 +1,6 @@
 require 'pry'
 
-# Run this wil rails new my_app -m https://raw.githubusercontent.com/abtion/guidelines/master/rails/rails-template.rb
+# Run this with: rails new my_app -m https://raw.githubusercontent.com/abtion/guidelines/master/rails/rails-template.rb
 
 # Add this template directory to source_paths so that actions like
 # copy_file and template resolve against our source files. If this file was
@@ -79,8 +79,8 @@ after_bundle do
   puts ""
   puts ""
   puts ""
-  puts "Here is a few things we've done for you:"
-  puts "We've installed the most common used gems at Abtion. You probably need all of them."
+  puts "Here are a few things we've done for you:"
+  puts "We've installed the most commonly used gems at Abtion. You'll probably need all of them."
   puts "Rspec is ready to run. You can even use Factories."
   puts "We've created a git repo and pushed it to Github. You shoud be able to find it at: github.com/abtion/#{app_name}"
   puts "We've created a Staging app in Heroku. You shoud be able to find it at: https://#{parameterize_app_name}-staging.herokuapp.com/"

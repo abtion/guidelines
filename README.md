@@ -1,6 +1,6 @@
 # Abtion Guidelines
 
-Please, go to the specific folder for more info.
+Please, go to the specific folders for more info.
 
 
 ### Staging environment

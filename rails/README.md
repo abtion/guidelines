@@ -2,7 +2,7 @@
 
 ## Starting a new project 
 
-We have "Muffi Template" for starting a new project. Muffi template will create a Github repo, Staging app in Heroku, 
+We use "Muffi Template" for starting a new project. Muffi template will create a Github repo, Staging app in Heroku, 
 and set up the standard tools we always use at Abtion for a Rails project.
 
 ```
@@ -25,6 +25,8 @@ On mac, you can use:
 ```
 brew install hub
 ```
+
+You will also need to setup [ssh-authentication](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/) for GitHub.
 
 ### Features
 - Installs common gems
