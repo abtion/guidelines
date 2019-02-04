@@ -2,6 +2,19 @@ require 'pry'
 
 # Run this with: rails new my_app -m https://raw.githubusercontent.com/abtion/guidelines/master/rails/template.rb
 
+#
+# Check that we have all the required dependencies
+#
+def dependencies_present?(dependencies)
+  dependencies.map do |dependency|
+    (system "which #{dependency} > /dev/null").tap { |present|
+      puts "#{dependency} not installed\n" unless present
+    }
+  end.all?
+end
+
+raise "ABORTED: Install missing dependencies." unless dependencies_present?(%w[git hub heroku])
+
 # Add this template directory to source_paths so that actions like
 # copy_file and template resolve against our source files. If this file was
 # invoked remotely via HTTP, that means the files are not present locally.
