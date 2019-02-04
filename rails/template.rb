@@ -2,25 +2,31 @@ require 'pry'
 
 # Run this with: rails new my_app -m https://raw.githubusercontent.com/abtion/guidelines/master/rails/template.rb
 
+def temporarily_clone_guidelines_repository(url)
+  require "tmpdir"
+  tempdir = Dir.mktmpdir("template-tmp")
+  at_exit {FileUtils.remove_entry(tempdir)}
+  repository = url.match(%r{\.githubusercontent\.com/(?<repository>[^/]*/[^/]*)/})[:repository]
+  git clone: [
+    "--quiet",
+    "https://github.com/#{repository}.git",
+    tempdir
+  ].map(&:shellescape).join(" ")
+  tempdir
+end
+
 # Add this template directory to source_paths so that actions like
 # copy_file and template resolve against our source files. If this file was
 # invoked remotely via HTTP, that means the files are not present locally.
 # In that case, use `git clone` to download them to a local temporary dir.
 def add_template_repository_to_source_path
-  if __FILE__ =~ %r{\Ahttps?://}
-    require "tmpdir"
-    tempdir = Dir.mktmpdir("template-tmp")
-    source_paths.unshift(tempdir + "/rails/muffi_template")
-    at_exit {FileUtils.remove_entry(tempdir)}
-    repository = __FILE__.match(%r{\.githubusercontent\.com/(?<repository>[^/]*/[^/]*)/})[:repository]
-    git clone: [
-      "--quiet",
-      "https://github.com/#{repository}.git",
-      tempdir
-    ].map(&:shellescape).join(" ")
-  else
-    source_paths.unshift(File.dirname(__FILE__))
-  end
+  repository_path = if __FILE__ =~ %r{\Ahttps?://}
+                      File.join(temporarily_clone_guidelines_repository(__FILE__), 'rails')
+
+                    else
+                      File.dirname(__FILE__)
+                    end
+  source_paths.unshift(File.join(repository_path, 'muffi_template'))
 end
 
 add_template_repository_to_source_path
