@@ -43,10 +43,6 @@ gem_group :test do
   gem "factory_bot_rails", "~> 4.0"
 end
 
-gem_group :production do
-  gem 'rails_12factor'
-end
-
 gem "rubocop", require: false
 
 after_bundle do
