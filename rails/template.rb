@@ -12,9 +12,10 @@ def add_template_repository_to_source_path
     tempdir = Dir.mktmpdir("template-tmp")
     source_paths.unshift(tempdir + "/rails/muffi_template")
     at_exit {FileUtils.remove_entry(tempdir)}
+    repository = __FILE__.match(%r{\.githubusercontent\.com/(?<repository>[^/]*/[^/]*)/})[:repository]
     git clone: [
       "--quiet",
-      "https://github.com/abtion/guidelines.git",
+      "https://github.com/#{repository}.git",
       tempdir
     ].map(&:shellescape).join(" ")
   else
