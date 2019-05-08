@@ -14,3 +14,9 @@ Please, go to the specific folder for more info.
 The staging environment should be as close to production as possible. The staging environment should have ENV variables set as "production" instead of "staging".
 
 We use Heroku pipelines for managing production and staging environments.
+
+### Database Backups
+
+Heroku-Postgresql databses include *FREE* scheduled backups, we just need to enable them using:
+
+`heroku pg:backups:schedule DATABASE_URL --at '03:00 Europe/Copenhagen' --app APP_NAME`
