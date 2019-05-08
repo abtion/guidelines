@@ -20,3 +20,14 @@ We use Heroku pipelines for managing production and staging environments.
 Heroku-Postgresql databses include *FREE* scheduled backups, we just need to enable them using:
 
 `heroku pg:backups:schedule DATABASE_URL --at '03:00 Europe/Copenhagen' --app APP_NAME`
+
+### Git Branch Naming Strategy
+
+In order to help differentiate git branches a little easier prefix your branch with a relevant keyword.
+
+| Keyword | Meaning        |
+| ------- | -------------- |
+| feature | new addition   |
+| fix     | fix/adjustment |
+| style   | CSS changes    |
+| test    | test/specs     |
