@@ -25,6 +25,8 @@ Heroku-Postgresql databses include *FREE* scheduled backups, we just need to ena
 
 In order to help differentiate git branches a little easier prefix your branch with a relevant keyword.
 
+For example:
+
 | Keyword | Meaning        |
 | ------- | -------------- |
 | feature | new addition   |
