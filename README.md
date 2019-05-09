@@ -31,5 +31,5 @@ For example:
 | ------- | -------------- |
 | feature | new addition   |
 | fix     | fix/adjustment |
-| style   | CSS changes    |
+| design  | Style changes  |
 | test    | test/specs     |
