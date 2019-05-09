@@ -65,6 +65,23 @@ end
 
 gem "rubocop", require: false
 
+def create_git_repository(app_name)
+  git :init
+  git add: "."
+  git commit: %Q{ -m "Initial commit #{app_name}" }
+end
+
+def create_github_repository(app_name)
+  run "hub create abtion/#{app_name} -p"
+  run "git push -u origin master"
+end
+
+def deploy_to_heroku(app_name)
+  run "heroku create #{app_name}-staging --region eu --team abtion --remote staging"
+  run "heroku pipelines:create #{app_name} -a #{app_name}-staging --stage staging --team abtion"
+  run "git push staging master"
+end
+
 after_bundle do
   parameterize_app_name = app_name.parameterize.gsub("_", "-")
   # Setup Rspec
@@ -72,16 +89,13 @@ after_bundle do
   directory 'spec', "spec"
   copy_file '.travis.yml'
 
-  git :init
-  git add: "."
-  git commit: %Q{ -m "Initial commit #{app_name}" }
-  run "hub create abtion/#{app_name} -p"
-  run "git push -u origin master"
+  create_git_repository(app_name)
 
-  run "heroku create #{parameterize_app_name}-staging --region eu --team abtion --remote staging"
-  run "heroku pipelines:create #{parameterize_app_name} -a #{parameterize_app_name}-staging --stage staging --team abtion"
-  run "git push staging master"
+  create_github_repository(app_name)
 
+  deploy_to_heroku(parameterize_app_name)
+
+  # Output Report
   puts ""
   puts ""
   puts ""
