@@ -40,7 +40,7 @@ gem_group :development, :test do
 end
 
 gem_group :test do
-  gem "factory_bot_rails", "~> 4.0"
+  gem "factory_bot_rails"
 end
 
 gem "rubocop", require: false
