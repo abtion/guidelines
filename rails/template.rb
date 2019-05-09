@@ -15,6 +15,19 @@ def temporarily_clone_guidelines_repository(url)
   tempdir
 end
 
+#
+# Check that we have all the required dependencies
+#
+def dependencies_present?(dependencies)
+  dependencies.map do |dependency|
+    (system "which #{dependency} > /dev/null").tap { |present|
+      puts "#{dependency} not installed\n" unless present
+    }
+  end.all?
+end
+
+raise "ABORTED: Install missing dependencies." unless dependencies_present?(%w[git hub heroku])
+
 # Add this template directory to source_paths so that actions like
 # copy_file and template resolve against our source files. If this file was
 # invoked remotely via HTTP, that means the files are not present locally.
@@ -47,11 +60,7 @@ gem_group :development, :test do
 end
 
 gem_group :test do
-  gem "factory_bot_rails", "~> 4.0"
-end
-
-gem_group :production do
-  gem 'rails_12factor'
+  gem "factory_bot_rails"
 end
 
 gem "rubocop", require: false
