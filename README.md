@@ -31,4 +31,4 @@ For example:
 | ------- | -------------- |
 | feature | new addition   |
 | fix     | fix/adjustment |
-| design  | Style changes  |
+| style   | Style changes  |
