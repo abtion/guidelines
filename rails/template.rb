@@ -2,24 +2,44 @@ require 'pry'
 
 # Run this with: rails new my_app -m https://raw.githubusercontent.com/abtion/guidelines/master/rails/template.rb
 
+def temporarily_clone_guidelines_repository(url)
+  require "tmpdir"
+  tempdir = Dir.mktmpdir("template-tmp")
+  at_exit {FileUtils.remove_entry(tempdir)}
+  repository = url.match(%r{\.githubusercontent\.com/(?<repository>[^/]*/[^/]*)/})[:repository]
+  git clone: [
+    "--quiet",
+    "https://github.com/#{repository}.git",
+    tempdir
+  ].map(&:shellescape).join(" ")
+  tempdir
+end
+
+#
+# Check that we have all the required dependencies
+#
+def dependencies_present?(dependencies)
+  dependencies.map do |dependency|
+    (system "which #{dependency} > /dev/null").tap { |present|
+      puts "#{dependency} not installed\n" unless present
+    }
+  end.all?
+end
+
+raise "ABORTED: Install missing dependencies." unless dependencies_present?(%w[git hub heroku])
+
 # Add this template directory to source_paths so that actions like
 # copy_file and template resolve against our source files. If this file was
 # invoked remotely via HTTP, that means the files are not present locally.
 # In that case, use `git clone` to download them to a local temporary dir.
 def add_template_repository_to_source_path
-  if __FILE__ =~ %r{\Ahttps?://}
-    require "tmpdir"
-    tempdir = Dir.mktmpdir("template-tmp")
-    source_paths.unshift(tempdir + "/rails/muffi_template")
-    at_exit {FileUtils.remove_entry(tempdir)}
-    git clone: [
-      "--quiet",
-      "https://github.com/abtion/guidelines.git",
-      tempdir
-    ].map(&:shellescape).join(" ")
-  else
-    source_paths.unshift(File.dirname(__FILE__))
-  end
+  repository_path = if __FILE__ =~ %r{\Ahttps?://}
+                      File.join(temporarily_clone_guidelines_repository(__FILE__), 'rails')
+
+                    else
+                      File.dirname(__FILE__)
+                    end
+  source_paths.unshift(File.join(repository_path, 'muffi_template'))
 end
 
 add_template_repository_to_source_path
@@ -40,14 +60,27 @@ gem_group :development, :test do
 end
 
 gem_group :test do
-  gem "factory_bot_rails", "~> 4.0"
-end
-
-gem_group :production do
-  gem 'rails_12factor'
+  gem "factory_bot_rails"
 end
 
 gem "rubocop", require: false
+
+def create_git_repository(app_name)
+  git :init
+  git add: "."
+  git commit: %Q{ -m "Initial commit #{app_name}" }
+end
+
+def create_github_repository(app_name)
+  run "hub create abtion/#{app_name} -p"
+  run "git push -u origin master"
+end
+
+def deploy_to_heroku(app_name)
+  run "heroku create #{app_name}-staging --region eu --team abtion --remote staging"
+  run "heroku pipelines:create #{app_name} -a #{app_name}-staging --stage staging --team abtion"
+  run "git push staging master"
+end
 
 after_bundle do
   parameterize_app_name = app_name.parameterize.gsub("_", "-")
@@ -56,16 +89,13 @@ after_bundle do
   directory 'spec', "spec"
   copy_file '.travis.yml'
 
-  git :init
-  git add: "."
-  git commit: %Q{ -m "Initial commit #{app_name}" }
-  run "hub create abtion/#{app_name} -p"
-  run "git push -u origin master"
+  create_git_repository(app_name)
 
-  run "heroku create #{parameterize_app_name}-staging --region eu --team abtion --remote staging"
-  run "heroku pipelines:create #{parameterize_app_name} -a #{parameterize_app_name}-staging --stage staging --team abtion"
-  run "git push staging master"
+  create_github_repository(app_name)
 
+  deploy_to_heroku(parameterize_app_name)
+
+  # Output Report
   puts ""
   puts ""
   puts ""
