@@ -1,5 +1,25 @@
 # Name of the project
 
+- [Name of the project](#name-of-the-project)
+- [Development](#development)
+  * [Requirements](#requirements)
+  * [Set up the app the first time](#set-up-the-app-the-first-time)
+  * [Run the app](#run-the-app)
+  * [Run the tests](#run-the-tests)
+  * [Useful commands](#useful-commands)
+  * [Download production or staging DB](#download-production-or-staging-db)
+  * [Workflow](#workflow)
+  * [Documentation](#documentation)
+  * [Notable inclusions and Notable exclusions](#notable-inclusions-and-notable-exclusions)
+- [Production](#production)
+  * [Automatic deploy](#automatic-deploy)
+  * [Manual deploy](#manual-deploy)
+  * [Debugging](#debugging)
+  * [Database](#database)
+- [Staging](#staging)
+- [Third parties](#third-parties)
+  * [Name of the third party](#name-of-the-third-party)
+
 Description of the project. What is it solving? Who are the users?
 
 URL to the project
@@ -30,7 +50,7 @@ Instructions on how to run the app.
 
 ## Useful commands
 
-## Download production / staging DB
+## Download production or staging DB
 
 Instructions on how to download the production/staging database.
 
@@ -42,11 +62,13 @@ Workflow agreed by the team. Include branch strategy, PR strategy, branch owners
 
 Where to find the documentation.
 
+## Notable inclusions and Notable exclusions
+
 # Production
 
 ## Automatic deploy
 
-How does automatic deploy happen?
+How do automatic deploys happen
 
 ## Manual deploy
 
