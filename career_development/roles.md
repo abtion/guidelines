@@ -9,7 +9,7 @@ The following descriptions are indications of what is expecting of a person havi
 - Be the decision-maker when conflicts arise.
 - Create an atmosphere where people share their doubts, concerns, and opinions.
 - Integrate all participants in the project.
-- Sense when a team member is lacking behind and take action.
+- Sense when a team member is lagging behind and take action.
 - Know the core strengths and weaknesses of all team members.
 - Make sure that a single person does not hold too much responsibility.
 - Ensure that all developers enjoy the codebase (TDDed, well maintained, sane dependencies, etc.).
