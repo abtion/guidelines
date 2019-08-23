@@ -17,6 +17,8 @@
 
 [Tim Slatcher - Interactive Visualisations at Scale](https://www.youtube.com/watch?v=6FRURtW5qXI)
 
+[Leigh Halliday - Testing React](https://www.youtube.com/watch?v=U_Q7ss7wvoo&list=PL8fumNHsC-3NaPNxh2bous6bBDWwJ4r1-)
+
 
 ## FAQ
 
