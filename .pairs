@@ -1,11 +1,11 @@
 pairs:
   # <initials>: <Firstname> <Lastname>[; <email-id>]
+  ag: Anders Guldbek; ag
   hm: Heather Moore; hm
-  mv: Martin Vinther; martin
-  mhh: Mads Hofman; mads
-  ag: Anders Guldbek; anders
-  ln: Lasse Norfeldt; norfeldt
-  gh: Geoff Hubbard; geoff
+  mp: Martin Vinther Petersen; mp
+  mhh: Mads Hofman; mhh
+  ln: Lasse Norfeldt; ln
+  gh: Geoff Hubbard; gh
 email:
   prefix: pair
   domain: abtion.com
