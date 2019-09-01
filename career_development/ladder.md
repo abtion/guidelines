@@ -24,7 +24,9 @@
 -[ ] Understands red-green-refactor.
 	
 #### communication
--[ ] updates asana, comes prepared for standup, uses time tracking tools and vacation notifications
+-[ ] Updates Asana.
+-[ ] Comes prepared for meetings.
+-[ ] Uses time tracking tools and vacation notifications.
 	
 #### respectful teammate
 -[ ] on time for meetings, is enthusiastic
@@ -41,7 +43,8 @@
 #### iterative
 -[ ] Delivers working code with each commit.
 #### communication	
--[ ] hosts retros, can compose a PR and provide feedback on them, even small items
+-[ ] Hosts retros.
+-[ ] Can compose a PR and provide feedback on them.
 #### respectful teammate
 -[ ] shows respect for client goals, encourages team to stay on a sustainable pace
 #### hard skills
@@ -60,7 +63,9 @@
 -[ ] Works with red-green-refactor.
 -[ ] Actively uses pomodoros.
 #### communication	
--[ ] is proficient with pair programming, can write user stories
+-[ ] Is proficient with pair programming.
+-[ ] Can write user stories.
+-[ ] Can introduce a new member to the project. 
 #### respectful teammate	
 -[ ] actively participates in feedback for team members
 #### hard skills
@@ -75,8 +80,11 @@
 #### iterative	
 -[ ] Well-composed commit narratives in commit flows. 
 #### communication	
--[ ] can help pm cultivate an asana board. understands kanban. can teach juniors to pair program.
-#### respectful teammate	
+-[ ] Can help PM cultivate an Asana board.
+-[ ] Understands kanban.
+-[ ] Can teach juniors to pair program.
+#### respectful teammate
+-[ ] Communicate with PMs when goals are unattainable; Understands the difficulties that the team is going through and helps how they can.	
 #### hard skills
 -[ ] Demonstrates ability to succeed in a wide range of complex situations across multiple axes: e.g. scale, uncertainty, interconnectedness.
 
@@ -88,7 +96,10 @@
 #### iterative	
 -[ ] Can guide an IPM and team reflection.
 #### communication	
-#### respectful teammate	
+-[ ] Aligns team on expectations.
+-[ ] Identifies miscommunications and solves them before they become a problem.
+#### respectful teammate
+-[ ] Help dissolve tension when arises; Does not take "all" responsibilities. They let their teammates take responsibilities they care about.	
 #### hard skills
 -[ ] Breaks down complex projects into simple systems that can be effectively built and maintained by less experienced engineers.
 
@@ -100,6 +111,8 @@
 #### iterative
 -[ ] Brings new working-methods that improve team performance.	
 #### communication	
+-[ ] Works to define tasks in Asana and can mentor juniors in defining them.
+-[ ] Can collaborate with client about estimates and prioritization. 
 #### respectful teammate
 -[ ] respects the right of junior team members to own parts of the code, can effectively run and explain 360 reviews	
 #### hard skills
@@ -119,8 +132,7 @@
 #### simple 	
 #### test-driven	
 #### iterative	
-#### communication
--[ ] works to define tasks in asana and can mentor juniors in defining them. can collaborate with client about estimates and prioritization.	
+#### communication	
 #### respectful teammate	
 #### hard skills
 
