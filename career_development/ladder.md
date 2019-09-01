@@ -17,7 +17,8 @@
 -[ ] Is working on naming variables and learning to extract methods
 	
 #### test-driven
--[ ] runs all tests before commiting, can understand where expectations are not met and fix some with the help of more senior developers
+-[ ] Runs all tests before commiting.
+-[ ] Can understand where expectations are not met and fix some with the help of more senior developers.
 	
 #### iterative
 -[ ] understands red-green-refactor
@@ -36,7 +37,7 @@
 #### simple 	
 - Creates simple method / functions that most static code analysers would accept.
 #### test-driven
--[ ] codes unit tests before code, writes acceptance tests	
+-[ ] Codes unit tests before code, writes acceptance tests.
 #### iterative
 -[ ] delivers working code with each commit
 #### communication	
@@ -51,7 +52,10 @@
 #### simple 
 -[ ]
 #### test-driven
--[ ] Can start a project from scratch and setup testing frameworks; has an opinion about which frameworks to use; can mock http requests and understands where these tests will potentially fail	
+-[ ] Can start a project from scratch and setup testing frameworks.
+-[ ] Has an opinion about which frameworks to use.
+-[ ] Can mock http requests and understands where these tests will potentially fail.
+-[ ] Can integrate CI.	
 #### iterative	
 -[ ] works with red-green-refactor, actively uses pomodoros,
 #### communication	
@@ -65,7 +69,8 @@
 #### simple 
 -[ ] Does not over optimize. Understands when code is "good-enough".
 #### test-driven	
--[ ] makes use of stubbing and mocking; understands tradeoffs of hitting the db; can integrate CI
+-[ ] Makes use of stubbing and mocking.
+-[ ] Understands tradeoffs of hitting the db. 
 #### iterative	
 -[ ] well composed commit narratives in commit flows 
 #### communication	
@@ -76,8 +81,9 @@
 
 ### Level 5
 #### simple 	
-- Extracts complex logic into small easy-to-follow classes/components.
-#### test-driven	
+-[ ] Extracts complex logic into small easy-to-follow classes/components.
+#### test-driven
+-[ ]	
 #### iterative	
 -[ ] can guide an ipm and team reflection
 #### communication	
@@ -89,6 +95,7 @@
 #### simple 	
 -[ ] Has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
 #### test-driven	
+-[ ] Understands the cost of maintaining tests. Writes cost-effective tests.
 #### iterative	
 #### communication	
 #### respectful teammate
