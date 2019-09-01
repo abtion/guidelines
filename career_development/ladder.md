@@ -13,9 +13,8 @@
 ## Dev Values : Simple, Test-Driven, Iterative, Communicative, Respectful, Skilled 
 
 ### Level 1
-
 #### simple 
--[ ] is working on naming variables and learning to extract methods
+-[ ] Is working on naming variables and learning to extract methods
 	
 #### test-driven
 -[ ] runs all tests before commiting, can understand where expectations are not met and fix some with the help of more senior developers
@@ -35,6 +34,7 @@
 
 ### Level 2
 #### simple 	
+- Creates simple method / functions that most static code analysers would accept.
 #### test-driven
 -[ ] codes unit tests before code, writes acceptance tests	
 #### iterative
@@ -48,9 +48,10 @@
 -[ ] Understand where to place logic in their favourite framework.
 
 ### Level 3
-#### simple 	
+#### simple 
+-[ ]
 #### test-driven
--[ ] can start a project from scratch and setup testing frameworks; has an opinion about which frameworks to use; can mock http requests and understands where these tests will potentially fail	
+-[ ] Can start a project from scratch and setup testing frameworks; has an opinion about which frameworks to use; can mock http requests and understands where these tests will potentially fail	
 #### iterative	
 -[ ] works with red-green-refactor, actively uses pomodoros,
 #### communication	
@@ -62,7 +63,7 @@
 
 ### Level 4
 #### simple 
--[ ] does not over optimize
+-[ ] Does not over optimize. Understands when code is "good-enough".
 #### test-driven	
 -[ ] makes use of stubbing and mocking; understands tradeoffs of hitting the db; can integrate CI
 #### iterative	
@@ -75,6 +76,7 @@
 
 ### Level 5
 #### simple 	
+- Extracts complex logic into small easy-to-follow classes/components.
 #### test-driven	
 #### iterative	
 -[ ] can guide an ipm and team reflection
@@ -85,6 +87,7 @@
 
 ### Level 6
 #### simple 	
+-[ ] Has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
 #### test-driven	
 #### iterative	
 #### communication	
@@ -103,7 +106,6 @@
 
 ### Level 8
 #### simple 	
--[ ] has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
 #### test-driven	
 #### iterative	
 #### communication
