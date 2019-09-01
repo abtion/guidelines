@@ -30,7 +30,8 @@
 -[ ] on time for meetings, is enthusiastic
 	
 #### hard skills
--[ ] can use git, linters, makes clear prs
+-[ ] Can use git, linters, makes clear prs.
+-[ ] Can write code in at least one language.
 
 ### Level 2
 #### simple 	
@@ -43,6 +44,8 @@
 #### respectful teammate
 -[ ] shows respect for client goals, encourages team to stay on a sustainable pace
 #### hard skills
+-[ ] Understands what differentiates their favourite language with others. Knows what the language is useful for and when it is not the best option.
+-[ ] Understand where to place logic in their favourite framework.
 
 ### Level 3
 #### simple 	
@@ -55,11 +58,11 @@
 #### respectful teammate	
 -[ ] actively participates in feedback for team members
 #### hard skills
+-[ ] Can write code in at least two technical areas (frontend, backend, digital infrastructure). 
 
 ### Level 4
 #### simple 
 -[ ] does not over optimize
-	
 #### test-driven	
 -[ ] makes use of stubbing and mocking; understands tradeoffs of hitting the db; can integrate CI
 #### iterative	
@@ -68,6 +71,7 @@
 -[ ] can help pm cultivate an asana board. understands kanban. can teach juniors to pair program.
 #### respectful teammate	
 #### hard skills
+-[ ] Demonstrates ability to succeed in a wide range of complex situations across multiple axes: e.g. scale, uncertainty, interconnectedness.
 
 ### Level 5
 #### simple 	
@@ -77,6 +81,7 @@
 #### communication	
 #### respectful teammate	
 #### hard skills
+-[ ] Breaks down complex projects into simple systems that can be effectively built and maintained by less experienced engineers.
 
 ### Level 6
 #### simple 	
@@ -86,6 +91,7 @@
 #### respectful teammate
 -[ ] respects the right of junior team members to own parts of the code, can effectively run and explain 360 reviews	
 #### hard skills
+-[ ] Is recognized for high quality, impactful technical contributions.
 
 ### Level 7
 #### simple 	
