@@ -29,7 +29,8 @@
 -[ ] Uses time tracking tools and vacation notifications.
 	
 #### respectful teammate
--[ ] on time for meetings, is enthusiastic
+-[ ] On time for meetings.
+-[ ] Is enthusiastic.
 	
 #### hard skills
 -[ ] Can use git, linters, makes clear prs.
@@ -46,7 +47,8 @@
 -[ ] Hosts retros.
 -[ ] Can compose a PR and provide feedback on them.
 #### respectful teammate
--[ ] shows respect for client goals, encourages team to stay on a sustainable pace
+-[ ] Shows respect for client goals
+-[ ] Encourages team to stay on a sustainable pace.
 #### hard skills
 -[ ] Understands what differentiates their favourite language with others. Knows what the language is useful for and when it is not the best option.
 -[ ] Understand where to place logic in their favourite framework.
@@ -67,7 +69,7 @@
 -[ ] Can write user stories.
 -[ ] Can introduce a new member to the project. 
 #### respectful teammate	
--[ ] actively participates in feedback for team members
+-[ ] Actively participates in feedback for team members.
 #### hard skills
 -[ ] Can write code in at least two technical areas (frontend, backend, digital infrastructure). 
 
@@ -84,7 +86,8 @@
 -[ ] Understands kanban.
 -[ ] Can teach juniors to pair program.
 #### respectful teammate
--[ ] Communicate with PMs when goals are unattainable; Understands the difficulties that the team is going through and helps how they can.	
+-[ ] Communicate with PMs when goals are unattainable.
+-[ ] Understands the difficulties that the team is going through and helps how they can.	
 #### hard skills
 -[ ] Demonstrates ability to succeed in a wide range of complex situations across multiple axes: e.g. scale, uncertainty, interconnectedness.
 
@@ -99,7 +102,8 @@
 -[ ] Aligns team on expectations.
 -[ ] Identifies miscommunications and solves them before they become a problem.
 #### respectful teammate
--[ ] Help dissolve tension when arises; Does not take "all" responsibilities. They let their teammates take responsibilities they care about.	
+-[ ] Help dissolve tension when arises.
+-[ ] Does not take "all" responsibilities. They let their teammates take responsibilities they care about.	
 #### hard skills
 -[ ] Breaks down complex projects into simple systems that can be effectively built and maintained by less experienced engineers.
 
@@ -114,7 +118,8 @@
 -[ ] Works to define tasks in Asana and can mentor juniors in defining them.
 -[ ] Can collaborate with client about estimates and prioritization. 
 #### respectful teammate
--[ ] respects the right of junior team members to own parts of the code, can effectively run and explain 360 reviews	
+-[ ] Respects the right of junior team members to own parts of the code.
+-[ ] Can effectively run and explain 360 reviews.	
 #### hard skills
 -[ ] Is recognized for high quality, impactful technical contributions.
 
