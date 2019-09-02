@@ -17,7 +17,7 @@
 -[ ] Is working on naming variables and learning to extract methods.
 	
 #### Test-driven
--[ ] Runs all tests before commiting.
+-[ ] Checks that all tests pass before merging into a shared branch.
 -[ ] Can understand where expectations are not met and fix some with the help of more senior developers.
 	
 #### Iterative
@@ -30,15 +30,16 @@
 	
 #### Respectful teammate
 -[ ] On time for meetings.
--[ ] Is enthusiastic.
+-[ ] Cares about their work.
 	
 #### Hard skills
--[ ] Can use git, linters, makes clear prs.
+-[ ] Can use git and linters.
 -[ ] Can write code in at least one language.
 
 ### Level 2
 #### Simple 	
 -[ ] Creates simple method / functions that most static code analysers would accept.
+-[ ] Makes clear prs
 #### Test-driven
 -[ ] Codes unit tests before code, writes acceptance tests.
 #### Iterative
@@ -63,7 +64,7 @@
 -[ ] Can integrate CI.	
 #### Iterative	
 -[ ] Works with red-green-refactor.
--[ ] Actively uses pomodoros.
+-[ ] Uses time management techniques
 #### Communication	
 -[ ] Is proficient with pair programming.
 -[ ] Can write user stories.
@@ -111,7 +112,8 @@
 #### Simple 	
 -[ ] Has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
 #### Test-driven	
--[ ] Understands the cost of maintaining tests. Writes cost-effective tests.
+-[ ] Understands the cost of maintaining tests. 
+-[ ] Writes cost-effective tests.
 #### Iterative
 -[ ] Brings new working-methods that improve team performance.	
 #### Communication	
