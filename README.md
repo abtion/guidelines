@@ -29,3 +29,4 @@ In order to help differentiate git branches a little easier prefix your branch w
 | ------- | -------------- |
 | feature | new addition   |
 | fix     | fix/adjustment |
+| spike   | experiements   |
