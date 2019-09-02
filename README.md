@@ -30,5 +30,5 @@ In order to help differentiate git branches a little easier prefix your branch w
 | feature | new additions                                       |
 | fix     | fix/adjustment                                      |
 | style   | Style changes                                       |
-| spike   | experiements & exploration                          |
+| spike   | experiments & exploration                           |
 | meta    | changes to credentials, .gitignore, rake tasks, etc |
