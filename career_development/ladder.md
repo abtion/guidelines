@@ -13,102 +13,114 @@
 ## Dev Values : Simple, Test-Driven, Iterative, Communicative, Respectful, Skilled 
 
 ### Level 1
-
-#### simple 
--[ ] is working on naming variables and learning to extract methods
+#### Simple 
+-[ ] Is working on naming variables and learning to extract methods.
 	
-#### test-driven
--[ ] runs all tests before commiting, can understand where expectations are not met and fix some with the help of more senior developers
+#### Test-driven
+-[ ] Checks that all tests pass before merging into a shared branch.
+-[ ] Can understand where expectations are not met and fix some with the help of more senior developers.
 	
-#### iterative
--[ ] understands red-green-refactor
+#### Iterative
+-[ ] Understands red-green-refactor.
 	
-#### communication
--[ ] updates asana, comes prepared for standup, uses time tracking tools and vacation notifications
+#### Communication
+-[ ] Updates Asana.
+-[ ] Comes prepared for meetings.
+-[ ] Uses time tracking tools and vacation notifications.
 	
-#### respectful teammate
--[ ] on time for meetings, is enthusiastic
+#### Respectful teammate
+-[ ] On time for meetings.
+-[ ] Cares about their work.
 	
-#### hard skills
--[ ] can use git, linters, makes clear prs
+#### Hard skills
+-[ ] Can use git and linters.
+-[ ] Can write code in at least one language.
 
 ### Level 2
-#### simple 	
-#### test-driven
--[ ] codes unit tests before code, writes acceptance tests	
-#### iterative
--[ ] delivers working code with each commit
-#### communication	
--[ ] hosts retros, can compose a PR and provide feedback on them, even small items
-#### respectful teammate
--[ ] shows respect for client goals, encourages team to stay on a sustainable pace
-#### hard skills
+#### Simple 	
+-[ ] Creates simple method / functions that most static code analysers would accept.
+-[ ] Makes clear prs
+#### Test-driven
+-[ ] Codes unit tests before code, writes acceptance tests.
+#### Iterative
+-[ ] Delivers working code with each commit.
+#### Communication	
+-[ ] Hosts retros.
+-[ ] Can compose a PR and provide feedback on them.
+#### Respectful teammate
+-[ ] Shows respect for client goals
+-[ ] Encourages team to stay on a sustainable pace.
+#### Hard skills
+-[ ] Understands what differentiates their favourite language with others. Knows what the language is useful for and when it is not the best option.
+-[ ] Understand where to place logic in their favourite framework.
 
 ### Level 3
-#### simple 	
-#### test-driven
--[ ] can start a project from scratch and setup testing frameworks; has an opinion about which frameworks to use; can mock http requests and understands where these tests will potentially fail	
-#### iterative	
--[ ] works with red-green-refactor, actively uses pomodoros,
-#### communication	
--[ ] is proficient with pair programming, can write user stories
-#### respectful teammate	
--[ ] actively participates in feedback for team members
-#### hard skills
+#### Simple 
+-[ ]
+#### Test-driven
+-[ ] Can start a project from scratch and setup testing frameworks.
+-[ ] Has an opinion about which frameworks to use.
+-[ ] Can mock http requests and understands where these tests will potentially fail.
+-[ ] Can integrate CI.	
+#### Iterative	
+-[ ] Works with red-green-refactor.
+-[ ] Uses time management techniques
+#### Communication	
+-[ ] Is proficient with pair programming.
+-[ ] Can write user stories.
+-[ ] Can introduce a new member to the project. 
+#### Respectful teammate	
+-[ ] Actively participates in feedback for team members.
+#### Hard skills
+-[ ] Can write code in at least two technical areas (frontend, backend, digital infrastructure). 
 
 ### Level 4
-#### simple 
--[ ] does not over optimize
-	
-#### test-driven	
--[ ] makes use of stubbing and mocking; understands tradeoffs of hitting the db; can integrate CI
-#### iterative	
--[ ] well composed commit narratives in commit flows 
-#### communication	
--[ ] can help pm cultivate an asana board. understands kanban. can teach juniors to pair program.
-#### respectful teammate	
-#### hard skills
+#### Simple 
+-[ ] Does not over optimize. Understands when code is "good-enough".
+#### Test-driven	
+-[ ] Makes use of stubbing and mocking.
+-[ ] Understands tradeoffs of hitting the db. 
+#### Iterative	
+-[ ] Well-composed commit narratives in commit flows. 
+#### Communication	
+-[ ] Can help PM cultivate an Asana board.
+-[ ] Understands kanban.
+-[ ] Can teach juniors to pair program.
+#### Respectful teammate
+-[ ] Communicate with PMs when goals are unattainable.
+-[ ] Understands the difficulties that the team is going through and helps how they can.	
+#### Hard skills
+-[ ] Demonstrates ability to succeed in a wide range of complex situations across multiple axes: e.g. scale, uncertainty, interconnectedness.
 
 ### Level 5
-#### simple 	
-#### test-driven	
-#### iterative	
--[ ] can guide an ipm and team reflection
-#### communication	
-#### respectful teammate	
-#### hard skills
+#### Simple 	
+-[ ] Extracts complex logic into small easy-to-follow classes/components.
+#### Test-driven
+-[ ]	
+#### Iterative	
+-[ ] Can guide an IPM and team reflection.
+#### Communication	
+-[ ] Aligns team on expectations.
+-[ ] Identifies miscommunications and solves them before they become a problem.
+#### Respectful teammate
+-[ ] Help dissolve tension when arises.
+-[ ] Does not take "all" responsibilities. They let their teammates take responsibilities they care about.	
+#### Hard skills
+-[ ] Breaks down complex projects into simple systems that can be effectively built and maintained by less experienced engineers.
 
 ### Level 6
-#### simple 	
-#### test-driven	
-#### iterative	
-#### communication	
-#### respectful teammate
--[ ] respects the right of junior team members to own parts of the code, can effectively run and explain 360 reviews	
-#### hard skills
-
-### Level 7
-#### simple 	
-#### test-driven	
-#### iterative	
-#### communication	
-#### respectful teammate	
-#### hard skills
-
-### Level 8
-#### simple 	
--[ ] has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
-#### test-driven	
-#### iterative	
-#### communication
--[ ] works to define tasks in asana and can mentor juniors in defining them. can collaborate with client about estimates and prioritization.	
-#### respectful teammate	
-#### hard skills
-
-### Level 9
-#### simple 	
-#### test-driven	
-#### iterative	
-#### communication	
-#### respectful teammate	
-#### hard skills
+#### Simple 	
+-[ ] Has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
+#### Test-driven	
+-[ ] Understands the cost of maintaining tests. 
+-[ ] Writes cost-effective tests.
+#### Iterative
+-[ ] Brings new working-methods that improve team performance.	
+#### Communication	
+-[ ] Works to define tasks in Asana and can mentor juniors in defining them.
+-[ ] Can collaborate with client about estimates and prioritization. 
+#### Respectful teammate
+-[ ] Respects the right of junior team members to own parts of the code.
+-[ ] Can effectively run and explain 360 reviews.	
+#### Hard skills
+-[ ] Is recognized for high quality, impactful technical contributions.
