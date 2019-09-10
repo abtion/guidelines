@@ -33,7 +33,8 @@
 - [ ] Cares about their work.
 	
 #### Technical skills
-- [ ] Can use git and linters.
+- [ ] Knows about the three main sections of a Git project(working, staging, repository) as well as the most common commands(commit, pull, push)
+- [ ] Uses a common linter such as rubocop
 - [ ] Can write code in at least one language.
 
 ### Level 2
