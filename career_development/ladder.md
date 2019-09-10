@@ -107,7 +107,7 @@
 - [ ] Help dissolve tension when arises.
 - [ ] Does not take "all" responsibilities. They let their teammates take responsibilities they care about.	
 #### Technical skills
-- [ ] Breaks down complex projects into simple systems that can be effectively built and maintained by less experienced engineers.
+- [ ] Breaks down complex projects into simple systems that can be effectively built and maintained by less experienced developers.
 
 ### Level 6
 #### Simple 	
