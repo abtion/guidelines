@@ -1,5 +1,15 @@
 # Abtion Dev Career Ladder
 
+This career ladder is a work in progress from dev leadership at Abtion. At a high level, a career ladder is a formal doc within a company that allows employees to advance their careers to higher levels of salary, responsibility and authority. Once employees meet certain criteria, they are eligible to move into higher-level roles.
+
+Our goal with the ladder is to provide a clear path for professional development, and to have clear expectations regarding skills and salary at each level. As much as possible, we want people to see and take advantage of opportunities to grow here. To that end, we see this as a bit of a two way contract: what we will provide to you in terms of growth, and for you, what you'll take on in learning.
+
+Please feel free to make PRs with suggestions. This is something that we welcome community feedback on!
+
+Here are some examples of other career ladders:
+
+[https://www.progression.fyi](https://www.progression.fyi)
+
 ## High Level Company Values
 1. Bonded by Love for Product
 1. Continuous Delivery
