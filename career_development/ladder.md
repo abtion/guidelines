@@ -32,7 +32,7 @@
 - [ ] On time for meetings.
 - [ ] Cares about their work.
 	
-#### Hard skills
+#### Technical skills
 - [ ] Can use git and linters.
 - [ ] Can write code in at least one language.
 
@@ -50,7 +50,7 @@
 #### Respectful teammate
 - [ ] Shows respect for client goals
 - [ ] Encourages team to stay on a sustainable pace.
-#### Hard skills
+#### Technical skills
 - [ ] Understands what differentiates their favourite language with others. Knows what the language is useful for and when it is not the best option.
 - [ ] Understand where to place logic in their favourite framework.
 
@@ -71,7 +71,7 @@
 - [ ] Can introduce a new member to the project. 
 #### Respectful teammate	
 - [ ] Actively participates in feedback for team members.
-#### Hard skills
+#### Technical skills
 - [ ] Can write code in at least two technical areas (frontend, backend, digital infrastructure). 
 
 ### Level 4
@@ -89,7 +89,7 @@
 #### Respectful teammate
 - [ ] Communicate with PMs when goals are unattainable.
 - [ ] Understands the difficulties that the team is going through and helps how they can.	
-#### Hard skills
+#### Technical skills
 - [ ] Demonstrates ability to succeed in a wide range of complex situations across multiple axes: e.g. scale, uncertainty, interconnectedness.
 
 ### Level 5
@@ -105,7 +105,7 @@
 #### Respectful teammate
 - [ ] Help dissolve tension when arises.
 - [ ] Does not take "all" responsibilities. They let their teammates take responsibilities they care about.	
-#### Hard skills
+#### Technical skills
 - [ ] Breaks down complex projects into simple systems that can be effectively built and maintained by less experienced engineers.
 
 ### Level 6
@@ -122,5 +122,5 @@
 #### Respectful teammate
 - [ ] Respects the right of junior team members to own parts of the code.
 - [ ] Can effectively run and explain 360 reviews.	
-#### Hard skills
+#### Technical skills
 - [ ] Is recognized for high quality, impactful technical contributions.
