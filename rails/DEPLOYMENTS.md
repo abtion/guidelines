@@ -20,7 +20,7 @@ Tests!
 
 Development:
 Local machine.
-Postgres (version 9.x+?)
+Postgres (version 11.x+?)
 
 Staging:
 
