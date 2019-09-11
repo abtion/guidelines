@@ -15,7 +15,7 @@ Heroku CI
 
 Pipelines for promoting apps from staging to production.
 Automatic deploy from GitHub commits to master branch.
-Preview apps.
+Review apps.
 Tests!
 
 Development:
