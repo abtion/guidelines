@@ -31,7 +31,7 @@ Papertrail - Log logging. free (Upgradable in-place if needed.)
 Librato -  Application Performance Monitoring | Root Cause Analysis. - free
 
 
-Production app:
+Production app (minimum):
 
 Professional 1x Dyno - $25
 Heroku Postgres - Standard 0 - $50
