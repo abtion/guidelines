@@ -39,6 +39,7 @@ Heroku Postgres - Standard 0 - $50
 Rollbar - free (if your app is generating errors there is a problem fix it.) (upgradable in-place if needed)
 Papertrail - free (Upgradable in-place if needed.)
 Librato - free
+- Provision with two basic alerts `Over 1% of requests failing` and `Response time over 1 second`
 
 
 Needed solutions.
