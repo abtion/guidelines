@@ -35,7 +35,7 @@ gem install pivotal_git_scripts
 
 See more setup instructions in the repo (RubyMine etc).  
 
-***Different keyboards and langauges?***
+***Different keyboards and languages***
 
 To ease the use of different keyboards with different languages on the ***same laptop*** then we recommend using [Autokbisw - Automatic keyboard input source switcher](https://github.com/jeantil/autokbisw)
 
