@@ -53,7 +53,7 @@ The theme uses Webpack 4 to compile SCSS and JS.
 #### CI/CD
 Currently we are not testing wordpress sites, but it is our goal to do that, when we find a good way to do it.
 
-But we are building our WordPress apps with our Buddy pipelines, like this [example](https://app.buddy.works/abtion/abtion-theme/pipelines) pipeline. 
+We are building our WordPress apps with our Buddy pipelines, like this [example](https://app.buddy.works/abtion/abtion-theme/pipelines) pipeline. 
 When pipeline runs successfully, we then upload the changed files from the build process directly to the site hosted on Kinsta.
 
 #### CLI
