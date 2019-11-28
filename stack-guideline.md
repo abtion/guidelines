@@ -28,7 +28,7 @@ During an active pull-request the CI will run dependencies, tests and whatnot. A
 Maybe Sentry?
 
 ## Backend
-Backend apps is built with Ruby on Rails and is hosted on [Heroku](https://heroku.com). Backend and/or Rails with React uses a default [README.md](https://github.com/abtion/guidelines/blob/master/standard_readme.md#name-of-the-third-party) file that makes it easy to document the app during development.
+Backend apps are built with Ruby on Rails and are hosted on [Heroku](https://heroku.com). Backend and/or Rails with React apps use a default [README.md](https://github.com/abtion/guidelines/blob/master/standard_readme.md#name-of-the-third-party) that makes it easy to document the app during development.
 
 #### Database
 PostgreSQL
@@ -63,4 +63,3 @@ We have created our own shell script based on the [wp-cli](https://wp-cli.org/) 
 — [ACF](https://www.advancedcustomfields.com/)
 
 — [Swift](https://swiftperformance.io/)
-
