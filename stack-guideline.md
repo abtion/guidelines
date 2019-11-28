@@ -15,7 +15,7 @@ As an Abtioneer we love React when working on the FE (Front-End), but we also ca
 React and [Jest](https://jestjs.io/) make a great match, which is why we always test our React apps with Jest.
 
 #### CI
-So far are using both [Travis](https://travis-ci.org/) and [Buddy](https://buddy.works/) - not at the same time of course  💩. 
+So far we are using both [Travis](https://travis-ci.org/) and [Buddy](https://buddy.works/) - not at the same time of course  💩. 
 
 With Buddy we can quickly create a pipeline and connect it to GitHub thanks to the easy to use UI - but it’s pretty much up to each preference so far.
 
@@ -63,5 +63,4 @@ We have created our own shell script based on the [wp-cli](https://wp-cli.org/) 
 — [ACF](https://www.advancedcustomfields.com/)
 
 — [Swift](https://swiftperformance.io/)
-
 
