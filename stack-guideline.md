@@ -54,7 +54,7 @@ The theme uses Webpack 4 to compile SCSS and JS.
 Currently we are not testing wordpress sites, but it is our goal to do that, when we find a good way to do it.
 
 We are building our WordPress apps with our Buddy pipelines, like this [example](https://app.buddy.works/abtion/abtion-theme/pipelines) pipeline. 
-When pipeline runs successfully, we then upload the changed files from the build process directly to the site hosted on Kinsta.
+Upon a successful run of our pipeline we deploy the changed files directly to the hosted site on Kinsta.
 
 #### CLI
 We have created our own shell script based on the [wp-cli](https://wp-cli.org/) to quickly create a wordpress site, install our default plugins and our Abtion-theme. The script can be seen in this [repo](https://github.com/abtion/Wordpress-Scaffolding)
