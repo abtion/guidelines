@@ -46,7 +46,7 @@ when a review-app has been successfully deployed, it provides a deployment link 
 — Postgres
 
 ## WordPress
-In Abtion we have our own WP theme called [Abtion-theme](https://github.com/abtion/abtion-theme) on GitHub, creative. All WP sites is hosted on [Kinsta](https://kinsta.com/)
+At Abtion we have our own WP(wordpress) theme called [Abtion-theme](https://github.com/abtion/abtion-theme) on GitHub, creative. All WP sites are hosted on [Kinsta](https://kinsta.com/)
 
 The theme uses Webpack 4 to compile SCSS and JS.
 
