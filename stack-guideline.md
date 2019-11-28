@@ -12,7 +12,7 @@ Also, to make it easier to on-board new employees.
 As an Abtioneer we love React when working on the FE (Front-End), but we also care about Vue and is always curious of what exciting technologies that might pop-up in the future. But for now most of our FE apps is built with React.
 
 #### Testing
-React and [Jest](https://jestjs.io/) is a great match, which is also why we always test our React apps with Jest.
+React and [Jest](https://jestjs.io/) make a great match, which is why we always test our React apps with Jest.
 
 #### CI
 So far are using both [Travis](https://travis-ci.org/) and [Buddy](https://buddy.works/) - not at the same time of course  💩. 
@@ -63,6 +63,5 @@ We have created our own shell script based on the [wp-cli](https://wp-cli.org/) 
 — [ACF](https://www.advancedcustomfields.com/)
 
 — [Swift](https://swiftperformance.io/)
-
 
 
