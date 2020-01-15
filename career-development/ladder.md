@@ -67,7 +67,7 @@ Here are some examples of other career ladders:
 
 ### Level 3
 #### Simple 
-- [ ]
+- [ ] -
 #### Test-driven
 - [ ] Can start a project from scratch and setup testing frameworks.
 - [ ] Has an opinion about which frameworks to use.
@@ -107,7 +107,7 @@ Here are some examples of other career ladders:
 #### Simple 	
 - [ ] Extracts complex logic into small easy-to-follow classes/components.
 #### Test-driven
-- [ ]	
+- [ ] -
 #### Iterative	
 - [ ] Can guide an IPM and team reflection.
 #### Communication	
