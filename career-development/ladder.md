@@ -40,7 +40,7 @@ Here are some examples of other career ladders:
 	
 #### Respectful teammate
 - [ ] On time for meetings.
-- [ ] Cares about their work.
+- [ ] Cares about their work.
 	
 #### Technical skills
 - [ ] Knows about the three main sections of a Git project(working, staging, repository) as well as the most common commands(commit, pull, push)
