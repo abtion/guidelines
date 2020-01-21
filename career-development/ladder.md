@@ -124,6 +124,10 @@ Here are some examples of other career ladders:
 - [ ] Has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
 #### Test-driven	
 - [ ] Understands the cost of maintaining tests. 
+-- [ ] Can answer questions like: 
+--- [ ] was that test worth it for the business? Should e2e tests be run in multiple browsers if we support multiple browsers with the product? Why or why not?
+--- [ ] How could I have reduced costs of implementation or maintenance? 
+--- [ ] How could I make a test more maintainable?
 - [ ] Writes cost-effective tests.
 #### Iterative
 - [ ] Brings new working-methods that improve team performance.	
