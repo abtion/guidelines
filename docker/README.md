@@ -1,3 +1,22 @@
+- [Dockerizing](#dockerizing)
+  - [Tip #1: Read and understand your base image](#tip-1-read-and-understand-your-base-image)
+  - [Tip #2: Combine install commands with cleanup](#tip-2-combine-install-commands-with-cleanup)
+  - [Tip #3: Use a separate build stage](#tip-3-use-a-separate-build-stage)
+  - [Tip #4: Set the system locale](#tip-4-set-the-system-locale)
+  - [Tip #5: Create an unprivileged user](#tip-5-create-an-unprivileged-user)
+  - [Tip #6: Prefer exec form for CMD](#tip-6-prefer-exec-form-for-cmd)
+  - [Tip #8: Avoid ONBUILD](#tip-8-avoid-onbuild)
+  - [Tip #9: Always specify resource constraints](#tip-9-always-specify-resource-constraints)
+  - [Tip #10: Avoid preforking in a container](#tip-10-avoid-preforking-in-a-container)
+  - [Tip #11: Scale by adding containers](#tip-11-scale-by-adding-containers)
+  - [Tip #12: Log to STDOUT or an external agent](#tip-12-log-to-stdout-or-an-external-agent)
+
+>**When to use Docker**
+>
+>Any developer is welcome to use Docker in their development setup. New apps developed at Abtion should not require to have a docker setup unless there is a good reason for it (like an uncommon dependency).
+>Our own legacy apps might require a docker setup, however, we will strive to not make it a requirement if possible.
+
+
 # Dockerizing
 
 This video is a good resource for tips on how to optimize docker setup
@@ -12,7 +31,9 @@ TLDR;
 
 There is an official [ruby image](https://hub.docker.com/_/ruby) on Docker Hub, but it comes with batteries included. 
 
-[Alpine](https://hub.docker.com/_/alpine) is a very slim linux that can be extended with ruby.
+[Alpine](https://hub.docker.com/_/alpine) is a very slim linux that can be extended with ruby (see [Tip 3](#tip-3-use-a-separate-build-stage)). 
+
+> **Abtion** recommends to start off with a [ruby image](https://hub.docker.com/_/ruby) before spending time on getting a slim setup.
 
 ## Tip #2: Combine install commands with cleanup
 
