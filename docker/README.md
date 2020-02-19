@@ -1,15 +1,15 @@
 - [Dockerizing](#dockerizing)
-  - [Tip #1: Read and understand your base image](#tip-1-read-and-understand-your-base-image)
-  - [Tip #2: Combine install commands with cleanup](#tip-2-combine-install-commands-with-cleanup)
-  - [Tip #3: Use a separate build stage](#tip-3-use-a-separate-build-stage)
-  - [Tip #4: Set the system locale](#tip-4-set-the-system-locale)
-  - [Tip #5: Create an unprivileged user](#tip-5-create-an-unprivileged-user)
-  - [Tip #6: Prefer exec form for CMD](#tip-6-prefer-exec-form-for-cmd)
-  - [Tip #8: Avoid ONBUILD](#tip-8-avoid-onbuild)
-  - [Tip #9: Always specify resource constraints](#tip-9-always-specify-resource-constraints)
-  - [Tip #10: Avoid preforking in a container](#tip-10-avoid-preforking-in-a-container)
-  - [Tip #11: Scale by adding containers](#tip-11-scale-by-adding-containers)
-  - [Tip #12: Log to STDOUT or an external agent](#tip-12-log-to-stdout-or-an-external-agent)
+  - [1: Read and understand your base image](#1-read-and-understand-your-base-image)
+  - [2: Combine install commands with cleanup](#2-combine-install-commands-with-cleanup)
+  - [3: Use a separate build stage](#3-use-a-separate-build-stage)
+  - [4: Set the system locale](#4-set-the-system-locale)
+  - [5: Create an unprivileged user](#5-create-an-unprivileged-user)
+  - [6: Prefer exec form for CMD](#6-prefer-exec-form-for-cmd)
+  - [8: Avoid ONBUILD](#8-avoid-onbuild)
+  - [9: Always specify resource constraints](#9-always-specify-resource-constraints)
+  - [10: Avoid preforking in a container](#10-avoid-preforking-in-a-container)
+  - [11: Scale by adding containers](#11-scale-by-adding-containers)
+  - [12: Log to STDOUT or an external agent](#12-log-to-stdout-or-an-external-agent)
 
 >**When to use Docker**
 >
@@ -27,7 +27,7 @@ TLDR;
 
 [See slides here](https://speakerd.s3.amazonaws.com/presentations/55d8979b402d43f4a5a99cce56273579/containers.pdf)
 
-## Tip #1: Read and understand your base image
+## 1: Read and understand your base image
 
 There is an official [ruby image](https://hub.docker.com/_/ruby) on Docker Hub, but it comes with batteries included. 
 
@@ -35,7 +35,7 @@ There is an official [ruby image](https://hub.docker.com/_/ruby) on Docker Hub, 
 
 > **Abtion** recommends to start off with a [ruby image](https://hub.docker.com/_/ruby) before spending time on getting a slim setup.
 
-## Tip #2: Combine install commands with cleanup
+## 2: Combine install commands with cleanup
 
 👍👍👍
 ```Docker
@@ -53,7 +53,7 @@ RUN apt-get clean \
  && rm -f /var/lib/apt/lists/*_* 
 ```
 
-## Tip #3: Use a separate build stage
+## 3: Use a separate build stage
 
 Multi-stage docker files
 
@@ -69,7 +69,7 @@ COPY --from=builder /app /app
 
 <img src="multi-stage-docker-files.png" alt="Multi-stage docker files" height="100">
 
-## Tip #4: Set the system locale
+## 4: Set the system locale
 
 ```Docker
 RUN echo "en_US.UTF-8 UTF-8" > /etc/locale.gen \
@@ -78,7 +78,7 @@ ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US:en 
 ```
 
-## Tip #5: Create an unprivileged user
+## 5: Create an unprivileged user
 
 After building your app...
 
@@ -89,7 +89,7 @@ RUN adduser -s /bin/sh -u 1001 -G root \
 USER rails 
 ```
 
-## Tip #6: Prefer exec form for CMD
+## 6: Prefer exec form for CMD
 
 👍👍👍
 ```Docker
@@ -106,7 +106,7 @@ CMD bundle exec rails s
 CMD exec bundle exec rails s
 ```
 
-## Tip #8: Avoid ONBUILD
+## 8: Avoid ONBUILD
 
 👎🤨😔
 ```Docker
@@ -116,7 +116,7 @@ ONBUILD RUN bundle install
 # ...
 ```
 
-## Tip #9: Always specify resource constraints
+## 9: Always specify resource constraints
 
 ```bash
 docker run --cpus=2.0 --memory=200M ...
@@ -138,11 +138,16 @@ spec:
 ...
 ```
 
-## Tip #10: Avoid preforking in a container
+## 10: Avoid preforking in a container
 
-## Tip #11: Scale by adding containers
+Avoid preforking in a container
 
-## Tip #12: Log to STDOUT or an external agent
+
+## 11: Scale by adding containers
+
+Scale by adding containers
+
+## 12: Log to STDOUT or an external agent
 
 ```
 ENV RAILS_LOG_TO_STDOUT=true
