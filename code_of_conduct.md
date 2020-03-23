@@ -1,5 +1,3 @@
-### [DRAFT - Not yet approved by mgmt]
-
 # Abtion Code of Conduct
 
 ## 1. Purpose
