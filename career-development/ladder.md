@@ -28,7 +28,9 @@ Here are some examples of other career ladders:
 	
 #### Test-driven
 - [ ] Checks that all tests pass before merging into a shared branch.
-- [ ] Can understand where expectations are not met and fix some with the help of more senior developers.
+- [ ] Can understand where test expectations are not met and fix some with the help of more senior developers.
+- [ ] Can describe the testing pyramid and concepts around what makes a good test.
+- [ ] Writes “good” test descriptions: uses nesting and clear contexts/assertions
 	
 #### Iterative
 - [ ] Understands red-green-refactor.
@@ -52,7 +54,11 @@ Here are some examples of other career ladders:
 - [ ] Creates simple method / functions that most static code analysers would accept.
 - [ ] Makes clear prs
 #### Test-driven
-- [ ] Codes unit tests before code, writes acceptance tests.
+- [ ] Starts to write unit tests before code, writes acceptance tests.
+- [ ] Can write “acceptance” tests for existing code.
+- [ ] Refactors test code: extracts methods, breaks up long tests
+- [ ] Uses evident data in tests. 
+- [ ] Understands the trade-off between test isolation and test speed. 
 #### Iterative
 - [ ] Delivers working code with each commit.
 #### Communication	
@@ -72,7 +78,12 @@ Here are some examples of other career ladders:
 - [ ] Can start a project from scratch and setup testing frameworks.
 - [ ] Has an opinion about which frameworks to use.
 - [ ] Can mock http requests and understands where these tests will potentially fail.
-- [ ] Can integrate CI.	
+- [ ] Can integrate with CI.    
+- [ ] Moves from TFD to TFD+Refactor = TDD
+- [ ] Breaks systems into small testable units.
+- [ ] Can write tests at different levels (end to end, integration, unit)
+- [ ] Correctly sets boundary conditions when testing.
+
 #### Iterative	
 - [ ] Works with red-green-refactor.
 - [ ] Uses time management techniques
@@ -89,8 +100,13 @@ Here are some examples of other career ladders:
 #### Simple 
 - [ ] Does not over optimize. Understands when code is "good-enough".
 #### Test-driven	
-- [ ] Makes use of stubbing and mocking.
-- [ ] Understands tradeoffs of hitting the db. 
+- [ ] Uses testing pain as a prompt to write better code.
+- [ ] Starts practicing spiking if she/he doesn’t know how to test something. Then sets the spike aside once a general path is understood and writes from scratch TDD.
+- [ ] Makes use of stubbing and mocking/understands tradeoffs of hitting the db.
+- [ ] Values and can speak to examples of high cohesion, low coupling.
+- [ ] Cares about test speed. Can implement parallelization but knows why that’s a bandaid. Seeks to keep the test suite under a minute.
+- [ ] Can run the test for the code they are working on “right now” in under a second.
+ 
 #### Iterative	
 - [ ] Well-composed commit narratives in commit flows. 
 #### Communication	
@@ -107,7 +123,13 @@ Here are some examples of other career ladders:
 #### Simple 	
 - [ ] Extracts complex logic into small easy-to-follow classes/components.
 #### Test-driven
-- [ ] -
+- [ ] Performs TDD over Test Last (TLD) nearly all the time.
+- [ ] Can speak from experience on how TDD influences class design.
+- [ ] Writes tests in multiple languages
+- [ ] Writes performance tests
+- [ ] Able to identify and be comfortable deleting tests that no longer add value
+- [ ] Thinks about [F.I.R.S.T](https://github.com/ghsukumar/SFDC_Best_Practices/wiki/F.I.R.S.T-Principles-of-Unit-Testing) tests
+
 #### Iterative	
 - [ ] Can guide an IPM and team reflection.
 #### Communication	
@@ -123,12 +145,14 @@ Here are some examples of other career ladders:
 #### Simple 	
 - [ ] Has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
 #### Test-driven	
-- [ ] Understands the cost of maintaining tests. 
-- [ ] Can answer questions like: 
-- [ ] was that test worth it for the business? Should e2e tests be run in multiple browsers if we support multiple browsers with the product? Why or why not?
-- [ ] How could I have reduced costs of implementation or maintenance? 
-- [ ] How could I make a test more maintainable?
-- [ ] Writes cost-effective tests.
+- [ ] Understands the cost of maintaining tests.
+- [ ] Can answer philosophical/economic questions like: was that test worth it for the business? Should e2e tests be run in multiple browsers if we support multiple browsers with the product? Why or why not?
+- [ ] Can facilitate dialog around reduced costs of implementation or maintenance with a team.
+- [ ] Identifies tests that are hard to maintain and fixes them proactively.
+- [ ] Frequently works with junior and intermediate engineers to reinforce a culture of testing and TDD.
+- [ ] Can support PMs in explaining the long term benefits of testing on client projects.
+- [ ] Implements security tests.
+
 #### Iterative
 - [ ] Brings new working-methods that improve team performance.	
 #### Communication	
