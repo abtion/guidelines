@@ -48,6 +48,7 @@ Here are some examples of other career ladders:
 - [ ] Knows about the three main sections of a Git project(working, staging, repository) as well as the most common commands(commit, pull, push)
 - [ ] Uses a common linter such as rubocop
 - [ ] Can write code in at least one language.
+- [ ] Broad knowledge of main CS + XP concepts.
 
 ### Level 2
 #### Simple 	
@@ -95,6 +96,7 @@ Here are some examples of other career ladders:
 - [ ] Actively participates in feedback for team members.
 #### Technical skills
 - [ ] Can write code in at least two technical areas (frontend, backend, digital infrastructure). 
+- [ ] Can debug issues occuring across multiple levels of the stack.
 
 ### Level 4
 #### Simple 
@@ -118,6 +120,7 @@ Here are some examples of other career ladders:
 - [ ] Understands the difficulties that the team is going through and helps how they can.	
 #### Technical skills
 - [ ] Demonstrates ability to succeed in a wide range of complex situations across multiple axes: e.g. scale, uncertainty, interconnectedness.
+- [ ] Researches and proposes new technologies to the team(s).
 
 ### Level 5
 #### Simple 	
@@ -140,6 +143,8 @@ Here are some examples of other career ladders:
 - [ ] Does not take "all" responsibilities. They let their teammates take responsibilities they care about.	
 #### Technical skills
 - [ ] Breaks down complex projects into simple systems that can be effectively built and maintained by less experienced developers.
+- [ ] Sought out for technical guidance.
+- [ ] Anticipates technical issues at a product level and works with design to avoid them.
 
 ### Level 6
 #### Simple 	
@@ -163,3 +168,5 @@ Here are some examples of other career ladders:
 - [ ] Can effectively run and explain 360 reviews.	
 #### Technical skills
 - [ ] Is recognized for high quality, impactful technical contributions.
+- [ ] Go to expert in one area of technology: fx browser rendering or tdd.
+- [ ] Has a record of creating improvements in stability or performance for company-critical projects.
