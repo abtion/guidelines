@@ -4,7 +4,7 @@
 
 
 In Abtion we strive for the most efficient and easiest workflow.
-This docs is thought of being a docs we all can turn to if we get in doubt of how we deal with managing certain stuff, such as CI/CD.
+This document is thought of being a resource we all can turn to if we get in doubt of how we deal with managing certain stuff, such as CI/CD.
 Also, to make it easier to on-board new employees.
 
 
