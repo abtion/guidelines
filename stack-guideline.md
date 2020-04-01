@@ -9,7 +9,7 @@ Also, to make it easier to on-board new employees.
 
 
 ## Frontend
-As Abtioneers we love React when working on the FE (Front-End), but we also care about Vue and are always curious of what exciting technologies might pop-up in the future. But for now most of our FE apps are built with React.
+As Abtioneers we love React when working on the FE (Front-End), but we also care about Vue and are always curious about what exciting technologies might pop-up in the future. But for now most of our FE apps are built with React.
 
 #### Testing
 React and [Jest](https://jestjs.io/) make a great match, which is why we always test our React apps with Jest.
