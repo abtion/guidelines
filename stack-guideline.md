@@ -3,7 +3,7 @@
 ![abtion image](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 
-In Abtion we strive for the most efficient and easiest workflow.
+In Abtion we strive for the easiest and most efficient workflow.
 This document is thought of being a resource we all can turn to if we get in doubt of how we deal with managing certain stuff, such as CI/CD.
 Also, to make it easier to on-board new employees.
 
