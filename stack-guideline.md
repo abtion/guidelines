@@ -38,7 +38,7 @@ Travis - how do we work with travis?
 
 #### CD
 Heroku provides review-apps. A review-app is a deployed app based on an active pull-request,
-when a review-app has been successfully deployed, it provides a deployment link so we can see new changes - just like Netlify does as described in the Frontend->CD section
+when a review-app has successfully been deployed, it provides a deployment link so we can see new changes - just like Netlify does as described in the Frontend->CD section
 
 #### Preferred Heroku Add-ons
 — [Rollbar](https://rollbar.com)
