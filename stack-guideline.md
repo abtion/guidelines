@@ -20,7 +20,7 @@ So far we are using both [Travis](https://travis-ci.org/) and [Buddy](https://bu
 With Buddy we can quickly create a pipeline and connect it to GitHub thanks to the easy to use UI - but it’s pretty much up to personal preference.
 
 #### CD
-We aim to host all of out FE apps on [Netlify](https://www.netlify.com/) - currently (July 2019) - most of our apps, backend and frontend apps are hosted on [Heroku](https://heroku.com/). But we find that Netlify provides a better development experience as well as an improved overall usability the user, due to Netlify’s great services such as [CDN Edge](https://www.netlify.com/products/edge/), [Analytics](https://www.netlify.com/products/analytics/) , [Dev](https://www.netlify.com/products/dev/) and more.
+We aim to host all of out FE apps on [Netlify](https://www.netlify.com/) - currently (July 2019) - most of our apps, backend and frontend apps are hosted on [Heroku](https://heroku.com/). But we find that Netlify provides a better development experience as well as an overall improved usability to the user, due to Netlify’s great services such as [CDN Edge](https://www.netlify.com/products/edge/), [Analytics](https://www.netlify.com/products/analytics/) , [Dev](https://www.netlify.com/products/dev/) and more.
 
 During an active pull-request the CI will run dependencies, tests and whatnot. Along-side that Netlify will trigger and run a preview build. Netlify provides a deployment preview link, so that we can easily see new changes.
 
