@@ -57,7 +57,7 @@ We are building WordPress apps with our Buddy pipelines, like this [example](htt
 Upon a successful run of our pipeline we deploy the changed files directly to the hosted site on Kinsta.
 
 #### CLI
-We have created our own shell script based on the [wp-cli](https://wp-cli.org/) to quickly create a wordpress site, install our default plugins and our Abtion-theme. The script can be seen in this [repo](https://github.com/abtion/Wordpress-Scaffolding)
+We have created our own shell script based on the [wp-cli](https://wp-cli.org/) to quickly create a wordpress site, install our default plugins and our Abtion-theme. The script can be found in this [repo](https://github.com/abtion/Wordpress-Scaffolding).
 
 #### Plugins
 — [ACF](https://www.advancedcustomfields.com/)
