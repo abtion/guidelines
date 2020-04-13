@@ -159,7 +159,7 @@ Here are some examples of other career ladders:
 
 #### Simple
 - [ ] Creates architecture that enables many potential futures without knowing exactly what the future is.
-- [ ] Understands the broad architecture of the entire system and they are capable of explaining the technical decisions that were taking to tackle the client's problems.
+- [ ] Understands the broad architecture of the entire system and are capable of explaining the technical decisions taken by the team.
 
 #### Test-driven
 - [ ] Performs TDD over Test Last (TLD) nearly all the time.
