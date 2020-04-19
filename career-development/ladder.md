@@ -20,10 +20,10 @@ Here are some examples of other career ladders:
 1. Open Communication
 1. Pair-Programs
 
-## Dev Values : Simple, Test-Driven, Iterative, Communicative, Respectful, Skilled
+## Dev Values : Impactful, Simple, Test-Driven, Iterative, Communicative, Respectful, Skilled
 
 ### Level 1
-#### Impact
+#### Impactful
 - [ ] Contributes positively to the development of one or multiple apps.
 
 #### Simple
@@ -55,8 +55,8 @@ Here are some examples of other career ladders:
 
 ### Level 2
 
-#### Impact
-- [ ] Capable of providing on-call support for their area including systems that they are not familiar with.
+#### Impactful
+- [ ] Capable of providing support for their area including systems that they are not familiar with.
 
 #### Simple
 - [ ] Creates simple method / functions that most static code analysers would accept.
@@ -86,11 +86,11 @@ Here are some examples of other career ladders:
 
 ### Level 3
 
-#### Impact
-- [ ] End-to-end responsibility on projects of increasing complexity.
+#### Impactful
+- [ ] Take task from internal meetings to internal acceptance.
 
 #### Simple
-- [ ] Capable of prioritizing tasks. Avoids getting caught up in unimportant details and focuses on delivering value to the client.
+- [ ] Capable of prioritizing tasks. Avoids getting caught up in unimportant details and focuses on delivering value to the client (avoids bike-shedding).
 
 #### Test-driven
 - [ ] Can start a project from scratch and setup testing frameworks.
@@ -115,13 +115,14 @@ Here are some examples of other career ladders:
 - [ ] Actively participates in feedback for team members.
 
 #### Technical skills
-- [ ] Can write code in at least two technical areas (frontend, backend, digital infrastructure).
+- [ ] Can write code in at least two technical areas (frontend, backend, digital infrastructure). Ensures the completion of the tasks in their two areas of expertise.
 - [ ] Can debug issues occuring across multiple levels of the stack.
 
 ### Level 4
 
-#### Impact
-- [ ] Partners with project manager and designers to drive technical decisions based on highest output for all parties needs.
+#### Impactful
+- [ ] Partners with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
+- Take tasks from client research to client acceptance.
 
 #### Simple
 - [ ] Does not over optimize. Understands when code is "good-enough".
@@ -154,8 +155,8 @@ Here are some examples of other career ladders:
 
 ### Level 5
 
-#### Impact
-- [ ] It is recognized as a helpful consultant that consistently delivers high-value solutions for real problems.
+#### Impactful
+- [ ] Is recognized as a helpful consultant that consistently delivers high-value solutions for real problems.
 
 #### Simple
 - [ ] Creates architecture that enables many potential futures without knowing exactly what the future is.
@@ -175,7 +176,7 @@ Here are some examples of other career ladders:
 #### Communication
 - [ ] Aligns team on expectations.
 - [ ] Identifies miscommunications and solves them before they become a problem.
--  Identifies and proposes strategies around technical problems affecting their team and communicates standards.
+- [ ] Identifies and proposes strategies around technical problems affecting their team and communicates standards.
 
 #### Respectful teammate
 - [ ] Help dissolve tension when arises.
@@ -188,9 +189,9 @@ Here are some examples of other career ladders:
 
 ### Level 6
 
-#### Impact
+#### Impactful
 - [ ] Has made an obvious positive impact on the entire company's technical trajectory.
-- [ ] Focused on and responsible for their team's productivity.
+- [ ] Focused on and responsible for their team's productivity and growth.
 
 #### Simple
 - [ ] Has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
