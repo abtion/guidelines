@@ -122,7 +122,7 @@ Here are some examples of other career ladders:
 
 #### Impactful
 - [ ] Partners with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
-- Take tasks from client research to client acceptance.
+- [ ] Drives tasks from client research to client acceptance.
 
 #### Simple
 - [ ] Does not over optimize. Understands when code is "good-enough".
