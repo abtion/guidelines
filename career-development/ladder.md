@@ -87,7 +87,7 @@ Here are some examples of other career ladders:
 ### Level 3
 
 #### Impactful
-- [ ] Take task from internal meetings to internal acceptance.
+- [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
 
 #### Simple
 - [ ] Capable of prioritizing tasks. Avoids getting caught up in unimportant details and focuses on delivering value to the client (avoids bike-shedding).
