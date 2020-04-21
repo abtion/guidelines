@@ -10,8 +10,9 @@ well as any known issues.
 Heroku apps
 1. Make sure all related Heroku plugins are pointed to client emails (ex:
 librato alerts or rollbar alerts)
-1. Make sure all PRs are closed and push to heroku, then transfer the pipeline 
-in the GUI. Client will setup their own github with what they pull from Heroku.
+1. Make sure all (paid) PRs are closed and pushed to heroku.
+1. Initiate transfer by having the new app owner add your email to their Heroku team (note, if they are new to Heroku, be sure to tell them they have to add a credit card in order to take over the app)
+1. Transfer from https://dashboard.heroku.com/apps/client/settings in the GUI
 
 
 PHP apps
