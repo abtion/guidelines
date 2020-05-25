@@ -1,7 +1,7 @@
 # Preferred Services
 
 ## Mailing
-[SendGrid](https://sendgrid.com/), in Heroku: use the free Starter addon.
+[SendGrid](https://sendgrid.com/), in Heroku: use the free Starter addon (Automatically added by [Muffi](https://github.com/abtion/muffi)).
 Remember to set up DKIM (under sender authentication -> domain authentication).
 
 ### Mail testing
