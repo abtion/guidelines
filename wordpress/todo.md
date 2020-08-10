@@ -28,9 +28,3 @@ All feature branches will be based off of the `main` branch.
 NEVER merge branches directly into `main` - only through approved PRs
 Handle merge conflicts in your own branches
 Always make sure that the branch that is merged into staging, is identical with the one being merged into `main` (i.e, if you make changes on a branch going through review on staging, make sure those changes also go onto staging before merging the PR)
-
- ### Docker with WP-CLI
-
- ### Update wp-install.sh script
- - Insert barebone theme (create repo for this)
- - Create more steps (yoast, sendinblue, default wp login, insert removal of emoji, install wp clean up)
