@@ -5,6 +5,7 @@
 - [New WordPress site](#new-wordpress-site)
 - [Existing WordPress site](#existing-wordpress-site)
 - [Buddy (CD)](#buddycd)
+- [Sentry](#sentry)
 - [Git flow](#git-flow)
 
 
@@ -26,6 +27,21 @@ This project utilizes the [Muffi Theme](https://github.com/abtion/muffi-theme), 
 ### Buddy(CD)
 We use [Buddy](https://app.buddy.works/login) as a CD.    
 Within the [Muffi Theme](https://github.com/abtion/muffi-theme) you will find a `buddy.yml` file that handles the production and staging pipeline for continuous deployments.
+
+### Sentry
+We use sentry for all newly developed WordPress solutions.
+
+Sentry helps us track down those bugs and/or performance issues that possibly could be introduced along releases.
+
+Login to the WordPress team Sentry accound can be found in 1Password.
+
+Sentry catches general issues that happens based off client behavior, but its also possible to catch exceptions in ex. a try catch function.
+
+Sentry is per default installed within the [Muffi Theme](https://github.com/abtion/muffi-theme), exceptions can be caught with either PHP or with Vue/JS.
+
+See examples:
+- [PHP](https://docs.sentry.io/clients/php/)
+- [Vue/JS](https://docs.sentry.io/sdks/javascript/errors/capture/)
 
 ### Git flow
 
