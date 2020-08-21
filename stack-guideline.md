@@ -46,20 +46,8 @@ when a review-app has successfully been deployed, it provides a deployment link 
 — Postgres
 
 ## WordPress
-At Abtion we have our own WP(wordpress) theme called [Abtion-theme](https://github.com/abtion/abtion-theme) on GitHub. All WP sites are hosted on [Kinsta](https://kinsta.com/)
+At Abtion we have our own docker setup and scripts to make wordpress development and deployment as easy and fun as possible.
+We have documentation that will guide you though the docker setup, the official Abtion theme and what services we use.
+All of our WordPress sites is hosted at [Kinsta](https://kinsta.com/).
 
-The theme uses Webpack 4 to compile SCSS and JS.
-
-#### CI/CD
-Currently we are not testing wordpress sites, but it is our goal to start doing that, as soon as we find a good way to do it.
-
-We are building WordPress apps with our Buddy pipelines, like this [example](https://app.buddy.works/abtion/abtion-theme/pipelines) pipeline. 
-Upon a successful run of our pipeline we deploy the changed files directly to the hosted site on Kinsta.
-
-#### CLI
-We have created our own shell script based on the [wp-cli](https://wp-cli.org/) to quickly create a wordpress site, install our default plugins and our Abtion-theme. The script can be found in this [repo](https://github.com/abtion/Wordpress-Scaffolding).
-
-#### Plugins
-— [ACF](https://www.advancedcustomfields.com/)
-
-— [Swift](https://swiftperformance.io/)
+Read the documentation [here](https://github.com/abtion/guidelines/tree/main/wordpress)
