@@ -46,8 +46,8 @@ when a review-app has successfully been deployed, it provides a deployment link 
 — Postgres
 
 ## WordPress
-At Abtion we have our own docker setup and scripts to make wordpress development and deployment as easy and fun as possible.
-We have documentation that will guide you though the docker setup, the official Abtion theme and what services we use.
-All of our WordPress sites is hosted at [Kinsta](https://kinsta.com/).
+At Abtion we have our own docker setup and scripts to make WordPress development fun and deployment as easy as possible.
+We have documentation that will guide you through the docker setup, the official [Abtion theme](https://github.com/abtion/muffi-theme) and the services we use.
+All of our WordPress sites are hosted on [Kinsta](https://kinsta.com/).
 
 Read the documentation [here](https://github.com/abtion/guidelines/tree/main/wordpress)
