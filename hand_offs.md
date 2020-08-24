@@ -32,6 +32,7 @@
     10. [ ] Scheduler service
 3. Securely transfer the rest of the `.env` file or anything remaining in 1Password to the client.
 4. Make sure all (paid) PRs are merged/closed and deployed to Heroku.
+5. Double check that any internal accounts used for testing are removed from the Production and Staging databases.
 
 ### On the day
 
