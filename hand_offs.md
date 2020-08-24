@@ -8,7 +8,7 @@
 2. Be sure you have a complete [README](https://github.com/abtion/guidelines/blob/main/README.standard.md). Including:
     1. Any diagrams
     2. Introductions to noteable inclusions
-    3. Known Issues
+    3. Known issues
 3. Add a handoff story to Asana with the due date.
 4. Confirm the scope of transfer with the sales team.
   1. It is usual to tranfer all apps/pipelines, but in some cases we may only want to tranfers the production app.
