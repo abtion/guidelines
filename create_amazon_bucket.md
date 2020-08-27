@@ -19,9 +19,10 @@ It's fine to block all public access, you just have to create a token in your se
 ### IAM user
 No app should ever use the root user login! Nor should the login used to create the buckets be used. Create an IAM account for each bucket created, that way if one account is compromised potential damage is kept to a minimum and easy to fix.
 
-1. Goto Security, Identity & Compliance < IAM
-2. Then Access Management < Users
-3. Click add user.
+1. Goto 'Security, Identity & Compliance' > 'IAM'
+  1. It is usually easier to just search for 'IAM' under 'Find services'
+2. Then find 'Users' to the left under 'Access management'
+3. Finally click on the blue 'Add user' at the top.
 
 
 In order to easily identify which user connects to which bucket, name them both the same.  Since this is a user only used through the service/application, the only `access type` it requires is `Programmatic access`.
