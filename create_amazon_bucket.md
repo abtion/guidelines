@@ -28,7 +28,7 @@ No app should ever use the root user login! Nor should the login used to create 
 In order to easily identify which user connects to which bucket, name them both the same.  Since this is a user only used through the service/application, the only `access type` it requires is `Programmatic access`.
 
 
-Nothing else needs to be added to the user, just click 'Next' until you get to a page showing you the `Access Key ID` and the `Secret Access Key`. These keys need to be stored in a secure location. Add them directly to the `.env` file, store them in a password manager, so the team also has easy access to the information, or both.
+Nothing else needs to be added to the user, just click 'Next' until you get to a page showing you the `Access Key ID` and the `Secret Access Key`. These keys need to be stored in a secure location. For the development user/bucket, add the keys directly to the `.env.development` file, store them in a password manager, so the team also has easy access to the information, or both.
 
 
 After clicking 'Close' you should have a user without any permissions or access to anything (we will create and add the permissions later).
