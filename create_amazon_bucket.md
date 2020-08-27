@@ -1,41 +1,41 @@
 ## Create a new amazon bucket
 
 ### Bucket
-Use the naming convention `<product-name>-production`, `<product-name>-staging`
+We use the naming convention `<product-name>-production` and `<product-name>-staging`
+
 
 #### Region
-We normally default to use `EU-Stockholm` but in theory this isn't as important, so if another region makes more sense choose a different one.
+We normally default to use `eu-north-1` aka. `Stockholm` but this may vary depending on where you and/or your customers are, so if another region makes more sense choose a different one.
 
 #### Settings
-Under the section `Configure options` as a default we disable everything, it's only if the project require something specific such as versioning or server logging you should add it.
+Under the section `Configure options` we disable everything as a default, it's only if the project requires something specific such as versioning or server logging that you should enable it.
 
-The only thing that is recommended, is to add `default encryption` with AES-256. This should be used if the bucket is suppose to handle sensitive information(ID's, documentation that can be referenced back to the client etc.)
+The only thing that is recommended, is to add the `default encryption` with AES-256. This should be used if the bucket is going to handle sensitive information (ID's, documentation that can be referenced back to the client etc.).
 
 #### Permissions
-Block all public access, unless the bucket is accessed by a service where it's not required to be logged in.
-It's fine to block all public access, you just have to create a token in your service that grants access to the data(Remember to set a time limit on the token)
+Block all public access, unless you require otherwise.
+It's fine to block all public access, you just have to create a token in your service that grants access to the data (Remember to set a time limit on the token).
 
 ### IAM user
-You should never use the root access in your service, or the login that where used to create the bucket. There should be a IAM user for each bucket created, that way if one user is compromised, then it's only that specific bucket that is damaged.
+No app should ever use the root user login! Nor should the login used to create the buckets be used. Create an IAM account for each bucket created, that way if one account is compromised potential damage is kept to a minimum and easy to fix.
 
 1. Goto Security, Identity & Compliance < IAM
 2. Then Access Management < Users
 3. Click add user.
 
 
-To make it easy to quickly connect the user to the bucket, when looking at the console, make the user name identical to the bucket name.
-Since this is a user only used through the service/application, the only `access type` it should have access to is `Programmatic access`
+In order to easily identify which user connects to which bucket, name them both the same.  Since this is a user only used through the service/application, the only `access type` it requires is `Programmatic access`.
 
 
-Nothing else needs the be added to the user, just click next until you get a page showing the `Access Key Id` and `Secret` these needs to be stored in a secure location. Either add them directly in the `ENV` file or store them e.g. in a password manager so the team also has easy access to the information.
+Nothing else needs to be added to the user, just click 'Next' until you get to a page showing you the `Access Key ID` and the `Secret Access Key`. These keys need to be stored in a secure location. Add them directly to the `.env` file, store them in a password manager, so the team also has easy access to the information, or both.
 
 
-You can now click close. and should now have a user without any permissions, without access to anything(We will create the permissions later and add them to the user).
+After clicking 'Close' you should have a user without any permissions or access to anything (we will create and add the permissions later).
 
 
 ### IAM user - permissions
-Click on the user you want to add the permissions to, and add `inline policy`
-Go to the JSON tab, and replace the content showed with the snippet below:
+Click on the user, you want to add the permissions to, and add `Inline policy`.
+Go to the JSON tab and replace the content shown with the snippet below:
 
 ```JSON
 {
@@ -62,16 +62,15 @@ Go to the JSON tab, and replace the content showed with the snippet below:
         "s3:GetObjectVersion"
       ],
       "Resource": [
-        "arn:aws:s3:::<bucket>",
-        "arn:aws:s3:::<bucket>/*"
+        "arn:aws:s3:::<BUCKET_NAME>",
+        "arn:aws:s3:::<BUCKET_NAME>/*"
       ]
     }
   ]
 }
 ```
 
-You can change the different actions, to either enable or disable more permissions, but this is what we recommend. This is giving you all the default CRUD permissions, to the bucket.
+You can change the different actions to either enable or disable more permissions, but this is what we recommend. This is giving the user the default CRUD permissions for the bucket.
 
-Remember to change the `<bucket>` to what ever you name your bucket in the first step.
-
+Remember to replace any occurance of `<BUCKET_NAME>` with name you choose for the bucket in the first step.
 
