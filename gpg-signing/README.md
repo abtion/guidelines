@@ -14,7 +14,7 @@ git config --local user.signingKey YOUR_GPG_KEY
 You may want to use `--global` instead if you want to set up GPG signing for all
 your projects (which is required for Abtion projects).
 
-To avoid having to sign all of your commits, you can create a
+To avoid having to enter you password for each commit, you can create a
 `~/.gnupg/gpg-agent.conf` file with the following content:
 
 ```sh
