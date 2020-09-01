@@ -22,9 +22,8 @@ default-cache-ttl 3600
 max-cache-ttl 3600
 ```
 
-This ensures that your commits are automatically signed for one hour, and after
-one hour you need to provide your GPG password again. Run `gpgconf --reload
-gpg-agent` to reload your updated GPG configuration.
+This way you only have to provide your password once every hour.
+Run `gpgconf --reload gpg-agent` to reload your updated GPG configuration.
 
 If you have not set up a GPG key for your GitHub account, please read this
 article:
