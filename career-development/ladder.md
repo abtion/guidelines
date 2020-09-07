@@ -121,7 +121,7 @@ Here are some examples of other career ladders:
 ### Level 4
 
 #### Impactful
-- [ ] Partners with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
+- [ ] Partners with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
 - [ ] Drives tasks from client research to client acceptance.
 
 #### Simple
