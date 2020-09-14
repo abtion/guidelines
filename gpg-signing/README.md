@@ -1,7 +1,7 @@
 # GPG Signing with Git
 
 ## Install GPG
-###MacOSX
+### MacOSX
 Install gpg via homebrew: `brew install gpg`
 
 ## Create GPG Key
@@ -9,7 +9,7 @@ Install gpg via homebrew: `brew install gpg`
 Set up a GPG key for your GitHub account by following the Github guide:
 [Generating a new GPG key](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
 
-Save your GPG signing key in 1password.
+Save your GPG signing key in 1Password.
 
 ## Adding the new GPG key to your GitHub account
 
@@ -30,7 +30,7 @@ git config --global user.signingKey YOUR_GPG_KEY
 You may want to use `--local` instead if you want to set up GPG signing (or use a different key) 
 for only a specific repository. 
 
-All Abtion project should use signed commits.
+All Abtion projects should use signed commits.
 
 
 ## Make a signed commit
