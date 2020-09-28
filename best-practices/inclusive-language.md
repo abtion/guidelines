@@ -89,6 +89,6 @@ a list of words that can be hurtful to other people and should be avoided.
 - [Bias-free communication | Microsoft Docs](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
 - [Gender Pronouns: How Small Words Make a Big Difference](https://www.ibm.com/blogs/think/2020/07/gender-pronouns-how-small-words-make-a-big-difference/)
 - [Inclusive Chromium code](https://chromium.googlesource.com/chromium/src/+/master/styleguide/inclusive_code.md)
-- [MySQL Terminology Updates](https://mysqlhighavailability.com/mysql-terminology-updateªs/)
+- [MySQL Terminology Updates](https://mysqlhighavailability.com/mysql-terminology-updates/)
 - [Pronouns | Google developer documentation style guide](https://developers.google.com/style/pronouns)
 - [Railsguide | Wording](https://guides.rubyonrails.org/api_documentation_guidelines.html#wording)
