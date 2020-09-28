@@ -1,6 +1,21 @@
 # Abtion Guidelines
-
-Please, go to the specific folder for more info.
+## Table of Contents
+- [AXP](./axp/)
+- [Best Practices](./best-practices/)
+  - [Bug triaging](./best-practices/bug-triaging.md)
+  - [Cleaning up disrespectful terms in existing systems](./best-practices/terms.md)
+  - [Inclusive language](./best-practices/inclusive-language.md)
+- Career development
+  - [Abtion Dev Career Ladder](./career-development/ladder.md)
+  - [Roles](./career-development/roles.md)
+- [CSS / SCSS Guides](./CSS%20/%20SCSS/)
+- [Code reviews](./code-reviews/)
+- [Dockerizing](./docker/)
+- [GPG Signing with Git](./gpg-signing/)
+- [JavaScript](./javascript/)
+  - [Selector and how we use them in Abtion](./javascript/selectors.md)
+- [Preferred Services](./services/)
+- [WordPress setup](./wordpress/)
 
 ## Philosophy
 
