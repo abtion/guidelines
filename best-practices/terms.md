@@ -14,6 +14,7 @@ git push -u origin main
 - [ ] Change the base on existing pull requests
 - [ ] Search and Replace `master` in the project (README.md, etc.)
 - [ ] If automatic deployments are turned on, remember to update the branch.
+- [ ] If CodeClimate is set up remember to update the branch there as well.
 - [ ] Once everything is set, you can delete the `master` branch
 ```sh
 git branch -d master
