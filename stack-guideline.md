@@ -28,7 +28,7 @@ During an active pull-request the CI will run dependencies, tests and whatnot. A
 Maybe Sentry?
 
 ## Backend
-Backend apps are built with Ruby on Rails and are hosted on [Heroku](https://heroku.com). Backend and/or Rails with React apps use a default [README.md](https://github.com/abtion/muffi/blob/master/README.example.md) which makes it easy to document the app during development.
+Backend apps are built with Ruby on Rails and are hosted on [Heroku](https://heroku.com). Backend and/or Rails with React apps use a default [README.md](https://github.com/abtion/muffi/blob/main/README.example.md) which makes it easy to document the app during development.
 
 #### Database
 PostgreSQL

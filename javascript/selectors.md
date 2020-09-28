@@ -71,7 +71,7 @@ Here you can see, that I use the selector to retrive the object representing the
 			dispatch({ type: SET_PREMIUM, isPremium })
 	}
 	
-In this case, when the action creator is triggered, we check the current state, get the current user and if his `isPremium` is not even to the new value, we dispatch an even that set the new value. The question is- why the hell we would do this? Cannot we just do something like:
+In this case, when the action creator is triggered, we check the current state, get the current user and if their `isPremium` is not equal to the new value, we dispatch an event that sets the new value. The question is- why the heck we would do this? Can't we just do something like:
 
 	const isCurrentUserPremium = getState().currentUser.isPremium
 	

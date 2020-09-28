@@ -130,7 +130,7 @@ Here are some examples of other career ladders:
 
 #### Test-driven
 - [ ] Uses testing pain as a prompt to write better code.
-- [ ] Starts practicing spiking if she/he doesn’t know how to test something. Then sets the spike aside once a general path is understood and writes from scratch TDD.
+- [ ] Starts practicing spiking if they don't know how to test something. Then sets the spike aside once a general path is understood and writes from scratch TDD.
 - [ ] Makes use of stubbing and mocking/understands tradeoffs of hitting the db.
 - [ ] Values and can speak to examples of high cohesion, low coupling.
 - [ ] Cares about test speed. Can implement parallelization but knows why that’s a bandaid. Seeks to keep the test suite under a minute.
