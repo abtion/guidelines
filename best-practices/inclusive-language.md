@@ -32,7 +32,7 @@ a list of words that can be hurtful to other people and should be avoided.
 > increased manpower.
 
 **Good**
-> We decided to hire a new chair and two new sales representative to cope with
+> We decided to hire a new chair and two new sales representatives to cope with
 > the increased workforce.
 
 ## `master` branch
