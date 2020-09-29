@@ -51,10 +51,12 @@ a list of words that can be hurtful to other people and should be avoided.
 
 ## Blacklist/whitelist
 **Bad**
-> All blocked emails are kept in a blacklist.
+> All allowed and blocked emails are kept in a whitelist and blacklist,
+> respectively.
 
 **Good**
-> All blocked emails are kept in a blocklist/denylist.
+> All allowed and blocked emails are kept in an allowlist and a blocklist,
+> respectively.
 
 ## Redlining
 **Bad**
@@ -68,7 +70,7 @@ a list of words that can be hurtful to other people and should be avoided.
 > I filled in the form with dummy values.
 
 **Good**
-> I filled in the form with default values.
+> I filled in the form with default/example/fake/test values.
 
 ## Sanity check
 **Bad**
