@@ -9,6 +9,9 @@ To remedy bugs, we have a certain procedure that we encourage you to follow.
   - Add a description of the bug and how it can be reproduced.
   - Add images to the task if applicable.
 5. Prioritize the bug based on its severity.
+  - If it is not severe then add it to the backlog and assign it to the project
+    manager.
+  - If it is severe, put it in the top of the backlog.
 
 ## How to fix bugs
 1. Pick a bug from Asana.
