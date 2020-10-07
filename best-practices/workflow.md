@@ -30,7 +30,7 @@ We follow trunk base development. If you are not familiar with it, you can read 
 - When merging to main, we automatically deploy to production. We may use a test environment** which must always be synchronized with production.
 - Feature acceptance will occur by the product owner*** in the test environment.
 - Tech Chore acceptance will occur by developers*** in the test environment.
-- A pair will merge directly to main whenever they feel confident (see “we trust our colleges as professional developers"). They may request feedback from other developers by asking them directly or indirectly opening a "Pull Request" in Github. They should gather feedback from the product owner during IPM, standup, Show & Tell and any necessary ad-hoc meetings to ensure that they are developing the right product.
+- A pair will merge directly to main whenever they feel confident (see “we trust our colleagues as professional developers"). They may request feedback from other developers by asking them directly or indirectly opening a "Pull Request" in Github. They should gather feedback from the product owner during IPM, standup, Show & Tell and any necessary ad-hoc meetings to ensure that they are developing the right product.
 - The developers have the responsibility to move the card to a "ready for acceptance” column in Asana. This implies that they genuinely believe the card is ready.
 - When the backlog runs out of tasks, developers will take cards from the Icebox. The icebox is already prioritized.
 
