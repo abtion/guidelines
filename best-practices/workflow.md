@@ -4,7 +4,7 @@ Abtion’s development workflow may vary depending on the project. Teams are enc
 
 ## Our philosophy:
 
-- We trust our colleges as professional developers.
+- We trust our colleagues as professional developers.
 - We engage in discussions with an eye on productivity. We accept that a discussion might be counter-productive if the time we spend debating surpasses the benefits of the discussion.
 - We accept that we might be wrong.
 - We want to improve any codebase that we work on.
