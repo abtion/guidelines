@@ -13,7 +13,7 @@ Abtion’s development workflow may vary depending on the project. Teams are enc
 
 ## Goals
 
-- Delivery quality code at a fast pace.
+- Deliver quality code at a fast pace.
 - Maintain all team members informed of the changes.
 - Have a low defect rate.
 - Have a fast acceptance rate.
