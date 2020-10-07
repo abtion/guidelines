@@ -1,6 +1,6 @@
 # Abtion's development workflow
 
-Abtion’s development workflow may vary depending on the project. Teams are encouraged to experiment with the most efficient way to reliably deliver value to our clients. The standard flow is described here. It should be the base from where teams start and the destination, when a team discovers a more efficient way of working.
+Abtion’s development workflow may vary depending on the project. Teams are encouraged to experiment with the most efficient way to reliably deliver value to our clients. The standard flow is described here. It should be the base from where teams start. When a team discovers a more efficient way of working, they should contribute it back to this document.
 
 ## Our philosophy:
 
