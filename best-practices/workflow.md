@@ -27,7 +27,7 @@ We follow trunk base development. If you are not familiar with it, you can read 
 - A pair will work on the card until it is ready. Pair switches might occur during the process.
 - We always branch out from main* and we merge to main.
 - We use short-lived branches to play around with the code.
-- When merging to main, we automatically deploy to production. We may use a test environment** which must always be synchronized with production.
+- When merging to main, we automatically deploy to production. We may use a test environment** which must always be synchronized with production with private information obfuscated for security. We use feature flags for coordinating feature releases with the client.
 - Feature acceptance will occur by the product owner*** in the test environment.
 - Tech Chore acceptance will occur by developers*** in the test environment.
 - A pair will merge directly to main whenever they feel confident (see “we trust our colleagues as professional developers"). They may request feedback from other developers by asking them directly or indirectly opening a "Pull Request" in Github. They should gather feedback from the product owner during IPM, standup, Show & Tell and any necessary ad-hoc meetings to ensure that they are developing the right product.
