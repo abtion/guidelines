@@ -24,7 +24,7 @@ We follow trunk base development. If you are not familiar with it, you can read 
 
 - Developers work in pairs.
 - A pair always takes the first card from the backlog. The backlog is already prioritized.
-- A pair will work on the card until is ready. Pair switches might occur during the process.
+- A pair will work on the card until it is ready. Pair switches might occur during the process.
 - We always branch out from main* and we merge to main.
 - We use short-lived branches to play around with the code.
 - When merging to main, we automatically deploy to production. We may use a test environment** which must always be synchronized with production.
