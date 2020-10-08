@@ -32,7 +32,7 @@ We follow trunk base development. If you are not familiar with it, you can read 
 - Tech Chore acceptance will occur by developers*** in the test environment.
 - A pair will merge directly to main whenever they feel confident (see “we trust our colleagues as professional developers"). They may request feedback from other developers by asking them directly or indirectly opening a "Pull Request" in Github. They should gather feedback from the product owner during IPM, standup, Show & Tell and any necessary ad-hoc meetings to ensure that they are developing the right product.
 - The developers have the responsibility to move the card to a "ready for acceptance” column in Asana. This implies that they genuinely believe the card is ready.
-- When the backlog runs out of tasks, developers will take cards from the Icebox. The icebox is already prioritized.
+- If the backlog runs out of tasks, developers will let the product owner know, and will work on technical debt until the product owner has prioritized feature work.
 
 \* main might have a different name depending on the project. We strive to use an [inclusive language](https://github.com/abtion/guidelines/blob/main/best-practices/inclusive-language.md)
 
