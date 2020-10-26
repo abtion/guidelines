@@ -13,5 +13,5 @@
 
 ### My ModMic is picking up a LOT of background noise
 
-- If it has a omni-/uni direction switch, swith it to uni. The correct icon is a circle with a "dent", as opposed to the full circle icon which symbolizes omni-directional mode.
+- If it has an omni-/uni direction switch, swith it to uni. The correct icon is a circle with a "dent" (Cardioid), as opposed to the full circle icon which symbolizes omni-directional mode.
 - Ensure that the omni-/uni switch, or the microphone logo - depending on the model - is facing towards your face. Otherwise the microphone will do it's best to pick up the background-noise instead of your voice.
