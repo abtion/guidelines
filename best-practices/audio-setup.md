@@ -4,7 +4,7 @@
 
 ### My colleagues tell me that I sound like a pilot
 
-- Open the sound settings on your computer and check if your microphone volume is too high. If it's nearly maxed out, try lowering the volume a bit. Maxing out the microphone can causes severe quality degregation.
+- Open the sound settings on your computer and check if your microphone volume is too high. If it's nearly maxed out, try lowering the volume a bit. Maxing out the microphone volume can severely degrade the quality.
 
 ### My colleauges tell me that I'm breathing heavily
 
