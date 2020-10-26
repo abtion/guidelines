@@ -1,8 +1,8 @@
 # Abtion Dev Career Ladder
 
-This career ladder is a work in progress from dev leadership at Abtion. At a high level, a career ladder is a formal doc within a company that allows employees to advance their careers to higher levels of salary, responsibility and authority. Once employees meet certain criteria, they are eligible to move into higher-level roles.
+This career ladder is a work in progress from dev leadership at Abtion. At a high level, a career ladder is a formal doc within a company that allows employees to advance their careers to higher levels of salary, responsibility, and authority. Once employees meet certain criteria, they are eligible to move into higher-level roles.
 
-Our goal with the ladder is to provide a clear path for professional development, and to have clear expectations regarding skills and salary at each level. As much as possible, we want people to see and take advantage of opportunities to grow here. To that end, we see this as a bit of a two way contract: what we will provide to you in terms of growth, and for you, what you'll take on in learning.
+Our goal with the ladder is to provide a clear path for professional development and to have clear expectations regarding skills and salary at each level. As much as possible, we want people to see and take advantage of opportunities to grow here. To that end, we see this as a bit of a two-way contract: what we will provide to you in terms of growth, and for you, what you'll take on in learning.
 
 Please feel free to make PRs with suggestions. This is something that we welcome community feedback on!
 
@@ -10,17 +10,17 @@ Here are some examples of other career ladders:
 
 [https://www.progression.fyi](https://www.progression.fyi)
 
-## High Level Company Values
+## High-Level Company Values
 1. Bonded by Love for Product
 1. Continuous Delivery
 1. Customer Comes First
 1. Heavily Team Oriented
 1. High Employee Retention
-1. High Quality Code Base
+1. High-Quality Code Base
 1. Open Communication
 1. Pair-Programs
 
-## Dev Values : Impactful, Simple, Test-Driven, Iterative, Communicative, Respectful, Skilled
+## Dev Values: Impactful, Simple, Test-Driven, Iterative, Communicative, Respectful, Skilled
 
 ### Level 1
 #### Impactful
@@ -56,7 +56,7 @@ Here are some examples of other career ladders:
 ### Level 2
 
 #### Impactful
-- [ ] Capable of providing support for their area including systems that they are not familiar with.
+- [ ] Capable of providing support for their area, including systems they are not familiar with.
 
 #### Simple
 - [ ] Creates simple method / functions that most static code analysers would accept.
@@ -64,10 +64,10 @@ Here are some examples of other career ladders:
 
 #### Test-driven
 - [ ] Starts to write unit tests before code, writes acceptance tests.
-- [ ] Can write “acceptance” tests for existing code.
+- [ ] Can write "acceptance" tests for existing code.
 - [ ] Refactors test code: extracts methods, breaks up long tests
 - [ ] Uses evident data in tests.
-- [ ] Understands the trade-off between test isolation and test speed.
+- [ ] Understands the tradeoff between test isolation and test speed.
 
 #### Iterative
 - [ ] Delivers working code with each commit.
@@ -81,21 +81,22 @@ Here are some examples of other career ladders:
 - [ ] Encourages team to stay on a sustainable pace.
 
 #### Technical skills
-- [ ] Understands what differentiates their favourite language with others. Knows what the language is useful for and when it is not the best option.
-- [ ] Understand where to place logic in their favourite framework.
+- [ ] Understands what differentiates their favorite language from others. Knows what the language is useful for and when it is not the best option.
+- [ ] Understand where to place logic in their favorite framework.
 
 ### Level 3
 
 #### Impactful
+- [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
 - [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
 
 #### Simple
 - [ ] Capable of prioritizing tasks. Avoids getting caught up in unimportant details and focuses on delivering value to the client (avoids bike-shedding).
 
 #### Test-driven
-- [ ] Can start a project from scratch and setup testing frameworks.
+- [ ] Can start a project from scratch and set up testing frameworks.
 - [ ] Has an opinion about which frameworks to use.
-- [ ] Can mock http requests and understands where these tests will potentially fail.
+- [ ] Can mock HTTP requests and understands where these tests will potentially fail.
 - [ ] Can integrate with CI.
 - [ ] Moves from TFD to TFD+Refactor = TDD
 - [ ] Breaks systems into small testable units.
@@ -116,7 +117,7 @@ Here are some examples of other career ladders:
 
 #### Technical skills
 - [ ] Can write code in at least two technical areas (frontend, backend, digital infrastructure). Ensures the completion of the tasks in their two areas of expertise.
-- [ ] Can debug issues occuring across multiple levels of the stack.
+- [ ] Can debug issues occurring across multiple levels of the stack.
 
 ### Level 4
 
@@ -125,16 +126,16 @@ Here are some examples of other career ladders:
 - [ ] Drives tasks from client research to client acceptance.
 
 #### Simple
-- [ ] Does not over optimize. Understands when code is "good-enough".
-- [ ] Understands the tradeoffs between technical, analytical and product needs and leads to solutions that take all of these needs into account.
+- [ ] Does not over-optimize. Understands when code is "good-enough".
+- [ ] Understands the tradeoffs between technical, analytical, and product needs and leads to solutions that take all of these needs into account.
 
 #### Test-driven
 - [ ] Uses testing pain as a prompt to write better code.
 - [ ] Starts practicing spiking if they don't know how to test something. Then sets the spike aside once a general path is understood and writes from scratch TDD.
-- [ ] Makes use of stubbing and mocking/understands tradeoffs of hitting the db.
+- [ ] Makes use of stubbing and mocking/understands tradeoffs of hitting the DB.
 - [ ] Values and can speak to examples of high cohesion, low coupling.
-- [ ] Cares about test speed. Can implement parallelization but knows why that’s a bandaid. Seeks to keep the test suite under a minute.
-- [ ] Can run the test for the code they are working on “right now” in under a second.
+- [ ] Cares about test speed. Can implement parallelization but knows why that's a bandaid. Seeks to keep the test suite under a minute.
+- [ ] Can run the test for the code they are working on "right now" in under a second.
 
 #### Iterative
 - [ ] Well-composed commit narratives in commit flows.
@@ -150,7 +151,7 @@ Here are some examples of other career ladders:
 - [ ] Understands the difficulties that the team is going through and helps how they can.
 
 #### Technical skills
-- [ ] Demonstrates ability to succeed in a wide range of complex situations across multiple axes: e.g. scale, uncertainty, interconnectedness.
+- [ ] Demonstrates the ability to succeed in a wide range of complex situations across multiple axes: e.g., scale, uncertainty, interconnectedness.
 - [ ] Researches and proposes new technologies to the team(s).
 
 ### Level 5
@@ -179,8 +180,8 @@ Here are some examples of other career ladders:
 - [ ] Identifies and proposes strategies around technical problems affecting their team and communicates standards.
 
 #### Respectful teammate
-- [ ] Help dissolve tension when arises.
-- [ ] Does not take "all" responsibilities. They let their teammates take responsibilities they care about.
+- [ ] Help dissolve tension when it arises.
+- [ ] Does not take "all" responsibilities. They let their teammates take the responsibilities they care about.
 
 #### Technical skills
 - [ ] Breaks down complex projects into simple systems that can be effectively built and maintained by less experienced developers.
@@ -195,7 +196,7 @@ Here are some examples of other career ladders:
 
 #### Simple
 - [ ] Has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
-- [ ] Consistently able to reduce the complexity of projects, services, and processes in order to get more done with less work.
+- [ ] Consistently able to reduce the complexity of projects, services, and processes to get more done with less work.
 - [ ] Excels at getting the team to focus on delivering high-impact projects
 
 #### Test-driven
@@ -212,7 +213,7 @@ Here are some examples of other career ladders:
 
 #### Communication
 - [ ] Works to define tasks in Asana and can mentor juniors in defining them.
-- [ ] Can collaborate with client about estimates and prioritization.
+- [ ] Can collaborate with a client about estimates and prioritization.
 
 #### Respectful teammate
 - [ ] Respects the right of junior team members to own parts of the code.
@@ -220,5 +221,5 @@ Here are some examples of other career ladders:
 
 #### Technical skills
 - [ ] Is recognized for high quality, impactful technical contributions.
-- [ ] Go to expert in one area of technology: fx browser rendering or tdd.
+- [ ] Go to expert in one area of technology: fx browser rendering or TDD.
 - [ ] Has a record of creating improvements in stability or performance for company-critical projects.
