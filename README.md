@@ -8,6 +8,7 @@
 - Career development
   - [Abtion Dev Career Ladder](./career-development/ladder.md)
   - [Roles](./career-development/roles.md)
+  - [Technical skills sheet](./career-development/technical-skills-sheet.md)
 - [CSS / SCSS Guides](./CSS%20/%20SCSS/)
 - [Code reviews](./code-reviews/)
 - [Dockerizing](./docker/)
@@ -25,4 +26,4 @@ The guidelines are extracted from real problems we encountered and the solutions
 
 These guidelines are created with the help of the whole organization. Anyone is welcome to open a PR to any section of the guidelines.
 
-Anything added to the guideline must have been extracted from a project. 
+Anything added to the guideline must have been extracted from a project.
