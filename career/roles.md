@@ -15,3 +15,45 @@ The following descriptions are indications of what is expecting of a person havi
 - Ensure that all developers enjoy the codebase (TDDed, well maintained, sane dependencies, etc.).
 - Make smart choices in regards to the budget.
 - Cheer up the team when needed. Do not let pessimism sink the project.
+
+## CTO
+### Guiding stars for the role
+- Leadership and coaching
+- Architectural overview and direction
+- Cross-organizational mindset
+- Scalability and security
+- Client value focus
+- Face of the company
+
+### Responsibilities
+- Technology & Product
+- Maximize tools efficiency
+- Ensure maximum value for client (in collaboration with product & sales)
+- Improve product / engineering coordination (workflow)
+- Ensure code quality / test coverage
+- Improve DI turnover (ROI)
+- Increase security
+
+### People & Culture
+- Bring up technical leadership
+- Bring up EMs
+- Maximize retention
+- Bring up senior developers
+- Expand team (hire)
+- Improve engineers’ consultancy skills
+- Improve company professionality
+- Keep culture
+
+### Business
+- Increase customer satisfaction (align expectations)
+- Coach clients (agile)
+- Maximize clients budget (by bringing value / suggesting smart investments)
+- Maximize team / tools based on clients
+
+### Processes
+- Ensure good team processes
+- Improve DI process
+
+### Administration
+- Budget
+- Strategy planning
