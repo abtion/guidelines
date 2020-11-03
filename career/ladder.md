@@ -144,6 +144,9 @@ Here are some examples of other career ladders:
 #### Impactful
 - [ ] Partners with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
 - [ ] Drives tasks from client research to client acceptance.
+- [ ] Understands and can provide a detailed overview of a project.
+- [ ] Focuses on building strong relationships with their team, direct
+  manager, and other seniors across the organization.
 
 #### Simple
 - [ ] Does not over-optimize. Understands when code is "good-enough".
