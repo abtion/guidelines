@@ -24,7 +24,11 @@ Here are some examples of other career ladders:
 
 ### Level 1 - Associate Software Engineer
 #### Impactful
-- [ ] Contributes positively to the development of one or multiple apps.
+- [ ] Consistently completes work on a task-level within one or multiple apps.
+- [ ] Focuses on building strong relationships with their team and direct
+  manager.
+- [ ] Proactively reaches out for help when struggling with a task.
+- [ ] Actively seeks feedback to improve from colleagues and receives it well.
 
 #### Simple
 - [ ] Is working on naming variables and learning to extract methods.
