@@ -22,7 +22,7 @@ Here are some examples of other career ladders:
 
 ## Dev Values: Impactful, Simple, Test-Driven, Iterative, Communicative, Respectful, Skilled
 
-### Level 1
+### Level 1 - Associate Software Engineer
 #### Impactful
 - [ ] Contributes positively to the development of one or multiple apps.
 
@@ -53,7 +53,7 @@ Here are some examples of other career ladders:
 - [ ] Can write code in at least one language.
 - [ ] Broad knowledge of main CS + XP concepts.
 
-### Level 2
+### Level 2 - Software Engineer
 
 #### Impactful
 - [ ] Capable of providing support for their area, including systems they are not familiar with.
@@ -84,7 +84,7 @@ Here are some examples of other career ladders:
 - [ ] Understands what differentiates their favorite language from others. Knows what the language is useful for and when it is not the best option.
 - [ ] Understand where to place logic in their favorite framework.
 
-### Level 3
+### Level 3 - Software Engineer
 
 #### Impactful
 - [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
@@ -119,7 +119,7 @@ Here are some examples of other career ladders:
 - [ ] Can write code in at least two technical areas (frontend, backend, digital infrastructure). Ensures the completion of the tasks in their two areas of expertise.
 - [ ] Can debug issues occurring across multiple levels of the stack.
 
-### Level 4
+### Level 4 - Senior Software Engineer
 
 #### Impactful
 - [ ] Partners with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
@@ -154,7 +154,7 @@ Here are some examples of other career ladders:
 - [ ] Demonstrates the ability to succeed in a wide range of complex situations across multiple axes: e.g., scale, uncertainty, interconnectedness.
 - [ ] Researches and proposes new technologies to the team(s).
 
-### Level 5
+### Level 5 - Senior Software Engineer
 
 #### Impactful
 - [ ] Is recognized as a helpful consultant that consistently delivers high-value solutions for real problems.
@@ -188,7 +188,7 @@ Here are some examples of other career ladders:
 - [ ] Sought out for technical guidance.
 - [ ] Anticipates technical issues at a product level and works with design to avoid them.
 
-### Level 6
+### Level 6 - Principal Software Engineer
 
 #### Impactful
 - [ ] Has made an obvious positive impact on the entire company's technical trajectory.
