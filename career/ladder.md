@@ -181,6 +181,12 @@ Here are some examples of other career ladders:
 
 #### Impactful
 - [ ] Is recognized as a helpful consultant that consistently delivers high-value solutions for real problems.
+- [ ] Reviews projects critically and ensures that they are divided into parts
+  that can be solved in isolation most of the time.
+- [ ] Consistently shows initiative and identifies areas of improvements for
+  themselves and the team.
+- [ ] Ensures proactively that the relevant stakeholders are informed if the
+  team is running into issues.
 
 #### Simple
 - [ ] Creates architecture that enables many potential futures without knowing exactly what the future is.
