@@ -102,7 +102,13 @@ Here are some examples of other career ladders:
 
 #### Impactful
 - [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
-- [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
+- [ ] Understands and can provide a high-level overview of a project.
+- [ ] Consistently facilitates communication with project managers/product
+  owners for one or multiple apps.
+- [ ] Proactively seeks out to unblock colleagues when they are struggling with
+  a task.
+- [ ] Has a track record of embracing big challenges and turning them into
+  successes.
 
 #### Simple
 - [ ] Capable of prioritizing tasks. Avoids getting caught up in unimportant details and focuses on delivering value to the client (avoids bike-shedding).
