@@ -61,6 +61,16 @@ Here are some examples of other career ladders:
 
 #### Impactful
 - [ ] Capable of providing support for their area, including systems they are not familiar with.
+- [ ] Understands and can provide a high-level overview of the current milestone
+  of a project.
+- [ ] Focuses on building strong relationships with their team, direct manager,
+  and project manager/product owner.
+- [ ] Identifies unclear requirements and reaches out to relevant stakeholders
+  to clarify issues.
+- [ ] Reliably do what they say they will, and communicates promptly if an issue
+  arises.
+- [ ] Requires minimal guidance from seniors and can help unblock juniors when
+  necessary.
 
 #### Simple
 - [ ] Creates simple method / functions that most static code analysers would accept.
