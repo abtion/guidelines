@@ -6,9 +6,9 @@
   - [Cleaning up disrespectful terms in existing systems](./best-practices/terms.md)
   - [Inclusive language](./best-practices/inclusive-language.md)
 - Career development
-  - [Abtion Dev Career Ladder](./career-development/ladder.md)
-  - [Roles](./career-development/roles.md)
-  - [Technical skills sheet](./career-development/technical-skills-sheet.md)
+  - [Abtion Dev Career Ladder](./career/ladder.md)
+  - [Roles](./career/roles.md)
+  - [Technical skills sheet](./career/technical-skills-sheet.md)
 - [CSS / SCSS Guides](./CSS%20/%20SCSS/)
 - [Code reviews](./code-reviews/)
 - [Dockerizing](./docker/)
