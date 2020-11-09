@@ -61,8 +61,6 @@ Here are some examples of other career ladders:
 
 #### Impactful
 - [ ] Capable of providing support for their area, including systems they are not familiar with.
-- [ ] Requires minimal guidance from seniors and can help unblock juniors when
-  necessary.
 
 #### Simple
 - [ ] Creates simple method / functions that most static code analysers would accept.
@@ -102,6 +100,8 @@ Here are some examples of other career ladders:
 
 #### Impactful
 - [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
+- [ ] Requires minimal guidance from seniors and can help unblock juniors when
+  necessary.
 - [ ] Proactively seeks out to unblock colleagues when they are struggling with
   a task.
 - [ ] Has a track record of embracing big challenges and turning them into
