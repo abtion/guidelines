@@ -22,9 +22,9 @@ Here are some examples of other career ladders:
 
 ## Dev Values: Impactful, Simple, Test-Driven, Iterative, Communicative, Respectful, Skilled
 
-### Level 1
+### Level 1 - Associate Software Engineer
 #### Impactful
-- [ ] Contributes positively to the development of one or multiple apps.
+- [ ] Consistently completes work on a task-level within one or multiple apps.
 
 #### Simple
 - [ ] Is working on naming variables and learning to extract methods.
@@ -39,6 +39,10 @@ Here are some examples of other career ladders:
 - [ ] Understands red-green-refactor.
 
 #### Communication
+- [ ] Focuses on building strong relationships with their team and direct
+  manager.
+- [ ] Proactively reaches out for help when struggling with a task.
+- [ ] Actively seeks feedback to improve from colleagues and receives it well.
 - [ ] Updates Asana.
 - [ ] Comes prepared for meetings.
 - [ ] Uses time tracking tools and vacation notifications.
@@ -53,10 +57,11 @@ Here are some examples of other career ladders:
 - [ ] Can write code in at least one language.
 - [ ] Broad knowledge of main CS + XP concepts.
 
-### Level 2
+### Level 2 - Software Engineer
 
 #### Impactful
-- [ ] Capable of providing support for their area, including systems they are not familiar with.
+- [ ] Consistently closes tasks in their area of expertise collaborating with
+  less experienced developers.
 
 #### Simple
 - [ ] Creates simple method / functions that most static code analysers would accept.
@@ -73,6 +78,14 @@ Here are some examples of other career ladders:
 - [ ] Delivers working code with each commit.
 
 #### Communication
+- [ ] Understands and can provide a high-level overview of the current milestone
+  of a project.
+- [ ] Focuses on building strong relationships with their team, direct manager,
+  and project manager/product owner.
+- [ ] Identifies unclear requirements and reaches out to relevant stakeholders
+  to clarify issues.
+- [ ] Reliably do what they say they will, and communicates promptly if an issue
+  arises.
 - [ ] Hosts retros.
 - [ ] Can compose a PR and provide feedback on them.
 
@@ -84,11 +97,15 @@ Here are some examples of other career ladders:
 - [ ] Understands what differentiates their favorite language from others. Knows what the language is useful for and when it is not the best option.
 - [ ] Understand where to place logic in their favorite framework.
 
-### Level 3
+### Level 3 - Software Engineer
 
 #### Impactful
 - [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
-- [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
+- [ ] Requires minimal guidance from seniors and can help unblock juniors when
+  necessary.
+- [ ] Distinguishes between what work is relevant now, and what work can be
+  tackled later.
+- [ ] Pushes tasks forward in lack of complete context. Works with uncertainty.
 
 #### Simple
 - [ ] Capable of prioritizing tasks. Avoids getting caught up in unimportant details and focuses on delivering value to the client (avoids bike-shedding).
@@ -108,22 +125,30 @@ Here are some examples of other career ladders:
 - [ ] Uses time management techniques
 
 #### Communication
+- [ ] Understands and can provide a high-level overview of a project.
+- [ ] Consistently facilitates communication with project managers/product
+  owners for one or multiple apps.
 - [ ] Is proficient with pair programming.
 - [ ] Can write user stories.
 - [ ] Can introduce a new member to the project.
 
 #### Respectful teammate
+- [ ] Has taught other developers to pair program.
 - [ ] Actively participates in feedback for team members.
+- [ ] Proactively seeks out to unblock colleagues when they are struggling with
+  a task including those that are outside their area of expertise.
 
 #### Technical skills
 - [ ] Can write code in at least two technical areas (frontend, backend, digital infrastructure). Ensures the completion of the tasks in their two areas of expertise.
 - [ ] Can debug issues occurring across multiple levels of the stack.
 
-### Level 4
+### Level 4 - Senior Software Engineer
 
 #### Impactful
 - [ ] Partners with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
 - [ ] Drives tasks from client research to client acceptance.
+- [ ] Has a track record of embracing big challenges and turning them into
+  successes.
 
 #### Simple
 - [ ] Does not over-optimize. Understands when code is "good-enough".
@@ -141,9 +166,11 @@ Here are some examples of other career ladders:
 - [ ] Well-composed commit narratives in commit flows.
 
 #### Communication
-- [ ] Can help PM cultivate an Asana board.
-- [ ] Understands kanban.
-- [ ] Can teach juniors to pair program.
+- [ ] Understands and can provide a detailed overview of a project.
+- [ ] Focuses on building strong relationships with their team, direct
+  manager, and other seniors across the organization.
+- [ ] Aligns team on expectations.
+- [ ] Cultivates an Asana board with the PM.
 
 #### Respectful teammate
 - [ ] Makes others better through code reviews, thorough documentation, technical guidance, and mentoring.
@@ -154,10 +181,14 @@ Here are some examples of other career ladders:
 - [ ] Demonstrates the ability to succeed in a wide range of complex situations across multiple axes: e.g., scale, uncertainty, interconnectedness.
 - [ ] Researches and proposes new technologies to the team(s).
 
-### Level 5
+### Level 5 - Senior Software Engineer
 
 #### Impactful
 - [ ] Is recognized as a helpful consultant that consistently delivers high-value solutions for real problems.
+- [ ] Reviews projects critically and ensures that they are divided into parts
+  that can be solved in isolation most of the time.
+- [ ] Consistently shows initiative and identifies areas of improvements for
+  themselves and the team.
 
 #### Simple
 - [ ] Creates architecture that enables many potential futures without knowing exactly what the future is.
@@ -175,7 +206,8 @@ Here are some examples of other career ladders:
 - [ ] Can guide an IPM and team reflection.
 
 #### Communication
-- [ ] Aligns team on expectations.
+- [ ] Ensures proactively that the relevant stakeholders are informed if the
+  team is running into issues.
 - [ ] Identifies miscommunications and solves them before they become a problem.
 - [ ] Identifies and proposes strategies around technical problems affecting their team and communicates standards.
 
@@ -188,11 +220,12 @@ Here are some examples of other career ladders:
 - [ ] Sought out for technical guidance.
 - [ ] Anticipates technical issues at a product level and works with design to avoid them.
 
-### Level 6
+### Level 6 - Principal Software Engineer
 
 #### Impactful
-- [ ] Has made an obvious positive impact on the entire company's technical trajectory.
-- [ ] Focused on and responsible for their team's productivity and growth.
+- [ ] Plays a key role in the technical direction of the company and has
+  introduced positive changes across multiple teams.
+- [ ] Focuses on the growth of their team's productivity and career.
 
 #### Simple
 - [ ] Has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
@@ -212,7 +245,8 @@ Here are some examples of other career ladders:
 - [ ] Brings new working-methods that improve team performance.
 
 #### Communication
-- [ ] Works to define tasks in Asana and can mentor juniors in defining them.
+- [ ] Provides executives with high-level guidance on technical decisions when
+  necessary.
 - [ ] Can collaborate with a client about estimates and prioritization.
 
 #### Respectful teammate
