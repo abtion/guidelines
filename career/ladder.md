@@ -25,10 +25,6 @@ Here are some examples of other career ladders:
 ### Level 1 - Associate Software Engineer
 #### Impactful
 - [ ] Consistently completes work on a task-level within one or multiple apps.
-- [ ] Focuses on building strong relationships with their team and direct
-  manager.
-- [ ] Proactively reaches out for help when struggling with a task.
-- [ ] Actively seeks feedback to improve from colleagues and receives it well.
 
 #### Simple
 - [ ] Is working on naming variables and learning to extract methods.
@@ -43,6 +39,10 @@ Here are some examples of other career ladders:
 - [ ] Understands red-green-refactor.
 
 #### Communication
+- [ ] Focuses on building strong relationships with their team and direct
+  manager.
+- [ ] Proactively reaches out for help when struggling with a task.
+- [ ] Actively seeks feedback to improve from colleagues and receives it well.
 - [ ] Updates Asana.
 - [ ] Comes prepared for meetings.
 - [ ] Uses time tracking tools and vacation notifications.
@@ -61,14 +61,6 @@ Here are some examples of other career ladders:
 
 #### Impactful
 - [ ] Capable of providing support for their area, including systems they are not familiar with.
-- [ ] Understands and can provide a high-level overview of the current milestone
-  of a project.
-- [ ] Focuses on building strong relationships with their team, direct manager,
-  and project manager/product owner.
-- [ ] Identifies unclear requirements and reaches out to relevant stakeholders
-  to clarify issues.
-- [ ] Reliably do what they say they will, and communicates promptly if an issue
-  arises.
 - [ ] Requires minimal guidance from seniors and can help unblock juniors when
   necessary.
 
@@ -87,6 +79,14 @@ Here are some examples of other career ladders:
 - [ ] Delivers working code with each commit.
 
 #### Communication
+- [ ] Understands and can provide a high-level overview of the current milestone
+  of a project.
+- [ ] Focuses on building strong relationships with their team, direct manager,
+  and project manager/product owner.
+- [ ] Identifies unclear requirements and reaches out to relevant stakeholders
+  to clarify issues.
+- [ ] Reliably do what they say they will, and communicates promptly if an issue
+  arises.
 - [ ] Hosts retros.
 - [ ] Can compose a PR and provide feedback on them.
 
@@ -102,9 +102,6 @@ Here are some examples of other career ladders:
 
 #### Impactful
 - [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
-- [ ] Understands and can provide a high-level overview of a project.
-- [ ] Consistently facilitates communication with project managers/product
-  owners for one or multiple apps.
 - [ ] Proactively seeks out to unblock colleagues when they are struggling with
   a task.
 - [ ] Has a track record of embracing big challenges and turning them into
@@ -128,6 +125,9 @@ Here are some examples of other career ladders:
 - [ ] Uses time management techniques
 
 #### Communication
+- [ ] Understands and can provide a high-level overview of a project.
+- [ ] Consistently facilitates communication with project managers/product
+  owners for one or multiple apps.
 - [ ] Is proficient with pair programming.
 - [ ] Can write user stories.
 - [ ] Can introduce a new member to the project.
@@ -144,9 +144,6 @@ Here are some examples of other career ladders:
 #### Impactful
 - [ ] Partners with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
 - [ ] Drives tasks from client research to client acceptance.
-- [ ] Understands and can provide a detailed overview of a project.
-- [ ] Focuses on building strong relationships with their team, direct
-  manager, and other seniors across the organization.
 
 #### Simple
 - [ ] Does not over-optimize. Understands when code is "good-enough".
@@ -164,6 +161,9 @@ Here are some examples of other career ladders:
 - [ ] Well-composed commit narratives in commit flows.
 
 #### Communication
+- [ ] Understands and can provide a detailed overview of a project.
+- [ ] Focuses on building strong relationships with their team, direct
+  manager, and other seniors across the organization.
 - [ ] Can help PM cultivate an Asana board.
 - [ ] Understands kanban.
 - [ ] Can teach juniors to pair program.
@@ -185,8 +185,6 @@ Here are some examples of other career ladders:
   that can be solved in isolation most of the time.
 - [ ] Consistently shows initiative and identifies areas of improvements for
   themselves and the team.
-- [ ] Ensures proactively that the relevant stakeholders are informed if the
-  team is running into issues.
 
 #### Simple
 - [ ] Creates architecture that enables many potential futures without knowing exactly what the future is.
@@ -204,6 +202,8 @@ Here are some examples of other career ladders:
 - [ ] Can guide an IPM and team reflection.
 
 #### Communication
+- [ ] Ensures proactively that the relevant stakeholders are informed if the
+  team is running into issues.
 - [ ] Aligns team on expectations.
 - [ ] Identifies miscommunications and solves them before they become a problem.
 - [ ] Identifies and proposes strategies around technical problems affecting their team and communicates standards.
@@ -223,8 +223,6 @@ Here are some examples of other career ladders:
 - [ ] Plays a key role in the technical direction of the company and has
   introduced positive changes across multiple teams.
 - [ ] Focuses on the growth of their team's productivity and career.
-- [ ] Provides executives with high-level guidance on technical decisions when
-  necessary.
 
 #### Simple
 - [ ] Has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
@@ -244,6 +242,8 @@ Here are some examples of other career ladders:
 - [ ] Brings new working-methods that improve team performance.
 
 #### Communication
+- [ ] Provides executives with high-level guidance on technical decisions when
+  necessary.
 - [ ] Works to define tasks in Asana and can mentor juniors in defining them.
 - [ ] Can collaborate with a client about estimates and prioritization.
 
