@@ -60,7 +60,8 @@ Here are some examples of other career ladders:
 ### Level 2 - Software Engineer
 
 #### Impactful
-- [ ] Capable of providing support for their area, including systems they are not familiar with.
+- [ ] Consistently closes tasks in their area of expertise collaborating with
+  less experienced developers.
 
 #### Simple
 - [ ] Creates simple method / functions that most static code analysers would accept.
@@ -102,10 +103,9 @@ Here are some examples of other career ladders:
 - [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
 - [ ] Requires minimal guidance from seniors and can help unblock juniors when
   necessary.
-- [ ] Proactively seeks out to unblock colleagues when they are struggling with
-  a task.
-- [ ] Has a track record of embracing big challenges and turning them into
-  successes.
+- [ ] Distinguishes between what work is relevant now, and what work can be
+  tackled later.
+- [ ] Pushes tasks forward in lack of complete context. Works with uncertainty.
 
 #### Simple
 - [ ] Capable of prioritizing tasks. Avoids getting caught up in unimportant details and focuses on delivering value to the client (avoids bike-shedding).
@@ -133,7 +133,10 @@ Here are some examples of other career ladders:
 - [ ] Can introduce a new member to the project.
 
 #### Respectful teammate
+- [ ] Has taught other developers to pair program.
 - [ ] Actively participates in feedback for team members.
+- [ ] Proactively seeks out to unblock colleagues when they are struggling with
+  a task including those that are outside their area of expertise.
 
 #### Technical skills
 - [ ] Can write code in at least two technical areas (frontend, backend, digital infrastructure). Ensures the completion of the tasks in their two areas of expertise.
@@ -144,6 +147,8 @@ Here are some examples of other career ladders:
 #### Impactful
 - [ ] Partners with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
 - [ ] Drives tasks from client research to client acceptance.
+- [ ] Has a track record of embracing big challenges and turning them into
+  successes.
 
 #### Simple
 - [ ] Does not over-optimize. Understands when code is "good-enough".
@@ -164,9 +169,8 @@ Here are some examples of other career ladders:
 - [ ] Understands and can provide a detailed overview of a project.
 - [ ] Focuses on building strong relationships with their team, direct
   manager, and other seniors across the organization.
-- [ ] Can help PM cultivate an Asana board.
-- [ ] Understands kanban.
-- [ ] Can teach juniors to pair program.
+- [ ] Aligns team on expectations.
+- [ ] Cultivates an Asana board with the PM.
 
 #### Respectful teammate
 - [ ] Makes others better through code reviews, thorough documentation, technical guidance, and mentoring.
@@ -204,7 +208,6 @@ Here are some examples of other career ladders:
 #### Communication
 - [ ] Ensures proactively that the relevant stakeholders are informed if the
   team is running into issues.
-- [ ] Aligns team on expectations.
 - [ ] Identifies miscommunications and solves them before they become a problem.
 - [ ] Identifies and proposes strategies around technical problems affecting their team and communicates standards.
 
@@ -244,7 +247,6 @@ Here are some examples of other career ladders:
 #### Communication
 - [ ] Provides executives with high-level guidance on technical decisions when
   necessary.
-- [ ] Works to define tasks in Asana and can mentor juniors in defining them.
 - [ ] Can collaborate with a client about estimates and prioritization.
 
 #### Respectful teammate
