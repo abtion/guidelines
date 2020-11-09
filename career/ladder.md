@@ -220,7 +220,7 @@ Here are some examples of other career ladders:
 ### Level 6 - Principal Software Engineer
 
 #### Impactful
-- [ ] Plays a key role of the technical direction of the company and has
+- [ ] Plays a key role in the technical direction of the company and has
   introduced positive changes across multiple teams.
 - [ ] Focuses on the growth of their team's productivity and career.
 - [ ] Provides executives with high-level guidance on technical decisions when
