@@ -54,7 +54,7 @@ Here are some examples of other career ladders:
 #### Technical skills
 - [ ] Knows about the three main sections of a Git project(working, staging, repository) as well as the most common commands(commit, pull, push)
 - [ ] Uses a common linter such as rubocop
-- [ ] Can write code in at least one language.
+- [ ] Writes code in at least one language.
 - [ ] Broad knowledge of main CS + XP concepts.
 
 ### Level 2 - Software Engineer
@@ -73,6 +73,7 @@ Here are some examples of other career ladders:
 - [ ] Refactors test code: extracts methods, breaks up long tests
 - [ ] Uses evident data in tests.
 - [ ] Understands the tradeoff between test isolation and test speed.
+- [ ] Starts practicing spiking if they don't know how to test something. Then sets the spike aside once a general path is understood and writes from scratch TDD.
 
 #### Iterative
 - [ ] Delivers working code with each commit.
@@ -111,14 +112,14 @@ Here are some examples of other career ladders:
 - [ ] Capable of prioritizing tasks. Avoids getting caught up in unimportant details and focuses on delivering value to the client (avoids bike-shedding).
 
 #### Test-driven
+- [ ] Performs TDD over Test Last (TLD) nearly all the time.
 - [ ] Can start a project from scratch and set up testing frameworks.
-- [ ] Has an opinion about which frameworks to use.
 - [ ] Can mock HTTP requests and understands where these tests will potentially fail.
-- [ ] Can integrate with CI.
-- [ ] Moves from TFD to TFD+Refactor = TDD
+- [ ] Has integrated projects with CI.
 - [ ] Breaks systems into small testable units.
 - [ ] Can write tests at different levels (end to end, integration, unit)
 - [ ] Correctly sets boundary conditions when testing.
+- [ ] Cares about test speed. Can implement parallelization but knows why that's a bandaid. Seeks to keep the test suite under a minute.
 
 #### Iterative
 - [ ] Works with red-green-refactor.
@@ -130,7 +131,7 @@ Here are some examples of other career ladders:
   owners for one or multiple apps.
 - [ ] Is proficient with pair programming.
 - [ ] Can write user stories.
-- [ ] Can introduce a new member to the project.
+- [ ] Introduces new members to the project.
 
 #### Respectful teammate
 - [ ] Has taught other developers to pair program.
@@ -151,16 +152,17 @@ Here are some examples of other career ladders:
   successes.
 
 #### Simple
-- [ ] Does not over-optimize. Understands when code is "good-enough".
-- [ ] Understands the tradeoffs between technical, analytical, and product needs and leads to solutions that take all of these needs into account.
+- [ ] Has a long track of delivering value to the client, finding the right balance between maintenance work and delivering features. They are recognized as someone who can solve a bottleneck when needed or reduce technical debt.
+- [ ] Consistently demonstrates an understanding of the tradeoffs between technical, analytical, and product needs and leads to solutions that take all of these needs into account.
 
 #### Test-driven
+- [ ] Has tested challenging parts of the codebase as third party integrations and SSO.
 - [ ] Uses testing pain as a prompt to write better code.
-- [ ] Starts practicing spiking if they don't know how to test something. Then sets the spike aside once a general path is understood and writes from scratch TDD.
 - [ ] Makes use of stubbing and mocking/understands tradeoffs of hitting the DB.
 - [ ] Values and can speak to examples of high cohesion, low coupling.
-- [ ] Cares about test speed. Can implement parallelization but knows why that's a bandaid. Seeks to keep the test suite under a minute.
-- [ ] Can run the test for the code they are working on "right now" in under a second.
+- [ ] Frequently works with other engineers to reinforce a culture of testing and TDD.
+- [ ] Identifies tests that are hard to maintain and fixes them proactively.
+- [ ] Writes performance tests
 
 #### Iterative
 - [ ] Well-composed commit narratives in commit flows.
@@ -170,16 +172,19 @@ Here are some examples of other career ladders:
 - [ ] Focuses on building strong relationships with their team, direct
   manager, and other seniors across the organization.
 - [ ] Aligns team on expectations.
-- [ ] Cultivates an Asana board with the PM.
+- [ ] PMs recognize them as someone who keeps the Asana board relevant. Internally, they act as PMs when needed.
+- [ ] Have taught several developers to pair program.
 
 #### Respectful teammate
 - [ ] Makes others better through code reviews, thorough documentation, technical guidance, and mentoring.
 - [ ] Communicate with PMs when goals are unattainable.
 - [ ] Understands the difficulties that the team is going through and helps how they can.
+- [ ] Respects the right of junior team members to own parts of the code.
 
 #### Technical skills
 - [ ] Demonstrates the ability to succeed in a wide range of complex situations across multiple axes: e.g., scale, uncertainty, interconnectedness.
 - [ ] Researches and proposes new technologies to the team(s).
+- [ ] Is known as a go-to expert in one area of technology: e.g. browser rendering or TDD.
 
 ### Level 5 - Senior Software Engineer
 
@@ -192,18 +197,16 @@ Here are some examples of other career ladders:
 
 #### Simple
 - [ ] Creates architecture that enables many potential futures without knowing exactly what the future is.
-- [ ] Understands the broad architecture of the entire system and are capable of explaining the technical decisions taken by the team.
+- [ ] Understands the broad architecture of the entire system and is capable of explaining the technical decisions taken by the team.
 
 #### Test-driven
-- [ ] Performs TDD over Test Last (TLD) nearly all the time.
-- [ ] Can speak from experience on how TDD influences class design.
 - [ ] Writes tests in multiple languages
-- [ ] Writes performance tests
+- [ ] Can speak from experience on how TDD influences class design.
 - [ ] Able to identify and be comfortable deleting tests that no longer add value
-- [ ] Thinks about [F.I.R.S.T](https://github.com/ghsukumar/SFDC_Best_Practices/wiki/F.I.R.S.T-Principles-of-Unit-Testing) tests
+- [ ] Thinks about [F.I.R.S.T](https://tasdikrahman.me/2019/03/13/f-i-r-s-t-principles-of-testing/) tests
 
 #### Iterative
-- [ ] Can guide an IPM and team reflection.
+- [ ] Has guided IPMs for a long period of time. Internally, they are known as someone who drives projects. 
 
 #### Communication
 - [ ] Ensures proactively that the relevant stakeholders are informed if the
@@ -216,7 +219,7 @@ Here are some examples of other career ladders:
 - [ ] Does not take "all" responsibilities. They let their teammates take the responsibilities they care about.
 
 #### Technical skills
-- [ ] Breaks down complex projects into simple systems that can be effectively built and maintained by less experienced developers.
+- [ ] Has turned around highly complex projects so that less experienced developers could collaborate on them. They are recognized for someone who knows how to transform a legacy system into a successful project.
 - [ ] Sought out for technical guidance.
 - [ ] Anticipates technical issues at a product level and works with design to avoid them.
 
@@ -228,32 +231,34 @@ Here are some examples of other career ladders:
 - [ ] Focuses on the growth of their team's productivity and career.
 
 #### Simple
-- [ ] Has a clear understanding of long term maintenance costs and tradeoffs related to simplifying code
-- [ ] Consistently able to reduce the complexity of projects, services, and processes to get more done with less work.
-- [ ] Excels at getting the team to focus on delivering high-impact projects
+- [ ] Has solved bottlenecks in several projects throughout the years, making themselves replaceable after a planned period of time.
+- [ ] Has mentored several teams on how to reduce the complexity of projects, services, and processes to get more done with less work.
+- [ ] Excels at getting teams to focus on delivering high-impact value on the projects they mentor.
 
 #### Test-driven
-- [ ] Understands the cost of maintaining tests.
-- [ ] Can answer philosophical/economic questions like: was that test worth it for the business? Should e2e tests be run in multiple browsers if we support multiple browsers with the product? Why or why not?
-- [ ] Can facilitate dialog around reduced costs of implementation or maintenance with a team.
-- [ ] Identifies tests that are hard to maintain and fixes them proactively.
-- [ ] Frequently works with junior and intermediate engineers to reinforce a culture of testing and TDD.
-- [ ] Can support PMs in explaining the long term benefits of testing on client projects.
+- [ ] Has succesfully laid out the test strategy on legacy projects. Has changed systems from unreliable to reliable. 
+- [ ] Answers philosophical/economic questions like: was that test worth it for the business? Should e2e tests be run in multiple browsers if we support multiple browsers with the product? Why or why not?
+- [ ] Facilitates dialog around reduced costs of implementation or maintenance with a team.
+- [ ] Supports PMs in explaining the long term benefits of testing on client projects.
 - [ ] Implements security tests.
 
 #### Iterative
-- [ ] Brings new working-methods that improve team performance.
+- [ ] Has brought several new working-methods that dramatically improve the overall company performance.
 
 #### Communication
 - [ ] Provides executives with high-level guidance on technical decisions when
   necessary.
-- [ ] Can collaborate with a client about estimates and prioritization.
+- [ ] Collaborates with sales about high-level estimates and prioritization.
+- [ ] Has a long track of understanding the root cause of complex situations and building a roadmap that the team can follow.
+- [ ] Provides executives with high-level guidance on technical decisions when
+  necessary.
+- [ ] Collaborates with a client and sales about high-level estimates and prioritization.
+- [ ] Collaborate with sales about high-level estimates and prioritization.
+- [ ] Has a long track of understanding the root cause of complex situations and building a roadmap that the team can follow.
 
 #### Respectful teammate
-- [ ] Respects the right of junior team members to own parts of the code.
-- [ ] Can effectively run and explain 360 reviews.
+- [ ] Mentors other engineers to reach their level (and pass them).
 
 #### Technical skills
-- [ ] Is recognized for high quality, impactful technical contributions.
-- [ ] Go to expert in one area of technology: fx browser rendering or TDD.
+- [ ] Recognized for high-quality, impactful technical contributions.
 - [ ] Has a record of creating improvements in stability or performance for company-critical projects.
