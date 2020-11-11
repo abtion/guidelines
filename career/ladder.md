@@ -102,7 +102,7 @@ Here are some examples of other career ladders:
 
 #### Impactful
 - [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
-- [ ] Requires minimal guidance from seniors and can help unblock juniors when
+- [ ] Requires minimal guidance from seniors and can help unblock other developers when
   necessary.
 - [ ] Distinguishes between what work is relevant now, and what work can be
   tackled later.
