@@ -248,13 +248,9 @@ Here are some examples of other career ladders:
 #### Communication
 - [ ] Provides executives with high-level guidance on technical decisions when
   necessary.
-- [ ] Collaborates with sales about high-level estimates and prioritization.
-- [ ] Has a long track of understanding the root cause of complex situations and building a roadmap that the team can follow.
-- [ ] Provides executives with high-level guidance on technical decisions when
-  necessary.
 - [ ] Collaborates with a client and sales about high-level estimates and prioritization.
 - [ ] Collaborate with sales about high-level estimates and prioritization.
-- [ ] Has a long track of understanding the root cause of complex situations and building a roadmap that the team can follow.
+- [ ] Has a long track record of creating a plan to simplify complex apps, that the team can implement.      
 
 #### Respectful teammate
 - [ ] Mentors other engineers to reach their level (and pass them).
