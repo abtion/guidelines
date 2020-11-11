@@ -89,7 +89,7 @@ Here are some examples of other career ladders:
   arises.
 - [ ] Hosts retros.
 - [ ] Can compose a PR and provide feedback on them.
-- [ ] Reliably tracks time on the appropriate category. Clarify with the relevant PM when needed and communicates with the team to ensure that time tracking is consistent.
+- [ ] Reliably tracks time on the appropriate category. Clarifies with the relevant PM when needed and communicates with the team to ensure that time tracking is consistent.
 
 #### Respectful teammate
 - [ ] Shows respect for client goals
