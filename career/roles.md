@@ -57,3 +57,40 @@ The following descriptions are indications of what is expecting of a person havi
 ### Administration
 - Budget
 - Strategy planning
+
+## Jesper Sørensen - Principal Engineer
+### Guiding stars for the role
+- Teach leadership and coaching
+- Responsible for tools
+- Architectural overview and direction
+- Cross-organizational mindset
+- Focus on developer experience
+- Scalability and security
+- Client value focus
+
+### Responsibilities
+### On-project
+- Be an ambassador for our development culture.
+- Balance refactoring and delivering when coding, planning and mentoring.
+- Help to solve difficult challenges. Including hands-on coding and taking architectural decisions.
+- Report about projects’ needs together with project leads.
+- Turn around highly complex projects so that less experienced developers can collaborate on them.
+- Coach developers on how to use the established technology to solve the problems..
+- Improve developer experience (DX).
+- Work with “project lead developers” on architectural decisions.
+- Work with “project lead developers” on technology usage and tooling for the project.
+
+### Technology & Product
+- Maximize tools efficiency.
+  - Project templates.
+  - Software (editors, collaboration, development environments).
+  - Remote pairing equipment.
+- Part of “Tech Leaders” group.
+- Ensure good developer experience (DX) across multiple projects.
+- Ensure maximum value for the client (in collaboration with CTO).
+- Ensure code quality/test coverage.
+
+
+### Usage of time
+- 80% On-project
+- 20% Technology & Product
