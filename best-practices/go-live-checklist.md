@@ -11,4 +11,4 @@
 ## If a new domain is being used
 
 - [ ] DMARC must be configured with policy reject.
-- [ ] Check with the client whether they are going to send out mails using this new domain as `from`.
+- [ ] Check with the client whether they are going to send out mails using this new domain as `from` (with other services than the app we have just made), if so, have them check their mails with mail-tester.com.
