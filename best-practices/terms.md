@@ -10,7 +10,7 @@ git branch -b main
 git push -u origin main
 ```
 
-- [ ] On GitHub, go to **Settings** &rarr; **Branches**, and set `main` as the default branch.
+- [ ] On GitHub, go to **Settings** &rarr; **Branches**, and set `main` as the default branch and rename the branch protection rule.
 - [ ] Change the base on existing pull requests
 - [ ] Search and Replace `master` in the project (README.md, etc.)
 - [ ] If automatic deployments are turned on, remember to update the branch.
