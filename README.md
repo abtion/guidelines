@@ -20,7 +20,7 @@
 
 ## Philosophy
 
-The guidelines are extracted from real problems we encountered and the solutions we have found along the way. These guidelines should be used as a default unless there is a good reason against it.
+The guidelines are extracted from real issues we encountered and the solutions we have found along the way. These guidelines should be used as a default unless there is a good reason against it.
 
 ## Contribute
 
