@@ -22,6 +22,7 @@ There are countless ways to collect data about your users. Whichever methods you
 
 - Primary research
 - Secondary research
+- Evaluative design research
 
 ### Primary research
 Primary design research is when you (or your team) go directly to the source (the users of the product you are building) to ask questions and gather data. Examples of primary research are focus groups, usability sessions, surveys, and interviews. 
