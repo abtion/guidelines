@@ -4,7 +4,7 @@ Design research is a critical measure in solving the real problem and creating t
 ## What is design research?
 Design research is a user-centered approach that focuses on the “why” behind user behavior and interaction and  helps you answer questions like:
 
-## Who are our users?
+- Who are our users?
 - What problems are they facing?
 - How are they going to use this product?
 
