@@ -17,6 +17,7 @@
   - [Selector and how we use them in Abtion](./javascript/selectors.md)
 - [Preferred Services](./services/)
 - [WordPress setup](./wordpress/)
+- [Handbook_WIP](./handbook/)
 
 ## Philosophy
 
