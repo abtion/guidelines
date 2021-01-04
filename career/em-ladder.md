@@ -36,8 +36,8 @@ make pull requests with suggestions for improvements.
 - [ ] Manages compensation changes and promotions in collaboration with the CTO.
 - [ ] Coordinates vacation with the direct report, product manager, traffic
   manager, or other relevant parties.
-- [ ] Manages the development budget for direct reports and assists them with
-  practical matters when necessary.
+- [ ] Approves/suggests uses of the direct report's development budget and
+  assists them with practical matters when necessary.
 - [ ] Runs yearly 360 reviews with their direct reports.
 - [ ] Partners closely with the CTO to set the direction for the team and
   proactively provides updates on progress.
