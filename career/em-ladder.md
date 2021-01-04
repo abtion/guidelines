@@ -13,9 +13,7 @@ make pull requests with suggestions for improvements.
 
 ## Level 3: Associate Engineering Manager
 ### Impactful
-- [ ] Manages a set of people consisting of four to five direct reports.
-- [ ] Has the required maturity to manage individual contributors at a higher
-  skill level than themselves.
+- [ ] Manages a set of people consisting of approximately two direct reports.
 - [ ] Identifies growth opportunities for their direct reports and proactively
   ensures that these opportunities are pursued.
 - [ ] Adjusts processes and practices regularly to maximize the efficiency and
@@ -30,8 +28,6 @@ make pull requests with suggestions for improvements.
   progress.
 - [ ] Coaches developers on how to set goals that push them out of their comfort
   zone and assists them in succeeding.
-- [ ] Deals with performance issues and misaligned expectations and understands
-  their role in bringing an employee back on track.
 - [ ] Empowers direct reports to own their work.
 - [ ] Ensures direct reports are aware of growth and learning opportunities and
   helps them leverage these.
@@ -53,8 +49,6 @@ make pull requests with suggestions for improvements.
 ### Communication and facilitation
 - [ ] Attends early meetings with clients to set realistic expectations with
   sales and the client.
-- [ ] Uses their experience to identify headcount needs when planning new
-  projects.
 - [ ] Communicates strategy and progress within the team and to external
   stakeholders.
 - [ ] Encourages effective meetings with clear agendas/purpose and actions.
@@ -64,7 +58,24 @@ make pull requests with suggestions for improvements.
   relevant parties.
 
 ## Level 4: Engineering Manager
+### Impactful
+- [ ] Manages a set of people consisting of approximately four direct reports.
+- [ ] Has the required maturity to manage individual contributors at a higher
+  skill level than themselves.
+
+### Coaching and mentoring
+- [ ] Deals with performance issues and misaligned expectations and understands
+  their role in bringing an employee back on track.
+
+### Management/HR
 - TBD.
+
+## Technical skills
+- TBD.
+
+### Communication and facilitation
+- [ ] Uses their experience to identify headcount needs when planning new
+  projects.
 
 ## Level 5: Engineering Manager
 - TBD.
