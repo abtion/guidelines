@@ -8,6 +8,14 @@ before they can transition into a role as an Engineering Manager. This is
 required as we believe it is important that you have grown your technical
 skills to a certain level before you start leading highly technical individuals.
 
+Engineering managers are expected to be able to check off most items under
+"Impactful", "Simple", "Communication" and "Respectful teammate" for the
+corresponding level in the [IC career
+ladder](https://github.com/abtion/guidelines/blob/main/career/ladder.md).
+Although you will not be evaluated on your ability to test highly complex logic,
+we believe testing is an essential engineering practice that you will continue
+honing and teaching.
+
 While the engineering management track includes non-development tasks, it is
 worth pointing out that most of your time will still be spent on development and
 other client-focused work. You will gradually spend more time on managerial
