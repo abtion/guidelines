@@ -23,6 +23,13 @@ Here are some examples of other career ladders:
 ## Dev Values: Impactful, Simple, Test-Driven, Iterative, Communicative, Respectful, Skilled
 
 ### Level 1 - Associate Software Engineer
+As an Associate Software Engineer, you demonstrate an ability to complete work
+on a task-level in one or multiple apps and an eagerness to learn and grow. You
+deliver working and well-tested code persistently, and you can identify when to
+reach out to more senior developers for guidance. Your colleagues recognize you
+for your clear growth mindset and your consistent focus on delivering business
+value.
+
 #### Impactful
 - [ ] Consistently completes work on a task-level within one or multiple apps.
 
@@ -58,6 +65,14 @@ Here are some examples of other career ladders:
 - [ ] Broad knowledge of main CS + XP concepts.
 
 ### Level 2 - Software Engineer
+As a Software Engineer, you reliably execute work and drive tasks in your area
+of expertise in collaboration with less experienced developers. You have an
+overview that allows you to always contextualize your work within the current
+milestone of a project, and you understand the strengths and weaknesses of
+different technologies. You use this understanding to your advantage when
+building new solutions for a client to provide business value faster. Product
+managers can confidently rely on you to identify unclear requirements and your
+ability to communicate promptly when issues arise.
 
 #### Impactful
 - [ ] Consistently closes tasks in their area of expertise collaborating with
@@ -100,6 +115,13 @@ Here are some examples of other career ladders:
 - [ ] Understand where to place logic in their favorite framework.
 
 ### Level 3 - Software Engineer
+As a Software Engineer, you display a maturity that permeates every aspect of
+your work. You can handle work independently with close to no guidance from
+seniors, and you proactively unblock juniors when necessary. Your expertise in
+two areas or more is clear to your team, and you understand how to navigate
+several layers of the technical stack with ease. Product managers recognize you
+for your ability to prioritize work and distinguish unimportant details from
+critical tasks that deliver value to the client.
 
 #### Impactful
 - [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
@@ -145,6 +167,11 @@ Here are some examples of other career ladders:
 - [ ] Can debug issues occurring across multiple levels of the stack.
 
 ### Level 4 - Senior Software Engineer
+As a Senior Software Engineer, you consistently show an ability to handle highly
+complex technical challenges across multiple axes without guidance. Your
+technical decisions are always guided by data and based on the highest value for
+all relevant parties. Your contributions are based on several years of experience where you had the chance to see the long-term effects on solutions you've designed and built. Product managers can rely on you when estimating the scale of a larger product, and your track record of turning big challenges into
+successes is apparent to the entire organization.
 
 #### Impactful
 - [ ] Partners with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
@@ -188,6 +215,12 @@ Here are some examples of other career ladders:
 - [ ] Is known as a go-to expert in one area of technology: e.g. browser rendering or TDD.
 
 ### Level 5 - Senior Software Engineer
+As a Senior Software Engineer, you demonstrate that you are able to lead your
+team from initial client meeting to delivery, and product managers trust you in
+assisting them on a day-to-day basis. Your team recognizes you as a strong
+technical leader that proactively identifies and clarifies issues whether
+technical or business-related, and you consistently deliver high-value solutions
+that are well-architected and can be easily maintained over time.
 
 #### Impactful
 - [ ] Is recognized as a helpful consultant that consistently delivers high-value solutions for real problems.
@@ -225,6 +258,14 @@ Here are some examples of other career ladders:
 - [ ] Anticipates technical issues at a product level and works with design to avoid them.
 
 ### Level 6 - Principal Software Engineer
+As a Principal Software Engineer, you play a critical role in how engineering at
+Abtion operates, and have a significant ownership in areas such as tooling,
+scalability, security, processes, design etc. Throughout your long career at
+Abtion, you have established yourself as a technical leader with a
+cross-organizational mindset and a strong working relationship with other
+stakeholders in the company. Your technical prowess is clear, and you have
+driven impactful technical contributions consistently that set good examples for
+how products should be built.
 
 #### Impactful
 - [ ] Plays a key role in the technical direction of the company and has
