@@ -24,7 +24,7 @@ Here are some examples of other career ladders:
 
 ### Level 1 - Associate Software Engineer
 As an Associate Software Engineer, you demonstrate an ability to complete work
-on a task-level in one or multiple apps, and not at least an eagerness to learn
+on a task-level in one or multiple apps and not at least an eagerness to learn
 and grow. You deliver working and well-tested code persistently, and you can
 identify when to reach out to more senior developers for guidance. Your
 colleagues recognize you for your clear growth mindset and your consistent focus
