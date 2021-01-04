@@ -78,10 +78,49 @@ make pull requests with suggestions for improvements.
   projects.
 
 ## Level 5: Engineering Manager
+### Impactful
+- TBD.
+
+### Coaching and mentoring
+- TBD.
+
+### Management/HR
+- TBD.
+
+## Technical skills
+- TBD.
+
+### Communication and facilitation
 - TBD.
 
 ## Level 6: Senior Engineering Manager
+### Impactful
+- TBD.
+
+### Coaching and mentoring
+- TBD.
+
+### Management/HR
+- TBD.
+
+## Technical skills
+- TBD.
+
+### Communication and facilitation
 - TBD.
 
 ## Level 7: Senior Engineering Manager
+### Impactful
+- TBD.
+
+### Coaching and mentoring
+- TBD.
+
+### Management/HR
+- TBD.
+
+## Technical skills
+- TBD.
+
+### Communication and facilitation
 - TBD.
