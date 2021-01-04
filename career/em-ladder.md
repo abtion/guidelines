@@ -72,7 +72,8 @@ make pull requests with suggestions for improvements.
 
 ## Level 5: Engineering Manager
 ### Impactful
-- TBD.
+- [ ] Manages a set of people consisting of approximately six to eight direct
+  reports.
 
 ### Coaching and mentoring
 - TBD.
@@ -85,7 +86,8 @@ make pull requests with suggestions for improvements.
 
 ## Level 6: Senior Engineering Manager
 ### Impactful
-- TBD.
+- [ ] Manages a set of people consisting of approximately eight or more direct
+  reports.
 
 ### Coaching and mentoring
 - TBD.
