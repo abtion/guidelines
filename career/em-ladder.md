@@ -42,10 +42,6 @@ make pull requests with suggestions for improvements.
 - [ ] Partners closely with the CTO to set the direction for the team and
   proactively provides updates on progress.
 
-## Technical skills
-- [ ] Focuses on implementing features and bug fixes without blocking the team.
-- [ ] Sets high technical standards but knows when to make pragmatic tradeoffs.
-
 ### Communication and facilitation
 - [ ] Attends early meetings with clients to set realistic expectations with
   sales and the client.
@@ -70,9 +66,6 @@ make pull requests with suggestions for improvements.
 ### Management/HR
 - TBD.
 
-## Technical skills
-- TBD.
-
 ### Communication and facilitation
 - [ ] Uses their experience to identify headcount needs when planning new
   projects.
@@ -85,9 +78,6 @@ make pull requests with suggestions for improvements.
 - TBD.
 
 ### Management/HR
-- TBD.
-
-## Technical skills
 - TBD.
 
 ### Communication and facilitation
@@ -103,9 +93,6 @@ make pull requests with suggestions for improvements.
 ### Management/HR
 - TBD.
 
-## Technical skills
-- TBD.
-
 ### Communication and facilitation
 - TBD.
 
@@ -117,9 +104,6 @@ make pull requests with suggestions for improvements.
 - TBD.
 
 ### Management/HR
-- TBD.
-
-## Technical skills
 - TBD.
 
 ### Communication and facilitation
