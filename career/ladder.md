@@ -168,8 +168,7 @@ critical tasks that deliver value to the client.
 As a Senior Software Engineer, you consistently show an ability to handle highly
 complex technical challenges across multiple axes without guidance. Your
 technical decisions are always guided by data and based on the highest value for
-all relevant parties. Product managers can rely on you when estimating the scale
-of a larger product, and your track record of turning big challenges into
+all relevant parties. Your contributions are based on several years of experience where you had the chance to see the long-term effects on solutions you've designed and built. Product managers can rely on you when estimating the scale of a larger product, and your track record of turning big challenges into
 successes is apparent to the entire organization.
 
 #### Impactful
