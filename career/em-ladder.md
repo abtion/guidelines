@@ -11,7 +11,7 @@ skills to a certain level before you start leading highly technical individuals.
 Any feedback on this career ladder is appreciated, and we encourage that you
 make pull requests with suggestions for improvements.
 
-## Level 1
+## Level 3: Associate Engineering Manager
 ### Impactful
 - [ ] Manages a set of people consisting of four to five direct reports.
 - [ ] Has the required maturity to manage individual contributors at a higher
@@ -63,14 +63,14 @@ make pull requests with suggestions for improvements.
 - [ ] Ensures new hires are onboarded successfully in collaboration with
   relevant parties.
 
-## Level 2
+## Level 4: Engineering Manager
 - TBD.
 
-## Level 3
+## Level 5: Engineering Manager
 - TBD.
 
-## Level 4
+## Level 6: Senior Engineering Manager
 - TBD.
 
-## Level 5
+## Level 7: Senior Engineering Manager
 - TBD.
