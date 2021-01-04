@@ -38,7 +38,8 @@ client projects.
   helps them leverage these.
 
 ### Management/HR
-- [ ] Manages compensation changes and promotions in collaboration with the CTO.
+- [ ] Suggests compensation changes and manages promotions in collaboration with
+  the CTO.
 - [ ] Coordinates vacation with the direct report, product manager, traffic
   manager, or other relevant parties.
 - [ ] Approves/suggests uses of the direct report's development budget and
