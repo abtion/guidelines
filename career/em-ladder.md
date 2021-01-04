@@ -8,6 +8,14 @@ before they can transition into a role as an Engineering Manager. This is
 required as we believe it is important that you have grown your technical
 skills to a certain level before you start leading highly technical individuals.
 
+While the engineering management track includes non-development tasks, it is
+worth pointing out that most of your time will still be spent on development and
+other client-focused work. You will gradually spend more time on managerial
+tasks as you move up the career ladder but check the "Time expectation" section
+under each level to see how your time will be split. EM-related tasks include,
+but are not limited to, 360 reviews, 1-on-1s, administrative work and attending
+engineering management meetings.
+
 Any feedback on this career ladder is appreciated, and we encourage that you
 make pull requests with suggestions for improvements.
 
