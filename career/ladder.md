@@ -255,11 +255,13 @@ that are well-architected and can be easily maintained over time.
 
 ### Level 6 - Principal Software Engineer
 As a Principal Software Engineer, you play a critical role in how engineering at
-Abtion operates, and throughout your long career at Abtion, you have established
-yourself as a technical leader with a strong working relationship with other
-stakeholders in the organization. Your technical prowess is clear, and you have
-delivered impactful technical contributions consistently that set good examples
-for how products should be built.
+Abtion operates, and have a significant ownership in areas such as tooling,
+scalability, security, processes, design etc. Throughout your long career at
+Abtion, you have established yourself as a technical leader with a
+cross-organizational mindset and a strong working relationship with other
+stakeholders in the company. Your technical prowess is clear, and you have
+driven impactful technical contributions consistently that set good examples for
+how products should be built.
 
 #### Impactful
 - [ ] Plays a key role in the technical direction of the company and has
