@@ -27,7 +27,8 @@ client projects.
   practices, onboarding, defining roles, etc.
 
 ### Coaching and mentoring
-- [ ] Provides timely and actionable feedback via regular 1:1s.
+- [ ] Provides direct reports, manager, product managers etc. with timely and
+  actionable feedback.
 - [ ] Motivates direct reports to keep them ascending the career ladder for both
   the IC and EM tracks and uses the career ladders to keep track of their
   progress.
