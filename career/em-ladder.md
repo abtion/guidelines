@@ -113,16 +113,3 @@ projects.
 
 ### Communication and facilitation
 - TBD.
-
-## Level 7: Senior Engineering Manager
-### Impactful
-- TBD.
-
-### Coaching and mentoring
-- TBD.
-
-### Management/HR
-- TBD.
-
-### Communication and facilitation
-- TBD.
