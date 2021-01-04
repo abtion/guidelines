@@ -12,6 +12,11 @@ Any feedback on this career ladder is appreciated, and we encourage that you
 make pull requests with suggestions for improvements.
 
 ## Level 3: Associate Engineering Manager
+**Time expectation**: Associate Engineering Managers are expected to use about
+20 percent of their time (~5.5 hours/week) on non-billable/EM-related tasks. The
+remaining time will be spent on development or other activities related to
+client projects.
+
 ### Impactful
 - [ ] Manages a set of people consisting of approximately two direct reports.
 - [ ] Identifies growth opportunities for their direct reports and proactively
@@ -54,6 +59,11 @@ make pull requests with suggestions for improvements.
   relevant parties.
 
 ## Level 4: Engineering Manager
+**Time expectation**: Engineering Managers are expected to use about 30 percent
+of their time (~8 hours/week) on non-billable/EM-related tasks. The remaining
+time will be spent on development or other activities related to client
+projects.
+
 ### Impactful
 - [ ] Manages a set of people consisting of approximately four direct reports.
 - [ ] Has the required maturity to manage individual contributors at a higher
@@ -71,6 +81,11 @@ make pull requests with suggestions for improvements.
   projects.
 
 ## Level 5: Engineering Manager
+**Time expectation**: Engineering Managers are expected to use about 40 percent
+of their time (~10 hours/week) on non-billable/EM-related tasks. The remaining
+time will be spent on development or other activities related to client
+projects.
+
 ### Impactful
 - [ ] Manages a set of people consisting of approximately six to eight direct
   reports.
