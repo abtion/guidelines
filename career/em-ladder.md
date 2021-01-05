@@ -91,6 +91,7 @@ projects.
   skill level than themselves.
 - [ ] Uses their experience and relevant data to make fast and informed
   decisions.
+- [ ] Has a track record of growing people across various teams.
 
 ### Coaching and mentoring
 - [ ] Deals with performance issues and misaligned expectations and understands
