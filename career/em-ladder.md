@@ -76,6 +76,8 @@ client projects.
 - [ ] Clearly communicates expectations.
 - [ ] Ensures new hires are onboarded successfully in collaboration with
   relevant parties.
+- [ ] Drives and organizes the hiring/interview process in collaboration
+  with the Executive Assistant.
 
 ## Level 4: Engineering Manager
 **Time expectation**: Engineering Managers are expected to use about 30 percent
