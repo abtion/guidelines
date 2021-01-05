@@ -2,11 +2,12 @@
 This career ladder serves to give an overview of how you can progress your
 career at Abtion and become an Engineering Manager (EM).
 
-As a prerequisite, we require people to have moved beyond level 2 on our [IC
-career ladder](https://github.com/abtion/guidelines/blob/main/career/ladder.md)
-before they can transition into a role as an Engineering Manager. This is
-required as we believe it is important that you have grown your technical
-skills to a certain level before you start leading highly technical individuals.
+As a prerequisite, we require people to have moved beyond level 2 on our
+[individual contributor (IC) career
+ladder](https://github.com/abtion/guidelines/blob/main/career/ladder.md) before
+they can transition into a role as an Engineering Manager. This is required as
+we believe it is important that you have grown your technical skills to a
+certain level before you start leading highly technical individuals.
 
 Engineering managers are expected to be able to check off most items under
 "Impactful", "Simple", "Communication" and "Respectful teammate" for the
