@@ -96,6 +96,8 @@ projects.
 ### Coaching and mentoring
 - [ ] Deals with performance issues and misaligned expectations and understands
   their role in bringing an employee back on track.
+- [ ] Assists new engineering managers in how they can better plan and support
+  the growth of their direct reports.
 
 ### Management/HR
 - TBD.
@@ -115,7 +117,7 @@ projects.
   reports.
 
 ### Coaching and mentoring
-- TBD.
+- [ ] Coaches new engineering managers and uses their experience to grow them.
 
 ### Management/HR
 - TBD.
