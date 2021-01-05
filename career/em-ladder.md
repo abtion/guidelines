@@ -89,6 +89,8 @@ projects.
 - [ ] Manages a set of people consisting of approximately four direct reports.
 - [ ] Has the required maturity to manage individual contributors at a higher
   skill level than themselves.
+- [ ] Uses their experience and relevant data to make fast and informed
+  decisions.
 
 ### Coaching and mentoring
 - [ ] Deals with performance issues and misaligned expectations and understands
