@@ -100,7 +100,8 @@ projects.
   the growth of their direct reports.
 
 ### Management/HR
-- TBD.
+- [ ] Has established a track record of retaining and attracting excellent
+  developers.
 
 ### Communication and facilitation
 - [ ] Uses their experience to identify headcount needs when planning new
