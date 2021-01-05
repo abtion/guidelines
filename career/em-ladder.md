@@ -1,6 +1,6 @@
 # Engineering Management Career Ladder
 This career ladder serves to give an overview of how you can progress your
-career at Abtion and become an Engineering Manager.
+career at Abtion and become an Engineering Manager (EM).
 
 As a prerequisite, we require people to have moved beyond level 2 on our [IC
 career ladder](https://github.com/abtion/guidelines/blob/main/career/ladder.md)
