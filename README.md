@@ -20,6 +20,7 @@
 - [WordPress setup](./wordpress/)
 - Handbook_WIP
   - [How to facilitate team meetings](./how_to_facilitate_team_meetings.md)
+  - [Procedure for traffic] (./procedure_for_traffic.md)
 
 
 ## Philosophy
