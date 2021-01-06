@@ -1,19 +1,19 @@
-#Procedure for Traffic
+# Procedure for Traffic
 
 
 This document serves as a guideline for how to plan and book resources called Traffic management. Here are the four most common needs;
 
-**Pre-booking**: You have high hopes this will turn into a project within the near future (max 3 months from now).
+<ins>Pre-booking</ins>: You have high hopes this will turn into a project within the near future (max 3 months from now).   
 
 
-**Dedicated team**: You have a signed work order and need to staff a project as soon as possible.
+<ins>Dedicated team</ins>: You have a signed work order and need to staff a project as soon as possible.
 
 
-**Loosely connected team**: You have a small request to have something fixed on an existing project and maybe have a wish for a specific person to handle it. Or:
+<ins>Loosely connected team</ins>: You have a small request to have something fixed on an existing project and maybe have a wish for a specific person to handle it. Or:
 3.1: Your client has a SLA with reaction time (and no dedicated team) and needs it activated or your client has NO SLA but hopes to have us help them as soon as possible.
 
 
-**Digital infrastructure**: Your client grows too big for DI or your client’s work decreases and the project must be handed over to DI.
+<ins>Digital infrastructure</ins>: Your client grows too big for DI or your client’s work decreases and the project must be handed over to DI.
 
 
 **Similar for all requests**:
