@@ -42,6 +42,8 @@ client projects.
   performance of their team and/or direct reports.
 - [ ] Consistently seeks to improve processes at the company such as interview
   practices, onboarding, defining roles, etc.
+- [ ] Identifies pain points for their direct reports and proactively
+  ensures that these pain points are solved.
 
 ### Coaching and mentoring
 - [ ] Provides direct reports, manager, product managers etc. with timely and
@@ -54,6 +56,7 @@ client projects.
 - [ ] Empowers direct reports to own their work.
 - [ ] Ensures direct reports are aware of growth and learning opportunities and
   helps them leverage these.
+- [ ] Empowers direct reports to speak up about their pain points.
 
 ### Management/HR
 - [ ] Suggests compensation changes and manages promotions in collaboration with
