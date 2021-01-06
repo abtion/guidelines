@@ -21,6 +21,7 @@
 - Handbook_WIP
   - [How to facilitate team meetings](./how_to_facilitate_team_meetings.md)
   - [Procedure for traffic](./procedure_for_traffic.md)
+  - [How and why we do design research](./how_and_why_we_do_design_research.md)
 
 
 ## Philosophy
