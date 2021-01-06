@@ -19,7 +19,7 @@
 - [Preferred Services](./services/)
 - [WordPress setup](./wordpress/)
 - Handbook_WIP
-  - [How to facilite a meeting](./ 
+  - [How to facilite a meeting](./How to facilitate team meetings.md)
 
 
 ## Philosophy
