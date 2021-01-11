@@ -1,4 +1,4 @@
-#Clients discontinue their hosting agreement / SLA
+# Clients discontinue their hosting agreement / SLA
 
 If a client wishes to terminate their agreement please follow this step-by-step guide. The client might already have written the termination to our service mail (service@abtion.com). If this is the case, please make sure the termination happened according to the contract. 
 Step-by-step guide: 
