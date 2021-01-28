@@ -10,7 +10,7 @@
   - [Engineering Management Career Ladder](./career/em-ladder.md)
   - [Roles](./career/roles.md)
   - [Technical skills sheet](./career/technical-skills-sheet.md)
-  - [PM Career Ladder](./pm_career_ladder.md) 
+  - [PM Career Ladder](./PM_career_ladder.md) 
 - [CSS / SCSS Guides](./CSS%20/%20SCSS/)
 - [Code reviews](./code-reviews/)
 - [Dockerizing](./docker/)
