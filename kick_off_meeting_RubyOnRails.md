@@ -1,6 +1,6 @@
 # Development Kickoff - Full day, Whole Team
 
-Starting a few weeks after any needed design starts. Entire team is present, including design, client, pm, remotes (should be in person). May cover up to ~3 months of work.
+Starting a few weeks after any needed design starts. Entire team is present, including design, client, pm. May cover up to ~3 months of work.
 
 Come away with:
 
