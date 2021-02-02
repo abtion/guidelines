@@ -4,13 +4,13 @@
 
 ## Goal
 
-The goal of the 360 review is to provide in-depth feedback for the evaluee so that they can reflect on how others perceive their work. The ultimate goal is growth, and it is achieved by reflection. It is usually the most extensive feedback that the evaluee receives in the year.
+The ultimate goal is growth, and it is achieved by reflection.
 
-
+360 reviews provide in-depth feedback for the evaluee so that they can reflect on how others perceive their work. It is usually the most extensive feedback that the evaluee receives in the year.
 ## Preparation
 
-The preparation consists of getting to know what is the evaluee missing the most. What do they really want to know?
-Set up a short interview with enough anticipation. 1 or 2 weeks in advance. Let clear the intentions in the agenda. Make them prepare a list of questions. During the interview, dig a bit deeper into the list. Why do they want to know that? Whom do they want to hear from? The list may include a close client and their manager. Is there anything that's not on the list but may be interesting? Use your experience from other 360 reviews to suggest what they may want to know.
+The preparation consists of getting to know which areas the evaluee wants feedback in.
+Set up a short interview 1 or 2 weeks in advance. Be clear about the intention of the meeting in the agenda. Make the evaluee prepare a list of questions. During the interview, dig a bit deeper into the list. Why do they want to know that? Who do they want to hear from? The list may include a close client and their manager. Is there anything that's not on the list but may be interesting? Use your experience from other 360 reviews to suggest what the evaluee may want to know.
 
 
 ## Conducting the interviews
