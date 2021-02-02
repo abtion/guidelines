@@ -32,4 +32,5 @@ General guidelines are:
 
 - Preparation interview: 25 minutes
 - 3 to 6 colleges interview: 25 minutes each.
+- Preparing the results 30 minutes.
 - Presenting the results: 25 minutes (this is challenging).
