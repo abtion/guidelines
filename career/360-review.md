@@ -7,6 +7,9 @@
 The ultimate goal is growth, and it is achieved by reflection.
 
 360 reviews provide in-depth feedback for the evaluee so that they can reflect on how others perceive their work. It is usually the most extensive feedback that the evaluee receives in the year.
+
+The 360 review is not a tool for determining raises or promotions. Its sole focus is on providing feedback.
+
 ## Preparation
 
 The preparation consists of getting to know which areas the evaluee wants feedback in.
