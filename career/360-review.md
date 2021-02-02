@@ -23,8 +23,7 @@ Try to balance a good mix of positive and constructive feedback. Believe me; it 
 
 ## Presenting the results
 
-The results may be overwhelming to the evaluee. People are not used to receiving such amounts of feedback in a single session. Therefore, it is crucial to present it in a way that helps the absorption. A written format can be used together with an in-person meeting explaining the results. However, be extra cautious with the written form when giving feedback. It is easy to misinterpret.
-
+The results may be overwhelming to the evaluee. People are not used to receiving such amounts of feedback in a single session. Therefore, it is crucial to present it in a way that helps the absorption. A written format can be used together with an in-person meeting explaining the results. However, be extra cautious with the written form when giving feedback. It is easy to misinterpret. When sharing the feedback, we should not disclose who was the person giving feedback. Focus on situations, behaviors, and learning opportunities.
 ## When and who
 
 360 reviews are scheduled by upper management. The conductor and the evaluee are determined and scheduled on an ongoing basis.
