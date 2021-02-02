@@ -27,6 +27,7 @@
   - [TDD Testdriven development](./tdd_testdriven_development.md)
   - [Invoicing_guidelines](./invoicing_guidelines.md)
   - [Kick-off meeting RoR](./kick_off_meeting_RubyOnRails.md)
+- [Purchasing licensens/memberships](./purchasing_licenses_and_memberships.md)
   
 
 ## Philosophy
