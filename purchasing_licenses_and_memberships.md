@@ -1,4 +1,4 @@
-How to purchase licenses or memberships and how to document this?
+# How to purchase licenses or memberships and how to document this?
 
 1) Ask for approval when needed. (Angelle, your PM or manager)
 Look at this from a reflective angle, to make sure we buy the right license and to keep the commmunication and purchasing transperant. This makes it is easier to refer to the person responsible in case questions pop up. In general we approave all purchases.
