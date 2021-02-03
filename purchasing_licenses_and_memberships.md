@@ -18,3 +18,5 @@ Look at this from a reflective angle, to make sure we buy the right license and 
   
 5) Use the card credentials in 1pw under 'admin+billing@abiton.com'
    - For bigger purchases, pleo might ask for a verification via 2fa, reach out to Angelle for assistance in this case. 
+   
+ 6) Your contribution to keep the spreadsheet up to date is a big help! Quickly scan the spreadsheet for possible changes and correct when needed. 
