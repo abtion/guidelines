@@ -28,7 +28,7 @@ Is there anything that's not on the list but may be interesting? Use your experi
 
 ## Conducting the interviews
 
-Once we have the list, set up interviews with the people who work closely to the evaluee. Let them know 1 or 2 weeks in advance so that they can prepare. Let them know some of the questions that you'll be asking so that they can prepare mentally. Once the invite is sent, they'll pay much more attention.
+Once we have the list, set up interviews with the people who work close to the evaluee. Invite them 1 or 2 weeks in advance and let them know some of the questions that you'll be asking so that they can prepare mentally. Once the invite is sent, they'll pay much more attention.
 
 There is abundant material on the internet about how to conduct a good interview. Go and read it. The short version is that you must listen. Listen and go beyond the prepared questions with follow-up questions. Dig into juicy details. If pairing with them is "nice", ask specifically what is "nice" about pairing with them.
 
