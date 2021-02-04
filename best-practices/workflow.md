@@ -9,7 +9,7 @@ Abtion’s development workflow may vary depending on the project. Teams are enc
 - We accept that we might be wrong.
 - We want to improve any codebase we work on.
 - We want to learn.
-- We want to educate our coworkers.
+- We want to educate our co-workers.
 
 ## Goals
 
@@ -20,22 +20,41 @@ Abtion’s development workflow may vary depending on the project. Teams are enc
 - Be flexible to any sudden change in priority.
 
 ## Workflow
-We follow trunk base development. If you are not familiar with it, you can read on https://trunkbaseddevelopment.com. Specifically, we want to avoid large branches/differences between environments. They have been identified as a way to create a knowledge gap in the team and between the client.
+We follow [trunk-based development](https://trunkbaseddevelopment.com). The goal is to avoid long-lived branches, differences between environments, and deliver value to our clients as soon as possible. This way, we reduce knowledge gaps within the team and with the client.
+
+Following a trunk-based development workflow means that some pre-integration steps are highly recommended. These will usually be in the form of [Git hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks), and run test suites and linters on `pre-commit` / `pre-push`.
 
 - Developers work in pairs.
 - A pair always takes the first card from the backlog. The backlog is already prioritized.
+- A pair will pull from `main`* and make sure to be up-to-date with the latest changes.
 - A pair will work on the card until it is ready. Pair switches might occur during the process.
-- We always branch out from main* and we merge to main.
-- We use short-lived branches to play around with the code.
-- When merging to main, we automatically deploy to production. We may use a test environment** which must always be synchronized with production with private information obfuscated for security. We use feature flags for coordinating feature releases with the client.
-- Feature acceptance will occur by the product owner*** in the test environment.
-- Tech Chore acceptance will occur by developers*** in the test environment.
-- A pair will merge directly to main whenever they feel confident (see “we trust our colleagues as professional developers"). They may request feedback from other developers by asking them directly or indirectly opening a "Pull Request" in Github. They should gather feedback from the product owner during IPM, standup, Show & Tell and any necessary ad-hoc meetings to ensure that they are developing the right product.
-- The developers have the responsibility to move the card to a "ready for acceptance” column in Asana. This implies that they genuinely believe the card is ready.
+- Every commit is [signed](https://github.com/abtion/guidelines/tree/main/gpg-signing), [Co-authored](https://github.blog/2018-01-29-commit-together-with-co-authors/), and has passed the `pre-commit` hooks.
+- When the work is done, the pair pushes the changes. This will trigger the `pre-push` hooks and ensure the changes' validity.
+- Github Actions (or pragmatically-picked alternatives) are used for continuous integration.
+- We automatically deploy to production. We may use a test environment** which must always be synchronized with production with private information obfuscated for security. We may use feature flags for coordinating feature releases with the client.
+- Feature acceptance is done by the product owner*** in the test environment.
+- Technical chores acceptance is done by developers*** in the test environment.
+- A pair may request feedback from other developers by asking them directly. Feedback is frequently gathered and demanded from the product owner during meetings, as well as asynchronously (Asana, Slack, ...) to ensure that the right product is being developed.
+- A "daily diff" meeting can be set up to review the code changes of the past day and give a chance to every team member to understand the changes.
+- The developers have the responsibility to move the card to a "Ready for acceptance” column in Asana. This implies that they genuinely believe the card is ready. The card is assigned to the tester.
 - If the backlog runs out of tasks, developers will let the product owner know, and will work on technical debt until the product owner has prioritized feature work.
 
-\* main might have a different name depending on the project. We strive to use an [inclusive language](https://github.com/abtion/guidelines/blob/main/best-practices/inclusive-language.md)
+\* `main` might have a different name depending on the project. We strive to use an [inclusive language](https://github.com/abtion/guidelines/blob/main/best-practices/inclusive-language.md)
 
 ** called staging in Heroku. Do not confuse with staging from git-flow.
 
 *** acceptance must be done by the client whenever possible. The product owner from Abtion will have the responsibility to find the right tester.
+
+### FAQ
+
+#### Does it mean I can't use feature branches?
+
+No, but feature branches have to be used carefully. Trunk-based development allows for short-lived feature branches.
+If you are confident that your branch will not live longer than 1-2 days, then it should not be an issue.
+You can read more about short-lived feature branches in the context of trunk-based development [here](https://trunkbaseddevelopment.com/short-lived-feature-branches/).
+
+#### How should we handle cases where the developers are ready with the changes, but the client isn't?
+
+While branching out is tempting, there are other, often better options.
+The use of a [feature flag](https://trunkbaseddevelopment.com/feature-flags/) or
+[abstraction](https://trunkbaseddevelopment.com/branch-by-abstraction/) are the most common.
