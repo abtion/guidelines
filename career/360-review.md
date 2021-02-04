@@ -13,7 +13,17 @@ The 360 review is not a tool for determining raises or promotions. Its sole focu
 ## Preparation
 
 The preparation consists of getting to know which areas the evaluee wants feedback in.
-Set up a short interview 1 or 2 weeks in advance. Be clear about the intention of the meeting in the agenda. Make the evaluee prepare a list of questions. During the interview, dig a bit deeper into the list. Why do they want to know that? Who do they want to hear from? The list could include a close client or a manager. Is there anything that's not on the list but may be interesting? Use your experience from other 360 reviews to suggest what the evaluee may want to know.
+
+Be sure to:
+- Set up a short interview 1 or 2 weeks in advance.
+- Be clear about the intention of the meeting in the agenda.
+- Make the evaluee prepare a list of questions.
+
+During the interview, dig a bit deeper into the list:
+- Why do they want to know that?
+- Who do they want to hear from? The list could include a close client or a manager.
+
+Is there anything that's not on the list but may be interesting? Use your experience from other 360 reviews to suggest what the evaluee may want to know.
 
 
 ## Conducting the interviews
