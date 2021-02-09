@@ -31,11 +31,11 @@ Get back to traffic when you have a yes or no on the project so we can update fo
 
 Contant your traffic manager on traffic@abtion.com with this info. If the project is on WP also address the mail to Martin Carlsen at mc@abtion.com:
 
-Budget / hours planned
-The name of the project (as in Harvest)
-Number of people needed
-Timeline (any specific deadline or start date)
-Wishes in regards to skills / must sit at the client etc.
+- Budget / hours planned
+- The name of the project (as in Harvest)
+- Number of people needed
+- Timeline (any specific deadline or start date)
+- Wishes in regards to skills / must sit at the client etc.
 
 After this the traffic manager will be responsible to find the best suitable team as fast as possible. This will happen in close collaboration with our CTO and the CPO if design is required. 
 
