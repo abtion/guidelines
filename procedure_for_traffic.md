@@ -60,7 +60,7 @@ If in doubt, talk to the client director on the client.
 
 For now the maximum size of a DI task is a pair week (60 hours). If you find yourself having a DI client in need of a bigger task then this, please reach out to your traffic manager. In collaboration with you and our CTO we will find out if DI has time or we need a pair outside DI. If that is the case go to 2 or 3 depending on the size of the task. 
 
-When your client goes from a dedicated team to DI, this can be a sensitive situation as the client now is live and no longer needs full time development, but might still expect to be treated with the same response times. Therefore the first order of business is to create a SLA in collaboration with the client director and lead developer from the team. When you have this in place please book your service window here: https://app.asana.com/0/1199368865030793/timeline
+When your client goes from a dedicated team to DI, this can be a sensitive situation as the client now is live and no longer needs full time development, but might still expect to be treated with the same response times. Therefore the first order of business is to create a SLA in collaboration with the client director and lead developer from the team. When you have this in place please add all infomation to DI board's icebox: https://app.asana.com/0/1102088177377811/board
 Then DI will work on the solution after the agreed timeframe. Ad hoc tasks should be created in the DI backlog.
 
 
