@@ -17,6 +17,8 @@ During a planned maintenance window, the DI team will:
 
 Note that it is not expected that the team performs all actions during a maintenance window. The team will assess what is the most important for the project.
 
+SLAs are paid per hour. If a task cannot be completed on the scheduled maintenance window (like a major Rails update, or a tricky bug), we will inform the client.
+
 ## Estimating a maintenance window.
 
 To get to a first estimate, the team may use a point system based on 4 common factors:
