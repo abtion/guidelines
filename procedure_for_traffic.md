@@ -29,7 +29,7 @@ Get back to traffic when you have a yes or no on the project so we can update fo
 
 **2: Dedicated team**: 
 
-Contant your traffic manager on traffic@abtion.com with this info. If the project is on WP also address the mail to Martin Carlsen at mc@abtion.com:
+Contant your traffic manager on traffic@abtion.com with this info. 
 
 - Budget / hours planned
 - The name of the project (as in Harvest)
