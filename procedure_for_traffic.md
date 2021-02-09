@@ -24,8 +24,7 @@ Create a Harvest project and remember to connect to Forecast (check mark in harv
 
 In top of forecast you can ‘pre-book’ a resource like .net or design etc. 
 Please try to be as realistic when choosing when to start the booking and in the number of team members needed. OBS not possible to book more than 24 hours a day. So if you need more than 3 developers please write it in the comment field. 
-If you need help write the traffic manager at: traffic@abtion.com with the relevant info
-Get back to traffic when you have a yes or no on the project so we can update forecast and go to procedure 2. 
+If you need help write the traffic manager at: traffic@abtion.com with the relevant info. Please get back to traffic when you have a yes or no on the project so we can update forecast and go to procedure 2. 
 
 **2: Dedicated team**: 
 
