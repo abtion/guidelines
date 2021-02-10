@@ -45,11 +45,11 @@ cons.
 
 The styles described in this document are:
 
-- Ping Pong
-- Driver and Navigator
-- Tour Guide and Tourist
-- Strong style / Backseat Driver / Driving School
-- Unstructured
+- [Ping Pong](#ping-pong)
+- [Driver and Navigator](#driver-and-navigator)
+- [Tour Guide and Tourist](#tour-guide-and-tourist)
+- [Strong style / Backseat Driver / Driving School](#backseat-navigator)
+- [Unstructured](#unstructured)
 
 _We strongly recommend using [a pomodoro timer](https://pomodoro.abtion.com/) or a set time interval to determine when to switch roles._
 
