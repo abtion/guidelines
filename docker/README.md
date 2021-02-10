@@ -1,15 +1,15 @@
-- [Dockerizing](#dockerizing)
-  - [1: Read and understand your base image](#1-read-and-understand-your-base-image)
-  - [2: Combine install commands with cleanup](#2-combine-install-commands-with-cleanup)
-  - [3: Use a separate build stage](#3-use-a-separate-build-stage)
-  - [4: Set the system locale](#4-set-the-system-locale)
-  - [5: Create an unprivileged user](#5-create-an-unprivileged-user)
-  - [6: Prefer exec form for CMD](#6-prefer-exec-form-for-cmd)
-  - [8: Avoid ONBUILD](#8-avoid-onbuild)
-  - [9: Always specify resource constraints](#9-always-specify-resource-constraints)
-  - [10: Avoid preforking in a container](#10-avoid-preforking-in-a-container)
-  - [11: Scale by adding containers](#11-scale-by-adding-containers)
-  - [12: Log to STDOUT or an external agent](#12-log-to-stdout-or-an-external-agent)
+# Dockerizing
+- [1: Read and understand your base image](#1-read-and-understand-your-base-image)
+- [2: Combine install commands with cleanup](#2-combine-install-commands-with-cleanup)
+- [3: Use a separate build stage](#3-use-a-separate-build-stage)
+- [4: Set the system locale](#4-set-the-system-locale)
+- [5: Create an unprivileged user](#5-create-an-unprivileged-user)
+- [6: Prefer exec form for CMD](#6-prefer-exec-form-for-cmd)
+- [8: Avoid ONBUILD](#8-avoid-onbuild)
+- [9: Always specify resource constraints](#9-always-specify-resource-constraints)
+- [10: Avoid preforking in a container](#10-avoid-preforking-in-a-container)
+- [11: Scale by adding containers](#11-scale-by-adding-containers)
+- [12: Log to STDOUT or an external agent](#12-log-to-stdout-or-an-external-agent)
 
 >**When to use Docker**
 >
