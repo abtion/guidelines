@@ -1,5 +1,7 @@
 # Pair Programming
+
 ## Why are we pair programming?
+
 At Abtion, we take inspiration from the principles of Kent Beck's "[eXtreme
 Programming](http://www.extremeprogramming.org/)". Two of the five main values
 are Communication and Feedback. These two values make the foundation for what is
@@ -17,8 +19,9 @@ shared screen.
 > [Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
 
 The benefits of pair programming include:
+
 - fewer bugs. Seeing as there is more than one developer checking the code,
-  mistakes are quickly located and squashed. 
+  mistakes are quickly located and squashed.
 - higher code quality. There is always another developer to discuss the task at
   hand and the solution which makes for better thought-through code.
 - knowledge sharing. Both in terms of programming knowledge in general
@@ -26,24 +29,32 @@ The benefits of pair programming include:
   (avoiding silos), but also with regards to good habits and team practices.
 
 ## How do we pair program?
+
 ### Prerequisites
+
 For pair programming we use the following setup:
+
 - a keyboard for each developer
 - a trackpad or mouse for each developer
 - a shared screen, either the same physical one or with screen sharing
 
 ### Pair programming styles
+
 There are different styles of pair programming, each with their own pros and
 cons.
 
 The styles described in this document are:
+
 - Ping Pong
 - Driver and Navigator
 - Tour Guide and Tourist
 - Strong style / Backseat Driver / Driving School
 - Unstructured
 
+_We strongly recommend using [a pomodoro timer](https://pomodoro.abtion.com/) or a set time interval to determine when to switch roles._
+
 #### Ping Pong
+
 **When to use: When the pair wants to ensure that their code is test-driven.**
 
 The Ping Pong style is recognized by its constant role switching where the pair
@@ -52,10 +63,10 @@ switches in a red-green fashion.
 - Developer 1 writes a failing test.
 - Developer 2 writes just enough code to make the test pass.
 - Developer 2 writes a new failing test.
-- Developer 1 writes just enough code to make the test pass. 
+- Developer 1 writes just enough code to make the test pass.
 - This back-and-forth continues until there are no more tests for the unit they
-  are working on. 
-- They finish by refactoring if needed. 
+  are working on.
+- They finish by refactoring if needed.
 
 Then the cycle repeats with the next unit.
 
@@ -67,6 +78,7 @@ developers focused for the session. It is especially useful for enforcing a
 test-driven approach.
 
 #### Driver and Navigator
+
 **When to use: When Ping Pong pairing is too taxing.**
 
 Driver and Navigator style can be seen as the most balanced pairing style, and
@@ -91,11 +103,12 @@ The Driver needs to be aware of not taking over the pairing session, coding
 solo, which would be reminiscent of the Tour guide and Tourist style.
 
 The Navigator needs to be aware of not micro-managing, which would be
-reminiscent of the Backseat Navigator style. 
+reminiscent of the Backseat Navigator style.
 
 This awareness is especially important when one party has more experience.
 
 #### Tour Guide and Tourist
+
 **When to use: When onboarding a developer to a project or on a team. It is a
 way to share context and knowledge about the system.**
 
@@ -108,9 +121,10 @@ The Tourist watches, asks questions about the process, and learns.
 One thing to note is that this style should be used sparingly as it is easier to
 learn with your fingers in the code, than it is with your eyes on it.
 
-It isn't easy for a passive listener to stay focused for a long time. 
+It isn't easy for a passive listener to stay focused for a long time.
 
 ### Backseat Navigator
+
 **When to use: When onboarding a developer to a project, a team, or a
 technology. It is a way for the Navigator to train their communication skills
 and the Driver to get used to new processes/technologies.**
@@ -118,7 +132,7 @@ and the Driver to get used to new processes/technologies.**
 Also known as Strong Style and Driving School.
 
 The Backseat Navigator is a different style that focuses on the Backseat
-Navigator sharing knowledge and training their ability to communicate clearly. 
+Navigator sharing knowledge and training their ability to communicate clearly.
 
 The Driver has their hands on the keyboard and can only type what they are told
 to type.
@@ -137,11 +151,12 @@ As with the Tour Guide/Tourist style, it can be tiring for both parts to be
 stuck in their respective roles for too long.
 
 #### Unstructured
+
 **When to use: When "pre-pairing"/spiking, or when the developers are both new
 to a code base.**
 
-The Unstructured pairing session is defined by its lack of predetermined roles. 
-Whoever wants to drive drives, and whoever wants to navigate navigates. 
+The Unstructured pairing session is defined by its lack of predetermined roles.
+Whoever wants to drive drives, and whoever wants to navigate navigates.
 
 If at any point the pair wants to switch roles, they can.
 
@@ -149,6 +164,7 @@ This is a common "style" because of its fluidity but can result in uneven
 pairing because of its lack of guidelines.
 
 ## Additional reading
+
 - [Ping-Pong, Paired Programing](https://thoughtbot.com/upcase/videos/ping-pong-paired-programing)
 - [Program in pairs](https://www.ibm.com/garage/method/practices/code/practice_pair_programming)
 - [The Art of Agile Development: Pair Programming](https://www.jamesshore.com/v2/books/aoad1/pair_programming)
