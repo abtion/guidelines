@@ -10,7 +10,7 @@
   - [Engineering Management Career Ladder](./career/em-ladder.md)
   - [Roles](./career/roles.md)
   - [Technical skills sheet](./career/technical-skills-sheet.md)
-  - [PM Career Ladder](./PM_career_ladder.md) 
+  - [PM Career Ladder](./PM_career_ladder.md)
 - [CSS / SCSS Guides](./CSS%20/%20SCSS/)
 - [Code reviews](./code-reviews/)
 - [Dockerizing](./docker/)
@@ -20,15 +20,15 @@
 - [Preferred Services](./services/)
 - [WordPress setup](./wordpress/)
 - Handbook_WIP
-  - [How to facilitate team meetings](./how_to_facilitate_team_meetings.md)
-  - [Procedure for traffic](./procedure_for_traffic.md)
-  - [How and why we do design research](./how_and_why_we_do_design_research.md)
-  - [Client discontinue hosting or SLA](./client_discontinue_hosting_or_SLA.md)
-  - [TDD Testdriven development](./tdd_testdriven_development.md)
-  - [Invoicing_guidelines](./invoicing_guidelines.md)
-  - [Kick-off meeting RoR](./kick_off_meeting_RubyOnRails.md)
+  - [How to facilitate team meetings](./handbook_wip/how_to_facilitate_team_meetings.md)
+  - [Procedure for traffic](./handbook_wip/procedure_for_traffic.md)
+  - [How and why we do design research](./handbook_wip/how_and_why_we_do_design_research.md)
+  - [Client discontinue hosting or SLA](./handbook_wip/client_discontinue_hosting_or_SLA.md)
+  - [TDD Testdriven development](./handbook_wip/tdd_testdriven_development.md)
+  - [Invoicing_guidelines](./handbook_wip/invoicing_guidelines.md)
+  - [Kick-off meeting RoR](./handbook_wip/kick_off_meeting_RubyOnRails.md)
 - [Purchasing licensens/memberships](./purchasing_licenses_and_memberships.md)
-  
+
 
 ## Philosophy
 
