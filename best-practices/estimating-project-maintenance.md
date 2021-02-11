@@ -3,21 +3,21 @@
 When we stop actively working on a project, the project moves to the maintenance phase. Any project that does not have a full-time team on it is considered to be on maintenance. The maintenance window goal is to ensure that the project does not go to a state where we would not want to work on it. The maintenance window also serves as a pragmatic way of bulking tasks to reduce context-switch.
 The maintenance window is not a tool for moving a project out of the legacy status nor to develop new functionality.
 
-During a planned maintenance window, the DI team will:
+During a planned maintenance window, the DI team will perform tasks such as:
 - Update security vulnerabilities (by Dependabot).
 - Check the Asana board for any reported bugs and fix them.
-- Check error tracking (Rollbar) and fix them.
+- Check error tracking tool and fix small issues. If the bugs are complex to solve, the team will inform the client.
 - Check the Asana board for any small prioritized task
-- Monitor app. Check Heroku metrics and add-ons. Are add-on plans correct? Do we need to upgrade resources?
+- Monitor app. Check metrics and add-ons and services. Are add-on plans correct? Do we need to upgrade resources?
 - Check the Asana board for chores.
-- Update Ruby
-- Update Rails
+- Update programming language
+- Update the main framework
 - Update other libraries (most relevant first)
 - Create new tests
 
 Note that it is not expected that the team performs all actions during a maintenance window. The team will assess what is the most important for the project.
 
-SLAs are paid per hour. If a task cannot be completed on the scheduled maintenance window (like a major Rails update, or a tricky bug), we will inform the client.
+SLAs are paid per hour. If a task cannot be completed on the scheduled maintenance window (like a major framework update, or a tricky bug), we will inform the client.
 
 ## Estimating a maintenance window.
 
