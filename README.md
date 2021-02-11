@@ -19,7 +19,7 @@
   - [Selector and how we use them in Abtion](./javascript/selectors.md)
 - [Preferred Services](./services/)
 - [WordPress setup](./wordpress/)
-- Handbook_WIP
+- [Handbook_WIP](./handbook_wip)
   - [How to facilitate team meetings](./handbook_wip/how_to_facilitate_team_meetings.md)
   - [Procedure for traffic](./handbook_wip/procedure_for_traffic.md)
   - [How and why we do design research](./handbook_wip/how_and_why_we_do_design_research.md)
