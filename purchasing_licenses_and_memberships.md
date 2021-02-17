@@ -27,6 +27,11 @@ Look at this from a reflective angle, to make sure we buy the right license and 
    - Fill out all the fields and write a comment when you have any questions. 
   
 6) ### This board calls for shared ownership! 
-Meaning, when you purchase a license, you care the responsibility to update the board and to upgrade/downgrade/re-assign the license in the future. This becomes accurate when you are switching project, or when a personal license becomes irrelevant. Also, when you need a license, check the board to see if there already excist a license. In this case you might be able to share login, or buy a manager membership to gather all purchases in 1 account. 
 
-And add any licenses to the overview when it is missing. Your contribution means a lot!
+When you purchase a license, you care the responsibility to update the board.
+
+Upgrade/downgrade/re-assign the license, when you are switching project, or when a personal license becomes irrelevant. 
+
+When you need a license, check the board to see if there already excist a license. In this case consider a manager membership to gather all purchases in 1 account. 
+
+Add any licenses to the overview when you spot missing ones. 
