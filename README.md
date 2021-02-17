@@ -27,8 +27,8 @@
   - [TDD Testdriven development](./handbook/tdd_testdriven_development.md)
   - [Invoicing_guidelines](./handbook/invoicing_guidelines.md)
   - [Kick-off meeting RoR](./handbook/kick_off_meeting_RubyOnRails.md)
-- [Purchasing licensens/memberships](./purchasing_licenses_and_memberships.md)
-
+  - [Purchasing licenses/memberships](./handbook/purchasing_licenses_and_memberships.md)
+  - [Managing access to 1PW vaults and project data](./handbook/managing_access_to_1pw_vaults_and_project_data.md)
 
 ## Philosophy
 
