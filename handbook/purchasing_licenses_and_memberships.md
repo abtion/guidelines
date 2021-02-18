@@ -18,7 +18,7 @@ Look at this from a reflective angle, to make sure we buy the right license and 
 4) #### Use the card credentials in 1pw in 'Shared Vault' under 'admin+billing@abiton.com'
    - For bigger purchases, pleo might ask for a verification via 2fa, reach out to Angelle for assistance in this case. 
 
-5) #### Update the license overview in Asana 
+5) #### Update the license overview in Asana - https://app.asana.com/0/1149529931138025/list 
    - Place the info in the right section: 
       - Internal licenses (services and shared accounts/licenses for internal use, internal tools) 
       - Individual licenses (for individual use, f.eks. grammarly or workflowy) 
