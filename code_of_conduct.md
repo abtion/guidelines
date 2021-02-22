@@ -61,8 +61,8 @@ This code of conduct and its related procedures also applies to unacceptable beh
 ## 8. Contact info
 
 ```
-  Mathias Jean Johansen
-  mj@abtion.com
+  Hari Carreras
+  hc@abtion.com
 ```
 
 ## 9. License and attribution
