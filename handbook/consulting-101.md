@@ -28,7 +28,7 @@ the following are guidelines and not strict rules.
   reach out to the client. Your colleague might already have asked the same
   question, and we want to avoid spamming the client with questions. For a more
   in-depth introduction to how we facilitate team meetings at Abtion, please
-  have a look at [this document](./handbook/how_to_facilitate_team_meetings.md).
+  have a look at [this document](./how_to_facilitate_team_meetings.md).
 - Respond to messages from clients in a timely manner, and forward them to the
   relevant PM if you are no longer involved in the project. Keep a professional
   tone, read your messages before you hit send, and give notice if you are
