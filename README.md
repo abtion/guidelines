@@ -20,15 +20,16 @@
 - [Preferred Services](./services/)
 - [WordPress setup](./wordpress/)
 - [Handbook](./handbook)
-  - [How to facilitate team meetings](./handbook/how_to_facilitate_team_meetings.md)
-  - [Procedure for traffic](./handbook/procedure_for_traffic.md)
-  - [How and why we do design research](./handbook/how_and_why_we_do_design_research.md)
   - [Client discontinue hosting or SLA](./handbook/client_discontinue_hosting_or_SLA.md)
-  - [TDD Testdriven development](./handbook/tdd_testdriven_development.md)
+  - [Consulting 101](./handbook/consulting-101.md)
+  - [How and why we do design research](./handbook/how_and_why_we_do_design_research.md)
+  - [How to facilitate team meetings](./handbook/how_to_facilitate_team_meetings.md)
   - [Invoicing_guidelines](./handbook/invoicing_guidelines.md)
   - [Kick-off meeting RoR](./handbook/kick_off_meeting_RubyOnRails.md)
-  - [Purchasing licenses/memberships](./handbook/purchasing_licenses_and_memberships.md)
   - [Managing access to 1PW vaults and project data](./handbook/managing_access_to_1pw_vaults_and_project_data.md)
+  - [Procedure for traffic](./handbook/procedure_for_traffic.md)
+  - [Purchasing licenses/memberships](./handbook/purchasing_licenses_and_memberships.md)
+  - [TDD Testdriven development](./handbook/tdd_testdriven_development.md)
 
 ## Philosophy
 
