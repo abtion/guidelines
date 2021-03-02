@@ -1,5 +1,3 @@
-# AXP
-
 ## Pair programming
 
 ### Committing as a pair
