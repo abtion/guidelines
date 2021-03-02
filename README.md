@@ -1,36 +1,4 @@
 # Abtion Guidelines
-## Table of Contents
-- [AXP](./axp/)
-- [Best Practices](./best-practices/)
-  - [Bug triaging](./best-practices/bug-triaging.md)
-  - [Cleaning up disrespectful terms in existing systems](./best-practices/terms.md)
-  - [Inclusive language](./best-practices/inclusive-language.md)
-- Career development
-  - [Abtion Dev Career Ladder](./career/ladder.md)
-  - [Engineering Management Career Ladder](./career/em-ladder.md)
-  - [Roles](./career/roles.md)
-  - [Technical skills sheet](./career/technical-skills-sheet.md)
-  - [PM Career Ladder](./PM_career_ladder.md)
-- [CSS / SCSS Guides](./CSS%20/%20SCSS/)
-- [Code reviews](./code-reviews/)
-- [Dockerizing](./docker/)
-- [GPG Signing with Git](./gpg-signing/)
-- [JavaScript](./javascript/)
-  - [Selector and how we use them in Abtion](./javascript/selectors.md)
-- [Preferred Services](./services/)
-- [WordPress setup](./wordpress/)
-- [Handbook](./handbook)
-  - [Client discontinue hosting or SLA](./handbook/client_discontinue_hosting_or_SLA.md)
-  - [Consulting 101](./handbook/consulting-101.md)
-  - [How and why we do design research](./handbook/how_and_why_we_do_design_research.md)
-  - [How to facilitate team meetings](./handbook/how_to_facilitate_team_meetings.md)
-  - [Invoicing_guidelines](./handbook/invoicing_guidelines.md)
-  - [Kick-off meeting RoR](./handbook/kick_off_meeting_RubyOnRails.md)
-  - [Managing access to 1PW vaults and project data](./handbook/managing_access_to_1pw_vaults_and_project_data.md)
-  - [Procedure for traffic](./handbook/procedure_for_traffic.md)
-  - [Purchasing licenses/memberships](./handbook/purchasing_licenses_and_memberships.md)
-  - [TDD Testdriven development](./handbook/tdd_testdriven_development.md)
-
 ## Philosophy
 
 The guidelines are extracted from real problems we encountered and the solutions we have found along the way. These guidelines should be used as a default unless there is a good reason against it.
