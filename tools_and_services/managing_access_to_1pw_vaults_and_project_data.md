@@ -1,5 +1,3 @@
-Draft:
-
 Educate in being own gate keeper:
 
 When asking permission to grand access to an app, ask to be removed after a reasonable time finishing the task. 
