@@ -1,9 +1,3 @@
-PATH
-  remote: _theme
-  specs:
-    abtion-io-theme (0.1.0)
-      jekyll (~> 3.9)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -263,7 +257,6 @@ PLATFORMS
   x86_64-darwin-19
 
 DEPENDENCIES
-  abtion-io-theme!
   github-pages
 
 BUNDLED WITH

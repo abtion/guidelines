@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {%- include head.html -%}
+  <body>
+    {%- include sidebar.html -%}
+    <main>
+      {%- include header.html -%}
+      <div class="wrapper">
+        <div class="content__head">
+          {{ page.dir | remove_first: "/" | split: "" | reverse | join: "" | remove_first: "/" | split:
+      "" | reverse | join: "" | replace: "_", " " | replace: "/", " / " | capitalize }}
+        </div>
+
+        <div class="content__body">
+          {{ content }}
+        </div>
+      </div>
+    </main>
+    <!-- {%- include footer.html -%} -->
+  </body>
+</html>

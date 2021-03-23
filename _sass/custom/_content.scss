@@ -1,0 +1,40 @@
+$wrapper-width: 800px;
+$content-body-width: 480px;
+
+.wrapper {
+  max-width: $wrapper-width;
+  margin-left: $margin-left;
+}
+
+.content__head {
+  border-bottom: 5px solid $theme-color-contrast;
+  padding-top: 70px;
+  padding-bottom: 40px;
+  font-size: $font-size;
+}
+
+.content__body {
+  float: right;
+  padding-top: 2rem;
+  margin-left: $margin-left;
+
+  max-width: 480px;
+
+  h1 {
+    position: absolute;
+    left: $sidebar-width + $margin-left;
+    max-width: $wrapper-width - $content-body-width;
+    text-align: left;
+    font-size: $font-size * 4;
+  }
+
+  p {
+    margin-bottom: 1rem;
+  }
+
+  img {
+    max-width: $wrapper-width;
+    float: right;
+    margin-bottom: 1rem;
+  }
+}

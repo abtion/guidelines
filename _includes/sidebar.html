@@ -1,0 +1,24 @@
+<sidebar>
+  {% assign currentpage = page %} {% assign directories = "" | split: ',' %} {% for page in
+  site.pages %} {% unless directories contains page.dir %} {% if page.name contains ".md" %} {%
+  assign directories = directories | push: page.dir %} {% endif %} {% endunless %} {% endfor %} {%
+  assign sorteddirectories = directories | sort %} {% for directory in sorteddirectories %}
+  <div class="folder">
+    <h1>
+      {{ directory | remove_first: "/" | split: "" | reverse | join: "" | remove_first: "/" | split:
+      "" | reverse | join: "" | replace: "_", " " | replace: "/", " / " | capitalize }}
+    </h1>
+
+    {% for page in site.pages %} {% if page.name contains ".md" and page.dir == directory %} {% if
+    page.title == currentpage.title %}
+    <a href="{{site.baseurl}}/{{page.path | replace: '.md', '.html' }}" class="active">
+      {{ page.name | replace: ".md", "" | capitalize | replace: "_", " " }}
+    </a>
+    {% else %}
+    <a href="{{site.baseurl}}/{{page.path | replace: '.md', '.html' }}">
+      {{ page.name | replace: ".md", "" | capitalize | replace: "_", " " }}
+    </a>
+    {% endif %} {% endif %} {% endfor %}
+  </div>
+  {% endfor %}
+</sidebar>

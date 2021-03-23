@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: '/guidelines' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 github_username: abtion
-theme: abtion-io-theme
+# theme: abtion-io-theme
 
 # https://docs.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll#plugins
 # GitHub Pages uses plugins that are enabled by default and cannot be disabled
