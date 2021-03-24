@@ -7,7 +7,14 @@ header {
   height: $header-height;
   padding-left: $margin-left + 23px;
 
-  border-bottom: 1px solid $theme-color-dark;
+  .outline {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: $header-height;
+    width: 100vw;
+    border-bottom: 1px solid $theme-color-dark;
+  }
 
   h1 {
     font-size: $font-size;

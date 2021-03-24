@@ -11,6 +11,8 @@ $theme-color-link: #0044fe;
 $font-family: 'Hansen Grotesque', sans-serif;
 $font-size: small;
 
+$content-max-width: 800px;
+
 $margin-left: 160px;
 $margin-right: 140px;
 
@@ -62,6 +64,7 @@ p {
   font-size: $font-size;
   line-height: 1.5;
   margin-bottom: 1.5rem;
+  text-align: justify;
 }
 
 strong {
@@ -72,6 +75,20 @@ a {
   font-family: $font-family;
   color: $theme-color-link;
   text-decoration: underline;
+}
+
+ol,
+ul {
+  margin-left: 1rem;
+  padding: 0 20px;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+ul {
+  list-style-type: '\2015   ';
 }
 
 blockquote {
@@ -86,17 +103,23 @@ blockquote {
   }
 }
 
-main {
-  display: block;
-  width: 100%;
+code,
+pre {
+  background-color: $theme-color-contrast;
+  color: lighten($theme-color-contrast, 60%);
+  font-family: monospace;
+  line-height: 1.5;
+  padding: 0.1rem 0.3rem;
 }
 
-sidebar {
-  display: none;
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 1rem;
+  font-size: $font-size;
 }
 
-@media (min-width: 600px) {
-  sidebar {
-    display: block;
-  }
+table {
+  margin-bottom: 2rem;
 }

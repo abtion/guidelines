@@ -1,4 +1,6 @@
-<header class="site-header" role="banner">
+<header>
+  <div class="outline"></div>
+
   <svg width="56" height="56" viewBox="0 0 57 56" fill="none" xmlns="http://www.w3.org/2000/svg">
     <circle cx="28.7723" cy="27.2277" r="26.7277" stroke="#F2D7CA" />
     <path d="M6.0584 40.3416L28.7723 0.999999L51.4861 40.3416H6.0584Z" stroke="#F2D7CA" />
@@ -26,4 +28,10 @@
   </svg>
 
   <h1>Abtion.inside</h1>
+
+  <form action="{{ site.baseurl }}/assets/search.html" method="get">
+    <label for="search_box">Search</label>
+    <input type="text" id="search_box" name="query" />
+    <input type="submit" value="search" />
+  </form>
 </header>

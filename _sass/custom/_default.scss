@@ -1,0 +1,14 @@
+main {
+  display: block;
+  width: 100%;
+}
+
+sidebar {
+  display: none;
+}
+
+@media (min-width: $sidebar-width + + $margin-left +$content-max-width) {
+  sidebar {
+    display: block;
+  }
+}

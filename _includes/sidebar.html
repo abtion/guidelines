@@ -1,4 +1,6 @@
 <sidebar>
+  <div class="header-spacer"></div>
+
   {% assign currentpage = page %} {% assign directories = "" | split: ',' %} {% for page in
   site.pages %} {% unless directories contains page.dir %} {% if page.name contains ".md" %} {%
   assign directories = directories | push: page.dir %} {% endif %} {% endunless %} {% endfor %} {%

@@ -3,6 +3,10 @@ sidebar {
   color: #000000;
   border: 1px solid $theme-color-dark;
 
+  .header-spacer {
+    height: $header-height;
+  }
+
   .folder {
     border-bottom: 1px solid $theme-color-dark;
     padding: 0 20px 1rem 0;

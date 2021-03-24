@@ -56,7 +56,7 @@ Unordered
 
 - Create a list by starting a line with `+`, `-`, or `*`
 - Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
+  - Marker character change forces new list start Lorem phasellus ipsum sagittis imperdiet lobortis mauris habitant tellus at, nulla dapibus quis varius felis mi himenaeos non, taciti sociosqu odio ante elit porta turpis mattis. Magnis finibus at montes curae et vivamus sit, litora sollicitudin erat commodo nascetur accumsan magna, cubilia pharetra lobortis augue cras dictum. Platea nulla sit tempus orci ad massa habitasse euismod, mi purus lacinia nam quisque facilisis dui, dolor in eleifend fusce nec fames conubia. Nisl neque parturient aptent cubilia porta vivamus nisi, ad proin efficitur morbi praesent velit himenaeos, suscipit tempus rhoncus ullamcorper dignissim ante. Torquent cras lorem velit nibh phasellus dignissim laoreet, tellus quam tincidunt nisi venenatis dictum tristique habitant, fringilla eleifend ornare in suspendisse nulla.:
     - Ac tristique libero volutpat at
     * Facilisis in pretium nisl aliquet
     - Nulla volutpat aliquam velit
@@ -66,6 +66,7 @@ Ordered
 
 1. Lorem ipsum dolor sit amet
 2. Consectetur adipiscing elit
+   2.2 Tortor montes tellus turpis parturient
 3. Integer molestie lorem at massa
 
 4. You can use sequential numbers...
@@ -97,10 +98,15 @@ Syntax highlighting
 
 ```js
 var foo = function (bar) {
+  const bar = 'baz'
+  let fuzz = 123
   return bar++
 }
 
-console.log(foo(5))
+// some comment
+
+console.log(foo(1234))
+console.err('Warning')
 ```
 
 ## Tables

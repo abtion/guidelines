@@ -1,22 +1,15 @@
-$wrapper-width: 100%;
-$wrapper-margin-left: 0px;
-$wrapper-margin-right: $wrapper-margin-left;
-
-$content-body-width: 100%;
-
-@media (min-width: 600px) {
-  $wrapper-width: 800px;
-  $wrapper-margin-left: 100%;
-  $wrapper-margin-right: 100%;
-
-  $content-body-width: 480px;
+@mixin wrapper-size($wrapper-width, $wrapper-margin-left, $wrapper-margin-right) {
+  .content_wrapper {
+    width: $wrapper-width;
+    margin-left: $wrapper-margin-left;
+    margin-right: $wrapper-margin-right;
+  }
 }
 
+@include wrapper-size(100%, 0px, 0px);
+
 .content_wrapper {
-  width: $wrapper-width;
-  margin-left: $wrapper-margin-left;
-  margin-right: $wrapper-margin-right;
-  padding: 0 1rem;
+  padding: 0 0.5rem;
 }
 
 .content__head {
@@ -28,59 +21,54 @@ $content-body-width: 100%;
 }
 
 .content__body {
-  width: $content-body-width;
+  width: 100%;
   white-space: wrap;
   overflow: hidden;
   text-overflow: ellipsis;
   float: right;
 
-  ul {
-    list-style-type: circle;
-    text-indent: 1rem;
-    font-size: $font-size;
-    margin-left: 10px;
-    // padding-left: 3rem;
-
-    // &::before {
-    //   content: '\2501';
-    //   font-weight: 600;
-    //   font-size: 1.2rem;
-    //   position: absolute;
-    //   font-size: 1.2rem;
-    //   left: 1.5rem;
-    // }
-  }
-
   img {
-    max-width: $wrapper-width;
+    max-width: $content-max-width;
     float: right;
     margin-bottom: 1rem;
   }
 
   h1 {
     margin: 2.3rem 0;
+    left: $margin-left;
   }
 }
 
-@media (min-width: 600px) {
-  .content_wrapper {
-    max-width: $wrapper-width;
-  }
+@media (min-width: $margin-left + $content-max-width) {
+  @include wrapper-size($content-max-width, $margin-left, auto);
+
+  $content-body-width: 480px;
 
   .content__body {
+    width: $content-body-width;
     float: right;
     padding-top: 2rem;
     margin-left: $margin-left;
 
     h1 {
       position: absolute;
-      left: $sidebar-width + $margin-left;
-      // max-width: $wrapper-width - $content-body-width;
+      left: $margin-left;
       text-align: left;
+      margin: 0;
+      padding: 0;
+      width: $content-max-width - $content-body-width;
     }
+  }
+}
 
-    // li::before {
-    //   left: $sidebar-width + 10px;
-    // }
+// @media (min-width: $margin-left + $content-max-width) {
+//   .content_wrapper {
+//     margin: 0 auto;
+//   }
+// }
+
+@media (min-width: $sidebar-width + + $margin-left + $content-max-width + 10px) {
+  h1 {
+    left: $sidebar-width + $margin-left !important;
   }
 }
