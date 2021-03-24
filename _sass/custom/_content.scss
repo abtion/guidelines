@@ -34,17 +34,21 @@ $content-body-width: 100%;
   text-overflow: ellipsis;
   float: right;
 
-  li {
-    padding-left: 3rem;
+  ul {
+    list-style-type: circle;
+    text-indent: 1rem;
+    font-size: $font-size;
+    margin-left: 10px;
+    // padding-left: 3rem;
 
-    &::before {
-      content: '\2501';
-      font-weight: 600;
-      font-size: 1.2rem;
-      position: absolute;
-      font-size: 1.2rem;
-      left: 1.5rem;
-    }
+    // &::before {
+    //   content: '\2501';
+    //   font-weight: 600;
+    //   font-size: 1.2rem;
+    //   position: absolute;
+    //   font-size: 1.2rem;
+    //   left: 1.5rem;
+    // }
   }
 
   img {
@@ -74,5 +78,9 @@ $content-body-width: 100%;
       // max-width: $wrapper-width - $content-body-width;
       text-align: left;
     }
+
+    // li::before {
+    //   left: $sidebar-width + 10px;
+    // }
   }
 }

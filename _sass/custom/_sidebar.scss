@@ -5,38 +5,36 @@ sidebar {
 
   .folder {
     border-bottom: 1px solid $theme-color-dark;
-    padding: 2rem 25px 1rem 64px;
+    padding: 0 20px 1rem 0;
   }
 
   h1 {
     font-size: 10px;
     color: inherit;
     font-weight: bold;
+    padding: 2rem 25px 0 64px;
   }
 
   a {
+    font-size: 0.6rem;
     color: inherit;
     display: block;
     text-decoration: none;
-    padding-left: 20px;
-    font-size: 10px;
+    padding-left: 84px;
 
     margin-bottom: 1rem;
     font-weight: 400;
 
     &.active {
-      color: $theme-color-dark;
+      color: $theme-color-link;
     }
     &.active:before {
-      background-color: $theme-color-dark;
+      border-bottom: 1px solid $theme-color-link;
       content: '';
-      display: inline-block;
-      height: 1px;
-      position: relative;
-      vertical-align: middle;
-      width: 50%;
-      right: 20px;
-      margin-left: -50%;
+      position: absolute;
+      left: 0;
+      height: 0.3rem;
+      width: 70px;
     }
   }
 }
