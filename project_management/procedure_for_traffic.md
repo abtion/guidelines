@@ -16,17 +16,17 @@ This document serves as a guideline for how to plan and book resources called Tr
 <ins>Digital infrastructure</ins>: Your client grows too big for DI or your client’s work decreases and the project must be handed over to DI.
 
 
-**Similar for all requests**:
+## Similar for all requests
 
 Create a Harvest project and remember to connect to Forecast (check mark in harvest). Otherwise it will not be possible to plan in forecast. 
 
-**1: Pre-booking**: 
+## 1. Pre-booking 
 
 In top of forecast you can ‘pre-book’ a resource like .net or design etc. 
 Please try to be as realistic when choosing when to start the booking and in the number of team members needed. OBS not possible to book more than 24 hours a day. So if you need more than 3 developers please write it in the comment field. 
 If you need help write the traffic manager at: traffic@abtion.com with the relevant info. Please get back to traffic when you have a yes or no on the project so we can update forecast and go to procedure 2. 
 
-**2: Dedicated team**: 
+## 2: Dedicated team: 
 
 Contant your traffic manager on traffic@abtion.com with this info. 
 
@@ -40,14 +40,14 @@ After this the traffic manager will be responsible to find the best suitable tea
 
 If further coordinating is needed this dialog will happen in the slack channel #Planning. This could be relevant if all resources are booked or the desired developers are on another project. 
 
-**3: Loosely connected team and your options**
+## 3: Loosely connected team and your options
 
 Contact your traffic manager in #planning and the whole team, with the traffic manager as responsible, will help you out when possible. Please try to bulk these smaller request so we can have a DI pair look at it, if possible go to procedure 4. If you have a wish for a specific person to handle the task please write so. 
 
 The dialog is in #planning for all to know that there is a little change of plans. This should of course be limited and is only relevant for invoiceable work. This procedure also covers estimating work (not WP). 
 
 
-**3.1 SLA/No SLA**
+### 3.1 SLA/No SLA
 
 If the PM decides that we must act on a given task within the short time frame from the SLA - call the Traffic Manager. If there is no response write in #planning who you need to solve this task, and within what time frame you need to start working on it. 
 
@@ -56,7 +56,7 @@ Before you do so please ask yourself if this is an important client/task or not.
 
 If in doubt, talk to the client director on the client. 
 
-**4: Digital infrastructure (DI)**
+## 4: Digital infrastructure (DI)
 
 For now the maximum size of a DI task is a pair week (60 hours). If you find yourself having a DI client in need of a bigger task then this, please reach out to your traffic manager. In collaboration with you and our CTO we will find out if DI has time or we need a pair outside DI. If that is the case go to 2 or 3 depending on the size of the task. 
 
@@ -64,5 +64,5 @@ When your client goes from a dedicated team to DI, this can be a sensitive situa
 Then DI will work on the solution after the agreed timeframe. Ad hoc tasks should be created in the DI backlog.
 
 
-**Finally, similar to all**: 
+## Finally, similar to all 
 We need to be mindful on how to communicate changes to the affected ressources. Please do not update forecast on specific people before you or the Traffic Manager has talked to them. 
