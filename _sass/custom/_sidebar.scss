@@ -27,5 +27,16 @@ sidebar {
     &.active {
       color: $theme-color-dark;
     }
+    &.active:before {
+      background-color: $theme-color-dark;
+      content: '';
+      display: inline-block;
+      height: 1px;
+      position: relative;
+      vertical-align: middle;
+      width: 50%;
+      right: 20px;
+      margin-left: -50%;
+    }
   }
 }
