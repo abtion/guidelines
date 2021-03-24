@@ -28,10 +28,7 @@
   </li>
   {%- endif -%} {%- if site.youtube_username -%}
   <li>
-    <a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"
-      ><svg class="svg-icon">
-        <use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use>
-      </svg>
+    <a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}">
       <span class="username">{{ site.youtube_username| escape }}</span></a
     >
   </li>

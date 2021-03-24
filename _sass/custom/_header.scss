@@ -1,19 +1,25 @@
 header {
   display: flex;
   flex-direction: row;
+  justify-content: start;
+  align-items: center;
+
+  height: $header-height;
+  padding-left: $margin-left + 23px;
+
   border-bottom: 1px solid $theme-color-dark;
 
-  padding: 23px 0;
-
   h1 {
-    font-size: 10px;
+    font-size: $font-size;
     color: inherit;
-    margin-left: 30px;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-left: 20px;
+    margin-top: 1.5vh;
   }
 
   svg {
-    margin-left: $margin-left + 8px;
+    height: 5vh;
+    width: auto;
+    max-width: 56px;
+    max-height: 56px;
   }
 }
