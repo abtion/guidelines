@@ -1,11 +1,11 @@
 header {
   display: flex;
-  flex-direction: row;
-  justify-content: start;
+  // flex-direction: row;
+  justify-content: flex-end;
   align-items: center;
 
   height: $header-height;
-  padding-left: $margin-left + 23px;
+  // padding-left: $margin-left + 23px;
 
   .outline {
     position: absolute;
@@ -24,11 +24,12 @@ header {
     margin-top: 1.5vh;
   }
 
-  svg {
-    height: 5vh;
-    width: auto;
-    max-width: 56px;
-    max-height: 56px;
+  img {
+    // width: auto;
+    width: 56px;
+    height: 56px;
+    // position: absolute;
+    margin-right: 20px;
   }
 
   form {
