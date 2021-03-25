@@ -1,17 +1,19 @@
 header {
   display: flex;
-  // flex-direction: row;
-  justify-content: flex-end;
+  justify-content: flex-start;
   align-items: center;
 
   height: $header-height;
-  // padding-left: $margin-left + 23px;
+
+  @media (min-width: $sidebar-width + + $margin-left +$content-max-width) {
+    height: $header-height-desktop;
+  }
 
   .outline {
     position: absolute;
     top: 0;
     left: 0;
-    height: $header-height;
+    height: inherit;
     width: 100vw;
     border-bottom: 1px solid $theme-color-dark;
     pointer-events: none;
@@ -25,11 +27,9 @@ header {
   }
 
   img {
-    // width: auto;
-    width: 56px;
-    height: 56px;
-    // position: absolute;
-    margin-right: 20px;
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
   }
 
   form {
@@ -37,5 +37,17 @@ header {
     width: auto;
     margin-left: 20px;
     margin-top: 1.5vh;
+  }
+
+  @media (min-width: $sidebar-width + + $margin-left +$content-max-width) {
+    height: $header-height-desktop;
+    justify-content: flex-end;
+
+    img {
+      width: 56px;
+      height: 56px;
+      margin-right: 20px;
+      margin-left: undefined;
+    }
   }
 }
