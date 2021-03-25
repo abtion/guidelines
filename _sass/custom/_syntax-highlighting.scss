@@ -15,7 +15,7 @@ pre {
   padding: 0.5rem 0.5rem;
 
   .c {
-    color: $theme-color-light;
+    color: lighten($theme-color, 20%);
     font-style: italic;
   } // Comment
   .err {
