@@ -1,8 +1,0 @@
-<div class="content_wrapper">
-  <div class="content__head">
-    {{ page.dir | remove_first: "/" | split: "" | reverse | join: "" | remove_first: "/" | split: ""
-    | reverse | join: "" | replace: "_", " " | replace: "/", " / " | capitalize }}
-  </div>
-
-  <div class="content__body">{{ content }}</div>
-</div>
