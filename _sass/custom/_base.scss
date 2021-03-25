@@ -6,7 +6,7 @@ $theme-color: #fef4ef;
 $theme-color-light: lighten($theme-color, 20%);
 $theme-color-dark: darken($theme-color, 20%);
 $theme-color-contrast: #3a2250;
-$theme-color-link: #0044fe;
+$theme-color-link: #00268d;
 
 $font-family: 'Hansen Grotesque', sans-serif;
 $font-size: small;
@@ -74,7 +74,11 @@ strong {
 a {
   font-family: $font-family;
   color: $theme-color-link;
-  text-decoration: underline;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lighten($theme-color-link, 40%);
 }
 
 ol,
@@ -122,4 +126,8 @@ td {
 
 table {
   margin-bottom: 2rem;
+}
+
+hr {
+  margin-bottom: 1rem;
 }

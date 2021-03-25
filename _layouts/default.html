@@ -5,14 +5,14 @@
     {%- include sidebar.html -%}
     <main>
       {%- include header.html -%}
-      
+
       <div class="content_wrapper">
-        <div class="content__head">
+        <div class="content_head">
           {{ page.dir | remove_first: "/" | split: "" | reverse | join: "" | remove_first: "/" | split: ""
           | reverse | join: "" | replace: "_", " " | replace: "/", " / " | capitalize }}
         </div>
 
-        <div class="content__body">{{ content }}</div>
+        <div id="content_body">{{ content }}</div>
       </div>
 
     </main>

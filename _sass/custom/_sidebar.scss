@@ -31,6 +31,7 @@ sidebar {
 
     &.active {
       color: $theme-color-link;
+      font-weight: 600;
     }
     &.active:before {
       border-bottom: 1px solid $theme-color-link;
