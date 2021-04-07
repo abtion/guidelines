@@ -1,6 +1,4 @@
-WIP
-
-# How do we guard our logins and manage access to project data and 1pw?
+# WIP - How do we guard our logins and manage access to project data and 1pw?
 
 #### The basic rules and culture:
 1. we educate ourselves to be our own gate keeper
