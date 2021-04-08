@@ -1,12 +1,10 @@
-WIP
-
 # How do we guard our logins and manage access to project data and 1pw?
 
 ## The basic rules and culture:
 **1. We educate ourselves to be our own gate keeper**
   - When asking permission to grand access to fx. Heroku or 1pw vaults, ALSO ask to be removed after a reasonable time finishing the task. 
-  - Only have access to the data and Vaults that you are actively working on
-  - Ask to eliminate access when you can enter data/Vaults of projects you are not working on.
+  - Only have access to the data and vaults that you are actively working on
+  - Ask to eliminate access when you can enter data/vaults of projects you are not working on.
 
 **2. People granding access are Hari, Angelle and PM**
 
@@ -22,10 +20,12 @@ WIP
   - The project's main developers, (people with most knowledge), will remain access to the Vault.
 
 **3. Each team/department has their own Vault**
-  - _PM, Marketing, Design. C-level, Sales:_ Relatively sentitive logins related team related. (All shared admin logins kategorised by department. Personal logins should be saved in private.
-  - _Internal Infrastucture:_ Relatively sentitive logins related to digital infrastucture. (fx. Rollbar, BrowserStack, etc.)
-  - _Technical Red Tape:_ Logins that are highly sentisivtive and tech related (fx. admin login on heroku, AWS, etc.)
-  - _Shared:_ Logins that are not sensitive and can be shared within the entire company. (fx. wifi code, educational logins, Kahoot, etc.)
+  - _PM, Marketing, Design. C-level, Sales:_ Shared logins categorised by department. Personal logins should be saved in private.
+  - _Internal Infrastucture:_ Shared logins related to digital infrastucture that are not app specific. An item belongs to this vault if:
+    - It offers development-wise functionality, it does not store client-sensitive data and is paid by Abtion. E.g. BrowserStack
+    -  It contains information about several apps and is pending to be migrated into a client-specific plan. E.g. Rollbar.
+  - _Technical Red Tape:_ Tech-related logins that are highly sensitive. E.g. Admin login on heroku
+  - _Shared:_ Logins that are not sensitive and can be shared within the entire company. E.g. wifi code, educational logins, Kahoot.
 
 **4. Alignment with License overview + Clients overview**
   - Keep the license overview up to date. This will help us to track activity on services and licenses + will make it easier to downgrade/upgrade when needed. 
