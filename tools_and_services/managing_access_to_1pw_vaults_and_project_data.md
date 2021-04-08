@@ -11,9 +11,9 @@ WIP
 
 ### 1pw structure:
 **1. Main rules:**
-    - Always generate codes via 1pw and use 2fa when possible
-    - Always save it in the right Vault
-    - Delete unused logins of licenses or services and update vault members
+  - Always generate codes via 1pw and use 2fa when possible
+  - Always save it in the right Vault
+  - Delete unused logins of licenses or services and update vault members
 **2. Each project has their own Vault**
     - Only active teammembers have access to the Vault. 
     - When a team member is switching to an other projects, he/she ask's to decline access.
