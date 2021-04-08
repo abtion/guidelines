@@ -32,5 +32,7 @@ WIP
   - We follow the basic structure of 1pw, creating a own 'section' in asana for each project. 
 
 -> link to license overview + guidelines:
+
 https://app.asana.com/0/1149529931138025/list
+
 https://github.com/abtion/guidelines/blob/main/tools_and_services/purchasing_licenses_and_memberships.md
