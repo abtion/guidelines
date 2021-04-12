@@ -9,6 +9,7 @@
   - Always generate codes via 1pw and use 2fa when possible
   - Always save it in the right Vault
   - Delete unused logins of licenses or services and update vault members
+  - On critical systems, admins should have separate accounts for special use only. For daily usage, they will use their private accounts with the necessary permissions.
   
 ### Vault organisation
 **1. Each project has their own Vault**
