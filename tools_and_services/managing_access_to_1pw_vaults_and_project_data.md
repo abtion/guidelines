@@ -1,7 +1,5 @@
-# How do we guard our logins and manage access to project data and 1pw?
-
 ## The basic rules and culture:
-**We educate ourselves to be our own gate keeper and everyone is active contributing**
+**We educate ourselves to be our own gate keeper. Everyone is actively contributing**
   - When asking permission to grand access to fx. Heroku or 1pw vaults, ALSO ask to be removed after a reasonable time finishing the task. 
   - Only have access to the data and vaults that you are actively working on
   - Ask to eliminate access when you can enter data/vaults of projects you are not working on.
@@ -15,8 +13,8 @@
 ### Vault organisation
 **1. Each project has their own Vault**
   - Only active teammembers have access to the Vault. 
-  - When a team member is switching to an other projects, he/she ask's to decline access.
-  - The project's main developers, (people with most knowledge), will remain access to the Vault.
+  - When a team member is switching to another project, he/she ask's to be romoved access.
+  - The project's main developers, (people with most knowledge), will remain access to the vault.
 
 **2. Each team/department has their own Vault**
   - _PM, Marketing, Design. C-level, Sales:_ Shared logins categorised by department. Personal logins should be saved in private.
@@ -30,4 +28,4 @@
   - Keep the [license overview](https://app.asana.com/0/1149529931138025/list) up to date. This will help us to track activity on services and licenses + will make it easier to downgrade/upgrade when needed. 
   - We follow the basic structure of 1pw, creating a own 'section' in asana for each project. 
 
-## People granding access are Hari, Angelle and PM
+## People granding access are Hari, Angelle and the relevant project PM
