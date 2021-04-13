@@ -1,5 +1,5 @@
 baseurl: '/guidelines'
-url: ''
+url: 'abtion.github.io'
 remote_theme: abtion/github-pages-theme
 plugins:
   - jekyll-seo-tag
