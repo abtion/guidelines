@@ -1,0 +1,18 @@
+baseurl: '/guidelines'
+url: ''
+remote_theme: abtion/github-pages-theme
+plugins:
+  - jekyll-seo-tag
+
+# SEO
+title: Abtion guidelines
+tagline: Abtion guidelines are extracted from real problems encountered and solutions.
+description: Abtion guidelines are extracted from real problems encountered and solutions.
+email: hello@abtion.com
+logo: /Abtion-io-OG.png
+image: /Abtion-io-OG.png
+social:
+  name: Abtion A/S
+  links:
+    - hhttps://www.linkedin.com/company/abtion
+    - https://github.com/abtion
