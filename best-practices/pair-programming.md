@@ -1,5 +1,13 @@
 # Pair Programming
 
+## Table of Contents
+
+- [Why are we pair programming?](#why-are-we-pair-programming?)
+- [How do we pair program?](#how-do-we-pair-program?)
+  - [Prerequisites](#prerequisites)
+  - [Pair programming styles](#pair-programming-styles)
+- [Additional reading](#additional-reading)
+
 ## Why are we pair programming?
 
 At Abtion, we take inspiration from the principles of Kent Beck's "[eXtreme
