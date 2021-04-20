@@ -53,9 +53,11 @@ The styles described in this document are:
 
 _We strongly recommend using [a pomodoro timer](https://pomodoro.abtion.com/) or a set time interval to determine when to switch roles._
 
-#### Ping Pong
+---
 
-**When to use: When the pair wants to ensure that their code is test-driven.**
+#### **Ping Pong**
+
+_When to use:_ When the pair wants to ensure that their code is test-driven.
 
 The Ping Pong style is recognized by its constant role switching where the pair
 switches in a red-green fashion.
@@ -77,9 +79,11 @@ This style forces the pair to switch roles regularly which can help keep both
 developers focused for the session. It is especially useful for enforcing a
 test-driven approach.
 
-#### Driver and Navigator
+---
 
-**When to use: When Ping Pong pairing is too taxing.**
+#### **Driver and Navigator**
+
+_When to use:_ When Ping Pong pairing is too taxing.
 
 Driver and Navigator style can be seen as the most balanced pairing style, and
 this is also the style that the "Tour Guide and Tourist" and "Backseat Navigator
@@ -107,10 +111,12 @@ reminiscent of the Backseat Navigator style.
 
 This awareness is especially important when one party has more experience.
 
-#### Tour Guide and Tourist
+---
 
-**When to use: When onboarding a developer to a project or on a team. It is a
-way to share context and knowledge about the system.**
+#### **Tour Guide and Tourist**
+
+_When to use:_ When onboarding a developer to a project or on a team. It is a
+way to share context and knowledge about the system.
 
 The Tour Guide is the Driver and the Navigator and their role is to type and
 introduce the project. They explain features, structures, and issues as they
@@ -123,11 +129,13 @@ learn with your fingers in the code, than it is with your eyes on it.
 
 It isn't easy for a passive listener to stay focused for a long time.
 
-### Backseat Navigator
+---
 
-**When to use: When onboarding a developer to a project, a team, or a
+#### **Backseat Navigator**
+
+_When to use:_ When onboarding a developer to a project, a team, or a
 technology. It is a way for the Navigator to train their communication skills
-and the Driver to get used to new processes/technologies.**
+and the Driver to get used to new processes/technologies.
 
 Also known as Strong Style and Driving School.
 
@@ -150,10 +158,12 @@ to a project or a team.
 As with the Tour Guide/Tourist style, it can be tiring for both parts to be
 stuck in their respective roles for too long.
 
-#### Unstructured
+---
 
-**When to use: When "pre-pairing"/spiking, or when the developers are both new
-to a code base.**
+#### **Unstructured**
+
+_When to use:_ When "pre-pairing"/spiking, or when the developers are both new
+to a code base.
 
 The Unstructured pairing session is defined by its lack of predetermined roles.
 Whoever wants to drive drives, and whoever wants to navigate navigates.
