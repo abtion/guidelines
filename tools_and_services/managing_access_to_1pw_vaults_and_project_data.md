@@ -29,4 +29,4 @@
   - Keep the [license overview](https://app.asana.com/0/1149529931138025/list) up to date. This will help us to track activity on services and licenses + will make it easier to downgrade/upgrade when needed. 
   - We follow the basic structure of 1pw, creating a own 'section' in asana for each project. 
 
-## People granding access are Hari, Angelle and the relevant project PM
+### People granding access are Hari, Angelle and the relevant project PM
