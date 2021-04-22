@@ -1,6 +1,6 @@
 ## The basic rules and culture:
-**We educate ourselves to be our own gate keeper. Everyone is actively contributing**
-  - When asking permission to grand access to fx. Heroku or 1pw vaults, ALSO ask to be removed after a reasonable time finishing the task. 
+**We educate ourselves to be our own gatekeeper. Everyone is actively contributing**
+  - When asking permission to grant access to fx. Heroku or 1pw vaults, ALSO ask to be removed after a reasonable time finishing the task. 
   - Only have access to the data and vaults that you are actively working on
   - Ask to eliminate access when you can enter data/vaults of projects you are not working on.
 
