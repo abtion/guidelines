@@ -46,10 +46,10 @@ Please inform Simone Stengaard with your request (Write to traffic@abtion.com).
 - Nytårsdag / New years day (1st of january)
 - Skærtorsdag / Maundy Thursday
 - Langfredag / Good Friday
-- 2. påskedag / Easter monday
+- 2 påskedag / Easter monday
 - St. Bededag / General Prayer Day
 - Kristi Himmelfart / Ascension Day
-- 2. pinsedag / Whit Monday
+- 2 pinsedag / Whit Monday
 - Jul / Christmas (25th and 26th of december)
 
 **Forced vacation days**:
@@ -85,6 +85,7 @@ Sverigesgade 18
 abtion.com
 
 **Auto-reply DK**
+
 Tak for din e-mail.
 
 Jeg nyder i øjeblikket lidt fritid uden for kontoret, og min indbakke er ikke med på turen. Jeg svarer dig så snart jeg er tilbage ved mit skrivebord. 
@@ -97,6 +98,7 @@ Tak, vi tales ved snarest muligt.
 [Automatic E-mailsignatur]
 
 **Auto-reply EN** 
+
 Thank you for your email. 
 
 I am enjoying some time out of the office and my inbox won't join me on this trip. I ll make sure to reply to your mail as soon as I return. 
