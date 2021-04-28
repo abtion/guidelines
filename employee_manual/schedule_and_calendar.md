@@ -7,12 +7,12 @@ We use Google Calendar as a common calendar platform. Make sure that your calend
 
 As part of the 4dww, we shorten our meetings and make sure to keep them effective. We book each other for short 20 minutes meetings or long 50 minutes meetings. When booking a meeting, add an agenda with the topics and action points for the meeting. Also remember to answer all calendar invitations so the organizer does not have to follow up on your attendance for the meeting. 
 
-To do:
+We'd like you to:
 - Add Abtion's calender to your own google calender to stay on point with public holidays, free days, internal days and birthdays
 - Turn on 'effective meetings' in your calendar settings and det 20 min as default for scheduling meetings
 
 
-## Holiday
+## Taking time off
 Don’t be shy and remember to use your vacation time! We believe it helps to motivate, inspire and refocus. 
 
 Abtion provides 25 vacation days per year. While only working 4 days a week, this actually holds 6 weeks of holiday per year, given that one only uses 4 vacation days for a full week of vacation. 
@@ -21,10 +21,10 @@ When you are employed with payment during vacation, you receive a holiday allowa
 
 All days and calculations are provided following the Danish Holiday Rights 'Dansk ferielov’. It is your own responsibility, to make sure you use all your holiday days before the new year starts and to check the entitled payments. 
 
-### I want to book my holiday
+### Booking holiday
 The sooner you notify us of your request, the higher the chance of appoval gets. Notify us as soon as possible, so we can ensure you canenjoy your desired time off. 
 
-Rule of thumb:
+Our Rule of thumb:
 - Make sure your holiday is OK with relevant managers/PM.
 - A single day off should be requested minimum 7 days in advance.
 - Vacation (several days in a row) should be requested minimum 3 weeks in advance, and can be rejected if the timing doesn’t allow it.
@@ -51,7 +51,7 @@ We also demand you to take some days off on the following days:
 - Week between Christmas and New Year ( + 24th of December)
 Some days can slightly vary year to year, depending on which week day a public holiday falls.  
 
-## Abtion signature in you G-mail
+## Abtion signature
 
 ### E-mail signature
 We ask you to add your personal details in the templates here under and add it in your gmail settings.
