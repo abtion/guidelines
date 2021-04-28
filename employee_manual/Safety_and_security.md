@@ -1,3 +1,5 @@
+# Digital Security on our devices and applications
+
 ## 1password
 A password manager remembering them all for you. Logs you into (almost) all our apps. 
 Along with a shared vault, will you have storage for your own private passwords. In order to keep the shared vault up to date, you are enabled to update new passwords. 
@@ -9,6 +11,8 @@ The magic to keep it all nice and tight — We educate ourselves to be our own g
 
 ## Security Policy
 Please read our Security Policy, download and digitally sign Appendix A of the policy stating you have read it, and send that to anp@abtion.com. After that, go through the implementation and make sure you’re aligned. 
+
+# Headquarters security
 
 ## Office
 If you notice something in the office that can be potentially dangerous to your health or the health of other colleagues, please notify your supervisor right away. Any person discovering a condition of fire, should immediately activate the fire alarm and call 112. To evacuate, take the nearest exit.. 
