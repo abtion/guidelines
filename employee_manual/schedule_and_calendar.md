@@ -58,9 +58,11 @@ We ask you to add your personal details in the templates here under and add it i
 Med venlig hilsen / Best regards
 
 [ Name ]
+
 [ Title ]
 
-+45 [ xx xx xx xx ]
++45 [ xx xx xx xx ] (Add your phone nr when you are a contact person in the company.)
+
 [ mail ]@abtion.com
 
 
