@@ -5,6 +5,7 @@ We only work 4 days a week by default, and have Fridays off. There are 2 excepti
 
 ## Lunch 
 We plan to take a lunch break at 11.30pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack or to drink in our kitchens. If there is anything missing in your preference, don’t hesitate to reach out to Angelle. 
+
 Another important consuming product next to food, is coffee. At Abtion we love good coffee! Our passion makes us look out for good beans to provide a decent cup. We like variety and try out new coffee from time to time, so if you have any suggestions according to that, don’t be shy and share it!
 
 ## Team days
@@ -39,6 +40,7 @@ To make our SoMe successful, it is as valuable to have a wide amount of follower
 
 
 ## Discounts
+
 **Halvkort**
 With this card you get 50% discount in several places owned by Cocks&Cows. See the places on this link: https://halvkort.dk/
 
