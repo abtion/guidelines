@@ -3,11 +3,6 @@ We have implemented 4day work week! Meaning, we work 30 hours from Monday to Thu
 
 We only work 4 days a week by default, and have Fridays off. There are 2 exceptions you should be aware of. As first, our 5 internal days per year will be held on Fridays and are mandatory for all employees. Second, when a public holiday takes place on a weekday from Monday to Thursday, we will use Friday as a compensation day to keep 4 working days per week. 
 
-## Lunch 
-We plan to take a lunch break at 11.30pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack or to drink in our kitchens. If there is anything missing in your preference, don’t hesitate to reach out to Angelle. 
-
-Another important consuming product next to food, is coffee. At Abtion we love good coffee! Our passion makes us look out for good beans to provide a decent cup. We like variety and try out new coffee from time to time, so if you have any suggestions according to that, don’t be shy and share it!
-
 
 ## Social Media
 These days it is all about Social Media and we are not staying behind. Give us a hand by promoting our posts to Like, follow and connect with Abtion on Facebook, Instagram and LinkedIn.
