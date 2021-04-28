@@ -81,6 +81,8 @@ While you are enjoying your time off, don’t forget to activate the Auto-reply 
 
 It could be something like this:
 
+--- 
+
 Thank you for your email. 
 
 I am enjoying some time out of the office and my inbox won't join me on this trip. I ll make sure to reply to your mail as soon as I return. 
@@ -93,6 +95,7 @@ Thank you and talk to you soon,
 
 [Automatic Email signature]
 
+---
 
 ## Absence
 
