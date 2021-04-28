@@ -44,12 +44,11 @@ You can find them all in our Abtion calender, but just to list them out, here is
 - Jul / Christmas (25th and 26th of december)
  
 ### Forced vacation days
-We also demand you to take some days off on the following days:
+We also demand you to take some days off. Some days can slightly vary year to year, depending on which week day a public holiday falls.
 
 - The Friday after Kristi Himmelfart / Ascension Day
 - Week 29 and 30 
 - Week between Christmas and New Year ( + 24th of December)
-Some days can slightly vary year to year, depending on which week day a public holiday falls.  
 
 ## Abtion signature
 
