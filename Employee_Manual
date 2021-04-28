@@ -22,7 +22,7 @@ We wish that everyone at Abtion strives to be:
 
 ## 1password
 A password manager remembering them all for you. Logs you into (almost) all our apps. Along with a shared vault, will you have storage for your own private passwords.
-In order to keep the shared vault up to date, you are enabled to update new passwords. 
+In order to keep the shared vault up to date, you are enabled to update new passwords. In 1pw you can find the log-in to internal stuff like WiFi but also project acess. 
 Remember to add the extension to Chrome.
 
 https://my.1password.com
@@ -30,7 +30,7 @@ https://my.1password.com
 Managing access to 1pw and project data
 Manage access and guard our login credentials
 
-There is a new guideline in abtion.github.io
+There is a new guideline in [abtion.github.io](https://abtion.github.io/guidelines/tools_and_services/managing_access_to_1pw_vaults_and_project_data.html)
 
 With this guideline, we introduce you to our new way of being more structured and secure with sensitive data and login credentials.
 
