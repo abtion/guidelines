@@ -130,3 +130,9 @@ Team days often have different agendas. But we start eating breakfast together, 
 ### Strategy day
 One day a year where we work on the strategy together. A full day with a focus on our vision, wheel of the year, and town hall workshops. Afterward, we round up with a cozy dinner and a social get-together.
 
+## Lunch 
+We plan to take a lunch break at 11.30pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack or to drink in our kitchens. If there is anything missing in your preference, don’t hesitate to reach out to Angelle. 
+
+Another important consuming product next to food, is coffee. At Abtion we love good coffee! Our passion makes us look out for good beans to provide a decent cup. We like variety and try out new coffee from time to time, so if you have any suggestions according to that, don’t be shy and share it!
+
+
