@@ -43,20 +43,20 @@ Vacation of 1-3 weeks should be requested a minimum of 8 weeks in advance, and c
 Please inform Simone Stengaard with your request (Write to traffic@abtion.com).
 
 **Public paid holidays**:
-Nytårsdag / New years day (1st of january)
-Skærtorsdag / Maundy Thursday
-Langfredag / Good Friday
-2. påskedag / Easter monday
-St. Bededag / General Prayer Day
-Kristi Himmelfart / Ascension Day
-2. pinsedag / Whit Monday
-Jul / Christmas (25th and 26th of december)
+- Nytårsdag / New years day (1st of january)
+- Skærtorsdag / Maundy Thursday
+- Langfredag / Good Friday
+- 2. påskedag / Easter monday
+- St. Bededag / General Prayer Day
+- Kristi Himmelfart / Ascension Day
+- 2. pinsedag / Whit Monday
+- Jul / Christmas (25th and 26th of december)
 
 **Forced vacation days**:
 Some days can slightly vary year to year, depending on which week day a public holiday falls. 
-The Friday after Kristi Himmelfart / Ascension Day
-Week 29 and 30 
-Week between Christmas and New Year ( + 24th of December)
+- The Friday after Kristi Himmelfart / Ascension Day
+- Week 29 and 30 
+- Week between Christmas and New Year ( + 24th of December)
 
 
 
