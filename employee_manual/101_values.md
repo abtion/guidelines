@@ -20,7 +20,7 @@ We wish that everyone at Abtion strives to be:
 … and at the same time have fun. 
 It should be fun and enjoyable to go to work in Abtion. If something comes in the way of fun, if it's suddenly not enjoyable to go to the office, it is important that you draw attention to it, so we can take care of the problem together.
 
-## Critique care and conduct
+## Critique care and code of conduct
 
 ### Critique
 
