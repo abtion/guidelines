@@ -1,4 +1,4 @@
-# 4dww schedule and calender
+# 4 dww schedule and calender
 
 ## Only 4 days a week
 We have implemented 4 day work week! Meaning, we work 30 hours from Monday to Thursday. In order to make the 4dww successful, we align our schedules and meet at work earliest at 7:30 and latest at 9:00. Your day finishes after 7,5 hours of work excluding a 30 min lunch break from 11.30 -12.00.
