@@ -1,35 +1,50 @@
-# Schedule and Calender
+# 4dww schedule and calender
+
+## Only 4 days a week
+We have implemented 4 day work week! Meaning, we work 30 hours from Monday to Thursday. In order to make the 4dww successful, we align our schedules and meet at work earliest at 7:30 and latest at 9:00. Your day finishes after 7,5 hours of work excluding a 30 min lunch break from 11.30 -12.00.
+
+We only work 4 days a week by default, and have Fridays off. There are 2 exceptions we'd like you to be aware of, as first, we have 5 internal days per year which will be held on Fridays. Those are mandatory for all employees, but don't worry.. they are FUN! Second, when a public holiday takes place on a weekday from Monday to Thursday, we will use Friday as a compensation day to keep 4 working days per week.
+
+One extra day of weekend gives more value then you might think. It really gives you this extra time to fully reload and start with fresh energy on Monday. This extra free time comes along with more focus on effeciency during your working days. Plan your time at the hairdresser, dentist or other non-urgent appointments on Fridays and dedicate your time effectively when at work Monday to Thursday. 
 
 ## Use your calendar
 
 ### Google Calender
 We use Google Calendar as a common calendar platform. Make sure that your calendar is up-to-date and as comprehensive as possible, so it's easy for your colleagues to see when you are available. Write in your calendar if you are not in the office / have an appointment that affects your calendar. It makes it so much easier to coordinate meetings. 
 
-As part of the 4dww, we shorten our meetings and make sure to keep them effective. We book each other for short 20 minutes meetings or long 50 minutes meetings. When booking a meeting, add an agenda with the topics and action points for the meeting. Also remember to answer all calendar invitations so the organizer does not have to follow up on your attendance for the meeting. 
+As part of the 4dww, we shorten our meetings and make sure to keep them effective. We book each other for short 20 minutes meetings or long 50 minutes meetings. When booking a meeting, add an agenda with the topics and action points. Also remember to answer all calendar invitations so the organizer does not have to follow up on your attendance. 
 
-We'd like you to:
+We'd like you to implement:
 - Add Abtion's calender to your own google calender to stay on point with public holidays, free days, internal days and birthdays
-- Turn on 'effective meetings' in your calendar settings and det 20 min as default for scheduling meetings
+- Turn on 'effective meetings' in your calendar settings and set 20 min as default for scheduling meetings
 
 
 ## Taking time off
 Don’t be shy and remember to use your vacation time! We believe it helps to motivate, inspire and refocus. 
 
-Abtion provides 25 vacation days per year. While only working 4 days a week, this actually holds 6 weeks of holiday per year, given that one only uses 4 vacation days for a full week of vacation. 
+Abtion provides 25 vacation days per year. While only working 4 days a week, this actually holds 6 weeks of holiday per year, given that one only uses 4 vacation days for a full week of vacation.
 
 When you are employed with payment during vacation, you receive a holiday allowance of 1% of your salary. This is in addition to your regular salary. 
-
 All days and calculations are provided following the Danish Holiday Rights 'Dansk ferielov’. It is your own responsibility, to make sure you use all your holiday days before the new year starts and to check the entitled payments. 
 
 ### Booking holiday
-The sooner you notify us of your request, the higher the chance of appoval gets. Notify us as soon as possible, so we can ensure you canenjoy your desired time off. 
+The sooner you notify us of your request, the higher the chance of appoval gets. Notify us as soon as possible, so we can do our best to make sure you can enjoy your desired time off. 
 
-Our Rule of thumb:
-- Make sure your holiday is OK with relevant managers/PM.
+Our rules of thumb:
 - A single day off should be requested minimum 7 days in advance.
 - Vacation (several days in a row) should be requested minimum 3 weeks in advance, and can be rejected if the timing doesn’t allow it.
 - Vacation of 1-3 weeks should be requested a minimum of 8 weeks in advance, and can be rejected if the timing doesn’t allow it.
-- Please inform Simone with your request by writing to traffic@abtion.com
+- Please inform our traffic manager about your request by writing her on slack.
+
+To make the traffic smooth please follow this order:
+
+1. Make sure your holiday is OK with relevant managers/PM and ask for approval
+2. After approval, send a mail with your request to traffic@abtion.com or write Simone on slack (She is our traffic manager)
+3. Simone will answer all your requests as fast as possible. 
+4. Simone will book your request in Forecast
+5. You register your planned vacation or day off in Harvest: > Abtion > Absence > Planned vacation > 7,5 hours.
+
+👆Remember that you have to keep an eye on your remaining saved holiday-days yourself. [Borger.dk](https://privat.atp.dk/Ferieplanlaeggeren/borger) can give you a hand with planning your holiday. And if you have any questions, reach out to your manager or Angelle. 
 
 ### Public paid holidays
 You can find them all in our Abtion calender, but just to list them out, here is an overview:
