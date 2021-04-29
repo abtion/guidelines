@@ -1,4 +1,4 @@
-# Employee Manual Abtion 
+# Values and intro
 
 ## Introduction
 Welcome to Abtion's employee manual. The purpose of the manual is to provide you with practical information about your workplace, and the company culture.
