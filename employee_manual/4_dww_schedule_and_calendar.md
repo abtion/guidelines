@@ -23,11 +23,24 @@ We'd like you to implement:
 ## Awareness of our precious time
 To be sure we are use our time sufficiently, get paid for the work we deliver, continuously getting better at estimating project and to make sure we don't work too less/much, we track all of our time. Time tracking has nothing to do with surveillance or performance monitoring. It is simply a matter of getting our principles in regard to our 4 dww, our invoices and proposals right. 
 
-Therefore an introduction to our way of tracking time right here! 
-We expect that you track on average 7.5 hours per day (excluding lunch), equivalent to 30 hours per week. 
+Therefore an introduction to our way of tracking time right down here! For more clarification, search for <time tracking> in our newsletters.
 
+### Time tracking in Harvest
+We track 30 hours per week, equivalent to 7,5 hours per day (excluding lunch breaks) and aim to have an avarage billable rate >90%. 
+Flexing is not really our 'thing' and we expect you to track 30h by the end of the week. To make sure wokring hours don't go to waste, we submit our timesheet Thursday afternoon before you leave the office. 
 
+Time tracking happens right from the moment you start working and finished when you finish your day. Sounds stricked, but it works. It makes us both aware of your time, and helps us to track all the worked minutes under the right projects and tasks. 
 
+### Pomodoro.abtion.com
+Talking about time, our working days include pomodoro. Because the secret to effective time management is...thinking in tomatoes rather than hours. It may seem silly at first, but it works!
+
+🍅 Your flow and ability to focus will improve.
+🍅 You get the necessary breaks.
+🍅 No one bothers you when you are in the pomodoro cycle.
+
+We have our own internal pomodoro space! Here you can start your own popodoro cycle, join others in their cycle, see where people are working on, and see who is running the most pomodoro's. A great tool to manage your time, and to be enganged in some gamification. 
+
+You can enter the [pomodoro dashboard](https://pomodoro.abtion.com/spaces) with your working email. 
 
 ## Taking time off
 Don’t be shy and remember to use your vacation time! We believe it helps to motivate, inspire and refocus. 
@@ -38,13 +51,14 @@ When you are employed with payment during vacation, you receive a holiday allowa
 All days and calculations are provided following the Danish Holiday Rights 'Dansk ferielov’. It is your own responsibility, to make sure you use all your holiday days before the new year starts and to check the entitled payments. 
 
 ### Booking holiday
-The sooner you notify us of your request, the higher the chance of appoval gets. Notify us as soon as possible, so we can do our best to make sure you can enjoy your desired time off. 
+The sooner you notify us of your request, the higher the chance of appoval gets. Notify us as soon as possible, so we can do our best to make sure you can enjoy your desired time off.
 
 Our rules of thumb:
 - A single day off should be requested minimum 7 days in advance.
 - Vacation (several days in a row) should be requested minimum 3 weeks in advance, and can be rejected if the timing doesn’t allow it.
 - Vacation of 1-3 weeks should be requested a minimum of 8 weeks in advance, and can be rejected if the timing doesn’t allow it.
 - Please inform our traffic manager about your request by writing her on slack.
+- Change your slack status to 'off - vacation' so we can respect your time off
 
 To make the traffic smooth please follow this order:
 
@@ -75,12 +89,10 @@ We also demand you to take some days off. Some days can slightly vary year to ye
 - Week 29 and 30 
 - Week between Christmas and New Year ( + 24th of December)
 
-
-
 ## Absence
 
 ### Illness
-When you are sick, you must notify the project manager(s), you are currently working with before 9am on the first day of your absence. You are not required to give further notice before you are ready to sign up again. Please change your slack status too (off sick). 
+When you are sick, you notify the project manager(s) you are currently working with before 9am on the first day of your absence. You are not required to give further notice before you are ready to return again. Change your slack status too 'off sick'. 
 
 ### Child’s first sick day
 
@@ -98,25 +110,14 @@ This is a huge jump for us, and we are happy it is possible. But in order to mak
 You still have the right to leave for a longer period of time, but without salary. You might even still have the right to get some payment from the authorities in an additional period of time.
 
 
-## Team days
-Every other month, we use a Friday to have an internal day. We differ in two kinds of internal days:  Team days and Strategy day.
-
-
-Team days will always happen on a Friday. It is mandatory to participate and we expect you to participate. If you can’t participate in a Team day, your absence is counted as a vacation day, unless you are absent due to sickness.
-
-Team days strive to have a theme. 'Summer party' and 'Christmas party' are themes. These are not extra parties but are part of the few planned team days a year.
+## Internal days
+Five times a year, we use a Friday to have an internal day. Internal days will always happen on a Friday. It is mandatory to participate and we expect you to participate. If you can’t participate in a Team day, your absence is counted as a vacation day, unless you are absent due to sickness.
 
 ### Team days
-For the four team days we all get together at one of our offices. The day is about team building, being together and getting to know each other even better. It is also a day, where we follow up on strategy and plans for the company. Two days are 1) Summer party and Christmas parties (half days). The two other days are 50 % business and 50 % fun and full days. 
+For the four team days we all get together at one of our offices. The day is about team building, being together and getting to know each other even better. It is also a day, where we follow up on strategy and plans for the company. It includes a summer party and Christmas party (half days) and two team days (full days) where we focus on 50 % business and 50 % fun. 
 
-Team days often have different agendas. But we start eating breakfast together, and end the day with dinner and drinks. Sometimes we invite an interesting person to come and give a presentation, or sometimes we go on a trip together. The goal is to have fun and improve our social relations and apprise you with plans, we may not get to talk so much about during regular work days.
+Team days often have different agendas. But we start eating breakfast together, and end the day with dinner and drinks. Sometimes we invite an interesting person to come and give a presentation, or sometimes we go on a trip together. The goal is to have fun and improve our social relations and apprise you with plans we may not get to talk so much about during regular work days.
 
 ### Strategy day
 One day a year where we work on the strategy together. A full day with a focus on our vision, wheel of the year, and town hall workshops. Afterward, we round up with a cozy dinner and a social get-together.
-
-## Lunch 
-We plan to take a lunch break at 11.30pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack or to drink in our kitchens. If there is anything missing in your preference, don’t hesitate to reach out to Angelle. 
-
-Another important consuming product next to food, is coffee. At Abtion we love good coffee! Our passion makes us look out for good beans to provide a decent cup. We like variety and try out new coffee from time to time, so if you have any suggestions according to that, don’t be shy and share it!
-
 
