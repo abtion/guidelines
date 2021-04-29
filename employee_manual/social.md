@@ -1,7 +1,3 @@
-## Our 4dww schedule
-We have implemented 4day work week! Meaning, we work 30 hours from Monday to Thursday. In order to make the 4dww succeed, we align our schedules and meet at work earliest at 7:30 and the latest at 9:00. Your day finishes after 7,5 hours of work excluding a 30 min lunch break from 11.30 -12.00.
-
-We only work 4 days a week by default, and have Fridays off. There are 2 exceptions you should be aware of. As first, our 5 internal days per year will be held on Fridays and are mandatory for all employees. Second, when a public holiday takes place on a weekday from Monday to Thursday, we will use Friday as a compensation day to keep 4 working days per week. 
 
 
 ## Social Media
