@@ -20,6 +20,14 @@ We'd like you to implement:
 - Add Abtion's calender to your own google calender to stay on point with public holidays, free days, internal days and birthdays
 - Turn on 'effective meetings' in your calendar settings and set 20 min as default for scheduling meetings
 
+## Awareness of our precious time
+To be sure we are use our time sufficiently, get paid for the work we deliver, continuously getting better at estimating project and to make sure we don't work too less/much, we track all of our time. Time tracking has nothing to do with surveillance or performance monitoring. It is simply a matter of getting our principles in regard to our 4 dww, our invoices and proposals right. 
+
+Therefore an introduction to our way of tracking time right here! 
+We expect that you track on average 7.5 hours per day (excluding lunch), equivalent to 30 hours per week. 
+
+
+
 
 ## Taking time off
 Don’t be shy and remember to use your vacation time! We believe it helps to motivate, inspire and refocus. 
@@ -40,13 +48,13 @@ Our rules of thumb:
 
 To make the traffic smooth please follow this order:
 
-1. Make sure your holiday is OK with relevant managers/PM and ask for approval
-2. After approval, send a mail with your request to traffic@abtion.com or write Simone on slack (She is our traffic manager)
-3. Simone will answer all your requests as fast as possible. 
-4. Simone will book your request in Forecast
-5. You register your planned vacation or day off in Harvest: > Abtion > Absence > Planned vacation > 7,5 hours.
+  1. Make sure your holiday is OK with relevant managers/PM and ask for approval
+  2. After approval, send a mail with your request to traffic@abtion.com or write Simone on slack (She is our traffic manager)
+  3. Simone will answer all your requests as fast as possible. 
+  4. Simone will book your request in Forecast
+  5. You register your planned vacation or day off in Harvest: > Abtion > Absence > Planned vacation > 7,5 hours.
 
-👆Remember that you have to keep an eye on your remaining saved holiday-days yourself. [Borger.dk](https://privat.atp.dk/Ferieplanlaeggeren/borger) can give you a hand with planning your holiday. And if you have any questions, reach out to your manager or Angelle. 
+👉🏻 Remember that you have to keep an eye on your remaining saved holiday-days yourself. [Borger.dk](https://privat.atp.dk/Ferieplanlaeggeren/borger) can give you a hand with planning your holiday. And if you have any questions, reach out to your manager or Angelle. 
 
 ### Public paid holidays
 You can find them all in our Abtion calender, but just to list them out, here is an overview:
@@ -67,52 +75,7 @@ We also demand you to take some days off. Some days can slightly vary year to ye
 - Week 29 and 30 
 - Week between Christmas and New Year ( + 24th of December)
 
-## Abtion signature
 
-### E-mail signature
-We ask you to add your personal details in the templates here under and add it in your gmail settings.
-
-Med venlig hilsen / Best regards
-
-[ Name ]
-
-[ Title ]
-
-+45 [ xx xx xx xx ] (Add your phone nr when you are a contact person in the company.)
-
-[ mail ]@abtion.com
-
-
-
-
-Vesterbrogade 15, 3
-1620 København V
-
-Sverigesgade 18
-5000 Odense
-
-abtion.com
-
-### Activate Auto-reply 
-While you are enjoying your time off, don’t forget to activate the Auto-reply so all your customers are informed and can reach out to someone else.
-
-It could be something like this:
-
---- 
-
-Thank you for your email. 
-
-I am enjoying some time out of the office and my inbox won't join me on this trip. I ll make sure to reply to your mail as soon as I return. 
-You can expect an answer after [MM/DD/YY]
-
-If your question or request is urgent and can't wait until my return, you are welcome to reach out to:
-[NAME] at [EMAIL] or [PHONE]. My colleague will be glad to assist you.
-
-Thank you and talk to you soon,
-
-[Automatic Email signature]
-
----
 
 ## Absence
 
