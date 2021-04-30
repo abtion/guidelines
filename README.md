@@ -12,4 +12,4 @@ Anything added to the guideline must have been extracted from a project.
 
 ---
 
-A github pages version of this repo can be found here: https://abtion.github.io/guidelines/
+A github pages version of this repo can be found here: https://inside.abtion.com
