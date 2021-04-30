@@ -1,4 +1,5 @@
 # Engineering Management Career Ladder
+
 This career ladder serves to give an overview of how you can progress your
 career at Abtion and become an Engineering Manager (EM).
 
@@ -29,116 +30,137 @@ Any feedback on this career ladder is appreciated, and we encourage that you
 make pull requests with suggestions for improvements.
 
 ## Level 3: Associate Engineering Manager
+
 **Time expectation**: Associate Engineering Managers are expected to use about
 20 percent of their time (~5.5 hours/week) on non-billable/EM-related tasks. The
 remaining time will be spent on development or other activities related to
 client projects.
 
 ### Impactful
-- [ ] Manages a set of people consisting of approximately two direct reports.
+
+[ ] Manages a set of people consisting of approximately two direct reports.
+
 - [ ] Identifies growth opportunities for their direct reports and proactively
-  ensures that these opportunities are pursued.
+      ensures that these opportunities are pursued.
 - [ ] Adjusts processes and practices regularly to maximize the efficiency and
-  performance of their team and/or direct reports.
+      performance of their team and/or direct reports.
 - [ ] Consistently seeks to improve processes at the company such as interview
-  practices, onboarding, defining roles, etc.
+      practices, onboarding, defining roles, etc.
 - [ ] Identifies pain points for their direct reports and proactively
-  ensures that these pain points are solved.
+      ensures that these pain points are solved.
 
 ### Coaching and mentoring
+
 - [ ] Provides direct reports, manager, product managers etc. with timely and
-  actionable feedback.
+      actionable feedback.
 - [ ] Motivates direct reports to keep them ascending the career ladder for both
-  the IC and EM tracks and uses the career ladders to keep track of their
-  progress.
+      the IC and EM tracks and uses the career ladders to keep track of their
+      progress.
 - [ ] Coaches developers on how to set goals that push them out of their comfort
-  zone and assists them in succeeding.
+      zone and assists them in succeeding.
 - [ ] Empowers direct reports to own their work.
 - [ ] Ensures direct reports are aware of growth and learning opportunities and
-  helps them leverage these.
+      helps them leverage these.
 - [ ] Empowers direct reports to speak up about their pain points.
 
 ### Management/HR
+
 - [ ] Suggests compensation changes and manages promotions in collaboration with
-  the CTO.
+      the CTO.
 - [ ] Coordinates vacation with the direct report, product manager, traffic
-  manager, or other relevant parties.
+      manager, or other relevant parties.
 - [ ] Approves/suggests uses of the direct report's development budget and
-  assists them with practical matters when necessary.
+      assists them with practical matters when necessary.
 - [ ] Runs yearly 360 reviews with their direct reports.
 - [ ] Partners closely with the CTO to set the direction for the team and
-  proactively provides updates on progress.
+      proactively provides updates on progress.
 
 ### Communication and facilitation
+
 - [ ] Attends early meetings with clients to set realistic expectations with
-  sales and the client.
+      sales and the client.
 - [ ] Communicates strategy and progress within the team and to external
-  stakeholders.
+      stakeholders.
 - [ ] Encourages effective meetings with clear agendas/purpose and actions.
 - [ ] Resolves tension, interpersonal and technical conflicts within the team.
 - [ ] Clearly communicates expectations.
 - [ ] Ensures new hires are onboarded successfully in collaboration with
-  relevant parties.
+      relevant parties.
 - [ ] Drives and organizes the hiring/interview process in collaboration
-  with the Executive Assistant.
+      with the Executive Assistant.
 
 ## Level 4: Engineering Manager
+
 **Time expectation**: Engineering Managers are expected to use about 30 percent
 of their time (~8 hours/week) on non-billable/EM-related tasks. The remaining
 time will be spent on development or other activities related to client
 projects.
 
 ### Impactful
+
 - [ ] Manages a set of people consisting of approximately four direct reports.
 - [ ] Has the required maturity to manage individual contributors at a higher
-  skill level than themselves.
+      skill level than themselves.
 - [ ] Uses their experience and relevant data to make fast and informed
-  decisions.
+      decisions.
 - [ ] Has a track record of growing people across various teams.
 
 ### Coaching and mentoring
+
 - [ ] Deals with performance issues and misaligned expectations and understands
-  their role in bringing an employee back on track.
+      their role in bringing an employee back on track.
 - [ ] Assists new engineering managers in how they can better plan and support
-  the growth of their direct reports.
+      the growth of their direct reports.
 
 ### Management/HR
+
 - [ ] Has established a track record of retaining and attracting excellent
-  developers.
+      developers.
 
 ### Communication and facilitation
+
 - [ ] Uses their experience to identify headcount needs when planning new
-  projects.
+      projects.
 
 ## Level 5: Engineering Manager
+
 **Time expectation**: Engineering Managers are expected to use about 40 percent
 of their time (~10 hours/week) on non-billable/EM-related tasks. The remaining
 time will be spent on development or other activities related to client
 projects.
 
 ### Impactful
+
 - [ ] Manages a set of people consisting of approximately six to eight direct
-  reports.
+      reports.
 
 ### Coaching and mentoring
+
 - [ ] Coaches new engineering managers and uses their experience to grow them.
 
 ### Management/HR
+
 - TBD.
 
 ### Communication and facilitation
+
 - TBD.
 
 ## Level 6: Senior Engineering Manager
+
 ### Impactful
+
 - [ ] Manages a set of people consisting of approximately eight or more direct
-  reports.
+      reports.
 
 ### Coaching and mentoring
+
 - TBD.
 
 ### Management/HR
+
 - TBD.
 
 ### Communication and facilitation
+
 - TBD.
