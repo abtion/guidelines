@@ -52,7 +52,7 @@ Abtion provides 25 vacation days per year. While only working 4 days a week, thi
 When you are employed with payment during vacation, you receive a holiday allowance of 1% of your salary. This is in addition to your regular salary. 
 All days and calculations are provided following the Danish Holiday Rights 'Dansk ferielov’. It is your own responsibility, to make sure you use all your holiday days before the new year starts and to check the entitled payments. 
 
-### Booking holiday
+### Planning your holiday
 The sooner you notify us of your request, the higher the chance of appoval gets. Notify us as soon as possible, so we can do our best to make sure you can enjoy your desired time off.
 
 Our rules of thumb:
@@ -97,10 +97,15 @@ We also demand you to take some days off. Some days can slightly vary year to ye
 When you are sick, you notify the project manager(s) you are currently working with before 9am on the first day of your absence. You are not required to give further notice before you are ready to return again. Change your slack status too 'off sick'. 
 
 ### Child’s first sick day
+In the event of an acute illness, one parent has the right to take time off work if their presence is absolutely necessary.
+This also applies if your child is injured at school or daycare. 
 
+The absence is of short duration, 1st day of illness, until you have been able to take other precautions in relation to the acutely occurring illness. It is stated in the law on employees' right to absence from work for special family reasons.
+
+In any case, it is important that you notify your employer as soon as possible before you should have arrived at work.
 
 ### Loss
-In case of loss Abtion supports your absence and allows you to stay home as long as needed. If your loss is close family members (children, parents, siblings or partner), Abtion will pay your absence like if you were sick. In other cases your absence will be without pay. 
+In case of loss Abtion supports your absence and allows you to stay home as long as needed with full salary. This concerns close related family members (children, parents, siblings or partner). In other cases your absence will be deducted from salary or vacation days. 
 
 ### Parental leave
 In Denmark you have the right to take maternity and paternity leave at work. At Abtion you do too.  Both mothers and fathers can leave for childbirth following the Danish rules of parental leave, “Barselsloven”.
@@ -113,7 +118,7 @@ You still have the right to leave for a longer period of time, but without salar
 
 
 ## Internal days
-Five times a year, we use a Friday to have an internal day. Internal days will always happen on a Friday. It is mandatory to participate and we expect you to participate. If you can’t participate in a Team day, your absence is counted as a vacation day, unless you are absent due to sickness.
+Five times a year, we use a Friday to have an internal day. Internal days will always happen on a Friday. It is mandatory to participate and we not only expect you to participate, we also realy want you to participate. It strengtens our compnay culture and relations across the company. If you can’t participate in a Team day, your absence is counted as a vacation day, unless you are absent due to sickness.
 
 ### Team days
 For the four team days we all get together at one of our offices. The day is about team building, being together and getting to know each other even better. It is also a day, where we follow up on strategy and plans for the company. It includes a summer party and Christmas party (half days) and two team days (full days) where we focus on 50 % business and 50 % fun. 
