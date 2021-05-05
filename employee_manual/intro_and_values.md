@@ -3,7 +3,10 @@
 ## Introduction
 Welcome to Abtion's employee manual. The purpose of the manual is to provide you with practical information about your workplace, and the company culture.
 
-We ask you to read the manual thoroughly and encourage you to reach out to your colleagues if you like us to elaborate on something or miss an answer to.
+We ask you to read the manual thoroughly and encourage you to reach out to your colleagues if you like us to elaborate on something or miss an answer to something. 
+
+Our weekly [newsletter](https://abtion.io/)
+) is also a good source to find the answers to your questions. So are you looking for a more detailed guidance or explanation, use CMD F and search for the concerning topic.
 
 Happy reading!
 
