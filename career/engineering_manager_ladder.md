@@ -38,7 +38,7 @@ client projects.
 
 ### Impactful
 
-[ ] Manages a set of people consisting of approximately two direct reports.
+- [ ] Manages a set of people consisting of approximately two direct reports.
 
 - [ ] Identifies growth opportunities for their direct reports and proactively
       ensures that these opportunities are pursued.
