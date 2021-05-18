@@ -19,7 +19,7 @@
 **1. Each project has their own Vault**
 
   - Only active teammembers have access to the Vault. 
-  - When a team member is switching to another project, he/she ask's to be romoved access.
+  - When a team member is switching to another project, he/she ask's to have their access removed.
   - The project's main developers, (people with most knowledge), will remain access to the vault.
 
 **2. Each team/department has their own Vault**
