@@ -87,9 +87,10 @@ You can find them all in our Abtion calender, but just to list them out, here is
 ### Forced vacation days
 We also demand you to take some days off. Some days can slightly vary year to year, depending on which week day a public holiday falls.
 
+- First friday of the year (in order to make earned holidays to be 24 days and fit with 6 weeks of vacation)
 - The Friday after Kristi Himmelfart / Ascension Day
 - Week 29 and 30 
-- Week between Christmas and New Year ( + 24th of December)
+- Week between Christmas and New Year ( + 24th of December + 31th of December )
 
 ## Absence
 
