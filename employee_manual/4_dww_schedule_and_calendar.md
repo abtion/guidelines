@@ -47,7 +47,7 @@ You can enter the [pomodoro dashboard](https://pomodoro.abtion.com/spaces) with 
 ## Taking time off
 Don’t be shy and remember to use your vacation time! We believe it helps to motivate, inspire and refocus. 
 
-Abtion provides 25 vacation days per year. While only working 4 days a week, this actually holds 6 weeks of holiday per year, given that one only uses 4 vacation days for a full week of vacation.
+Abtion provides 25 vacation days per year. While only working 4 days a week, this actually holds 6 weeks of holiday per year, given that one only uses 4 vacation days for a full week of vacation. 
 
 When you are employed with payment during vacation, you receive a holiday allowance of 1% of your salary. This is in addition to your regular salary. 
 All days and calculations are provided following the Danish Holiday Rights 'Dansk ferielov’. It is your own responsibility, to make sure you use all your holiday days before the new year starts and to check the entitled payments. 
@@ -65,15 +65,14 @@ Our rules of thumb:
 To make the traffic smooth please follow this order:
 
   1. Make sure your holiday is OK with relevant managers/PM and ask for approval
-  2. After approval, send a mail with your request to traffic@abtion.com or write Simone on slack (She is our traffic manager)
-  3. Simone will answer all your requests as fast as possible. 
-  4. Simone will book your request in Forecast
-  5. You register your planned vacation or day off in Harvest: > Abtion > Absence > Planned vacation > 7,5 hours.
+  2. After approval, write to Angelle on slack. (She is our holiday traffic manager)
+  3. Angelle will answer all your requests as fast as possible and book your request in Forecast
+  4. You register your planned vacation or day off in Harvest: > Abtion > Absence > Planned vacation > 7,5 hours.
 
 👉🏻 Remember that you have to keep an eye on your remaining saved holiday-days yourself. [Borger.dk](https://privat.atp.dk/Ferieplanlaeggeren/borger) can give you a hand with planning your holiday. And if you have any questions, reach out to your manager or Angelle. 
 
 ### Public paid holidays
-You can find them all in our Abtion calender, but just to list them out, here is an overview:
+You can find them all in our Abtion calender. Just to list them out, here is an overview:
 
 - Nytårsdag / New years day (1st of january)
 - Skærtorsdag / Maundy Thursday
@@ -85,13 +84,13 @@ You can find them all in our Abtion calender, but just to list them out, here is
 - Jul / Christmas (25th and 26th of december)
  
 ### Forced vacation days
-We also demand you to take some days off. Some days can slightly vary year to year, depending on which week day a public holiday falls.
+We also demand you to take some days off. Some days can slightly vary year to year, depending on which week day a public holiday falls. The Abtion calendar gives you the most accurate overview of all holidays and forced vacation days, so check the days there to be sure you are up to date. 
 
-- First friday of the year (in order to make earned holidays to be 24 days and fit with 6 weeks of vacation)
 - The Friday after Kristi Himmelfart / Ascension Day
 - Week 29 and 30 
 - Week between Christmas and New Year ( + 24th of December + 31th of December )
-
+- First friday of the year (in order to follow our standard of 6 weeks holidays per year, 24 days per year, we force you to use 1 earned holiday day on this friday.) 
+ 
 ## Absence
 
 ### Illness
