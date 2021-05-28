@@ -1,4 +1,4 @@
-# 4 dww schedule and calender
+# Schedule, calender and 4dww
 
 ## Only 4 days a week
 We have implemented 4 day work week! Meaning, we work 30 hours from Monday to Thursday. In order to make the 4dww successful, we align our schedules.
@@ -118,13 +118,17 @@ You still have the right to leave for a longer period of time, but without salar
 
 
 ## Internal days
-Five times a year, we use a Friday to have an internal day. Internal days will always happen on a Friday. It is mandatory to participate and we not only expect you to participate, we also realy want you to participate. It strengtens our compnay culture and relations across the company. If you can’t participate in a Team day, your absence is counted as a vacation day, unless you are absent due to sickness.
-
-### Team days
-For the four team days we all get together at one of our offices. The day is about team building, being together and getting to know each other even better. It is also a day, where we follow up on strategy and plans for the company. It includes a summer party and Christmas party (half days) and two team days (full days) where we focus on 50 % business and 50 % fun. 
-
-Team days often have different agendas. But we start eating breakfast together, and end the day with dinner and drinks. Sometimes we invite an interesting person to come and give a presentation, or sometimes we go on a trip together. The goal is to have fun and improve our social relations and apprise you with plans we may not get to talk so much about during regular work days.
+Five times a year, we use a Friday to have an internal day. It is mandatory to participate and absence will be counted as a vacation day, unless you are absent due to sickness. We not only expect you to participate, we also realy WANT you to participate. It strengtens our company culture and relations and apprises you with information we may not get to talk so much about during regular work days. 
 
 ### Strategy day
-One day a year where we work on the strategy together. A full day with a focus on our vision, wheel of the year, and town hall workshops. Afterward, we round up with a cozy dinner and a social get-together.
+Our first internal day of the year, can’t be more strategic and starts with a full day focusing on our vision, wheel of the year, and town hall workshops. Afterward, we round up with a cozy dinner and a social get-together. 
 
+### Teamday
+Our 2nd and 4th internal day is a full day with 50% talking business and 50% fun time! This day starts typically with breakfast, followed by a presentation/workshop. Afterward we arrange a teambuilding activity that finally ends with a cozy dinner and drinks.
+
+### Summer and Christmas party
+This half-day will be all about fun and celebration. The day starts later in the afternoon and has only one goal, being social and bonding as a team. Depending on the season, each party will have their own setup. The summer party is our 3rd internal day and speaking for itself, we finish the year with a Christmas party.
+
+All dates are marked in Abtion’s calendar.
+
+As a final initiative, we plan a NON-mandatory event: Christmas hygge with Friends and Family. For this event we can invite our friends and family for some 'hygge'. The Danish tradition of celebrating ‘julefrokost’ is an obvious occasion for this. 
