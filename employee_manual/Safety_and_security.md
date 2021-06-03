@@ -11,7 +11,12 @@ Along with a shared vault, will you have storage for your own private passwords.
 - [Managing access to 1pw vaults and project data](https://abtion.github.io/guidelines/tools_and_services/managing_access_to_1pw_vaults_and_project_data.html) introduces you to our way of working with 1pw. The magic to keep it all nice and tight, we educate ourselves to be our own gatekeeper. Everyone is actively contributing to the main rules and culture.
 
 ### Security Policy
-Please read our Security Policy, download and digitally sign Appendix A of the policy stating you have read it, and send that to anp@abtion.com. After that, go through the implementation and make sure you’re aligned. 
+
+The policy establishes the minimum baseline security and requirements for all Abtioneers and networked devices, in order to protect our and Abtion's clients' data and information.
+
+Please read our Security Policy and inplementation guides in our [Information security folder](https://drive.google.com/drive/u/0/folders/1HpCJWB6lXyG-UYViyLBQDE9cMuG9y92H) 
+
+After inplementing the required steps, you sign the appendix digitially. Any troubles or questions, or do you need a buddy to help you through the steps, don't worry and just ask Angelle or Rune P. or anyone else in the office to help you out. 
 
 ## Headquarters security
 
