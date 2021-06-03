@@ -19,7 +19,7 @@ As part of the 4dww, we shorten our meetings and make sure to keep them effectiv
 - Have a look at ‘[Good meeting practices](https://inside.abtion.com/behaviour_and_protocol/good_meetings_practices.html)’ to be fully prepared and to be a 'pro' meeting practitioner.
 
 We'd like you to implement:
-- Add Abtion's calender to your own google calender to stay on point with public holidays, free days, internal days and birthdays
+- Add [Abtion's calender](https://calendar.google.com/calendar/u/0?cid=YWJ0aW9uLmNvbV9ydHBlZDI3MnUwbG1vMm1hdWVrcDkxaTI5a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to your own google calender to stay on point with public holidays, free days, internal days and birthdays
 - Turn on 'effective meetings' in your calendar settings and set 20 min as default for scheduling meetings
 
 ## Awareness of our precious time
