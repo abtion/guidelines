@@ -26,4 +26,4 @@ If you notice something in the office that can be potentially dangerous to your 
 ### Alarm
 Activate the alarm when you are the last one leaving the office! And of course deactivate the alarm when you are the first one meeting. 
 
-As part of your onboarding process, you will receive a personal code and a demonstration. Also reach out to her when you have any questions or issues while activating or deactivating the alarm.
+As part of your onboarding process, you will receive a personal code and a demonstration to the our alarm system to be 'veri-sure' Abtion is secure. 🔐
