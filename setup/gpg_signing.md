@@ -1,6 +1,6 @@
 # GPG Signing with Git
 
-Visual Studio Code have made this instrution video on how to (setup verified commits)[https://youtube.com/shorts/oIGzfvBb6Hk] on github.
+Visual Studio Code have made this instrution video on how to [setup verified commits](https://youtube.com/shorts/oIGzfvBb6Hk) on github.
 
 ## Install GPG
 ### MacOSX
