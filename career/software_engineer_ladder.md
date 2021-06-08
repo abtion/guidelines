@@ -2,7 +2,7 @@
 
 This career ladder is a work in progress from dev leadership at Abtion. At a high level, a career ladder is a formal doc within a company that allows employees to advance their careers to higher levels of salary, responsibility, and authority. Once employees meet certain criteria, they are eligible to move into higher-level roles.
 
-Our goal with the ladder is to provide a clear path for professional development and to have clear expectations regarding skills and salary at each level. As much as possible, we want people to see and take advantage of opportunities to grow here. To that end, we see this as a bit of a two-way contract: what we will provide to you in terms of growth, and for you, what you'll take on in learning.
+Our goal with the ladder is to provide a clear path for professional development and to have clear expectations regarding skills and salary at each level. As much as possible, we want people to see and take advantage of opportunities to grow here. To that end, we see this as a bit of a two-way contract: what we will provide to you in terms of growth, and for you, what you'll take on in learning. Each level has an associated level of experience. We do not use years of experience as the main method to determine someone's level. However, we acknowledge that relevant experience has value. To the talented engineers starting the journey, it also sets expectations on how long it takes to grow.
 
 Please feel free to make PRs with suggestions. This is something that we welcome community feedback on!
 
@@ -28,7 +28,7 @@ on a task-level in one or multiple apps and an eagerness to learn and grow. You
 deliver working and well-tested code persistently, and you can identify when to
 reach out to more senior developers for guidance. Your colleagues recognize you
 for your clear growth mindset and your consistent focus on delivering business
-value.
+value. Engineers usually spend around one year on this level.
 
 #### Impactful
 - [ ] Consistently completes work on a task-level within one or multiple apps.
@@ -72,7 +72,7 @@ milestone of a project, and you understand the strengths and weaknesses of
 different technologies. You use this understanding to your advantage when
 building new solutions for a client to provide business value faster. Product
 managers can confidently rely on you to identify unclear requirements and your
-ability to communicate promptly when issues arise.
+ability to communicate promptly when issues arise. On average, engineers spend 2 years on this level.
 
 #### Impactful
 - [ ] Consistently closes tasks in their area of expertise collaborating with
@@ -121,7 +121,7 @@ seniors, and you proactively unblock juniors when necessary. Your expertise in
 two areas or more is clear to your team, and you understand how to navigate
 several layers of the technical stack with ease. Product managers recognize you
 for your ability to prioritize work and distinguish unimportant details from
-critical tasks that deliver value to the client.
+critical tasks that deliver value to the client. Engineers spend around 3 years on this level.
 
 #### Impactful
 - [ ] Drives tasks from internal meetings and parks them nicely in internal acceptance.
@@ -171,7 +171,7 @@ As a Senior Software Engineer, you consistently show an ability to handle highly
 complex technical challenges across multiple axes without guidance. Your
 technical decisions are always guided by data and based on the highest value for
 all relevant parties. Your contributions are based on several years of experience where you had the chance to see the long-term effects on solutions you've designed and built. Product managers can rely on you when estimating the scale of a larger product, and your track record of turning big challenges into
-successes is apparent to the entire organization.
+successes is apparent to the entire organization. Although relevant experience varies significantly, engineers have around 6 years of experience when reaching this level.
 
 #### Impactful
 - [ ] Partners with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
@@ -220,7 +220,7 @@ team from initial client meeting to delivery, and product managers trust you in
 assisting them on a day-to-day basis. Your team recognizes you as a strong
 technical leader that proactively identifies and clarifies issues whether
 technical or business-related, and you consistently deliver high-value solutions
-that are well-architected and can be easily maintained over time.
+that are well-architected and can be easily maintained over time. Highly experienced engineers form this level with a median of 10 years of experience in the group.
 
 #### Impactful
 - [ ] Is recognized as a helpful consultant that consistently delivers high-value solutions for real problems.
@@ -240,7 +240,7 @@ that are well-architected and can be easily maintained over time.
 - [ ] Thinks about [F.I.R.S.T](https://tasdikrahman.me/2019/03/13/f-i-r-s-t-principles-of-testing/) tests
 
 #### Iterative
-- [ ] Has guided IPMs for a long period of time. Internally, they are known as someone who drives projects. 
+- [ ] Has guided IPMs for a long period of time. Internally, they are known as someone who drives projects.
 
 #### Communication
 - [ ] Ensures proactively that the relevant stakeholders are informed if the
@@ -278,7 +278,7 @@ how products should be built.
 - [ ] Excels at getting teams to focus on delivering high-impact value on the projects they mentor.
 
 #### Test-driven
-- [ ] Has succesfully laid out the test strategy on legacy projects. Has changed systems from unreliable to reliable. 
+- [ ] Has succesfully laid out the test strategy on legacy projects. Has changed systems from unreliable to reliable.
 - [ ] Answers philosophical/economic questions like: was that test worth it for the business? Should e2e tests be run in multiple browsers if we support multiple browsers with the product? Why or why not?
 - [ ] Facilitates dialog around reduced costs of implementation or maintenance with a team.
 - [ ] Supports PMs in explaining the long term benefits of testing on client projects.
@@ -292,7 +292,7 @@ how products should be built.
   necessary.
 - [ ] Collaborates with a client and sales about high-level estimates and prioritization.
 - [ ] Collaborate with sales about high-level estimates and prioritization.
-- [ ] Has a long track record of creating a plan to simplify complex apps, that the team can implement.      
+- [ ] Has a long track record of creating a plan to simplify complex apps, that the team can implement.
 
 #### Respectful teammate
 - [ ] Mentors other engineers to reach their level (and pass them).
