@@ -46,8 +46,58 @@ when a review-app has successfully been deployed, it provides a deployment link 
 — Postgres
 
 ## WordPress
-At Abtion we have our own docker setup and scripts to make WordPress development fun and deployment as easy as possible.
-We have documentation that will guide you through the docker setup, the official [Abtion theme](https://github.com/abtion/muffi-theme) and the services we use.
-All of our WordPress sites are hosted on [Kinsta](https://kinsta.com/).
 
-Read the documentation [here](https://github.com/abtion/guidelines/tree/main/wordpress)
+### Tools
+
+#### Webpack
+Automating SASS and Minify
+https://webpack.js.org/
+
+#### Buddy.works
+Compile and deployment
+https://buddy.works/
+
+#### GitHub
+Versioning of development
+https://github.com/
+
+#### Kinsta
+Hosting of staging- and livesites
+https://kinsta.com/
+
+#### ManageWP
+Overview, backup and updating of existing websites
+https://managewp.com/
+
+
+
+### Plugins
+
+#### Advanced Custom Fields Pro
+Handles integration with custom fields in Wordpress
+https://www.advancedcustomfields.com/pro/
+
+#### Polylang
+Advanced translation/ multilanguage
+https://polylang.pro/
+
+#### WPML (phased out)
+Translation/multilangua sites
+https://wpml.org/
+Phased out. Polylang takes over.
+
+#### Really Simple SSL
+Make sure that all requests is SSL
+https://da.wordpress.org/plugins/really-simple-ssl/
+
+#### WooCommerce
+E-commerce software for Wordpress
+https://woocommerce.com/
+
+#### Kirki
+Theme Options-helper for customizer
+https://kirki.org/
+
+#### ManageWP Worker
+Communication worker with ManageWP
+https://wordpress.org/plugins/worker/
