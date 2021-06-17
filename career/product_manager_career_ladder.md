@@ -378,7 +378,11 @@ The director of product role will further focus on building better processes, ho
 
   
 
-You'll regularly meet with your peers throughout the company—this is what's happening and why, what do you need from the product, this is what product needs from you, etc.
+You'll regularly meet with your peers throughout the company covering topics like: 
+- this is what's happening in the product department and why
+- what do you need from the product department?
+- this is what the product department needs from you, etc. 
+
 
   
 
