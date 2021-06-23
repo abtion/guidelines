@@ -57,7 +57,7 @@ Estimates in the DI team are related to small tasks in our maintenance systems. 
 
 Resist the temptation to give a very precise estimate. Instead, use a range or certainty feeling. E.g., It will take between half a day and a day. Or I'm 80% sure that we can deliver this in under a pair-day of work.
 
-After the task is estimated, we add the time it will take us to set up the project or any additional changes that must be made to complete the task. E.g., a DI project may not have seed data. To test our feature, we need to add populate the database.
+After the task is estimated, we add the time it will take us to set up the project or any additional changes that must be made to complete the task. E.g., a DI project may not have seed data. To test our feature, we need to populate the database.
 
 ## Other considerations
 
