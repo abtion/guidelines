@@ -25,7 +25,7 @@ The estimating team:
 1. **Take one user story at a time.**
 2. **Ensure that everyone involved knows what the end result will be like once the story is completed.** To achieve this, the team will discuss the feature until they have just enough common understanding to give a reasonable enough estimate. This could include what is not included in the story, different possibilities of implementation, concerns, assumptions, or ideas.
 3. **Share their estimate (planning poker) as a t-shirt size** XS, S, M, L, or XL. XL is commonly referred as "a story that needs to be split before we can give an accurate enough estimate". XS is usually reserved for specifically small features.
-4. **Assign a certainty level.** They make the difference between an optimistic scenario and the worst case scenario. The certainty levels will multiply the best case scenario estimate by a factor to yield the worst case scenario. E.g. certainty 3 (uncertain) may have a factor of 4. Therefore, an M estimate defined as 2 pair days may take between 2 and 8 pair days of work.
+4. **Assign a certainty level.** They make the difference between an optimistic scenario and the worst case scenario. The certainty levels will multiply the best case scenario estimate by a factor to yield the worst case scenario. E.g. "low" certainty may multiple the estimate by a factor of 4. Therefore, an M estimate defined as 2 pair days may take between 2 and 8 pair days of work.
 5. **After all stories have a t-shirt size, decide how long it would take to develop each t-shirt size or use team velocity.** E.g., a new team believes they could finish 6 XS in a single day, or roughly one S. An M would take us a couple of days, and an L would be a whole week.
 
 
