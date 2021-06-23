@@ -14,7 +14,7 @@ Estimates are a combination of effort, risk, complexity, etc. Separating size fr
 
 ## Split the work
 
-Before the work can be estimated, it has to be split into chunks of a manageable size. Depending on how reliable it needs to be (the estimate type), we will create user stories encompassing a larger amount of functionality or more detailed user stories that define a specific functionality. The team must focus on providing just enough details so that the client can make the right decision.
+Before the work can be estimated, it has to be split into chunks of a manageable size. Depending on how reliable it needs to be (the [estimate type](#different-estimate-types)), we will create user stories encompassing a larger amount of functionality or more detailed user stories that define a specific functionality. The team must focus on providing just enough details so that the client can make the right decision.
 
 ## T-shirt sizes
 
