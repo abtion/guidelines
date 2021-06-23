@@ -29,7 +29,7 @@ The estimating team:
 5. **After all stories have a t-shirt size, decide how long it would take to develop each t-shirt size or use team velocity.** E.g., a new team believes they could finish 6 XS in a single day, or roughly one S. An M would take us a couple of days, and an L would be a whole week.
 
 
-Each t-shirt size is only comparable to other t-shirt sizes and functionality. They are not tight to time. E.g. The team would kick start a session taking the first user story and agreeing that it is of size M. Then, they take the next story and agree it is an S. They take the third one and agree that it is roughly as the first one. At that time, they have 2xM and 1xS.
+Each t-shirt size is only comparable to other t-shirt sizes and functionality. They are not tied to time. E.g. The team would kick-start a session by taking the first user story and agreeing that it is of size M. Then, they take the next story and agree it is an S. They take the third one and agree that it is roughly as the first one. At that time, they have 2xM and 1xS.
 
 ## Different estimate types
 
