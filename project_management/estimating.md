@@ -4,7 +4,7 @@ Estimates are key to what we do.
 
 We are in the business of selling software creation hours. We want to do this as inexpensively as possible while maintaining a healthy revenue for growth and downtimes. As a group, we need to hold appropriate tension between cost and quality.
 
-Estimates should be made by two developers at a minimum; estimates are shared, and ideally by the implementing team.
+Estimates should be made by two developers at a minimum; When possible the estimating team will work on implementing the functionality later on.
 When you win and lose together, your estimates get even better.
 
 ## Derive duration
