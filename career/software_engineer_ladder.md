@@ -79,29 +79,25 @@ ability to communicate promptly when issues arise. On average, engineers spend 2
   less experienced developers.
 
 #### Simple
-- [ ] Creates simple method / functions that most static code analysers would accept.
-- [ ] Makes clear prs
+- [ ] Creates simple methods / functions that most static code analysers would accept.
+- [ ] Makes atomic, descriptive PRs
 
 #### Test-driven
 - [ ] Starts to write unit tests before code, writes acceptance tests.
-- [ ] Can write "acceptance" tests for existing code.
+- [ ] Can write acceptance tests for existing code.
 - [ ] Refactors test code: extracts methods, breaks up long tests
-- [ ] Uses evident data in tests.
+- [ ] Uses realistic data in tests.
 - [ ] Understands the tradeoff between test isolation and test speed.
 - [ ] Starts practicing spiking if they don't know how to test something. Then sets the spike aside once a general path is understood and writes from scratch TDD.
 
 #### Iterative
 - [ ] Delivers working code with each commit.
+- [ ] Writes small, single-purpose commits.
 
 #### Communication
-- [ ] Understands and can provide a high-level overview of the current milestone
-  of a project.
-- [ ] Focuses on building strong relationships with their team, direct manager,
-  and project manager/product owner.
-- [ ] Identifies unclear requirements and reaches out to relevant stakeholders
-  to clarify issues.
-- [ ] Reliably do what they say they will, and communicates promptly if an issue
-  arises.
+- [ ] Understands and can provide a high-level overview of the current milestone of a project.
+- [ ] Identifies unclear requirements and reaches out to relevant stakeholders to clarify issues.
+- [ ] Reliably do what they say they will, and communicates promptly if an issue arises.
 - [ ] Hosts retros.
 - [ ] Can compose a PR and provide feedback on them.
 - [ ] Reliably tracks time on the appropriate category. Clarifies with the relevant PM when needed and communicates with the team to ensure that time tracking is consistent.
@@ -111,8 +107,8 @@ ability to communicate promptly when issues arise. On average, engineers spend 2
 - [ ] Encourages team to stay on a sustainable pace.
 
 #### Technical skills
-- [ ] Understands what differentiates their favorite language from others. Knows what the language is useful for and when it is not the best option.
 - [ ] Understand where to place logic in their favorite framework.
+- [ ] Understands what differentiates their favorite language from others. Knows what the language is useful for and when it is not the best option.
 
 ### Level 3 - Software Engineer
 As a Software Engineer, you display a maturity that permeates every aspect of
@@ -141,8 +137,9 @@ critical tasks that deliver value to the client. Engineers spend around 3 years 
 - [ ] Has integrated projects with CI.
 - [ ] Breaks systems into small testable units.
 - [ ] Can write tests at different levels (end to end, integration, unit)
-- [ ] Correctly sets boundary conditions when testing.
-- [ ] Cares about test speed. Can implement parallelization but knows why that's a bandaid. Seeks to keep the test suite under a minute.
+- [ ] Takes into account edge cases.
+- [ ] Cares about test speed. Seeks to keep the test suite under a minute.
+- [ ] Can implement parallelization but knows why that's a bandaid.
 
 #### Iterative
 - [ ] Works with red-green-refactor.
@@ -150,11 +147,11 @@ critical tasks that deliver value to the client. Engineers spend around 3 years 
 
 #### Communication
 - [ ] Understands and can provide a high-level overview of a project.
-- [ ] Consistently facilitates communication with project managers/product
-  owners for one or multiple apps.
+- [ ] Consistently facilitates communication with project managers/product owners for one or multiple apps.
 - [ ] Is proficient with pair programming.
 - [ ] Can write user stories.
 - [ ] Introduces new members to the project.
+- [ ] Communicate with PMs when goals are unattainable.
 
 #### Respectful teammate
 - [ ] Has taught other developers to pair program.
@@ -167,10 +164,7 @@ critical tasks that deliver value to the client. Engineers spend around 3 years 
 - [ ] Can debug issues occurring across multiple levels of the stack.
 
 ### Level 4 - Senior Software Engineer
-As a Senior Software Engineer, you consistently show an ability to handle highly
-complex technical challenges across multiple axes without guidance. Your
-technical decisions are always guided by data and based on the highest value for
-all relevant parties. Your contributions are based on several years of experience where you had the chance to see the long-term effects on solutions you've designed and built. Product managers can rely on you when estimating the scale of a larger product, and your track record of turning big challenges into
+As a Senior Software Engineer, you consistently show an ability to handle highly complex technical challenges across multiple axes without guidance. Your technical decisions are always guided by data and based on the highest value for all relevant parties. Your contributions are based on several years of experience where you had the chance to see the long-term effects on solutions you've designed and built. Product managers can rely on you when estimating the scale of a larger product, and your track record of turning big challenges into
 successes is apparent to the entire organization. Although relevant experience varies significantly, engineers have around 6 years of experience when reaching this level.
 
 #### Impactful
@@ -180,7 +174,8 @@ successes is apparent to the entire organization. Although relevant experience v
   successes.
 
 #### Simple
-- [ ] Has a long track of delivering value to the client, finding the right balance between maintenance work and delivering features. They are recognized as someone who can solve a bottleneck when needed or reduce technical debt.
+- [ ] Has a long track of delivering value to the client, finding the right balance between maintenance work and delivering features.
+- [ ] They are recognized as someone who can solve a bottleneck when needed or reduce technical debt.
 - [ ] Consistently demonstrates an understanding of the tradeoffs between technical, analytical, and product needs and leads to solutions that take all of these needs into account.
 
 #### Test-driven
@@ -193,7 +188,6 @@ successes is apparent to the entire organization. Although relevant experience v
 - [ ] Writes performance tests
 
 #### Iterative
-- [ ] Well-composed commit narratives in commit flows.
 
 #### Communication
 - [ ] Understands and can provide a detailed overview of a project.
@@ -204,8 +198,7 @@ successes is apparent to the entire organization. Although relevant experience v
 - [ ] Have taught several developers to pair program.
 
 #### Respectful teammate
-- [ ] Makes others better through code reviews, thorough documentation, technical guidance, and mentoring.
-- [ ] Communicate with PMs when goals are unattainable.
+- [ ] Makes others better through code reviews, documentation, technical guidance, and mentoring.
 - [ ] Understands the difficulties that the team is going through and helps how they can.
 - [ ] Respects the right of junior team members to own parts of the code.
 
