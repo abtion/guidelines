@@ -39,7 +39,7 @@ We distinguish between three types of estimates:
 - Iteration estimate
 - One-off estimate of a maintenance project
 
-Although depending on the estimate, we will have a slightly different process, the essence and general guidelines are the same.
+Although we will have a slightly different process depending on the estimate, the essence and general guidelines are the same.
 
 ### Ballpark estimates
 
