@@ -61,5 +61,5 @@ After the task is estimated, we add the time it will take us to set up the proje
 
 ## Other considerations
 
-- If you have a bit of work that the team does not know how to estimate, put a "spike card" in the backlog. A "spike" is like doing research.
+- If you have a bit of work that the team does not know how to estimate, put a "spike card" in the backlog. A "spike" is like doing research. By their nature, research cannot be estimated, therefore the team will "timebox" the research.
 - Reflect on your estimates during retro. When story estimates are not matching delivery expectations with the given probability, seek to understand why and bring knowledge into action items to improve the team process.
