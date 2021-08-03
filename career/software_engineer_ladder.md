@@ -25,12 +25,9 @@ Here are some examples of other career ladders:
 
 ### Level 1 - Associate Software Engineer
 
-As an Associate Software Engineer, you demonstrate an ability to complete work
-on a task-level in one or multiple apps and an eagerness to learn and grow. You
-deliver working and well-tested code persistently, and you can identify when to
-reach out to more senior developers for guidance. Your colleagues recognize you
-for your clear growth mindset and your consistent focus on delivering business
-value. Engineers usually spend around one year on this level.
+As an Associate Software Engineer, you demonstrate an ability to complete work on a task-level in one or multiple apps and an eagerness to learn and grow. You deliver working and well-tested code persistently, and you can identify when to reach out to more senior developers for guidance. Your colleagues recognize you for your clear growth mindset and your consistent focus on delivering business value.
+
+Engineers usually spend around one year on this level.
 
 #### Impactful
 
@@ -53,8 +50,7 @@ value. Engineers usually spend around one year on this level.
 
 #### Communication
 
-- [ ] Focus on building strong relationships with their team and direct
-      manager.
+- [ ] Focus on building strong relationships with their team and direct manager.
 - [ ] Proactively reach out for help when struggling with a task.
 - [ ] Actively seek feedback to improve from colleagues and receive it well.
 - [ ] Update Asana.
@@ -75,19 +71,13 @@ value. Engineers usually spend around one year on this level.
 
 ### Level 2 - Software Engineer
 
-As a Software Engineer, you reliably execute work and drive tasks in your area
-of expertise in collaboration with less experienced developers. You have an
-overview that allows you to always contextualize your work within the current
-milestone of a project, and you understand the strengths and weaknesses of
-different technologies. You use this understanding to your advantage when
-building new solutions for a client to provide business value faster. Product
-managers can confidently rely on you to identify unclear requirements and your
-ability to communicate promptly when issues arise. On average, engineers spend 2 years on this level.
+As a Software Engineer, you reliably execute work and drive tasks in your area of expertise in collaboration with less experienced developers. You have an overview that allows you to always contextualize your work within the current milestone of a project, and you understand the strengths and weaknesses of different technologies. You use this understanding to your advantage when building new solutions for a client to provide business value faster. Product managers can confidently rely on you to identify unclear requirements and your ability to communicate promptly when issues arise.
+
+On average, engineers spend 2 years on this level.
 
 #### Impactful
 
-- [ ] Consistently close tasks in their area of expertise collaborating with
-      less experienced developers.
+- [ ] Consistently close tasks in their area of expertise collaborating with less experienced developers.
 
 #### Simple
 
@@ -129,21 +119,15 @@ ability to communicate promptly when issues arise. On average, engineers spend 2
 
 ### Level 3 - Software Engineer
 
-As a Software Engineer, you display a maturity that permeates every aspect of
-your work. You can handle work independently with close to no guidance from
-seniors, and you proactively unblock juniors when necessary. Your expertise in
-two areas or more is clear to your team, and you understand how to navigate
-several layers of the technical stack with ease. Product managers recognize you
-for your ability to prioritize work and distinguish unimportant details from
-critical tasks that deliver value to the client. Engineers spend around 3 years on this level.
+As a Software Engineer, you display a maturity that permeates every aspect of your work. You can handle work independently with close to no guidance from seniors, and you proactively unblock juniors when necessary. Your expertise in two areas or more is clear to your team, and you understand how to navigate several layers of the technical stack with ease. Product managers recognize you for your ability to prioritize work and distinguish unimportant details from critical tasks that deliver value to the client.
+
+Engineers spend around 3 years on this level.
 
 #### Impactful
 
 - [ ] Drive tasks from internal meetings and park them nicely in internal acceptance.
-- [ ] Require minimal guidance from seniors and can help unblock other developers when
-      necessary.
-- [ ] Distinguish between what work is relevant now, and what work can be
-      tackled later.
+- [ ] Require minimal guidance from seniors and can help unblock other developers when necessary.
+- [ ] Distinguish between what work is relevant now, and what work can be tackled later.
 - [ ] Push tasks forward in lack of complete context. They work with uncertainty.
 
 #### Simple
@@ -180,8 +164,7 @@ critical tasks that deliver value to the client. Engineers spend around 3 years 
 
 - [ ] Have taught other developers to pair program.
 - [ ] Actively participate in feedback for team members.
-- [ ] Proactively seek out to unblock colleagues when they are struggling with
-      a task including those that are outside their area of expertise.
+- [ ] Proactively seek out to unblock colleagues when they are struggling with a task including those that are outside their area of expertise.
 
 #### Technical skills
 
@@ -190,15 +173,15 @@ critical tasks that deliver value to the client. Engineers spend around 3 years 
 
 ### Level 4 - Senior Software Engineer
 
-As a Senior Software Engineer, you consistently show an ability to handle highly complex technical challenges across multiple axes without guidance. Your technical decisions are always guided by data and based on the highest value for all relevant parties. Your contributions are based on several years of experience where you had the chance to see the long-term effects on solutions you've designed and built. Product managers can rely on you when estimating the scale of a larger product, and your track record of turning big challenges into
-successes is apparent to the entire organization. Although relevant experience varies significantly, engineers have around 6 years of experience when reaching this level.
+As a Senior Software Engineer, you consistently show an ability to handle highly complex technical challenges across multiple axes without guidance. Your technical decisions are always guided by data and based on the highest value for all relevant parties. Your contributions are based on several years of experience where you had the chance to see the long-term effects on solutions you've designed and built. Product managers can rely on you when estimating the scale of a larger product, and your track record of turning big challenges into successes is apparent to the entire organization.
+
+Although relevant experience varies significantly, engineers have around 6 years of experience when reaching this level.
 
 #### Impactful
 
 - [ ] Partner with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
 - [ ] Drive tasks from client research to client acceptance.
-- [ ] Have a track record of embracing big challenges and turning them into
-      successes.
+- [ ] Have a track record of embracing big challenges and turning them into successes.
 
 #### Simple
 
@@ -221,8 +204,7 @@ successes is apparent to the entire organization. Although relevant experience v
 #### Communication
 
 - [ ] Understand and can provide a detailed overview of a project.
-- [ ] Focus on building strong relationships with their team, direct
-      manager, and other seniors across the organization.
+- [ ] Focus on building strong relationships with their team, direct manager, and other seniors across the organization.
 - [ ] Align expectations on their team.
 - [ ] Are recognized by PMs as someone who keeps the Asana board relevant. Internally, they act as PMs when needed.
 - [ ] Have taught several developers to pair program.
@@ -241,20 +223,15 @@ successes is apparent to the entire organization. Although relevant experience v
 
 ### Level 5 - Senior Software Engineer
 
-As a Senior Software Engineer, you demonstrate that you are able to lead your
-team from initial client meeting to delivery, and product managers trust you in
-assisting them on a day-to-day basis. Your team recognizes you as a strong
-technical leader that proactively identifies and clarifies issues whether
-technical or business-related, and you consistently deliver high-value solutions
-that are well-architected and can be easily maintained over time. Highly experienced engineers form this level with a median of 10 years of experience in the group.
+As a Senior Software Engineer, you demonstrate that you are able to lead your team from initial client meeting to delivery, and product managers trust you in assisting them on a day-to-day basis. Your team recognizes you as a strong technical leader that proactively identifies and clarifies issues whether technical or business-related, and you consistently deliver high-value solutions that are well-architected and can be easily maintained over time.
+
+Highly experienced engineers form this level with a median of 10 years of experience in the group.
 
 #### Impactful
 
 - [ ] Are recognized as a helpful consultant that consistently delivers high-value solutions for real problems.
-- [ ] Review projects critically and ensure that they are divided into parts
-      that can be solved in isolation most of the time.
-- [ ] Consistently show initiative and identify areas of improvements for
-      themselves and the team.
+- [ ] Review projects critically and ensure that they are divided into parts that can be solved in isolation most of the time.
+- [ ] Consistently show initiative and identify areas of improvements for themselves and the team.
 
 #### Simple
 
@@ -291,19 +268,11 @@ that are well-architected and can be easily maintained over time. Highly experie
 
 ### Level 6 - Principal Software Engineer
 
-As a Principal Software Engineer, you play a critical role in how engineering at
-Abtion operates, and have a significant ownership in areas such as tooling,
-scalability, security, processes, design etc. Throughout your long career at
-Abtion, you have established yourself as a technical leader with a
-cross-organizational mindset and a strong working relationship with other
-stakeholders in the company. Your technical prowess is clear, and you have
-driven impactful technical contributions consistently that set good examples for
-how products should be built.
+As a Principal Software Engineer, you play a critical role in how engineering at Abtion operates, and have a significant ownership in areas such as tooling, scalability, security, processes, design etc. Throughout your long career at Abtion, you have established yourself as a technical leader with a cross-organizational mindset and a strong working relationship with other stakeholders in the company. Your technical prowess is clear, and you have driven impactful technical contributions consistently that set good examples for how products should be built.
 
 #### Impactful
 
-- [ ] Play a key role in the technical direction of the company and have
-      introduced positive changes across multiple teams.
+- [ ] Play a key role in the technical direction of the company and have introduced positive changes across multiple teams.
 - [ ] Focus on the growth of their team's productivity and career.
 
 #### Simple
@@ -326,8 +295,7 @@ how products should be built.
 
 #### Communication
 
-- [ ] Provide executives with high-level guidance on technical decisions when
-      necessary.
+- [ ] Provide executives with high-level guidance on technical decisions when necessary.
 - [ ] Collaborate with a client and sales about high-level estimates and prioritization.
 - [ ] Collaborate with sales about high-level estimates and prioritization.
 - [ ] Have a long track record of creating a plan to simplify complex apps, that the team can implement.
