@@ -1,13 +1,13 @@
-## Clients discontinue their hosting agreement / SLA
+## Clients discontinuing their hosting agreement / SLA
 
-If a client wishes to terminate their agreement please follow this step-by-step guide. The client might already have written the termination to our service mail (service@abtion.com). If this is the case, please make sure the termination happened according to the contract. 
+If a client wish to terminate their agreement please follow this step-by-step guide. The client might already have written the termination to our service mail (service@abtion.com). If this is the case, please make sure the termination happened according to the contract. 
 
 **Step-by-step guide**: 
 
 1. Check the client’s contact (g-drive) to find the notice period (standard 3. months)
 
 
-2. When you know the notice period send a mail to the client to confirm the termination by xx-date and inform when the last payment will happen. The termination MUST be written. If the termination is based on the client going backrupted or ending the collaboration totally remember to ask if they want an extraction of the code. 
+2. When you know the notice period send a mail to the client to confirm the termination by xx-date and inform when the last payment will happen. The termination MUST be written. If the termination is based on the client going backrupt or ending the collaboration totally remember to ask if they want an extraction of the code. 
  a) Yes they want an extraction - plan this as close to the notice date as possible. Remember to book a developer as they also can close down heroku etc. which Abtion needs to close. 
  b) No the client is not interested in an extraction - please book a developer to close down the day the contract is no longer active. 
 
