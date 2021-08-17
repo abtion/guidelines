@@ -1,8 +1,8 @@
 # Roles
 
-At Abtion we wear many hats. As physical hats, you don't always wear the same hat. The role of a person in a project may differ from the role the same person has on a different project.
+At Abtion we wear many hats. As physical hats, you don't always wear the same hat. The role of a person in a project may differ from the role the same person has in a different project.
 
-The following descriptions are indications of what is expecting of a person having a role. The responsibilities are not unique to the person on this role. On the contrary, it is expected that all team members contribute to the well functioning of the team and the company. The list of responsibilities is the guidance that allows all the teammates to know what is everyone's role.
+The following descriptions are indications of what is expecting of a person having a role. The responsibilities are not unique to the person in this role. On the contrary, it is expected that all team members contribute to the well functioning of the team and the company. The list of responsibilities is the guidance that allows all the teammates to know what is everyone's role.
 
 ## Project Lead
 - Be a product owner substitute.
