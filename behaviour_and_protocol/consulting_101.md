@@ -65,7 +65,7 @@ the following are guidelines and not strict rules.
   and you are working with a potential client.
 
 ## Etiquette
-- Arrive on time and come prepared.
+- Arrive on time and be prepared.
 - Remember time tracking in the correct project.
 - When you call a meeting, always have an agenda, and for longer meetings, make
   sure you take notes.
