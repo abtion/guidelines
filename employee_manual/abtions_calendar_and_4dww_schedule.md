@@ -31,7 +31,7 @@ Therefore an introduction to our way of tracking time right down here:
 We track 30 hours per week, equivalent to 7,5 hours per day (excluding lunch breaks) and aim to have an avarage billable rate >90%. 
 Flexing is not really our 'thing' and we expect you to track 30h by the end of the week. To make sure working hours don't go to waste, we submit our timesheet Thursday afternoon before you leave the office. (.. Yes, it is amazing! Your weekend starts on Thursday afternoon)
 
-Time tracking happens right from the moment you start working and finished when you finish your day. Sounds perhaps a little stricked, but it works. It creates more awareness of the time you use at work. This would give you a good indication of a satisfying and sufficient day, or a less satisfying day being unsure where you used your time on. And as important, it ensures that all our billable working hours are registered. Because this is the only way, we get money in the bank. 
+Time tracking happens right from the moment you start working and finished when you finish your day. Sounds perhaps a little strict, but it works. It creates more awareness of the time you use at work. This would give you a good indication of a satisfying and sufficient day, or a less satisfying day being unsure where you used your time on. And as important, it ensures that all our billable working hours are registered. Because this is the only way, we get money in the bank. 
 
 ### Pomodoro.abtion.com
 Talking about time, our working days include pomodoro. Because the secret to effective time management is...thinking in tomatoes rather than hours. It may seem silly at first, but it works!
@@ -40,7 +40,7 @@ Talking about time, our working days include pomodoro. Because the secret to eff
 - 🍅 You get the necessary breaks.
 - 🍅 No one bothers you when you are in the pomodoro cycle.
 
-We have our own internal pomodoro space! Here you can start your own popodoro cycle, join others in their cycle, see where people are working on, and see who is running the most pomodoro's. A great tool to manage your time, and to be enganged in some gamification. 
+We have our own internal pomodoro space! Here you can start your own popodoro cycle, join others in their cycle, see what people are working on, and see who is running the most pomodoro's. A great tool to manage your time, and to be enganged in some gamification. 
 
 You can enter the [pomodoro dashboard](https://pomodoro.abtion.com/spaces) with your working email. 
 
@@ -105,7 +105,7 @@ The absence is of short duration, 1st day of illness, until you have been able t
 In any case, it is important that you notify your employer as soon as possible before you should have arrived at work.
 
 ### Loss
-In case of loss Abtion supports your absence and allows you to stay home as long as needed with full salary. This concerns close related family members (children, parents, siblings or partner). In other cases your absence will be deducted from salary or vacation days. 
+In case of loss Abtion supports your absence and allows you to stay home as long as needed with full salary. This concerns closely related family members (children, parents, siblings or partner). In other cases your absence will be deducted from salary or vacation days. 
 
 ### Parental leave
 In Denmark you have the right to take maternity and paternity leave at work. At Abtion you do too.  Both mothers and fathers can leave for childbirth following the Danish rules of parental leave, “Barselsloven”.
