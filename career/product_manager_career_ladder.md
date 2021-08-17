@@ -108,7 +108,7 @@ You are comfortable delegating some of your tasks to someone else and trust the 
 
 **Impactful**
 
--   Helps on projects and owns small projects
+-   Helps on projects and owns small projects.
     
 
   
@@ -119,7 +119,7 @@ You are comfortable delegating some of your tasks to someone else and trust the 
     
 -   Writes tasks in a clear manner (As a...I want to..So that. Details, Acceptance criteria).
     
--   Conducts basic user interviews and have the ability to empathize and analyze the user’s experience
+-   Conducts basic user interviews and have the ability to empathize and analyze the user’s experience.
     
 -   Analyzes features based on what problems they are solving and prioritize them based on time, risk, impact, usefulness, and how it matches with the bigger picture.
     
@@ -134,14 +134,14 @@ You are comfortable delegating some of your tasks to someone else and trust the 
 
 -   Knows the difference between programming languages and why some are better for solving different issues.
     
--   Comfortable talking to developers about technology. When the PM doesn’t understand, they ask and learns.
+-   Comfortable talking to developers about technology. When the PM doesn’t understand, they ask and learn.
     
 
   
 
 **Communication and facilitation**
 
--   Reflects on what makes communication clear and effective
+-   Reflects on what makes communication clear and effective.
     
 -   Comes prepared for meetings.
     
@@ -157,7 +157,7 @@ The product manager role is similar to the associate product manager position, e
 
 **Impactful**
 
--   Owns small projects
+-   Owns small projects.
     
 
   
@@ -225,7 +225,7 @@ Both your design and technical skills are getting more practically applicable, a
 
 **Impactful**
 
--   Owns projects
+-   Owns projects.
     
 
   
@@ -262,7 +262,7 @@ Both your design and technical skills are getting more practically applicable, a
 
 -   Is able to convey the value of a proposed solution to the customer.
     
--   Makes objective recommendations on resource allocation and prioritization, i.e. includes both having constructive conversations with the team when relocating member(s), adjusting if needed for better team flow
+-   Makes objective recommendations on resource allocation and prioritization, i.e. includes both having constructive conversations with the team when relocating member(s), adjusting if needed for better team flow.
     
 -   Able to define and evaluate the north star: a defendable and quantifiable estimate of the value the team will deliver in the long run.
     
@@ -295,7 +295,7 @@ You perform most of the same duties as described under the associate and mid-lev
 
 **Impactful**
 
--   Owns large projects
+-   Owns large projects.
     
 -   Together with their team, they have transformed large complex systems from mess to success.
     
@@ -356,14 +356,14 @@ Senior product managers who become a critical source of advice for other product
     
 -   Understands security threats and assesses the impact/cost implications.
     
--   Contributes to strategic conversations on technical architecture, business operations, and financing decisions, and how that could impact product delivery and development
+-   Contributes to strategic conversations on technical architecture, business operations, and financing decisions, and how that could impact product delivery and development.
     
 
   
 
 **Communication and facilitation**
 
--   Able to coach and manage other PMs, which means setting clear objectives and supporting their development
+-   Able to coach and manage other PMs, which means setting clear objectives and supporting their development.
     
 
   
@@ -379,7 +379,7 @@ The director of product role will further focus on building better processes, ho
   
 
 You'll regularly meet with your peers throughout the company covering topics like: 
-- this is what's happening in the product department and why
+- this is what's happening in the product department and why.
 - what do you need from the product department?
 - this is what the product department needs from you, etc. 
 
@@ -415,7 +415,7 @@ Product directors are also a resource and mentor for the rest of the product man
 
 **Technical skills**
 
--   Is focused on introducing new tech in order to improve our products based on needs of employees and clients
+-   Is focused on introducing new tech in order to improve our products based on needs of employees and clients.
     
 -   Works with CTO and principal engineers to improve and consolidate the usability of tools within the organization.
     
