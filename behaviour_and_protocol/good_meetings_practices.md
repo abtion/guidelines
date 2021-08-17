@@ -2,7 +2,7 @@
 
 - Adjust the length to the content of the meeting. Don't call for 20 minutes if 10 minutes is sufficient. 
 
-- Describe the purpose, include an agenda, and give clear instructions on how to prepare for the meeting in - the calendar invitation (state if no preparation is needed). When it is relevant, you also save a lot of bandwidth by instructing where the attendees should track their time.
+- Describe the purpose, include an agenda, and give clear instructions on how to prepare for the meeting in the calendar invitation (state if no preparation is needed). When it is relevant, you also save a lot of bandwidth by instructing where the attendees should track their time.
 
 - Avoid meetings in the morning, and strive to give your attendees (and yourself) as long "focus stretches" as possible. Try to place the meeting close to the day's natural breaks, i.e., just after lunch or before closing time. 
 
@@ -12,4 +12,4 @@
 
 - Don’t hesitate to call off a meeting when you don’t really know what to talk about.  
 
-Our avg. cost per person per minute is DKK 7,5. The cost of a 20 minute meeting with five people is DKK 750. It is well spent if the meeting brings value. But always keep the opportunity cost in mind. What do we not do when we sit in this meeting.
+Our avg. cost per person per minute is DKK 7,5. The cost of a 20 minute meeting with five people is DKK 750. It is well spent if the meeting brings value. But always keep the opportunity cost in mind. What are we not doing when we are in this meeting? 
