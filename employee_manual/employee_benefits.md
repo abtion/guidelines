@@ -1,9 +1,9 @@
 # Employee benefits
 
 ## Lunch and office snacks
-We plan to take a lunch break at 11.30pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack or to drink in our kitchens. If there is anything missing in your preference, don’t hesitate to reach out to Angelle. 
+We plan to take a lunch break at 11.30pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack on or to drink in our kitchens. If there is anything missing in your preference, don’t hesitate to reach out to Angelle. 
 
-Another important consuming product next to food, is coffee. At Abtion we love good coffee! Our passion makes us look out for good beans to provide a decent cup. We like variety and try out new coffee from time to time, so if you have any suggestions according to that, don’t be shy and share it!
+Another important consuming product next to food, is coffee. At Abtion we love good coffee! Our passion makes us look out for good beans to provide a decent cup. We like variety and trying out new coffee from time to time, so if you have any suggestions in regards to that, don't be shy - please share it!
 
 ## Sampension
 ### Pension plan
