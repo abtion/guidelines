@@ -1,4 +1,4 @@
-# Schedule, calender and 4dww
+# Schedule, calendar and 4dww
 
 ## Only 4 days a week
 We have implemented 4 day work week! Meaning, we work 30 hours from Monday to Thursday. In order to make the 4dww successful, we align our schedules.
