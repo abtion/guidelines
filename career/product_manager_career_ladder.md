@@ -134,7 +134,7 @@ You are comfortable delegating some of your tasks to someone else and trust the 
 
 -   Knows the difference between programming languages and why some are better for solving different issues.
     
--   Comfortable talking to developers about technology. When the PM doesn’t understand, s/he asks and learns.
+-   Comfortable talking to developers about technology. When the PM doesn’t understand, they ask and learns.
     
 
   
