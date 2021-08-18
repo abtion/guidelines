@@ -34,7 +34,7 @@
 You can request access to vaults through Slack #access-and-permissions.
 
 ## Google groups
-- If it's needed a google group can be set up for the client, e.g. `danish-shipping@abtion.com`.
+- A google group will be set up per client, e.g. `danish-shipping@abtion.com`.
 - Client groups can be used for creating client specific accounts for github, azure etc.
 
 ## Github
