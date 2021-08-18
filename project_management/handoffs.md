@@ -88,4 +88,4 @@
     1. If you only tranfered a Github repo, be sure the Heroku app is removed.
     2. If you only tranfered a Heroku app, be sure the Github repo is removed or archived.
 2. Send an email to the clients PM and our PM stating that the app and/or repo has been transferred, include the email they have been transferred to along with the related plugins that will be emailing them.
-3. Close any accounts now no longer needed.
+3. Close any service account now no longer needed.
