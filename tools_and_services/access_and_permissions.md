@@ -40,23 +40,22 @@ You can request access to vaults through Slack #access-and-permissions.
 ## Github
 
 - Access is controlled through teams. Abtioneers are part of teams. Teams have access to repos. E.g. Wordpress team will have access to several repos.
-- To give a better overview, members should not get granted permissions directly to any repo. 
+- To give a better overview, members should not get granted permissions directly to any repo.
 - The Abtion team has read access to all the apps. All Abtioneers are members of the Abtion team.
 - Every new client with a team will have their own team. E.g. `danish-shipping`
-- For rails projects a client specific github account will be created - using the team's google group. This account must have admin-access the repository.
+- Every client has a github account - using the team's google group. This account is added as a member of the client team.
 - Several teams may have access to the same repos. E.g. The Digital Infrastructure team may have access to some clients' repos while they are on maintenance.
 
 You can request access to teams through Slack #access-and-permissions.
 
 ## Heroku
 
-- A client account is created for heroku - using the team's google group.
-- The client account is connected to the github team account.
-- The client account will be the owner of the pipelines and projects.
-- Access is controlled through heroku teams. Abtioneers are part of teams. Teams have access to pipelines and apps.
+- Access is controlled through heroku teams. Teams own project pipelines and apps. Abtioneers are members of teams
 - To give a better overview, members should not get granted permissions directly on any pipeline or app.
+- A client account is created for heroku - using the team's google group, it is added to the team as "admin"
+- The client account is connected to the client specific github account and is used for connecting heroku pipelines and apps to github repositories.
 - Developers must have a "member" role in the team.
-- Abtion's admin and the client's Heroku account must have "admin" role in the team.
+- Abtion's admin must have "admin" role in the team.
 - Abtion's admin will not be used for normal usage during development. The usage will be limited to admin-restricted action's such as granting and removing permissions.
 
 You can request access to teams through Slack #access-and-permissions.
