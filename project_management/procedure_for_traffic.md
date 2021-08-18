@@ -37,8 +37,6 @@ If further coordinating is needed this dialog will happen in the slack channel #
 
 ## 3: Loosely connected team and your options
 
-**3: Loosely connected team and your options**
-
 Contact your traffic manager in #planning and the whole team, with the traffic manager as responsible, will help you out when possible. Please try to bulk these smaller request so we can have a DI pair look at it, if possible go to procedure 4. If you have a wish for a specific person to handle the task please write so.
 
 The dialog is in #planning for all to know that there is a little change of plans. This should of course be limited and is only relevant for invoiceable work. This procedure also covers estimating work (not WP).
@@ -47,7 +45,7 @@ The dialog is in #planning for all to know that there is a little change of plan
 
 If the PM decides that we must act on a given task within the short time frame from the SLA - call the Traffic Manager. If there is no response write in #planning who you need to solve this task, and within what time frame you need to start working on it.
 
-If the client has no SLA but an urgent task you can try your luck with the above procedure. But there is NO guarantee we can help in the near future
+If the client has no SLA but an urgent task you can try your luck with the above procedure. But there is NO guarantee we can help in the near future.
 Before you do so please ask yourself if this is an important client/task or not. If not and WP: Create in: https://app.asana.com/0/1199218355390103/list if Ruby on Rails create here: https://app.asana.com/0/1102088177377811/board (DI)
 
 If in doubt, talk to the client director on the client.
