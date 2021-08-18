@@ -23,7 +23,7 @@ If you need help write the traffic manager at: traffic@abtion.com with the relev
 
 ## 2: Dedicated team:
 
-Contant your traffic manager on traffic@abtion.com with this info.
+Contact your traffic manager on traffic@abtion.com with this info.
 
 - Budget / hours planned
 - The name of the project (as in Harvest)
