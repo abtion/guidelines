@@ -59,7 +59,7 @@ Development Kickoff Agenda - Fraxx & Abtion
 
 
 
- # Remember notes - This is ofcause with the specific project in mind
+ # Remember notes - This is of course with the specific project in mind
  
 - Hosting of videos - what about the economy vs. quality?
 - What video format do we need in order to fit both mobile, tablet and desktop?
