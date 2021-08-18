@@ -34,8 +34,8 @@
 You can request access to vaults through Slack #access-and-permissions.
 
 ## Google groups
-- If it's needed a google group can be set up for a team, e.g. `danish-shipping@abtion.com`.
-- Team groups can be used for creating team specific accounts for github, azure etc.
+- If it's needed a google group can be set up for the client, e.g. `danish-shipping@abtion.com`.
+- Client groups can be used for creating client specific accounts for github, azure etc.
 
 ## Github
 
@@ -43,7 +43,7 @@ You can request access to vaults through Slack #access-and-permissions.
 - To give a better overview, members should not get granted permissions directly to any repo. 
 - The Abtion team has read access to all the apps. All Abtioneers are members of the Abtion team.
 - Every new client with a team will have their own team. E.g. `danish-shipping`
-- For rails projects a team specific github account will be created - using the team's google group.
+- For rails projects a client specific github account will be created - using the team's google group. This account must have admin-access the repository.
 - Several teams may have access to the same repos. E.g. The Digital Infrastructure team may have access to some clients' repos while they are on maintenance.
 
 You can request access to teams through Slack #access-and-permissions.
