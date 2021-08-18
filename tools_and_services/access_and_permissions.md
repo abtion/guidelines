@@ -33,12 +33,17 @@
 
 You can request access to vaults through Slack #access-and-permissions.
 
+## Google groups
+- If it's needed a google group can be set up for a team, e.g. `danish-shipping@abtion.com`.
+- Team groups can be used for creating team specific accounts for github, azure etc.
+
 ## Github
 
 - Access is controlled through teams. Abtioneers are part of teams. Teams have access to repos. E.g. Wordpress team will have access to several repos.
 - To give a better overview, members should not get granted permissions directly to any repo. 
 - The Abtion team has read access to all the apps. All Abtioneers are members of the Abtion team.
 - Every new client with a team will have their own team. E.g. `danish-shipping`
+- For rails projects a team specific github account will be created - using the team's google group.
 - Several teams may have access to the same repos. E.g. The Digital Infrastructure team may have access to some clients' repos while they are on maintenance.
 
 You can request access to teams through Slack #access-and-permissions.
@@ -47,9 +52,14 @@ You can request access to teams through Slack #access-and-permissions.
 
 - Access is controlled through teams. Abtioneers are part of teams. Teams have access to pipelines and apps.
 - To give a better overview, members should not get granted permissions directly on any pipeline or app.
-- Developers must have a "member" role in the team. 
+- Developers must have a "member" role in the team.
 - Abtion's admin and the client's Heroku account must have "admin" role in the team.
+- Abtion's admin account will be the owner of the pipelines and projects
 - Abtion's admin will not be used for normal usage during development. The usage will be limited to admin-restricted action's such as granting and removing permissions.
+- A team account is created for heroku - using the team's google group.
+- The team account is connected to the github team account.
+- The team account is added as admin to the heroku team.
+- The team account is used for connecting pipelines to github.
 
 You can request access to teams through Slack #access-and-permissions.
 
