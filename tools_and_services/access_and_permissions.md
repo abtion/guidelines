@@ -50,16 +50,13 @@ You can request access to teams through Slack #access-and-permissions.
 
 ## Heroku
 
-- Access is controlled through teams. Abtioneers are part of teams. Teams have access to pipelines and apps.
+- A client account is created for heroku - using the team's google group.
+- The client account is connected to the github team account.
+- The client account will be the owner of the pipelines and projects.
+- Access is controlled through heroku teams. Abtioneers are part of teams. Teams have access to pipelines and apps.
 - To give a better overview, members should not get granted permissions directly on any pipeline or app.
 - Developers must have a "member" role in the team.
 - Abtion's admin and the client's Heroku account must have "admin" role in the team.
-- Abtion's admin account will be the owner of the pipelines and projects
-- Abtion's admin will not be used for normal usage during development. The usage will be limited to admin-restricted action's such as granting and removing permissions.
-- A team account is created for heroku - using the team's google group.
-- The team account is connected to the github team account.
-- The team account is added as admin to the heroku team.
-- The team account is used for connecting pipelines to github.
 
 You can request access to teams through Slack #access-and-permissions.
 
