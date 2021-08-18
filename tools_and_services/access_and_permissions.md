@@ -57,6 +57,7 @@ You can request access to teams through Slack #access-and-permissions.
 - To give a better overview, members should not get granted permissions directly on any pipeline or app.
 - Developers must have a "member" role in the team.
 - Abtion's admin and the client's Heroku account must have "admin" role in the team.
+- Abtion's admin will not be used for normal usage during development. The usage will be limited to admin-restricted action's such as granting and removing permissions.
 
 You can request access to teams through Slack #access-and-permissions.
 
