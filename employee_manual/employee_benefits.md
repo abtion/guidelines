@@ -23,7 +23,7 @@ When login to sampension.dk, click on health plan, and find all the benefits and
 As an Abtioneer, you get discounts to lots of great places: 
 
 ### Halvkort
-With this card you get 50% discount in several places owned by Cocks&Cows. See the places on this link: https://halvkort.dk/.
+With this card you get 50% discount in several places owned by Cocks&Cows. See the places on this link: [https://halvkort.dk/](https://halvkort.dk)
 
 ### SATS
 Get your sweat on with discount of 70 kr. on a membership with SATS. 
@@ -32,13 +32,12 @@ Get your sweat on with discount of 70 kr. on a membership with SATS.
 Abtion has a discount code of OrganicBasics, which makes you able to shop on their webshop with a 20% discount.
 
 ### Mini Universet
-If anyone needs some goods for the small ones from the family: we got 40% discount on miniuniverset.dk 
+If anyone needs some goods for the small ones from the family: we got 40% discount on [miniuniverset.dk](https://miniuniverset.dk) 
 
 ### CODAN insurance
 We got a 10% discount on CODAN insurances. If you have two or more insurances, you will also get a combined discount.
 
-**Soapnut Republic:**
-
+### Soapnut Republic
 Soapnut Republic has plenty of products based on natural ingredients.
 
 When you buy yourself a nice piece of soap, use Ny30 for 30% discount on your purchase. Use fri fragt for a free delivery to your home address. 
