@@ -29,7 +29,7 @@ With this card you get 50% discount in several places owned by Cocks&Cows. See t
 Get your sweat on with discount of 70 kr. on a membership with SATS. 
 
 ### OrganicBasics
-Abtion has a discount code of OrganicBasics, which makes you able to shop on their webshop with a 20% discount.
+Abtion has a discount code of OrganicBasics, which makes you able to shop on their webshop with a 20% discount. See their beautiful clothes here: [https://dk.organicbasics.com](https://dk.organicbasics.com)
 
 ### Mini Universet
 If anyone needs some goods for the small ones from the family: we got 40% discount on [miniuniverset.dk](https://miniuniverset.dk) 
