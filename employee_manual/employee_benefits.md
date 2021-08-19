@@ -37,3 +37,11 @@ If anyone needs some goods for the small ones from the family: we got 40% discou
 ### CODAN insurance
 We got a 10% discount on CODAN insurances. If you have two or more insurances, you will also get a combined discount.
 
+**Soapnut Republic:**
+
+Soapnut Republic has plenty of products based on natural ingredients.
+
+When you buy yourself a nice piece of soap, use Ny30 for 30% discount on your purchase. Use fri fragt for a free delivery to your home address. 
+
+[https://soapnutrepublic.dk/](https://soapnutrepublic.dk/)
+
