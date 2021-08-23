@@ -28,7 +28,7 @@ Look at this from a reflective angle, to make sure we buy the right license and 
   
 6) ### This board calls for shared ownership! 
 
-When you purchase a license, you care the responsibility to update the board.
+When you purchase a license, you have the responsibility to update the board.
 
 Upgrade/downgrade/re-assign the license, when you are switching project, or when a personal license becomes irrelevant. 
 

@@ -84,7 +84,7 @@ What database we use in production, possibly how to connect to it.
 
 # Staging
 
-Any differences that could have with production, e.g. how are emails delivered.
+Any differences there might be with production, e.g. how are emails delivered.
 
 # Third parties
 
