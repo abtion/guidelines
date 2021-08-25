@@ -36,8 +36,8 @@ Note that a big part of the startup process & best practices examples are covere
   - The password should at this point be stored in 1password under the project's vault  
 - Continue to [Azure](https://portal.azure.com) & create a subscription as the Google Group
   - Update the Asana licenses overview as per [Purchasing licenses and memberships](https://inside.abtion.com/tools_and_services/purchasing_licenses_and_memberships) 
-- in Azure, under *Cost Management + Billing | Invoices*, add invoice recipient admin@abtion.com
+- in Azure, under *Cost Management + Billing - Invoices*, add invoice recipient admin@abtion.com
 - Also in Azure, make a *Resource Group* containing the project name which should be used for all project resources
-  - from the *Resource Group | Access control (IAM)*, add admin@abtion.com & the email of each Abtion project member who needs access
+  - from the *Resource Group - Access control (IAM)*, add admin@abtion.com & the email of each Abtion project member who needs access
 
 
