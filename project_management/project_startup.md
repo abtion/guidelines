@@ -9,10 +9,11 @@ Note that a big part of the startup process & best practices examples are covere
 
 ## Google groups setup
 - projectname@abtion.com
-- invite the team by person email
-- correct the settings
-  - activate the shared inbox
-  - tag/filter with project name
+- Invite the team by person email
+- Correct the Group settings
+  - Enable the Collaborative inbox
+  - Enable shared labels
+  - Add subject prefix [projectname]
 
 ## Heroku
 - projectname@abtion.com
