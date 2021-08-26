@@ -27,7 +27,7 @@ When setting up the codebase / hosting & security during startup, we set up the 
 - create new Vault with <clientname>
 - save login + activate 2fa following the guideline [Access and permissions](https://inside.abtion.com/tools_and_services/access_and_permissions)
   
-  ## Github
+  ## 3. Github
 - create a new account <client@abtion.com>
 - User name <client>-abtion
   
@@ -40,19 +40,18 @@ As admin@abtion.com on Github
   - change to admin role
 - ensure 'read only' role in Abtion
 
-## Heroku project setup
+## 4. Heroku project setup
 - create a new account <clientname>@abtion.com>
   - add Abtion credit card until client can take over
 - invite team by personal email + admin@abtion (as admin)
 - create new pipeline
   - 1. <clientname>, 2. connect to Github, 3. select Abtion as owner (not admin@abtion.com)
 
-## Azure:
+## 5. Azure:
 - create a new account <client@abtion.com>
 - Continue to [Azure](https://portal.azure.com) & create a subscription 
   - Start with free trial, add infor and creditcard info, 
   - sign-up for Pay-as-you-go, !no technical support!
-
 - under Cost Management, add invoice recipient admin@abtion.com (not possible to add admin+billing+etc)
 - create a Resource Group containing the project name which should be used for all project resources
   - from the *Resource Group, go to Access control, + add role assignment
