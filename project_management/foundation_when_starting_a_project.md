@@ -41,20 +41,22 @@ As admin@abtion.com on Github
 - ensure 'read only' role in Abtion
 
 ## 4. Heroku project setup
-- create a new account <clientname>@abtion.com>
-  - add Abtion credit card until client can take over
-- invite team by personal email + admin@abtion (as admin)
+- create a new account [clientname]@abtion.com
+  - invite team by personal email
+  - invite admin@abtion (as admin)
+- add Abtion credit card until client can take over
 - create new pipeline
-  - 1. <clientname>, 2. connect to Github, 3. select Abtion as owner (not admin@abtion.com)
+  - 1.[clientname], 2. connect to Github, 3. select Abtion as owner NOT admin@abtion.com as owner
 
 ## 5. Azure:
-- create a new account <client@abtion.com>
+- create a new account [client@abtion.com]
 - Continue to [Azure](https://portal.azure.com) & create a subscription 
-  - Start with free trial, add info and credit card info, 
-  - sign-up for Pay-as-you-go, !no technical support!
-- under Cost Management, add invoice recipient admin@abtion.com (not possible to add admin+billing+etc)
+  - Start with free trial, add info and credit card info 
+  - sign-up for Pay-as-you-go, NO technical support
+- under Cost Management, 
+  - add invoice recipient admin@abtion.com (not possible to add admin+billing+clientname@abtion.com)
 - create a Resource Group containing the project name which should be used for all project resources
   - from the *Resource Group, go to Access control, + add role assignment
     - admin@abtion.com as owner
-    - email of each project member as contributor
+    - email of each team member as contributor
 - Update the Asana licenses overview as per [Purchasing licenses and memberships](https://inside.abtion.com/tools_and_services/purchasing_licenses_and_memberships) 
