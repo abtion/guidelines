@@ -47,6 +47,7 @@ As admin@abtion.com on Github
 - add Abtion credit card until client can take over
 - create new pipeline
   - 1.[clientname], 2. connect to Github, 3. select Abtion as owner NOT admin@abtion.com as owner
+  - activate automatic deploys after connecting the account on Heroku
 
 ## 5. Azure:
 - create a new account [client@abtion.com]
