@@ -52,7 +52,7 @@ As admin@abtion.com on Github
 
 ## 5. Azure:
 - create a new account [client@abtion.com]
--   NOTE: Choose a date of birth that makes the age over 18 years old. fx. 1990. Otherwise you create a child azure account)
+-   NOTE: Choose a date of birth resulting to age 18+. (fx. 1990, otherwise you create a child azure account with user limitations)
 - Continue to [Azure](https://portal.azure.com) & create a subscription 
   - Start with free trial, add info and credit card info 
   - sign-up for Pay-as-you-go, NO technical support
