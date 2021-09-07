@@ -6,7 +6,8 @@ When starting a new project for a client, we try to be consistent with resource 
 
 You can read more about basic rules & culture surrounding these resources in [Access and permissions](https://inside.abtion.com/tools_and_services/access_and_permissions).
 
-Note that a big part of the startup process & best practices examples are covered by our project templates [MuffiRails](https://github.com/abtion/muffi) &  [MuffiNet](https://github.com/abtion/muffi.net). These projects are examples of Abtions Internal Projects, which is the client. ( in other words: Muffi and fx Pomodoro are projects under Abtion Internal Projects name. All internal projects should be stored under 'Internal Projects')
+NOTE that a big part of the startup process & best practices examples are covered by our project templates [MuffiRails](https://github.com/abtion/muffi) &  [MuffiNet](https://github.com/abtion/muffi.net). These projects are examples of Abtions Internal Projects, which is the client. 
+In other words: Muffi, Pomodoro and all other internal projects should be stored under internal-projects@abtion.com. 
 
 When setting up the codebase / hosting & security during startup, we set up the following
   - Github for Code & Continuous integration (Github Actions)
