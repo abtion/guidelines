@@ -40,11 +40,11 @@ For PM’s and other roles:
 - Additional gear such as phone, other headphones, etc. 
 
 ### setup at the office
-Ideally, all desks and pairing stations have the same setup for an easy use by all. Flex desks for guests and Abtioneers who are not attached to their own desk or need a more/less quiet place on occasions. Personal desks for those who work the best at their own palace. Each desk consists of either 1 or 2 screens, keyboard + mouse, highrise. 
+Ideally, all desks and pairing stations have the same setup for easy use by all. Personal desks for those who work the best at their own palace. Flex desks for guests and Abtioneers who are not attached to their own desks. This can be useful when in need of a more quiet place and all meeting rooms are occupied.  Each desk consists of either 1 or 2 screens, keyboard + mouse, and optional a highrise. 
 
 We administrate all gear in [Asana](https://app.asana.com/0/1177794690825926/1197231131487319)(both in-house gear and gear you have at home.)
 
-After approx. 3 years, when we reach the moment of replacing gear, we offer the possibility to buy Abtion's gear for perivate use for a ,of course, reasonable deducted price. Also, we are looking for a donation fund, to sponsor those who need it and find a useful 2nd life for our used gear. Any suggestions here? Shout out!
+When we reach the moment of replacing gear, we are looking into ways to give a 2nd life to our gear. There is a possibility to buy the gear for personal use for a, of course, reasonable deducted price. Or donate it to a fund, to sponsor those who need it. -- Any suggestions here? Shout out! Or sell it to companies like 'greenmind' who repair and re-sell used products.
 
 ## Lunch and office snacks
 We plan to take a lunch break at 11.30pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack on or to drink in our kitchens. If there is anything missing in your preference, don’t hesitate to reach out to our office managers/snack managers. 
