@@ -42,7 +42,7 @@ For PM’s and other roles:
 ### setup at the office
 Ideally, all desks and pairing stations have the same setup for an easy use by all. Flex desks for guests and Abtioneers who are not attached to their own desk or need a more/less quiet place on occasions. Personal desks for those who work the best at their own palace. Each desk consists of either 1 or 2 screens, keyboard + mouse, highrise. 
 
-We administrate all gear in Asana (both in-house gear and gear you have at home.) ‘https://app.asana.com/0/1177794690825926/1197231131487319’ 
+We administrate all gear in [Asana](https://app.asana.com/0/1177794690825926/1197231131487319)(both in-house gear and gear you have at home.)
 
 After approx. 3 years, when we reach the moment of replacing gear, we offer the possibility to buy Abtion's gear for perivate use for a ,of course, reasonable deducted price. Also, we are looking for a donation fund, to sponsor those who need it and find a useful 2nd life for our used gear. Any suggestions here? Shout out!
 
