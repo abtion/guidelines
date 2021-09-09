@@ -29,9 +29,9 @@ For developers and designers:
     - 16GB 2666MHz DDR4 memory + 512 GB SSD
     - Upgrade on Graphics card for designers
 - Windows, Linux
-  - Lenovo Thinkpad T14 
-    - Gen 1 20S0 Core i7 (upgrade on processor to i9)
-    - 16GB 512GB SSD WWAN-upgradable 14" (upgrade til 32 GB)
+  - Dell XPS 15
+    - 15,6' with Core i7 
+    - 32GB RAM 1000GB SSD 15.6"
 
 For PM’s and other roles:
  - Laptop 
@@ -44,7 +44,7 @@ Ideally, all desks and pairing stations have the same setup for an easy use by a
 
 We administrate all gear in Asana (both in-house gear and gear you have at home.) ‘https://app.asana.com/0/1177794690825926/1197231131487319’ 
 
-After approx. 3 years, when we reach the moment of changing the old for new gear, we offer the possibility to buy the gear for personal use for a ,of course, reasonable deducted price. Also, we are looking for a donation fund, to sponsor those who need it and find a useful 2nd life for our used gear. Any suggestions here? Shout out!
+After approx. 3 years, when we reach the moment of replacing gear, we offer the possibility to buy Abtion's gear for perivate use for a ,of course, reasonable deducted price. Also, we are looking for a donation fund, to sponsor those who need it and find a useful 2nd life for our used gear. Any suggestions here? Shout out!
 
 ## Lunch and office snacks
 We plan to take a lunch break at 11.30pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack on or to drink in our kitchens. If there is anything missing in your preference, don’t hesitate to reach out to our office managers/snack managers. 
