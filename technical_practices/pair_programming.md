@@ -6,6 +6,8 @@
 - [How do we pair program?](#how-do-we-pair-program?)
   - [Prerequisites](#prerequisites)
   - [Pair programming styles](#pair-programming-styles)
+- [Potential obstacles](#potential-obstacles)
+- [Advice](#advice)
 - [Additional reading](#additional-reading)
 
 ## Why are we pair programming?
@@ -180,6 +182,49 @@ If at any point the pair wants to switch roles, they can.
 
 This is a common "style" because of its fluidity but can result in uneven
 pairing because of its lack of guidelines.
+
+---
+
+## Potential obstacles
+
+#### **Unstable internet connection**
+
+#### **Varying work environments**
+
+When you are working on two different operating systems, IDEs, terminals, etc.,
+there is a risk that the work will take longer than it needs to if one in the
+pair is not used to the tools they are working with.
+
+The risk can be lessened by avoiding custom setup like macros,
+[shortcuts](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet), and
+plugins. And by using a keyboard with the same layout (or using
+[tools](https://github.com/jeantil/autokbisw) to switch).
+
+#### **Tight deadlines**
+
+#### **Lack of communication**
+
+#### **Lack of breaks**
+
+#### **Background disturbance**
+
+## Advice
+
+> Be flexible. Don’t force your point.
+
+> Give people space and time to solve something in their own way. You might learn something.
+
+> Use the breaks!
+
+> Address it if the pairing style does not fit your current work.
+
+> Communicate. Talk non-stop about what you’re doing.
+
+> Switch roles often to take off some of the cognitive load.
+
+> When onboarding, switch between the possible styles.
+
+> Tell your pair when there is something you do not understand. It’s better to take a step back and learn.
 
 ## Additional reading
 
