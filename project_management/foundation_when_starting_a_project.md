@@ -35,22 +35,26 @@ When setting up the codebase / hosting & security during startup, we set up the 
 As admin@abtion.com on Github
 - create a new team [clientname]
    - invite team members
-   - invite [clientname] account for Heroku CI reasons (to connect with Heroku)
+   - invite [client]-abtion account for Heroku CI reasons (to connect with Heroku)
 - create a repo [clientname]-[projectname]
 - add repo in [clientname] team
    - change to admin role
-- ensure 'read only' role in Abtion
+- add repo in [Abtion team](https://github.com/orgs/abtion/teams/abtion/repositories)
+  - ensure 'read only' role in Abtion
 
 ## 4. Heroku project setup
 - create a new account [clientname]@abtion.com
   - invite team by personal email
   - invite admin@abtion (as admin)
 - add Abtion credit card until client can take over
-- create new pipeline
-  - 1.[clientname], 2. connect to Github, 3. select Abtion as owner NOT admin@abtion.com as owner
+- Logged in on Github under [client@abtion.com]
+  - Create new pipeline
+    1. Pipeline name: [clientname] 
+    2. Pipeline owner: [clientname] team
+    3. connect to Github account. To find the repo, remember to select Abtion organization.
   - activate automatic deploys after connecting the account on Heroku
 
-## 5. Azure:
+## 4. Azure project setup:
 - create a new account [client@abtion.com]
 -   NOTE: Choose a date of birth resulting to age 18+. (fx. 1990, otherwise you create a child azure account with user limitations)
 - Continue to [Azure](https://portal.azure.com) & create a subscription 
