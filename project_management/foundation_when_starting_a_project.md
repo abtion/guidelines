@@ -47,7 +47,7 @@ As admin@abtion.com on Github
   - invite team by personal email
   - invite admin@abtion (as admin)
 - add Abtion credit card until client can take over
-- Logged in on Github under [client@abtion.com]
+- Logged in on Github under [client@abtion.com] (In order to not make the connection sync with admin@abtion.com)
   - Create new pipeline
     1. Pipeline name: [clientname] 
     2. Pipeline owner: [clientname] team
