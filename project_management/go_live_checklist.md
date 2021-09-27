@@ -1,5 +1,7 @@
 # Go Live Checklist
 
+- [ ] Use the right servers (dynos). If it's hosted in Heroku, the minimum accepted Dyno type for production is Standard.
+- [ ] Use a production-ready database with automatic backups. In Heroku, the minimum accepted Postgres plan is "standard-1"
 - [ ] Mails are not using @abtion.com in `from` field.
 - [ ] Mail links point to the right domain.
 - [ ] Delete test data, if any was created.
