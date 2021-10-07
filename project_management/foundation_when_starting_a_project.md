@@ -42,7 +42,7 @@ Login as admin@abtion.com on Github
   - add repo in [clientname] team
     - change role to admin role
 
-## *4. Heroku project setup (NOT relevant for all projects, check this on forehand)
+## *4. Heroku project setup (NOT relevant for all projects)
 - create a new account [clientname]@abtion.com
   - invite team members (as member)
   - invite admin@abtion (as admin)
@@ -56,7 +56,7 @@ Login as admin@abtion.com on Github
        (Not through by adminabtion, as this wil break the connecting when handing over the project to the client)
   - activate automatic deploys after connecting the account on Heroku
 
-## *4. Azure project setup (NOT relevant for all projects, check this on forehand)
+## *4. Azure project setup (NOT relevant for all projects)
 - create a new account [client@abtion.com]
   - NOTE: Choose a date of birth resulting to age 18+. (fx. 1990, otherwise you create a child azure account with user limitations)
 - Continue to [Azure](https://portal.azure.com) & create a subscription 
