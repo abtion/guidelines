@@ -15,6 +15,20 @@ When setting up the codebase / hosting & security during startup, we set up the 
   - Heroku/Azure for hosting client applications
   - 1password for secrets
 
+To kickstart a foundation for a new project, follow this plan step by step: 
+## Preparation
+- Make sure you have the right information for the foundation: 
+  - Client name
+  - Project name
+  - Team members
+  - Client' billing info
+    -  Billing email
+    -  Billing address
+    -  Credit card information
+- If by any reason you won't have access to the billing info in the stage of kickstarting the project:
+      1. use Abtion's billing info and credit card (see 1pw)
+      2. inform PM about this, and create a ticket in the project's Asana board to transfer billing to client
+
 ## 1. Google groups setup 
 - create a group [clientname]@abtion.com
   - Invite team members
@@ -46,7 +60,7 @@ Login as admin@abtion.com on Github
 - create a new account [clientname]@abtion.com
   - invite team members (as member)
   - invite admin@abtion (as admin)
-- add Abtion credit card until client can take over
+- add clients credit card (unless not possible, add Abtion's until the Client can take over)
 - Logged in on Github under [client@abtion.com] (In order to not make the connection sync with admin@abtion.com)
   - Create new pipeline
     1. Pipeline name: [clientname] 
@@ -61,11 +75,11 @@ Login as admin@abtion.com on Github
   - NOTE: Choose a date of birth resulting to age 18+. (fx. 1990, otherwise you create a child azure account with user limitations)
 - Continue to [Azure](https://portal.azure.com) & create a subscription 
   - Start with free trial 
-    - add info and credit card info 
+    - add client billing info and credit card info (unless not possible, add Abtion's until the Client can take over)
   - sign-up for Pay-as-you-go
     - NO technical support
 - under Cost Management 
-  - add invoice recipient admin@abtion.com (not possible to add admin+billing+clientname@abtion.com)
+  - add invoice recipient (client as default, otherwise admin@abtion.com (not possible to add admin+billing+clientname@abtion.com))
 - create a Resource Group containing the project name which should be used for all project resources
   - from the *Resource Group, go to Access control, click on '+ add role assignment'
     - add admin@abtion.com as owner
