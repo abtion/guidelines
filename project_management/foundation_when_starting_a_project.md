@@ -26,8 +26,9 @@ To kickstart a foundation for a new project, follow this plan step by step:
     -  Billing address
     -  Credit card information
 - If by any reason you won't have access to the billing info in the stage of kickstarting the project:
-      1. use Abtion's billing info and credit card (see 1pw)
-      2. inform PM about this, and create a ticket in the project's Asana board to transfer billing to client
+    1. use Abtion's billing info and credit card (see 1pw)
+    2. inform PM about this, and create a ticket in the project's Asana board to transfer billing to client
+   
 
 ## 1. Google groups setup 
 - create a group [clientname]@abtion.com
