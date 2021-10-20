@@ -44,8 +44,6 @@ client projects.
       ensures that these opportunities are pursued.
 - [ ] Adjusts processes and practices regularly to maximize the efficiency and
       performance of their team and/or direct reports.
-- [ ] Consistently seeks to improve processes at the company such as interview
-      practices, onboarding, defining roles, etc.
 - [ ] Identifies pain points for their direct reports and proactively
       ensures that these pain points are solved.
 
@@ -104,6 +102,8 @@ projects.
 - [ ] Uses their experience and relevant data to make fast and informed
       decisions.
 - [ ] Has a track record of growing people across various teams.
+- [ ] Consistently seeks to improve processes at the company such as interview
+      practices, onboarding, defining roles, etc.
 
 ### Coaching and mentoring
 
