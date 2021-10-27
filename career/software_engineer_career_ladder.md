@@ -151,6 +151,7 @@ Engineers spend around 3 years on this level.
 
 - [ ] Work with red-green-refactor.
 - [ ] Use time management techniques.
+- [ ] Is comfortable with trunk-based development and use techniques such as feature flags.
 
 #### Communication
 
