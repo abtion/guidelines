@@ -82,7 +82,7 @@ On average, engineers spend 2 years on this level.
 #### Simple
 
 - [ ] Create simple methods / functions that most static code analysers would accept.
-- [ ] Make atomic, descriptive PRs.
+- [ ] Make single-feature PRs.
 
 #### Test-driven
 
@@ -97,6 +97,7 @@ On average, engineers spend 2 years on this level.
 
 - [ ] Deliver working code with each commit.
 - [ ] Write small, single-purpose commits.
+- [ ] Write descriptions about decisions and features made for each commit/PR.
 
 #### Communication
 
