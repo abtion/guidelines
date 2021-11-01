@@ -46,6 +46,7 @@ To kickstart a foundation for a new project, follow this plan step by step:
 ## 3. Github setup
 - create a new account [client@abtion.com]
 - User name [client]-abtion
+- add this user to 1Password
   
 Login as admin@abtion.com on Github
 - create a new team in Abtion named [clientname]
@@ -56,6 +57,17 @@ Login as admin@abtion.com on Github
     - ensure 'read only' role in Abtion
   - add repo in [clientname] team
     - change role to admin role
+
+Setup automerge github action
+  - sign in [client]-abtion github account
+  - [create a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+    - Expiration: No expiration
+    - Scopes: repo (Full control of private repositories)
+  - create new repository secret in [clientname]-[projectname] settings/secrets/actions 
+    - Name: AUTO_MERGE_TOKEN
+    - Value: personal access token generated in previous step
+  - create github automerge action
+    - copy auto-merge.yml, dependabot.yml, workflows/auto-merge-dependabot.yml from [muffi/.github](https://github.com/abtion/muffi/tree/main/.github) into [clientname]-[projectname]/.github
 
 ## *4. Heroku project setup (NOT relevant for all projects)
 - create a new account [clientname]@abtion.com
