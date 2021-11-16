@@ -15,3 +15,14 @@ As a final initiative, we plan a 6th NON-mandatory event: Christmas hygge with F
 All dates are marked in Abtion’s calendar. (Don't forget to add the calendar to your google calendar :))
 
 ## Abtion's culture and community
+We are proud of our communinity as we are fully aware that they are a big part of our success. That's why Abtion offers support to some degree to activities who are there to bond our Abtioneers. This could be sport activities, cultural activities, a dinner or.. anything else you can think of. 
+
+There are no rules, so feel free to think out of the box and don't hesitate to take initiative. We all love it! 
+
+.... Still hesitating? That is okay, just reach out to Angelle and have a chat with her :)
+
+### Channels on slack
+Don't know to get started? Join the initiative on slack and add yourself to our channels on slack, #abventure, #cultureers, #bouldering! That is a very good start and source of inspiration for activities and other social events. 
+
+
+
