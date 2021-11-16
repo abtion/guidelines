@@ -1,4 +1,4 @@
-# Pomodoro
+# Abtion's pomodoro
 
 ### Pomodoro.abtion.com
 Talking about time, our working days include pomodoro. Because the secret to effective time management is...thinking in tomatoes rather than hours. It may seem silly at first, but it works!
