@@ -1,3 +1,5 @@
+# Vacation and time off
+
 ## Taking time off
 Don’t be shy and remember to use your vacation time! We believe it helps to motivate, inspire and refocus. 
 
