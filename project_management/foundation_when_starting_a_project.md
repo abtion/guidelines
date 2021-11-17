@@ -1,4 +1,4 @@
-# Foundation when starting a project (technical setup)
+# Technical setup when starting a new project
 
 ## General
 
