@@ -1,4 +1,4 @@
-# Foundation when starting a project
+# Foundation when starting a project (technical setup)
 
 ## General
 
@@ -48,7 +48,7 @@ To kickstart a foundation for a new project, follow this plan step by step:
 - User name [client]-abtion
 - add this user to 1Password
   
-Login as admin@abtion.com on Github
+Login on Github (requirement with owner permission on Github. This should be granted to private login name, not as admin@abtion.com)
 - create a new team in Abtion named [clientname]
   - invite team members
   - invite [client]-abtion account for Heroku CI reasons (to connect with Heroku)
