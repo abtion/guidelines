@@ -14,13 +14,23 @@ If there is a service in this category, but the team wants to use a different on
 ![](https://via.placeholder.com/10/00c900/?text=+) [InMobile](https://www.inmobile.com/)
 
 ### Error management
-
+![](https://via.placeholder.com/10/ffff00/?text=+) [Sentry](sentry.io) In Heroku: use the addon.
 ### Mailing
-![](https://via.placeholder.com/10/ffff00/?text=+) [SendGrid](https://sendgrid.com/), in Heroku: use the free Starter addon (Automatically added by [Muffi](https://github.com/abtion/muffi)).
+![](https://via.placeholder.com/10/ffff00/?text=+) [SendGrid](https://sendgrid.com/), in Heroku: use the addon (Automatically added by [Muffi](https://github.com/abtion/muffi)).
 Remember to set up DKIM (under sender authentication -> domain authentication).
 
+![](https://via.placeholder.com/10/f03c15/?text=+) [MailGun](mailgun.com) Countless issues when using the addon on Heroku. Accounts are banned on regular basis.
 ### Mail testing
 ![](https://via.placeholder.com/10/ffff00/?text=+) Use [mail-tester](https://www.mail-tester.com) to test mail setup.
 
 ### Mailtrap
 ![](https://via.placeholder.com/10/ffff00/?text=+) Use [Mailtrap](https://mailtrap.io) for staging/review-apps.
+
+### Log management
+![](https://via.placeholder.com/10/00c900/?text=+) [Papertrail](https://papertrailapp.com/). In Heroku: use the addon.
+
+### In-memory data store
+![](https://via.placeholder.com/10/00c900/?text=+) [Heroku Redis](https://elements.heroku.com/addons/heroku-redis). Green for all apps hosted in Heroku.
+
+### Performance monitoring
+![](https://via.placeholder.com/10/ffff00/?text=+) [New Relic](https://newrelic.com). In Heroku: use the addon.
