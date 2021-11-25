@@ -118,9 +118,9 @@ On average, engineers spend 2 years on this level.
 - [ ] Understand where to place logic in their favorite framework.
 - [ ] Understand what differentiates their favorite language from others. They know what the language is useful for and when it is not the best option.
 
-### Level 3 - Software Engineer
+### Level 3 - Seasoned Software Engineer
 
-As a Software Engineer, you display a maturity that permeates every aspect of your work. You can handle work independently with close to no guidance from seniors, and you proactively unblock juniors when necessary. Your expertise in two areas or more is clear to your team, and you understand how to navigate several layers of the technical stack with ease. Product managers recognize you for your ability to prioritize work and distinguish unimportant details from critical tasks that deliver value to the client.
+As a Seasoned Software Engineer, you display a maturity that permeates every aspect of your work. You can handle work independently with close to no guidance from seniors, and you proactively unblock juniors when necessary. Your expertise in two areas or more is clear to your team, and you understand how to navigate several layers of the technical stack with ease. Product managers recognize you for your ability to prioritize work and distinguish unimportant details from critical tasks that deliver value to the client.
 
 Engineers spend around 3 years on this level.
 
@@ -223,9 +223,9 @@ Although relevant experience varies significantly, engineers have around 6 years
 - [ ] Research and propose new technologies to the team(s).
 - [ ] Are known as a go-to expert in one area of technology: e.g. browser rendering or TDD.
 
-### Level 5 - Senior Software Engineer
+### Level 5 - Lead Software Engineer
 
-As a Senior Software Engineer, you demonstrate that you are able to lead your team from initial client meeting to delivery, and product managers trust you in assisting them on a day-to-day basis. Your team recognizes you as a strong technical leader that proactively identifies and clarifies issues whether technical or business-related, and you consistently deliver high-value solutions that are well-architected and can be easily maintained over time.
+As a Lead Software Engineer, you demonstrate that you are able to lead your team from initial client meeting to delivery, and product managers trust you in assisting them on a day-to-day basis. Your team recognizes you as a strong technical leader that proactively identifies and clarifies issues whether technical or business-related, and you consistently deliver high-value solutions that are well-architected and can be easily maintained over time.
 
 Highly experienced engineers form this level with a median of 10 years of experience in the group.
 
