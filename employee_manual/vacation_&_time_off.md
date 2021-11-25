@@ -44,7 +44,7 @@ We also demand you to take some days off. Some days can slightly vary year to ye
 
 - The Friday after Kristi Himmelfart / Ascension Day
 - Week 29 and 30 
-- Week between Christmas and New Year ( + 24th of December + 31th of December )
+- Week between Christmas and New Year ( + 24th of December + 31th of December, unless on a Friday )
 - First friday of the year (in order to follow our standard of 6 weeks holidays per year, 24 days per year, we force you to use 1 earned holiday day on this friday.) 
  
 ## Absence
