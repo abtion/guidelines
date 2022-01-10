@@ -12,7 +12,7 @@ To make this task a bit easier, we have [a repo that hosts the accounts of our c
 
 ### Using different keyboard layouts
 
-To ease the use of different keyboards with different languages on the ***same laptop*** then we recommend using [Autokbisw - Automatic keyboard input source switcher](https://github.com/jeantil/autokbisw)
+To ease the use of different keyboards with different languages on the ***same laptop*** then we recommend using [Autokbisw - Automatic keyboard input source switcher](https://github.com/ohueter/autokbisw)
 
 Have XCode installed and do `brew install jeantil/autokbisw/autokbisw`. Then copy paste the `.plist` file from the repo to your `~/Library/LaunchAgents/`. Reboot and enjoy typing.
 
