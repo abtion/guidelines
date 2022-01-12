@@ -48,7 +48,7 @@ To kickstart a foundation for a new project, follow this plan step by step:
 - User name [client]-abtion
 - add this user to 1Password
   
-Login on Github (requirement with owner permission on Github. This should be granted to private login name, not as admin@abtion.com)
+Login on Github as admin@abtion.com (requires admin role):
 - create a new team in Abtion named [clientname]
   - invite team members
   - invite [client]-abtion account for Heroku CI reasons (to connect with Heroku)
