@@ -9,7 +9,7 @@ If there is a service in this category, but the team wants to use a different on
 - ![](https://via.placeholder.com/10/ffff00/?text=+) Yellow list: We've used the services before, and we are satisfied. The services in this list should be the first option to consider on a team, although the team can decide to use a different tool if there is a good reason behind it.
 - ![](https://via.placeholder.com/10/f03c15/?text=+) Red list: The services in this list have been used or analyzed, and they do not live up to Abtion standard. A team must request permission from the Principal Engineer or CTO before using this tool on a production system.
 
-
+## Evaluated services
 ### Sending and receiving SMS
 ![](https://via.placeholder.com/10/00c900/?text=+) [InMobile](https://www.inmobile.com/)
 
@@ -34,3 +34,11 @@ Remember to set up DKIM (under sender authentication -> domain authentication).
 
 ### Performance monitoring
 ![](https://via.placeholder.com/10/ffff00/?text=+) [New Relic](https://newrelic.com). In Heroku: use the addon.
+
+
+## FAQ
+
+**The app I'm working on is using a red service. Should I switch to a recommended service?**
+The app should change to a yellow or green alternative. If there are no alternatives, the maintenance team will continue with the service and check in the next maintenance window.
+
+Apps should change services on active development (if it has been already budgeted on that round), or in the next maintenance window.
