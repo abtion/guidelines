@@ -84,13 +84,13 @@ Setup automerge github action
   - activate automatic deploys after connecting the account on Heroku
 
 ## *4. Azure project setup (NOT relevant for all projects)
-- create a new account [client@abtion.com]
-  - NOTE: Choose a date of birth resulting to age 18+. (fx. 1990, otherwise you create a child azure account with user limitations)
-- Continue to [Azure](https://portal.azure.com) & create a subscription 
+- As admin user on Abtion Azure Active Directory
+  -  create a new account/user [client@abtion.com] in 'users'
+
+- Login at portal.azure.com with [client@abtion.com]
+- Create a resource group subscription 
   - Start with free trial 
     - add client billing info and credit card info (unless not possible, add Abtion's until the Client can take over)
-  - sign-up for Pay-as-you-go
-    - NO technical support
 - under Cost Management 
   - add invoice recipient (client as default, otherwise admin@abtion.com (not possible to add admin+billing+clientname@abtion.com))
 - create a Resource Group containing the project name which should be used for all project resources
