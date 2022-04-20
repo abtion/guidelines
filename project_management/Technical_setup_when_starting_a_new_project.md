@@ -84,17 +84,18 @@ Setup automerge github action
   - activate automatic deploys after connecting the account on Heroku
 
 ## *4. Azure project setup (NOT relevant for all projects)
-- As admin user on Abtion Azure Active Directory
-  -  create a new account/user [client@abtion.com] in 'users'
+The goal of the setup is to have the client owning their own directory with billing. However, if we are on an initial phase where we just want to put an environment up and running, we can skip step 2 and temporarily create the project under Abtion's directory.
 
-- Login at portal.azure.com with [client@abtion.com]
-- Create a resource group subscription 
+1. As admin user on Abtion Azure Active Directory
+  -  create a new account/user [client@abtion.com] in 'users'
+2. (optional) Create a Subscription with the client's billing
   - Start with free trial 
-    - add client billing info and credit card info (unless not possible, add Abtion's until the Client can take over)
-- under Cost Management 
-  - add invoice recipient (client as default, otherwise admin@abtion.com (not possible to add admin+billing+clientname@abtion.com))
-- create a Resource Group containing the project name which should be used for all project resources
+  - add client billing info and credit card info (unless not possible, add Abtion's until the Client can take over)
+  - Under Cost Management, add invoice recipient (client as default, otherwise admin@abtion.com (not possible to add admin+billing+clientname@abtion.com))
+3. create a Resource Group containing the project name which should be used for all project resources
+  - If you skipped steps 1,2 and 3, use "abtion-general-subscription" when selecting the subscription.
   - from the *Resource Group, go to Access control, click on '+ add role assignment'
-    - add admin@abtion.com as owner
+    - add admin@abtion.com and client@abtion.com  as owners
     - add email of each team member as contributor
-- Update the Asana licenses overview as per [Purchasing licenses and memberships](https://inside.abtion.com/tools_and_services/purchasing_licenses_and_memberships) 
+4. Update the Asana licenses overview as per [Purchasing licenses and memberships](https://inside.abtion.com/tools_and_services/purchasing_licenses_and_memberships) 
+  - If it is using "abtion-general-subscription", add a due date on an estimate on when you believe the subscription should be transferred to the client. Bear in mind that Abtion will be paying for the client's subscription until then.
