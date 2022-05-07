@@ -13,15 +13,15 @@ If there is a service in this category, but the team wants to use a different on
 ![](https://via.placeholder.com/10/00c900/?text=+) [InMobile](https://www.inmobile.com/)
 
 ### Error management
-![](https://via.placeholder.com/10/00c900/?text=+) [Rollbar](rollbar.com) In Heroku: use the addon. Default configuration on [Muffi Rails](https://github.com/abtion/muffi).
-![](https://via.placeholder.com/10/ffff00/?text=+) [Sentry](sentry.io) In Heroku: use the addon.
+![](https://via.placeholder.com/10/00c900/?text=+) [Rollbar](https://rollbar.com) In Heroku: use the addon. Default configuration on [Muffi Rails](https://github.com/abtion/muffi).
+![](https://via.placeholder.com/10/ffff00/?text=+) [Sentry](https://sentry.io) In Heroku: use the addon.
 
 ### Mailing
 ![](https://via.placeholder.com/10/f03c15/?text=+) [SendInBlue](https://www.sendinblue.com/): You'll need to manually create a project account. Default configuration on [Muffi Rails](https://github.com/abtion/muffi). Remember to set up DKIM.
 
 ![](https://via.placeholder.com/10/f03c15/?text=+) [SendGrid](https://sendgrid.com/) Countless issues when using the addon on Heroku. Accounts are banned on regular basis.
 
-![](https://via.placeholder.com/10/f03c15/?text=+) [MailGun](mailgun.com) Countless issues when using the addon on Heroku. Accounts are banned on regular basis.
+![](https://via.placeholder.com/10/f03c15/?text=+) [MailGun](https://mailgun.com) Countless issues when using the addon on Heroku. Accounts are banned on regular basis.
 
 ### Mail testing
 ![](https://via.placeholder.com/10/ffff00/?text=+) Use [mail-tester](https://www.mail-tester.com) to test mail setup.
