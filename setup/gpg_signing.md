@@ -9,14 +9,14 @@ Install gpg via homebrew: `brew install gpg`
 ## Create GPG Key
 
 Set up a GPG key for your GitHub account by following the Github guide:
-[Generating a new GPG key](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
+[Generating a new GPG key](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)
 
 Save your GPG signing key in 1Password.
 
 ## Adding the new GPG key to your GitHub account
 
 Add the GPG key to your GitHub account (This is step 14 from the "Generating a new GPG key" guide)
-[Adding the new GPG key](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-gpg-key-to-your-github-account)
+[Adding the new GPG key](https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-new-gpg-key-to-your-github-account)
 
 ## Configure git to default to signed commits
 

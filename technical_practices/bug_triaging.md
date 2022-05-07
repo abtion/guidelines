@@ -29,6 +29,6 @@ Code needs to be test-driven and written in pairs. This is the Abtion way and
 has proven to minimize bugs.
 
 ## Additional reading
-- [Bug Triage - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Helping_the_DOM_team/Bug_Triage)
+- [Triage process for MDN content bugs - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Processes/Content_bug_triage)
 - [Bug management/How to triage - MediaWiki](https://www.mediawiki.org/wiki/Bug_management/How_to_triage)
 - [Triaging Bugs - The Chromium Projects](http://www.chromium.org/getting-involved/bug-triage)
