@@ -28,7 +28,7 @@ Following a trunk-based development workflow means that some pre-integration ste
 - A pair always takes the first card from the backlog. The backlog is already prioritized.
 - A pair will pull from `main`* and make sure to be up-to-date with the latest changes.
 - A pair will work on the card until it is ready. Pair switches might occur during the process.
-- Every commit is [signed](https://github.com/abtion/guidelines/tree/main/gpg-signing), [Co-authored](https://github.blog/2018-01-29-commit-together-with-co-authors/), and has passed the `pre-commit` hooks.
+- Every commit is [signed](../setup/gpg_signing.md), [Co-authored](https://github.blog/2018-01-29-commit-together-with-co-authors/), and has passed the `pre-commit` hooks.
 - When the work is done, the pair pushes the changes. This will trigger the `pre-push` hooks and ensure the changes' validity.
 - Github Actions (or pragmatically-picked alternatives) are used for continuous integration.
 - We automatically deploy to production. We may use a test environment** which must always be synchronized with production with private information obfuscated for security. We may use feature flags for coordinating feature releases with the client.
@@ -39,7 +39,7 @@ Following a trunk-based development workflow means that some pre-integration ste
 - The developers have the responsibility to move the card to a "Ready for acceptance” column in Asana. This implies that they genuinely believe the card is ready. The card is assigned to the tester.
 - If the backlog runs out of tasks, developers will let the product owner know, and will work on technical debt until the product owner has prioritized feature work.
 
-\* `main` might have a different name depending on the project. We strive to use an [inclusive language](https://github.com/abtion/guidelines/blob/main/best-practices/inclusive-language.md)
+\* `main` might have a different name depending on the project. We strive to use an [inclusive language](../behaviour_and_protocol/inclusive_language.md)
 
 ** called staging in Heroku. Do not confuse with staging from git-flow.
 

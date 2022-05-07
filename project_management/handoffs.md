@@ -5,7 +5,7 @@
 ### Two weeks prior
 
 1. Write an email to the internal and the clients PMs to set a date and clarify any expectations around the handoff at the projects end.
-2. Be sure you have a complete [README](https://github.com/abtion/guidelines/blob/main/README.standard.md). Including:
+2. Be sure you have a complete [README](../templates/README.standard.md). Including:
     1. Any diagrams
     2. Introductions to noteable inclusions
     3. Known issues
@@ -46,7 +46,7 @@
 ### Two weeks prior
 
 1. Write an email to the internal and the clients PMs to set a date and clarify any expectations around the handoff at the projects end.
-2. Be sure you have a complete [README](https://github.com/abtion/guidelines/blob/main/README.standard.md). Including:
+2. Be sure you have a complete [README](../templates/README.standard.md). Including:
     1. Any diagrams
     2. Introductions to noteable inclusions
     3. Known Issues
