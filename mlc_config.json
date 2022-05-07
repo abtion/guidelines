@@ -1,0 +1,13 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https?://app.asana.com"
+    },
+    {
+      "pattern": "^https://github.com/abtion/gitmessage"
+    },
+    {
+      "pattern": "^https://abtion.io"
+    }
+  ]
+}
