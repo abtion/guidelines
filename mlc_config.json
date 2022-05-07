@@ -17,6 +17,9 @@
       "pattern": "^https://github.com/abtion/gitmessage"
     },
     {
+      "pattern": "^https://(www.)?linkedin.com"
+    },
+    {
       "pattern": "^https://abtion.io"
     }
   ]
