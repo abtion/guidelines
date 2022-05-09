@@ -1,1 +1,1 @@
-[Our (almost) weekly newsletter](https://abtion.io/)
+An archive of internal newsletters can be found [here](https://abtion.io/).
