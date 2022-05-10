@@ -78,9 +78,6 @@ There is also a possibility to get a health insurance for your family through ou
 ## Discounts
 Find all the discount codes in 1password under the vault 'Discounts for Abtioneers'
 
-### Halvkort
-With this card you get 50% discount in several places owned by Cocks&Cows. See the places on this link: [https://halvkort.dk/](https://halvkort.dk)
-
 ### SATS
 Get your sweat on with discount of 70 kr. on a membership with SATS. 
 
