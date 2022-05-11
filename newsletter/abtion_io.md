@@ -1,1 +1,0 @@
-An archive of internal newsletters can be found [here](https://abtion.io/).
