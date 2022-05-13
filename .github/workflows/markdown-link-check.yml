@@ -1,6 +1,7 @@
 name: Check broken links in markdown
 
 on:
+  push:
   # Triggers the workflow every Monday at 9AM
   schedule:
     - cron: "0 9 * * 1"
