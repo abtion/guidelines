@@ -20,10 +20,12 @@ Our rules of thumb:
 
 To make the traffic smooth please follow this order:
 
-  1. Make sure your holiday is OK with relevant managers/PM and ask for approval
-  2. After approval, write to Angelle on slack. She is our holiday traffic manager
-  3. Angelle will answer all your requests as fast as possible and book your request in Forecast
-  4. You register your planned vacation or day off in Harvest: > Abtion > Absence > Planned vacation > 7,5 hours.
+1.Check with your PM - they will let you know and book your vacation in forecast :forecast:
+If you for some reason have no PM in the given period, check with your manager or Angelle
+2.Create an out-of-office event in your calendar so we know you’re unavailable :away:
+For extra credit set your slack status to “On holiday”, clear it when you’re back.,
+3.Track the time in harvest as “Planned vacation” under “Vacation” BEFOREHAND :pray:
+Put 7,5h pr day - as always a week should amount to 30h
 
 👉🏻 Remember that you have to keep an eye on your remaining saved holiday-days yourself. [Borger.dk](https://privat.atp.dk/Ferieplanlaeggeren/borger) can give you a hand with planning your holiday. And if you have any questions, reach out to your manager or Angelle. 
 
