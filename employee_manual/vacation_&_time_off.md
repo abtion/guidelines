@@ -20,12 +20,11 @@ Our rules of thumb:
 
 To make the traffic smooth please follow this order:
 
-1.Check with your PM - they will let you know and book your vacation in forecast :forecast:
-If you for some reason have no PM in the given period, check with your manager or Angelle
-2.Create an out-of-office event in your calendar so we know you’re unavailable :away:
-For extra credit set your slack status to “On holiday”, clear it when you’re back.,
-3.Track the time in harvest as “Planned vacation” under “Vacation” BEFOREHAND :pray:
-Put 7,5h pr day - as always a week should amount to 30h
+ 1. Check with your PM - they will let you know and book your vacation in forecast. If you for some reason have no PM in the given period, check with your manager or Angelle
+
+ 2. Create an out-of-office event in your calendar so we know you’re unavailable. For extra credit set your slack status to “On holiday”, clear it when you’re back.
+
+ 3. Track the time in harvest as “Planned vacation” under “Vacation” BEFOREHAND. Put 7,5h pr day - as always a week should amount to 30h
 
 👉🏻 Remember that you have to keep an eye on your remaining saved holiday-days yourself. [Borger.dk](https://privat.atp.dk/Ferieplanlaeggeren/borger) can give you a hand with planning your holiday. And if you have any questions, reach out to your manager or Angelle. 
 
