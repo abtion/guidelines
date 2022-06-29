@@ -1,312 +1,307 @@
-# Abtion Dev Progression Framework
+# Software Engineer // Progression Framework
 
-This progression framework is a work in progress from dev leadership at Abtion. At a high level, a progression framework is a formal doc within a company that allows employees to advance their careers to higher levels of salary, responsibility, and authority. Once employees meet certain criteria, they are eligible to move into higher-level roles.
+The progression framework is a tool for the individual contributor to see where their responsibilities lie and what they should be focusing on in their current role.
+It gives an overview of a developer’s progression through their time in Abtion.
 
-Our goal with the ladder is to provide a clear path for professional development and to have clear expectations regarding skills and salary at each level. As much as possible, we want people to see and take advantage of opportunities to grow here. To that end, we see this as a bit of a two-way contract: what we will provide to you in terms of growth, and for you, what you'll take on in learning. Each level has an associated level of experience. We do not use years of experience as the main method to determine someone's level. However, we acknowledge that relevant experience has value. To the talented engineers starting the journey, it also sets expectations on how long it takes to grow.
+We know that there are as many combinations of skill sets as there are people; The framework is not meant to be a perfectly precise description of reality but is meant as a guideline for developers. 
 
-Please feel free to make PRs with suggestions. This is something that we welcome community feedback on!
+The framework is comprised of six roles:
+- Associate Software Engineer
+- Software Engineer
+- Seasoned Software Engineer
+- Senior Software Engineer
+- Lead Software Engineer
+- Principal Software Engineer
 
-Here are some examples of other progression frameworks:
+Each role contains descriptions of what is expected from an employee.
+When taking on a new role, all the descriptions from previous roles still apply. 
 
-[https://www.progression.fyi](https://www.progression.fyi)
+The descriptions are split into the following categories:
+### Scope
+The scope describes what part of a project’s life cycle the employee is expected to participate in or drive. 
+See an overview of the stages of a project and their drivers here:
 
-## High-Level Company Values
+[Project lifecycle - Roles and their responsibility](https://docs.google.com/spreadsheets/d/1_84C1k-YndoCBt02eW5swnwz0T0COSs1OgDHZSb5vLo)
 
-1. Bonded by Love for Product
-1. Continuous Delivery
-1. Customer Comes First
-1. Heavily Team Oriented
-1. High Employee Retention
-1. High-Quality Code Base
-1. Open Communication
-1. Pair-Programs
+### Good code
+In Abtion we believe that robust and maintainable code makes for future-proof systems for our clients.
+Therefore we focus on themes like readability, test coverage, and instant feedback.
+### Good colleague
+In Abtion we work closely in teams and across departments to share knowledge and ideas that can benefit everyone. 
 
-## Dev Values: Impactful, Simple, Test-Driven, Iterative, Communicative, Respectful, Skilled
+Therefore it is important for us that our employees show good colleagueship through respectful communication and constructive feedback.
+### Recognized as
+This will hold a selection of recognitions typically held by an employee within that role.
 
-### Level 1 - Associate Software Engineer
+Each role also has a section called _Additional reading_ with useful concepts.
 
-As an Associate Software Engineer, you demonstrate an ability to complete work on a task-level in one or multiple apps and an eagerness to learn and grow. You deliver working and well-tested code persistently, and you can identify when to reach out to more senior developers for guidance. Your colleagues recognize you for your clear growth mindset and your consistent focus on delivering business value.
+---
 
-Engineers usually spend around one year on this level.
+## Associate Software engineer
+_Developers usually spend 1 year in this role._
+### Scope 
+- You focus on the task at hand. 
+### Good code
+- You write simple code that is easy for others to understand.
 
-#### Impactful
+You write code that passes CI.
+### Good colleague
+- You care about your work.
 
-- [ ] Consistently complete work on a task-level within one or multiple apps.
+- You keep your peers updated on your situation. 
 
-#### Simple
+- You seek to improve your work.
 
-- [ ] Are working on naming variables and learning to extract methods.
+- You grow through pair programming with team members of various seniority.
+### Recognized as
 
-#### Test-driven
+- Someone who consistently completes work on a task-level.
 
-- [ ] Check that all tests pass before they merge into a shared branch.
-- [ ] Can understand where test expectations are not met and fix some with the help of more senior developers.
-- [ ] Can describe the testing pyramid and concepts around what makes a good test.
-- [ ] Write “good” test descriptions: use nesting and clear contexts/assertions.
+- Someone who delivers tested code.
 
-#### Iterative
+- Someone who proactively seeks to improve themselves and their work.
 
-- [ ] Understand red-green-refactor.
+- Someone who reaches out for help when appropriate. 
+### Additional reading
+- The Testing Pyramid
+- Red-green-refactor
+- Basic git concepts
+- Terminal
+- Linting
+- Basic data structures
+- APIs
+- eXtreme Programming concepts
 
-#### Communication
+---
 
-- [ ] Focus on building strong relationships with their team and direct manager.
-- [ ] Proactively reach out for help when struggling with a task.
-- [ ] Actively seek feedback to improve from colleagues and receive it well.
-- [ ] Update Asana.
-- [ ] Come prepared for meetings.
-- [ ] Use time tracking tools and vacation notifications.
+## Software engineer
+_Developers usually spend 2 years in this role._
+### Scope
+- You focus on the task and collaborate on the current feature.
 
-#### Respectful teammate
+- You help setup projects. 
+### Good code
+- You document your choices around your code.
 
-- [ ] Are on time for meetings.
-- [ ] Care about their work.
+- You deliver features by merging small incremental changes. 
 
-#### Technical skills
+- You write tests for your code. 
+### Good colleague
+- You deliver work that is relevant within the current milestone of a project.
 
-- [ ] Know about the three main sections of a Git project(working, staging, repository) as well as the most common commands(commit, pull, push).
-- [ ] Use a common linter such as rubocop.
-- [ ] Write code in at least one language.
-- [ ] Have broad knowledge of main CS + XP concepts.
+- You respect the client’s goals. 
 
-### Level 2 - Software Engineer
+- You give feedback on colleagues' work.
 
-As a Software Engineer, you reliably execute work and drive tasks in your area of expertise in collaboration with less experienced developers. You have an overview that allows you to always contextualize your work within the current milestone of a project, and you understand the strengths and weaknesses of different technologies. You use this understanding to your advantage when building new solutions for a client to provide business value faster. Product managers can confidently rely on you to identify unclear requirements and your ability to communicate promptly when issues arise.
+- You understand the benefits and drawbacks of your framework and tools of choice. 
 
-On average, engineers spend 2 years on this level.
+- You identify unclear requirements. 
 
-#### Impactful
+- You communicate promptly when issues arise. 
+### Recognized as 
+- Someone who consistently closes tasks in their area of expertise collaborating with less experienced developers. 
 
-- [ ] Consistently close tasks in their area of expertise collaborating with less experienced developers.
+- Someone who works within the limitations of the project scope. 
+### Additional reading
+- Acceptance testing
+- Test isolation vs test speed
+- Spike solutions
+- ABC metric
+- SQL
+- HTTP protocol and requests
+- Mocking and stubbing
 
-#### Simple
+---
 
-- [ ] Create simple methods / functions that most static code analysers would accept.
-- [ ] Make single-feature PRs.
+## Seasoned Software Engineer
+_Developers usually spend 3 years in this role._
+### Scope
+- You drive features. 
 
-#### Test-driven
+- You set up projects with additional tools, eg. CI, error monitoring, and infrastructure.
 
-- [ ] Start to write unit tests before code. They write acceptance tests.
-- [ ] Can write acceptance tests for existing code.
-- [ ] Refactor test code: They extract methods and break up long tests.
-- [ ] Use realistic data in tests.
-- [ ] Understand the tradeoff between test isolation and test speed.
-- [ ] Practice spiking if they don't know how to test something. Then set the spike aside once a general path is understood and write TDD from scratch.
+- You help with estimations. 
+### Good code
+- You understand and use different types of tests and testing concepts. 
 
-#### Iterative
+- You think long-term usability into your work. 
 
-- [ ] Deliver working code with each commit.
-- [ ] Write small, single-purpose commits.
-- [ ] Write descriptions about decisions and features made for each commit/PR.
+- You work test-driven.
+### Good colleague
+- You are able to prioritize tasks. 
 
-#### Communication
+- You can give a high-level overview of the project.
 
-- [ ] Understand and can provide a high-level overview of the current milestone of a project.
-- [ ] Identify unclear requirements and reach out to relevant stakeholders to clarify issues.
-- [ ] Reliably do what they say they will, and communicate promptly if an issue arises.
-- [ ] Host retros.
-- [ ] Can compose a PR and provide feedback on them.
-- [ ] Reliably track time on the appropriate category. They clarify with the relevant PM when needed and communicate with the team to ensure that time tracking is consistent.
+- You unblock the project. 
 
-#### Respectful teammate
+- You actively give feedback. 
 
-- [ ] Show respect for client goals,
-- [ ] Encourage their team to stay on a sustainable pace.
+- You enforce a culture of knowledge sharing, eg. through pair programming. 
+### Recognized as
+- Someone who shows ownership of the project and is comfortable across the stack. 
 
-#### Technical skills
+- Someone who’s a driving force during the entire project lifecycle. 
 
-- [ ] Understand where to place logic in their favorite framework.
-- [ ] Understand what differentiates their favorite language from others. They know what the language is useful for and when it is not the best option.
+- Someone who uses their technical knowledge to deliver business value.
 
-### Level 3 - Seasoned Software Engineer
+- Someone who can distinguish unimportant details from critical tasks that deliver value to the client. 
+### Additional reading
+- Design patterns
+- Trunk based development
+- Feature flags
+- Docker
+- Web app monitoring
+- Lean
 
-As a Seasoned Software Engineer, you display a maturity that permeates every aspect of your work. You can handle work independently with close to no guidance from seniors, and you proactively unblock juniors when necessary. Your expertise in two areas or more is clear to your team, and you understand how to navigate several layers of the technical stack with ease. Product managers recognize you for your ability to prioritize work and distinguish unimportant details from critical tasks that deliver value to the client.
+---
 
-Engineers spend around 3 years on this level.
+## Senior software engineer
+_Developers usually spend 4 years in this role._
+### Scope
+- You partner with product managers and designers to drive technical decisions based on the highest output for all parties.
 
-#### Impactful
+- You drive tasks from client research to client acceptance.
+### Good code
+- You understand how to balance technical, analytical, and product needs.
 
-- [ ] Drive tasks from internal meetings and park them nicely in internal acceptance.
-- [ ] Require minimal guidance from seniors and can help unblock other developers when necessary.
-- [ ] Distinguish between what work is relevant now, and what work can be tackled later.
-- [ ] Push tasks forward in lack of complete context. They work with uncertainty.
+- You reinforce a culture of testing.
 
-#### Simple
+- You leave codebases better than how you found them.
+### Good colleague
+- You share ownership of the entire project, including areas outside of the codebase.
 
-- [ ] Are capable of prioritizing tasks. They avoid getting caught up in unimportant details (bike-shedding) and focus on delivering value to the client.
+- You can give a detailed overview of the project.
 
-#### Test-driven
+- You reinforce a culture of knowledge sharing. 
 
-- [ ] Perform TDD over Test Last (TLD) nearly all the time.
-- [ ] Can start a project from scratch and set up testing frameworks.
-- [ ] Can mock HTTP requests and they understand where these tests will potentially fail.
-- [ ] Have integrated projects with CI.
-- [ ] Break systems into small testable units.
-- [ ] Can write tests at different levels (end to end, integration, unit).
-- [ ] Take edge cases into account.
-- [ ] Care about test speed. They seek to run the test suite in less than a minute.
-- [ ] Can implement parallelization but they know why that's a bandaid.
+- You build strong relationships with your client, team, manager, and department.
 
-#### Iterative
+- You help your team members grow through various means of feedback.
 
-- [ ] Work with red-green-refactor.
-- [ ] Use time management techniques.
-- [ ] Is comfortable with trunk-based development and use techniques such as feature flags.
+- You raise awareness of unsustainable pace within a team.
+### Recognized as
+- Someone who embraces big challenges and turns them into successes.
 
-#### Communication
+- Someone who can solve a bottleneck.
 
-- [ ] Understand and can provide a high-level overview of a project.
-- [ ] Consistently facilitate communication with project managers/product owners for one or multiple apps.
-- [ ] Are proficient with pair programming.
-- [ ] Can write user stories.
-- [ ] Introduce new members to the project.
-- [ ] Communicate with PMs when goals are unattainable.
+- An expert in at least one area of technology, eg. browser rendering or TDD.
 
-#### Respectful teammate
+- Someone who handles highly complex technical challenges across the entire stack. 
 
-- [ ] Have taught other developers to pair program.
-- [ ] Actively participate in feedback for team members.
-- [ ] Proactively seek out to unblock colleagues when they are struggling with a task including those that are outside their area of expertise.
+- Someone who has designed and built long-standing solutions.
 
-#### Technical skills
+- Someone who works with uncertainty.
 
-- [ ] Can write code in at least two technical areas (frontend, backend, digital infrastructure). They ensure the completion of the tasks in their two areas of expertise.
-- [ ] Can debug issues occurring across multiple levels of the stack.
+- Someone who produces quality code. 
 
-### Level 4 - Senior Software Engineer
+- Someone who makes others better through code reviews, documentation, technical guidance, mentoring, etc.
+### Additional reading
+- SOLID principles
+- FIRST principles
+- Testing of third-party integrations
+- Scalability
+- Integration design patterns
+- Docker, kubernetes and other cloud-hosting technologies
+- Performance testing
+- Creating a startup (references such as “The Lean Startup”)
+- Non-violent communication
 
-As a Senior Software Engineer, you consistently show an ability to handle highly complex technical challenges across multiple axes without guidance. Your technical decisions are always guided by data and based on the highest value for all relevant parties. Your contributions are based on several years of experience where you had the chance to see the long-term effects on solutions you've designed and built. Product managers can rely on you when estimating the scale of a larger product, and your track record of turning big challenges into successes is apparent to the entire organization.
+---
 
-Although relevant experience varies significantly, engineers have around 6 years of experience when reaching this level.
+## Lead Software Engineer
+### Scope
+- You take on a bigger role in researching and consulting projects.
 
-#### Impactful
+- You transform clients’ needs to a foundation for your team members to continue working on through conversations with the client.
 
-- [ ] Partner with project managers and designers to drive technical decisions based on the highest output for all parties' needs.
-- [ ] Drive tasks from client research to client acceptance.
-- [ ] Have a track record of embracing big challenges and turning them into successes.
+- You take part in discussions about development strategy. 
+### Good code
+- You architect systems that can handle many potential futures.
 
-#### Simple
+- You architect solutions that are easily maintained over time.
 
-- [ ] Have a long track of delivering value to the client, finding the right balance between maintenance work and delivering features.
-- [ ] Are recognized as someone who can solve a bottleneck when needed or reduce technical debt.
-- [ ] Consistently demonstrate an understanding of the tradeoffs between technical, analytical, and product needs and lead to solutions that take all of these needs into account.
+- You propose strategies around technical problems on your team.
 
-#### Test-driven
+- You set standards for your team. 
 
-- [ ] Have tested challenging parts of the codebase as third party integrations and SSO.
-- [ ] Use testing pain as a prompt to write better code.
-- [ ] Make use of stubbing and mocking/understands tradeoffs of hitting the DB.
-- [ ] Value and can speak to examples of high cohesion, low coupling.
-- [ ] Frequently work with other engineers to reinforce a culture of testing and TDD.
-- [ ] Identify tests that are hard to maintain and fix them proactively.
-- [ ] Write performance tests.
+- You foresee technical issues at the product stage. 
 
-#### Iterative
+- You make your technical decisions based on the business context.
+### Good colleague
+- You handle miscommunications before they become a problem. 
 
-#### Communication
+- You identify areas of improvement for the team. 
 
-- [ ] Understand and can provide a detailed overview of a project.
-- [ ] Focus on building strong relationships with their team, direct manager, and other seniors across the organization.
-- [ ] Align expectations on their team.
-- [ ] Are recognized by PMs as someone who keeps the Asana board relevant. Internally, they act as PMs when needed.
-- [ ] Have taught several developers to pair program.
+- You warn relevant stakeholders of potential issues. 
 
-#### Respectful teammate
+- You ensure collective product ownership so the team is not dependent on any team member.
+### Recognized as 
+- A helpful consultant that consistently delivers high-value solutions for real problems.
 
-- [ ] Make others better through code reviews, documentation, technical guidance, and mentoring.
-- [ ] Understand the difficulties that the team is going through and help how they can.
-- [ ] Respect the right of junior team members to own parts of the code.
+- Someone who knows how to transform a legacy system into a successful project.
 
-#### Technical skills
+- Someone who leads their team from initial client meeting to delivery. 
 
-- [ ] Demonstrate the ability to succeed in a wide range of complex situations across multiple axes: e.g., scale, uncertainty, interconnectedness.
-- [ ] Research and propose new technologies to the team(s).
-- [ ] Are known as a go-to expert in one area of technology: e.g. browser rendering or TDD.
+- A strong technical leader that proactively identifies and clarifies issues whether technical or business-related.
 
-### Level 5 - Lead Software Engineer
+- Someone who understands the broad architecture of the entire system and is capable of explaining the technical decisions taken by the team. 
 
-As a Lead Software Engineer, you demonstrate that you are able to lead your team from initial client meeting to delivery, and product managers trust you in assisting them on a day-to-day basis. Your team recognizes you as a strong technical leader that proactively identifies and clarifies issues whether technical or business-related, and you consistently deliver high-value solutions that are well-architected and can be easily maintained over time.
+- Someone who is sought out for technical guidance. 
 
-Highly experienced engineers form this level with a median of 10 years of experience in the group.
+- Someone who has turned around highly complex projects so that less experienced developers can collaborate on them.
+### Additional reading
+- Tech Leadership skills
+- How TDD influences code structure
+- Product Life Cycle
+- Techniques for dealing with uncertainty and ambiguity
+- Consulting techniques
 
-#### Impactful
+---
 
-- [ ] Are recognized as a helpful consultant that consistently delivers high-value solutions for real problems.
-- [ ] Review projects critically and ensure that they are divided into parts that can be solved in isolation most of the time.
-- [ ] Consistently show initiative and identify areas of improvements for themselves and the team.
+## Principal Software Engineer
+### Scope
+- You focus on shaping our upcoming projects from tooling to sales. 
 
-#### Simple
+- You focus on strategic decisions in the technical department.
 
-- [ ] Create architecture that enables many potential futures without knowing exactly what the future is.
-- [ ] Understand the broad architecture of the entire system and are capable of explaining the technical decisions taken by the team.
+- You focus on growing other developers. 
 
-#### Test-driven
+- You have significant ownership in areas such as tooling, scalability, security, processes, design.
+### Good code
+- You lay out strategies on legacy projects.
 
-- [ ] Write tests in multiple languages.
-- [ ] Can speak from experience on how TDD influences class design.
-- [ ] Are able to identify and be comfortable deleting tests that no longer add value.
-- [ ] Think about [F.I.R.S.T](https://tasdikrahman.me/2019/03/13/f-i-r-s-t-principles-of-testing/) tests.
+- You think sales into your decisions on strategy. 
 
-#### Iterative
+- Your technical decisions are based on the highest output value for the business.
 
-- [ ] Have guided IPMs for a long period of time. Internally, they are known as someone who drives projects.
+- You bring new working-methods that improve the company’s overall performance.
+### Good colleague
+- You collaborate with sales about high-level estimates and prioritization.
 
-#### Communication
+- You collaborate with sales on how to sell projects. 
 
-- [ ] Proactively ensure that the relevant stakeholders are informed if the team is running into issues.
-- [ ] Identify miscommunications and solve them before they become a problem.
-- [ ] Identify and propose strategies around technical problems affecting their team and communicate standards.
+- You focus on the growth of your team’s productivity and career.
 
-#### Respectful teammate
+- You provide executives high-level guidance on technical decisions when necessary.
 
-- [ ] Help dissolve tension when it arises.
-- [ ] Do not take "all" responsibilities. They let their teammates take the responsibilities they care about.
+- You mentor other engineers to reach their level (and pass them).
+### Recognized as
+- Someone who plays a key role in the technical direction of the company and has introduced positive changes across multiple teams.
 
-#### Technical skills
+- Someone who has solved bottlenecks in several projects throughout the years, making themselves replaceable after a planned period of time.
 
-- [ ] Have turned around highly complex projects so that less experienced developers can collaborate on them. They are recognized as someone who knows how to transform a legacy system into a successful project.
-- [ ] Are sought out for technical guidance.
-- [ ] Anticipate technical issues at a product level and work with design to avoid them.
+- Someone who has mentored several teams on how to reduce the complexity of projects, services, and processes to get more done with less work.
 
-### Level 6 - Principal Software Engineer
+- A technical leader with a cross-organizational mindset.
 
-As a Principal Software Engineer, you play a critical role in how engineering at Abtion operates, and have a significant ownership in areas such as tooling, scalability, security, processes, design etc. Throughout your long career at Abtion, you have established yourself as a technical leader with a cross-organizational mindset and a strong working relationship with other stakeholders in the company. Your technical prowess is clear, and you have driven impactful technical contributions consistently that set good examples for how products should be built.
+- Someone who excels at getting teams to focus on delivering high-impact value.
 
-#### Impactful
+- Someone who creates a plan to simplify complex apps that the team can implement. 
 
-- [ ] Play a key role in the technical direction of the company and have introduced positive changes across multiple teams.
-- [ ] Focus on the growth of their team's productivity and career.
+- Someone who has a long track record in the technical industry.
+### Additional reading
+- Security tests
+- Organizational leverage
+- Change management
+- How professional service firms operate and succeed
 
-#### Simple
-
-- [ ] Have solved bottlenecks in several projects throughout the years, making themselves replaceable after a planned period of time.
-- [ ] Have mentored several teams on how to reduce the complexity of projects, services, and processes to get more done with less work.
-- [ ] Excel at getting teams to focus on delivering high-impact value on the projects they mentor.
-
-#### Test-driven
-
-- [ ] Have succesfully laid out the test strategy on legacy projects. They have changed systems from unreliable to reliable.
-- [ ] Answer philosophical/economic questions like: was that test worth it for the business? Should e2e tests be run in multiple browsers if we support multiple browsers with the product? Why or why not?
-- [ ] Facilitate dialog around reduced costs of implementation or maintenance with a team.
-- [ ] Support PMs in explaining the long term benefits of testing on client projects.
-- [ ] Implement security tests.
-
-#### Iterative
-
-- [ ] Have brought several new working-methods that dramatically improve the overall company performance.
-
-#### Communication
-
-- [ ] Provide executives with high-level guidance on technical decisions when necessary.
-- [ ] Collaborate with a client and sales about high-level estimates and prioritization.
-- [ ] Collaborate with sales about high-level estimates and prioritization.
-- [ ] Have a long track record of creating a plan to simplify complex apps, that the team can implement.
-
-#### Respectful teammate
-
-- [ ] Mentor other engineers to reach their level (and pass them).
-
-#### Technical skills
-
-- [ ] Are recognized for their high-quality, impactful technical contributions.
-- [ ] Have a record of creating improvements in stability or performance for company-critical projects.
