@@ -315,7 +315,7 @@ _Developers usually spend 4 years in this role._
 
 - You provide executives high-level guidance on technical decisions when necessary.
 
-- You mentor other engineers to reach their level (and pass them).
+- You mentor other engineers to reach your level (and surpass it).
 
 ### Recognized as
 - Someone who plays a key role in the technical direction of the company and has introduced positive changes across multiple teams.
