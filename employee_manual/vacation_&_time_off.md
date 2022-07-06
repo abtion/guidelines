@@ -15,10 +15,8 @@ Our rules of thumb:
 - A single day off should be requested minimum 7 days in advance.
 - Vacation (several days in a row) should be requested minimum 3 weeks in advance, and can be rejected if the timing doesn’t allow it.
 - Vacation of 1-3 weeks should be requested a minimum of 8 weeks in advance, and can be rejected if the timing doesn’t allow it.
-- Please inform our traffic manager about your request by writing her on slack.
-- Change your slack status to 'off - vacation' so we can respect your time off
 
-To make the traffic smooth please follow this order:
+To make the planning smooth please follow this order:
 
  1. Check with your PM - they will let you know and book your vacation in forecast. If you for some reason have no PM in the given period, check with your manager or Angelle
 
@@ -26,7 +24,7 @@ To make the traffic smooth please follow this order:
 
  3. Track the time in harvest as “Planned vacation” under “Vacation” BEFOREHAND. Put 7,5h pr day - as always a week should amount to 30h
 
-👉🏻 Remember that you have to keep an eye on your remaining saved holiday-days yourself. [Borger.dk](https://privat.atp.dk/Ferieplanlaeggeren/borger) can give you a hand with planning your holiday. And if you have any questions, reach out to your manager or Angelle. 
+👉🏻 Remember that you have to keep an eye on your remaining saved holiday-days yourself. The amount of saved holidays are written on your payslip. And if you have any questions, reach out to your manager or Angelle. 
 
 ### Public paid holidays
 You can find them all in our Abtion calender. Just to list them out, here is an overview:
