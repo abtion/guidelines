@@ -34,10 +34,9 @@ To kickstart a foundation for a new project, follow this plan step by step:
 - create a group [clientname]@abtion.com
   - Invite team members
 - Correct the Group settings:
-  - Enable the Collaborative inbox
   - Enable 'Who can post' to ‘for anyone on the web’
-  - Enable shared labels to tag incoming emails from google group in your personal inbox
   - Add subject prefix [clientname]
+  - Enable 'Who can attach files' to ‘anyone on the web’
   
 ## 2. Create Vault in 1Password
 - create new Vault with [clientname]
