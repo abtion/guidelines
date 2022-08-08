@@ -47,6 +47,7 @@ To kickstart a foundation for a new project, follow this plan step by step:
 - create a new account [client@abtion.com]
 - User name [client]-abtion
 - add this user to 1Password
+- Unsunbscribe from email notifications 
   
 Login on Github as admin@abtion.com (requires admin role):
 - create a new team in Abtion named [clientname]
