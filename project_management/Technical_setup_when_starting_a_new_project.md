@@ -35,8 +35,9 @@ To kickstart a foundation for a new project, follow this plan step by step:
   - Invite team members
 - Correct the Group settings:
   - Enable 'Who can post' to ‘for anyone on the web’
-  - Add subject prefix [clientname]
   - Enable 'Who can attach files' to ‘anyone on the web’
+  - Add subject prefix [clientname]
+  - U[](url)ncheck the "Include the standard Groups footer" box
   
 ## 2. Create Vault in 1Password
 - create new Vault with [clientname]
