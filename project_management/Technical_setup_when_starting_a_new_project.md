@@ -72,16 +72,21 @@ Setup automerge github action
 
 ## *4. Heroku project setup (NOT relevant for all projects)
 - create a new account [clientname]@abtion.com
+- create a new team [clientname]
   - invite team members (as member)
   - invite admin@abtion (as admin)
 - add clients credit card (unless not possible, add Abtion's until the Client can take over)
 - Logged in on Github under [client@abtion.com] (In order to not make the connection sync with admin@abtion.com)
-  - Create new pipeline
+  - Create or transfer new pipeline*
+  - Creating the new pipeline (optional):
     1. Pipeline name: [clientname] 
     2. Pipeline owner: [clientname] team
     3. Connect to Github account. To find the repo, remember to select Abtion organization.
        NOTE: The pipeline should be connected to: abtion/[client name]-[project name] by [client]-abtion
        (Not through by adminabtion, as this wil break the connecting when handing over the project to the client)
+  - Transfer the new pipeline (optional):
+    1. Invite the owner of the pipeline to the new team (usually admin@abtion.com). Remember to accept the invite to the new team. Unfortunately, this may require access to admin@abtion.com
+    2. From the account that owns the pipeline, go to settings and transfer the pipeline to the new team.
   - activate automatic deploys after connecting the account on Heroku
 
 ## *4. Azure project setup (NOT relevant for all projects)
