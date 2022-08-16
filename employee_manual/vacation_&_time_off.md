@@ -49,7 +49,7 @@ We also demand you to take some days off. Some days can slightly vary year to ye
 ## Absence
 
 ### Illness
-When you are sick, you notify the project manager(s) you are currently working with before 9am on the first day of your absence. You are not required to give further notice before you are ready to return again. Change your slack status too 'off sick'. 
+When you are sick, notify your manager and the project team you are currently working with as soon as possible and no later than 9am on the first day of your absence. You are not required to give further notice before you are ready to return again. In the meantime set your Slack status to “Off sick”.
 
 ### Child’s first sick day
 In the event of an acute illness, one parent has the right to take time off work if their presence is absolutely necessary.
