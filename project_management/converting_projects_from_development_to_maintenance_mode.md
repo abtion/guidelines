@@ -14,7 +14,7 @@ If the project is active, we want team members to be notified. If the project is
 
 Do this by clicking Edit - Under users choose Client-Abtion user. Remove any other checkmark in the pop-up. If you are unsure which user is the correct one go to Settings - Users and look which user has the client@abtion mail.  
 
-4. Delete the other rules if there is more then the three above.
+Remember to Delete the other rules if there is more then the three above.
 
 ### Notify the Google Group using Sentry.
 
