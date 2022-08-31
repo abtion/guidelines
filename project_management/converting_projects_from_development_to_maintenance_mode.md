@@ -5,11 +5,16 @@
 If the project is active, we want team members to be notified. If the project is in maintenance mode, we want Application Service Asana board to be notified.
 
 ### Notify the Google Group using Rollbar.
-1. Setup Rollbar (if using Heroku, add it as an addon) using the team Heroku account created in step 4.
-2. Change the email alerts to notify only the team heroku account. Receive notifications on:
+1. Setup Rollbar (if using Heroku, add it as an addon) using the team Heroku account.
+2. In Rollbar go to - Projects in the left menubar - Click on the mail icon under integrations
+3. Change the email alerts to notify only the team heroku account. Receive notifications on:
    1. New item
    2. Item Reactivated
    3. Reopened item
+
+Do this by clicking Edit - Under users choose Client-Abtion user. Remove any other checkmark in the pop-up. If you are unsure which user is the correct one go to Settings - Users and look which user has the client@abtion mail.  
+
+4. Delete the other rules if there is more then the three above.
 
 ### Notify the Google Group using Sentry.
 
