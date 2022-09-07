@@ -17,5 +17,6 @@ Practices:
 
 ## Team over individual
 Practices:
+  - Collective product ownership
   - Pair program
   - Transparency
