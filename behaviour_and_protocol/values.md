@@ -9,11 +9,12 @@ Practices:
 Practices:
   - TDD
   - Quality code base
+  - Knowledge sharing
 
 ## Work-life balance
 Practices:
   - 4DWW
-  - Knowledge sharing
+  - Focus on carrer growth
 
 ## Team over individual
 Practices:
