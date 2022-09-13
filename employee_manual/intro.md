@@ -1,6 +1,6 @@
-# Values and intro
 
 ## Introduction
+
 Welcome to Abtion's employee manual. The purpose of the manual is to provide you with practical information about your workplace, and the company culture.
 
 Read it, because it is full of information. It lists out your benefits, tells you how to become a 100% Abtioneer and guides you through our initiatives.
@@ -11,15 +11,13 @@ Or just catch a fellow Abtioneer to ask your question, we are all more than happ
 
 Happy reading!
 
-## Critique care and code of conduct
-
-### Critique
+## Critique care
 
 As thinkers and doers, we will engage in group critiques from time to time. We believe it helps to improve and support our work, with the goal to inspire and motivate individuals and teamwork. When giving feedback, remember to critique the work and praise the person. Be clear and constructive in your direction, offering relevant ideas when possible. When receiving feedback, have an open mind, listen to the feedback and ask for more clarity when needed.
 
 - Have a look at [Behaviour and protocol](https://inside.abtion.com/behaviour_and_protocol/code_reviews.html) to get an idea of our Rule of Thumbs in regard to communication and feedback.
 
-### Conduct
+## Code of conduct
 
 Everyone at Abtion treats each other with the utmost respect, considering each other's privacy, space, beliefs and customs. Not only in our own team but also towards clients and partners outside Abtion. We provide a work environment free of discrimination and harassment, where all national origins, religions, ages, sexual orientations, disabilities or marital statuses are respected.
 
