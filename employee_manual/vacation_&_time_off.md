@@ -3,12 +3,12 @@
 ## Taking time off
 Don’t be shy and remember to use your vacation time! We believe it helps to motivate, inspire and refocus. 
 
-Abtion provides 25 vacation days per year. While only working 4 days a week, this actually holds 6 weeks of holiday per year, given that one only uses 4 vacation days for a full week of vacation. 
+Abtion provides 25 vacation days per year. While only working 4 days a week, this actually holds 6 weeks of vacation per year, given that one only uses 4 vacation days for a full week of vacation. 
 
-When you are employed with payment during vacation, you receive a holiday allowance of 1% of your salary. This is in addition to your regular salary. 
-All days and calculations are provided following the Danish Holiday Rights 'Dansk ferielov’. It is your own responsibility, to make sure you use all your holiday days before the new year starts and to check the entitled payments. 
+When you are employed with payment during vacation, you receive a vacation pay of 1% of your salary. This is in addition to your regular salary. 
+All days and calculations are provided following the Danish Vacation Law 'Ferieloven’. It is your own responsibility, to make sure you use all your vacation days before the new year starts and to check the entitled payments. 
 
-### Planning your holiday
+### Planning your vacation
 The sooner you notify us of your request, the higher the chance of appoval gets. Notify us as soon as possible, so we can do our best to make sure you can enjoy your desired time off.
 
 Our rules of thumb:
@@ -20,13 +20,17 @@ To make the planning smooth please follow this order:
 
  1. Check with your PM - they will let you know and book your vacation in forecast. If you for some reason have no PM in the given period, check with your manager or Angelle
 
- 2. Create an out-of-office event in your calendar so we know you’re unavailable. For extra credit set your slack status to “On holiday”, clear it when you’re back.
+ 2. Create an out-of-office event in your calendar so we know you’re unavailable. For extra credit set your slack status to “On vacatio”, clear it when you’re back.
 
  3. Track the time in harvest as “Planned vacation” under “Vacation” BEFOREHAND. Put 7,5h pr day - as always a week should amount to 30h
 
-👉🏻 Remember that you have to keep an eye on your remaining saved holiday-days yourself. The amount of saved holidays are written on your payslip. And if you have any questions, reach out to your manager or Angelle. 
+### Negative vacation days
 
-### Public paid holidays
+Having your salary reduced because you’ve spent more vacation than you’ve saved up is annoying. That’s why in Abtion you get to “borrow” upcoming vacation days. You can spend up to 5 vacation days more than you have saved up during the “vacation year” (Sep 1 - Aug 31). However, you will have to catch them up before the vacation year ends August 31, simply because it’s not legal to transfer “negative vacation days” from one vacation year to the next.
+
+👉🏻 Remember that you have to keep an eye on your remaining saved vacation days yourself. The amount of saved vacation days is written on your payslip. And if you have any questions, reach out to your manager or Angelle. 
+
+### Public holidays
 You can find them all in our Abtion calender. Just to list them out, here is an overview:
 
 - Nytårsdag / New years day (1st of january)
@@ -38,13 +42,13 @@ You can find them all in our Abtion calender. Just to list them out, here is an 
 - 2 pinsedag / Whit Monday
 - Jul / Christmas (25th and 26th of december)
  
-### Forced vacation days
-We also demand you to take some days off. Some days can slightly vary year to year, depending on which week day a public holiday falls. The Abtion calendar gives you the most accurate overview of all holidays and forced vacation days, so check the days there to be sure you are up to date. 
+### Mandatory vacation days
+We also demand you to take some days off. Some days can slightly vary year to year, depending on which week day a public holiday falls. The Abtion calendar gives you the most accurate overview of all holidays and mandatory vacation days, so check the days there to be sure you are up to date. 
 
 - The Friday after Kristi Himmelfart / Ascension Day
 - Week 29 and 30 
-- Week between Christmas and New Year ( + 24th of December + 31th of December )
-- First friday of the year (in order to follow our standard of 6 weeks holidays per year, 24 days per year, we force you to use 1 earned holiday day on this friday.) 
+- Week between Christmas and New Year (including 24th and 31st of December)
+- First friday of the year (in order to follow our standard of 6 weeks / 24 days per year)
  
 ## Absence
 
