@@ -28,6 +28,7 @@ This document serves as a guideline for facilitating team meetings in Abtion and
 - Do countdown for estimates so team members don’t influence each other.
 - Make sure the board reflects reality.
 - Go through columns of the board and move cards that are misplaced - what’s actually in progress and what’s blocked?
+- Update timeline if relevant.
 
 ## Specific for standup and show & tell
 - Have ready what is going to be displayed. Make sure that you are in a safe environment where you can create data. The data that is being shown should give a good overview of how the application will work in a production environment.
@@ -35,9 +36,10 @@ This document serves as a guideline for facilitating team meetings in Abtion and
 
 ## Specific for retro
 - Revisit actions from last time.
-- Set a limit for the time spent on writing cards and voting.
+- Set a limit for the time spent on writing cards and voting
+- Cap the time spent on discussing specific cards - create an action card for a seperate discussion if needed.
 - Make sure every action item has an assignee.
-- Post actions in slack.
+- When the meeting is over clear the Try and Keep columns and post actions from the Do column in slack.
 
 ## Feedback
 Feedback is important in order to become a better facilitator. Feel free to ask for it at any time, and let’s all make an effort to give good and constructive feedback to all facilitators.
