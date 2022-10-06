@@ -24,7 +24,7 @@ This document serves as a guideline for facilitating team meetings in Abtion and
 - Keep the ball rolling if conversations die out.
 - Sum up the discussion so far or ask follow-up questions.
 
-## Specific for IPM
+## Specific for planning meetings
 - Do countdown for estimates so team members don’t influence each other.
 - Make sure the board reflects reality.
 - Go through columns of the board and move cards that are misplaced - what’s actually in progress and what’s blocked?
