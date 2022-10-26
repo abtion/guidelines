@@ -1,23 +1,16 @@
-# Abtion values
+# Collective ownership
+Collective ownership gives control of the entire project to all team members. "Your part" is the product. Either it's a good product, or it is not. 
 
-## Solve real problems
-Practices:
-  - Focus on client value
-  - Simplicity
+## Collective vision
+- Open communication: No privileged information.
+- Cut the middle person. We put the team directly in front of the stakeholder.
+- Break knowledge silos. No one is "the expert" in an area.
 
-## Long-term-value focus
-Practices:
-  - TDD
-  - Quality code base
-  - Knowledge sharing
+## Collective accountability
+- Work end-to-end. We need to be able to impact as much of the project as possible.
+- T-shape profiles. We still have roles, and they know about areas surrounding their expertise.
+- Integrated Q&A. The team takes direct responsibility for the work they've created.
 
-## Work-life balance
-Practices:
-  - 4DWW
-  - Focus on carrer growth
-
-## Team over individual
-Practices:
-  - Collective product ownership
-  - Pair program
-  - Transparency
+## Collective contribution
+- Pairing. Teams create the
+- Simplicity. We want people to be able to chip in.
