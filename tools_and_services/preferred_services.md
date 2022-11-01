@@ -14,6 +14,7 @@ If there is a service in this category, but the team wants to use a different on
 
 ### Error management
 ![](https://via.placeholder.com/10/00c900/?text=+) [Rollbar](rollbar.com) In Heroku: use the addon. Default configuration on [Muffi Rails](https://github.com/abtion/muffi).
+
 ![](https://via.placeholder.com/10/ffff00/?text=+) [Sentry](sentry.io) In Heroku: use the addon.
 
 ### Mailing
