@@ -9,7 +9,7 @@ Collective ownership gives control of the entire project to all team members. "Y
 ## Collective accountability
 - Work end-to-end. We need to be able to impact as much of the project as possible.
 - T-shape profiles. We still have roles, and they know about areas surrounding their expertise.
-- Integrated Q&A. The team takes direct responsibility for the work they've created.
+- Integrated QA. The team takes direct responsibility for the work they've created.
 
 ## Collective contribution
 - Pairing. Team members work simultaneously on the same tasks.
