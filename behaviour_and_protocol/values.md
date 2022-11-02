@@ -1,3 +1,5 @@
+Values are pointless if not put into practice. Our values are reflected in the following behaviors.
+
 # Collective ownership
 Collective ownership gives control of the entire project to all team members. "Your part" is the product. Either it's a good product, or it is not. 
 
