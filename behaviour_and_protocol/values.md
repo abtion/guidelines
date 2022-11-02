@@ -12,5 +12,5 @@ Collective ownership gives control of the entire project to all team members. "Y
 - Integrated QA. The team takes direct responsibility for the work they've created.
 
 ## Collective contribution
-- Pairing. Team members work simultaneously on the same tasks.
+- Pair up! Team members work simultaneously on the same tasks.
 - Simplicity. We want people to be able to chip in.
