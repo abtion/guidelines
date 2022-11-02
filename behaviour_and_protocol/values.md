@@ -13,4 +13,4 @@ Collective ownership gives control of the entire project to all team members. "Y
 
 ## Collective contribution
 - Pair up! Team members work simultaneously on the same tasks.
-- Simplicity. We want people to be able to chip in.
+- Keep it simple. We want people to be able to pitch in.
