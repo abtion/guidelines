@@ -2,7 +2,7 @@
 Collective ownership gives control of the entire project to all team members. "Your part" is the product. Either it's a good product, or it is not. 
 
 ## Collective vision
-- Open communication: No privileged information.
+- Open communication. No privileged information.
 - Cut the middle person. We put the team directly in front of the stakeholder.
 - Break knowledge silos. No one is "the expert" in an area.
 
