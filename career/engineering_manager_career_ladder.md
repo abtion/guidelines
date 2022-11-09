@@ -29,9 +29,9 @@ engineering management meetings.
 Any feedback on this career ladder is appreciated, and we encourage that you
 make pull requests with suggestions for improvements.
 
-## Level 3: Associate Engineering Manager
+## Level 3: Engineering Manager
 
-**Time expectation**: Associate Engineering Managers are expected to use about
+**Time expectation**: Engineering Managers are expected to use about
 20 percent of their time (~5.5 hours/week) on non-billable/EM-related tasks. The
 remaining time will be spent on development or other activities related to
 client projects.
@@ -87,9 +87,9 @@ client projects.
 - [ ] Drives and organizes the hiring/interview process in collaboration
       with the Executive Assistant.
 
-## Level 4: Engineering Manager
+## Level 4: Senior Engineering Manager
 
-**Time expectation**: Engineering Managers are expected to use about 30 percent
+**Time expectation**: Senior Engineering Managers are expected to use about 30 percent
 of their time (~8 hours/week) on non-billable/EM-related tasks. The remaining
 time will be spent on development or other activities related to client
 projects.
@@ -122,7 +122,7 @@ projects.
 - [ ] Uses their experience to identify headcount needs when planning new
       projects.
 
-## Level 5: Engineering Manager
+## Level 5: Senior Engineering Manager
 
 **Time expectation**: Engineering Managers are expected to use about 40 percent
 of their time (~10 hours/week) on non-billable/EM-related tasks. The remaining
