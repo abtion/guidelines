@@ -15,7 +15,7 @@ If there is a service in this category, but the team wants to use a different on
 ### Error management
 ![](https://via.placeholder.com/10/00c900/?text=+) [Rollbar](rollbar.com) In Heroku: use the addon. Default configuration on [Muffi Rails](https://github.com/abtion/muffi).
 
-![](https://via.placeholder.com/10/ffff00/?text=+) [Sentry](sentry.io) In Heroku: use the addon.
+![](https://via.placeholder.com/10/f03c15/?text=+) [Sentry](sentry.io) In Heroku: use the addon. Avoid on small projects as it is cumbersome to set up to notify in Application Service when the project goes into maintenance.
 
 ### Mailing
 ![](https://via.placeholder.com/10/f03c15/?text=+) [SendInBlue](https://www.sendinblue.com/): You'll need to manually create a project account. Default configuration on [Muffi Rails](https://github.com/abtion/muffi). Remember to set up DKIM.
