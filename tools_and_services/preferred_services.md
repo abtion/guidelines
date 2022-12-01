@@ -9,6 +9,9 @@ If there is a service in this category, but the team wants to use a different on
 - ![](https://via.placeholder.com/10/f03c15/?text=+) Red list: The services in this list have been used or analyzed, and they do not live up to Abtion standard. A team must request permission from the Principal Engineer or CTO before using this tool on a production system.
 
 ## Evaluated services
+### DNS management
+![](https://via.placeholder.com/10/00c900/?text=+) [Cloudflare](https://www.cloudflare.com/) Use [dns-configuration](https://github.com/abtion/dns-configuration) to manage the configuration.
+
 ### Sending and receiving SMS
 ![](https://via.placeholder.com/10/00c900/?text=+) [InMobile](https://www.inmobile.com/)
 
