@@ -64,13 +64,4 @@ The absence is of short duration, 1st day of illness, until you have been able t
 In any case, it is important that you notify your employer as soon as possible before you should have arrived at work.
 
 ### Loss
-In case of loss Abtion supports your absence and allows you to stay home as long as needed with full salary. This concerns closely related family members (children, parents, siblings or partner). In other cases your absence will be deducted from salary or vacation days. 
-
-### Parental leave
-In Denmark you have the right to take maternity and paternity leave at work. At Abtion you do too.  Both mothers and fathers can leave for childbirth following the Danish rules of parental leave, “Barselsloven”.
-
-Abtion gives you 14 weeks of leave with a full salary up to max. 40.000 kr. per month.
-
-This is a huge jump for us, and we are happy it is possible. But in order to make it sustainable for us, it is also a term that Abtion can get the normal refund from the government and barsel.dk. So be aware, your partner might have used this initially.
-
-You still have the right to leave for a longer period of time, but without salary. You might even still have the right to get some payment from the authorities in an additional period of time.
+In case of loss Abtion supports your absence and allows you to stay home as long as needed with full salary. This concerns closely related family members (children, parents, siblings or partner). In other cases your absence will be deducted from salary or vacation days.
