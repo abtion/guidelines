@@ -18,7 +18,7 @@ Should you wish to be on leave for a longer period than the 11 or 15 weeks, you 
 
 This policy replaces all previous policies and agreements in current employment contracts.
 
-More info here: [Danish](https://www.borger.dk/familie-og-boern/barsel-oversigt / [English](https://lifeindenmark.borger.dk/working/work-rights/leave-of-absence/maternity-and-parental-leave#)
+More info here: [Danish](https://www.borger.dk/familie-og-boern/barsel-oversigt) / [English](https://lifeindenmark.borger.dk/working/work-rights/leave-of-absence/maternity-and-parental-leave#)
 
 Details about the new regulations can be found here: [Danish](https://bm.dk/arbejdsomraader/aktuelle-fokusomraader/ny-orlovsmodel-gaelder-for-boern-foedt-fra-2-august-2022/)
 
