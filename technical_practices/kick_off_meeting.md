@@ -32,14 +32,14 @@ Development Kickoff Agenda - Fraxx & Abtion
 - Since last time
 - New faces around the table
 - “What have we been up to” (Abtion)
-- Any updates from Fraxx? (HV & CJ)
+- Any updates from Fraxx? (Client)
 
 - Identity design
   - First take on concept, look and feel (Abtion)
 
 
 - Development kick-off
-  - User stories (All, facilitated by Simone)
+  - User stories (All, facilitated by PM)
   - Shaping MVP
   - Prioritizing features
   - Identify mini-releases
@@ -52,7 +52,7 @@ Development Kickoff Agenda - Fraxx & Abtion
   - Mails
 
 
-- Create and sign off on GDPR expectations (Simone)
+- Create and sign off on GDPR expectations (PM)
   - What data will we persist and how long? 
   - How will data be exported or deleted?
   - SLA / Maintenance in the future 
