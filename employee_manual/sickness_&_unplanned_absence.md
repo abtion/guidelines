@@ -1,4 +1,4 @@
-# Sickness and unplanned absence
+# Sickness & unplanned absence
 
 ## Sickness
 When you are sick, notify your manager and the project team you are currently working with as soon as possible and no later than 9am on the first day of your absence. You are not required to give further notice before you are ready to return again. In the meantime set your Slack status to “Off sick”.
