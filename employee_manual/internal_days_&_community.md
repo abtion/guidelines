@@ -26,10 +26,6 @@ We are proud of our communinity as we are fully aware that they are a big part o
 There are no rules, so feel free to think out of the box and don't hesitate to take initiative. We all love it! 
 
 
-
-.... Still hesitating? That is okay, just reach out to Angelle and have a chat with her :)
-
-
 ### Channels on slack
 Don't know to get started? Join the initiative on slack and add yourself to our channels on slack, #abventure, #cultureers, #bouldering! That is a very good start and source of inspiration for activities and other social events. 
 
