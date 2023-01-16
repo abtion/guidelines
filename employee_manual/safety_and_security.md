@@ -16,7 +16,7 @@ The policy establishes the minimum baseline security and requirements for all Ab
 
 Please read our Security Policy and inplementation guides in our [Information security folder](https://drive.google.com/drive/u/0/folders/1HpCJWB6lXyG-UYViyLBQDE9cMuG9y92H) 
 
-After inplementing the required steps, you sign the appendix digitially. Any troubles or questions, or do you need a buddy to help you through the steps, don't worry and just ask Angelle or Rune P. or anyone else in the office to help you out. 
+After inplementing the required steps, you sign the appendix digitially. Any troubles or questions, or do you need a buddy to help you through the steps, don't worry and just ask Rune P. or anyone else in the office to help you out. 
 
 ## Headquarters security
 
