@@ -57,7 +57,7 @@ Another important consuming product next to food, is coffee. At Abtion we love g
 When being a 100% Abtioneer (After 3 months), you become a member of our pension and 'life insurance' plan with Sampension. When being a part of the plan, you will be contacted by Sampension to arrange a counselling meeting. During this meeting you will be introduced to the benefits Sampension automatically offers as part of Abtion's agreement. In addition you get an offer to adapt your pension plan to your own preferences. 
 
 Your onboarding starts after Sampension has received your first payment. This payment has a standard of 8%, 6% by you and 2% by Abtion. 
-All you have to do is sit back and relax and wait for a phone call or email from Sampension. Do you have any questions in the meantime? Angelle knows all the answers. 
+All you have to do is sit back and relax and wait for a phone call or email from Sampension.
 
 Log in to sampension.dk and get a hold on your numbers and coverages. Here you see all your savings and the amount of coverage by illness and loss. 
 
