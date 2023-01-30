@@ -6,12 +6,12 @@ It gives an overview of a developer’s progression through their time in Abtion
 We know that there are as many combinations of skill sets as there are people; The framework is not meant to be a perfectly precise description of reality but is meant as a guideline for developers. 
 
 The framework is comprised of six roles:
-- Associate Software Engineer
-- Software Engineer
-- Seasoned Software Engineer
-- Senior Software Engineer
-- Lead Software Engineer
-- Principal Software Engineer
+- [Associate Software Engineer](#associate-software-engineer)
+- [Software Engineer](#software-engineer)
+- [Seasoned Software Engineer](#seasoned-software-engineer)
+- [Senior Software Engineer](#senior-software-engineer)
+- [Lead Software Engineer](#lead-software-engineer)
+- [Principal Software Engineer](#principal-software-engineer)
 
 Each role contains descriptions of what is expected from an employee.
 When taking on a new role, all the descriptions from previous roles still apply. 
