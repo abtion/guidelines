@@ -30,4 +30,9 @@ There are no rules, so feel free to think out of the box and don't hesitate to t
 Don't know to get started? Join the initiative on slack and add yourself to our channels on slack, #abventure, #cultureers, #bouldering! That is a very good start and source of inspiration for activities and other social events. 
 
 
+## Abtion after hours hydration initiative
+Socializing with your colleagues Thursday after work is a cause worth supporting :v:
 
+Two things that are good to know in that regard:
+- At the office: Drinks, beers and sodas for consumption at the office are always sponsored - we’re usually well-stocked, but reach out to Alberte or Dafna, if you’re missing anything specific
+- Outside the office: When 3 or more Abtioneers get together for a Thursday drink outside the office, the first round is on Abtion - this goes whether you have a Pleo card or not, so feel free to send a mobilepay request to Dafna when needed (just remember to text her a picture of the receipt)
