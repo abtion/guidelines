@@ -2,46 +2,82 @@
 ###### Or Ab-*stack*-tion!  🤦‍♂️
 ![abtion image](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-
 In Abtion we strive for the easiest and most efficient workflow.
 This document is thought of as being a resource we can turn to if we get in doubt about how we deal with managing certain stuff, such as CI/CD.
 Also, to make it easier to on-board new employees.
 
+## Programming languages
 
-## Frontend
-- [React](https://reactjs.org/)
+- JavaScript (TypeScript)
+- Ruby
+- C#
+
+## Managing DBs and runtimes
+- [asdf](https://asdf-vm.com/) to easily install the required runtimes for most of our projects
+- [docker-compose](https://docs.docker.com/compose/) to easily get the DBs started - using the right versions
+
+Dotnet has it's own built-in sdk manager.
+
+## Frameworks
+
+### Web apps
+
+- [Ruby on Rails](https://rubyonrails.org/) using our [rails template](https://github.com/abtion/muffi)
+- [.NET](https://dotnet.microsoft.com/en-us/) using our [.NET template](https://github.com/abtion/muffi.net)
+
+### Websites
+- [Strapi](https://strapi.io/) as CMS
+- [Next.js](nextjs.org/) as frontend (with or without CMS)
+- [Wordpress](https://wordpress.com/)*
+
+\* Wordpress has it's own section further down the page as it's a whole separate ecosystem
+
+### Mobile apps
 - [React Native](https://reactnative.dev/)
 
-#### Testing
-- [Jest](https://jestjs.io/)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+## Tooling
 
-#### CI
+### Hosting
+- PaaS (Platform as a Service)
+  - [heroku](https://heroku.com)
+  - [scalingo](https://scalingo.com/)
+- Storage
+  - [Amazon S3](https://aws.amazon.com/s3/)
+  - [Scaleway Object Storage](https://www.scaleway.com/en/object-storage/)
+
+### CI
 - [GitHub Actions](https://github.com/features/actions)
 
-#### CD
-- [Heroku](https://heroku.com/)
+### CD
+- Through the chosen PaaS (heroku / scalingo)
+- Or github actions
 
-#### Monitoring
-- [Rollbar](https://elements.heroku.com/addons/rollbar): Error-tracking as an add-on for Heroku
-- [Librato](https://elements.heroku.com/addons/librato): Platform monitoring as an add-on for Heroku
+### Monitoring
+- [Rollbar](https://elements.heroku.com/addons/rollbar)
+- [Librato](https://elements.heroku.com/addons/librato)
+- [Papertrail](https://www.papertrail.com/)
 
-## Backend
-- [Ruby on Rails](https://rubyonrails.org/) with the [Muffi template](https://github.com/abtion/muffi)
-- [.NET](https://dotnet.microsoft.com/en-us/) with the [MuffiNet template](https://github.com/abtion/muffi.net)
+### Emails
+- [Sendinblue](https://www.sendinblue.com/)
 
-#### Database
-- [PostgreSQL](https://www.postgresql.org/)
+### Testing
+- [Jest](https://jestjs.io/) for JavaScript/TypeScript
+- [PlayWright](https://playwright.dev/) for JavaScript/TypeScript E2E
+- [RSpec](https://rspec.info/) for Ruby
+- [xUnit](https://xunit.net/) for C#
 
-#### CI
-- [GitHub Actions](https://github.com/features/actions)
+### Frontend
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [SASS](https://sass-lang.com/)
+- [BEM](https://getbem.com/)
+- [Muffibook](https://muffibook.abtion.com/) (our component library using all of the above)
 
-#### CD
-- [Heroku](https://heroku.com/)
-
-#### Preferred Heroku Add-ons
-— [Rollbar](https://elements.heroku.com/addons/rollbar)
-— [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql)
+### Databases
+- [postgresql](https://www.postgresql.org/)
+- [redis](https://redis.io/)
+- [MS SQL Server](https://www.microsoft.com/en-us/sql-server/) only for .NET
+- [MySQL](https://www.mysql.com/) only for WordPress
 
 ## WordPress
 
@@ -66,8 +102,6 @@ https://kinsta.com/
 #### ManageWP
 Overview, backup and updating of existing websites
 https://managewp.com/
-
-
 
 ### Plugins
 
