@@ -30,7 +30,7 @@ Also, to make it easier to on-board new employees.
 - [Next.js](nextjs.org/) as frontend (with or without CMS)
 - [WordPress](https://wordpress.com/)*
 
-\* Wordpress has it's own section further down the page as it's a whole separate ecosystem
+\* WordPress has its own section further down the page as it's a whole separate ecosystem
 
 ### Mobile apps
 - [React Native](https://reactnative.dev/)
