@@ -22,7 +22,7 @@ Also, to make it easier to on-board new employees.
 
 ### Web apps
 
-- [Ruby on Rails](https://rubyonrails.org/) using our [rails template](https://github.com/abtion/muffi)
+- [Ruby on Rails](https://rubyonrails.org/) using our [Rails template](https://github.com/abtion/muffi)
 - [.NET](https://dotnet.microsoft.com/en-us/) using our [.NET template](https://github.com/abtion/muffi.net)
 
 ### Websites
