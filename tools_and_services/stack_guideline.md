@@ -28,7 +28,7 @@ Also, to make it easier to on-board new employees.
 ### Websites
 - [Strapi](https://strapi.io/) as CMS
 - [Next.js](nextjs.org/) as frontend (with or without CMS)
-- [Wordpress](https://wordpress.com/)*
+- [WordPress](https://wordpress.com/)*
 
 \* Wordpress has it's own section further down the page as it's a whole separate ecosystem
 
