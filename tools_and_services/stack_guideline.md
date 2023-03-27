@@ -62,7 +62,7 @@ Also, to make it easier to on-board new employees.
 
 ### Testing
 - [Jest](https://jestjs.io/) for JavaScript/TypeScript
-- [PlayWright](https://playwright.dev/) for JavaScript/TypeScript E2E
+- [Playwright](https://playwright.dev/) for JavaScript/TypeScript E2E
 - [RSpec](https://rspec.info/) for Ruby
 - [xUnit](https://xunit.net/) for C#
 
