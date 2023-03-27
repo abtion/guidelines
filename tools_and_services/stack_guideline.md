@@ -50,7 +50,7 @@ Also, to make it easier to on-board new employees.
 
 ### CD
 - Through the chosen PaaS (heroku / scalingo)
-- Or github actions
+- Or GitHub Actions
 
 ### Monitoring
 - [Rollbar](https://elements.heroku.com/addons/rollbar)
