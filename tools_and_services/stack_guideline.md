@@ -16,7 +16,7 @@ Also, to make it easier to on-board new employees.
 - [asdf](https://asdf-vm.com/) to easily install the required runtimes for most of our projects
 - [docker-compose](https://docs.docker.com/compose/) to easily get the DBs started - using the right versions
 
-Dotnet has it's own built-in sdk manager.
+.NET has its own built-in SDK manager.
 
 ## Frameworks
 
