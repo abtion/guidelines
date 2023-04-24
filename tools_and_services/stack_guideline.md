@@ -40,10 +40,10 @@ Also, to make it easier to on-board new employees.
 ### Hosting
 - PaaS (Platform as a Service)
   - [heroku](https://heroku.com)
-  - [scalingo](https://scalingo.com/)
+  - [scalingo](https://scalingo.com/) (European alternative)
 - Storage
   - [Amazon S3](https://aws.amazon.com/s3/)
-  - [Scaleway Object Storage](https://www.scaleway.com/en/object-storage/)
+  - [Scaleway Object Storage](https://www.scaleway.com/en/object-storage/) (European alternative)
 
 ### CI
 - [GitHub Actions](https://github.com/features/actions)
