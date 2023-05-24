@@ -1,3 +1,3 @@
 # AbtionGPT
 
-<iframe src="http://localhost:3001" style="width:100%;height:100vh;"> </iframe>
+<iframe src="https://abtion-gpt.osc-fr1.scalingo.io/" style="width:100%;height:100vh;"> </iframe>
