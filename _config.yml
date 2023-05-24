@@ -4,6 +4,9 @@ remote_theme: abtion/github-pages-theme
 plugins:
   - jekyll-seo-tag
 
+# Used in the app
+abtion_gpt_url: "https://abtion-gpt.osc-fr1.scalingo.io/"
+
 # SEO
 title: Abtion guidelines
 tagline: Abtion guidelines are extracted from real problems encountered and solutions.
