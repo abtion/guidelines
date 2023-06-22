@@ -56,7 +56,7 @@
     }
 </style>
 
-<div class="chat">
+<div id="GPTChat" class="chat">
     <div class="chat__relative">
         <button id="GPTiframeOpen" class="chat__toggle chat__toggle--open"></button>
         <button id="GPTiframeClose" class="chat__toggle chat__toggle--close chat__toggle--hidden"></button>
@@ -70,44 +70,55 @@
 
 <script>
     (function () {
+        const payload = {
+            open: false,
+            transitionDuration: 300
+        }
+
         addEventListener("DOMContentLoaded", function () {
+            const openButton = document.getElementById("GPTiframeOpen");
+            const closeButton = document.getElementById("GPTiframeClose");
+
+            openButton.addEventListener("click", open);
+            closeButton.addEventListener("click", close);
+            document.body.addEventListener("mousedown", handleClickOutside);
+        });
+
+        function open() {
             const iframe = document.getElementById("GPTiframe");
             const openButton = document.getElementById("GPTiframeOpen");
             const closeButton = document.getElementById("GPTiframeClose");
 
-            const payload = {
-                open: false,
-                transitionDuration: 300
-            }
-
-            openButton.addEventListener("click", () => {
-                open(iframe, openButton, closeButton, payload)
-            });
-            closeButton.addEventListener("click", () => {
-                close(iframe, openButton, closeButton, payload)
-            });
-        });
-
-        function open(iframe, openButton, closeButton, payload) {
-            iframe.contentWindow.postMessage(
-                { ...payload, open: true },
-                "*"
-            );
+            payload.open = true;
+            iframe.contentWindow.postMessage(payload, "*");
+            
             iframe.classList.add("chat__iframe--open");
             openButton.classList.add("chat__toggle--hidden");
             closeButton.classList.remove("chat__toggle--hidden");
         }
 
-        function close(iframe, openButton, closeButton, payload) {
-            iframe.contentWindow.postMessage(
-                { ...payload, open: false },
-                "*"
-            );
+        function close() {
+            const iframe = document.getElementById("GPTiframe");
+            const openButton = document.getElementById("GPTiframeOpen");
+            const closeButton = document.getElementById("GPTiframeClose");
+
+            payload.open = false;
+            iframe.contentWindow.postMessage(payload, "*");
+
             setTimeout(() => {
                 iframe.classList.remove("chat__iframe--open");
                 openButton.classList.remove("chat__toggle--hidden");
                 closeButton.classList.add("chat__toggle--hidden");
             }, payload.transitionDuration);
+        }
+
+        function handleClickOutside(event) {
+            if (!payload.open) return;
+
+            const targetElement = document.getElementById("GPTChat");
+            if (targetElement && !targetElement.contains(event.target)) {
+                close();
+            }
         }
     })();
 </script>
