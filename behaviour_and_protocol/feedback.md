@@ -52,13 +52,17 @@ This document tries to describe what feedback is, how to give it, and when to gi
   - [Radical Candor](#radical-candor)
     - [Care Personally](#care-personally)
     - [Challenge Directly](#challenge-directly)
+    - [The four quadrants](#the-four-quadrants)
+      - [Ruinous Empathy](#ruinous-empathy)
+      - [Obnoxious Aggression](#obnoxious-aggression)
+      - [Manipulative Insincerity](#manipulative-insincerity)
     - [The matrix](#the-matrix)
   - [Resources](#resources)
 
 
 ## Types of feedback
 
-Feedback is often divided in to three categories:
+Feedback is often divided into three categories:
 - Appreciation: Positive feedback recognizing a person's effort or achievement.
 - Coaching: Constructive feedback that helps a person improve.
 - Evaluation: Constructive feedback that is held up against a set of guidelines or a goal. E.g., for a performance review.
@@ -295,6 +299,17 @@ The "Care Personally" axis is about how much you care about the person you're gi
 
 ### Challenge Directly
 The "Challenge Directly" axis is about how direct you are when giving feedback. It's about how willing you are to give feedback that might be hard to hear.
+
+### The four quadrants
+Here's the description of three of the four quadrants from [Radical Candor](https://www.radicalcandor.com/our-approach/):
+#### Ruinous Empathy
+Ruinous Empathy is what happens when you want to spare someone’s short-term feelings, so you don’t tell them something they need to know. You Care Personally, but fail to Challenge Directly. It’s praise that isn’t specific enough to help the person understand what was good, or criticism that is sugar-coated and unclear. Or simply silence. Ruinous Empathy may feel nice or safe, but is ultimately unhelpful and even damaging. This is a feedback fail.
+
+#### Obnoxious Aggression
+Obnoxious Aggression, also called brutal honesty or front stabbing, is what happens when you challenge someone directly, but don’t show you care about them personally. It’s praise that doesn’t feel sincere or criticism and feedback that isn’t delivered kindly.
+
+#### Manipulative Insincerity
+Manipulative Insincerity — backstabbing, political or passive-aggressive behavior — is what happens when you neither Care Personally nor Challenge Directly. It’s praise that is insincere, flattery to a person’s face and harsh criticism behind their back. Often it’s a self-protective reaction to Obnoxious Aggression. This is the worst kind of feedback fail.
 
 ### The matrix
 ![Radical Candor Matrix](./radical-candor-matrix.png)
