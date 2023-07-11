@@ -1,6 +1,6 @@
 # Feedback
 
-This document tries to describe what feedback is, how to give it, and when to give it in an Abtion context.
+This document tries to describe what feedback is, how to give it, and when to give it - all in an Abtion context.
 
 - [Feedback](#feedback)
   - [Types of feedback](#types-of-feedback)
@@ -67,7 +67,7 @@ Feedback is often divided in to three categories:
 ### Before giving feedback
 1. Announce that you want to give feedback.
   - Prepare the receiver by getting a "micro-yes" from them. E.g., by asking "Can I give you some feedback?"
-  - It can help the receiver to know what kind of feedback you want to give. E.g., "I want to give you some feedback on our recent meeting."
+  - It can be helpful for the receiver to know the context of your feedback. For instance, you could say, "I want to give you some feedback on our recent meeting."
   - Think about using another word than feedback. Words like "input", "advice", "tip", "trick", or "suggestion" can be less loaded.
 2. Give feedback for them, not for you.
   - Make sure that the feedback is actionable for the receiver. If it's not actionable, it's not feedback.
@@ -76,7 +76,7 @@ Feedback is often divided in to three categories:
 3. Think about the power dynamics between you and the receiver.
   - If you’re the senior in a scenario, it is especially important to think about how to word the feedback. What was intended to be constructive, can easily sound like an attack.
 4. Schedule feedback sessions.
-  - If you have a hard time giving feedback, schedule feedback sessions with your team. This can be a great way to get into the habit of giving feedback.
+  - If you have a hard time giving feedback, schedule feedback sessions with your team. This can be a great way to get in the habit of giving feedback.
 5. Give it timely.
   - Feedback is best given as soon as possible after the event or situation.
   - A rule of thumb is to give feedback within 24 hours of the event or situation, and at least within a week.
@@ -84,16 +84,16 @@ Feedback is often divided in to three categories:
 ### When giving feedback
 1. Follow the [FACTS model](#facts-model).
 2. Remember to give positive feedback as well.
-  - Feedback does not always have to be negative. It can be just as important to give positive feedback.
+  - Feedback does not always have to be negative. Positive feedback is also important.
   - Giving positive feedback can be a great way to build trust and strengthen relationships.
 3. Avoid over-praising.
   - Over-praising can be just as bad as not giving any feedback at all. It can make the receiver feel like you’re not being genuine.
 4. Avoid aggressive language.
   - Avoid using absolute words like "always" and "never". There is usually a more descriptive word.
-  - Curse words makes your constructive feedback sound more aggressive, and can make your positive feedback sound less genuine.
+  - Curse words makes your constructive feedback sound more aggressive and can make your positive feedback sound less genuine.
 5. Praise publicly, criticize confidentially.
   - When giving positive feedback, it can be a good idea to do it in public. This can help build trust and strengthen relationships.
-  - When criticizing someone or something, do it with as few people as possible as to now throw someone under the bus.   
+  - Avoid criticizing someone in public. When criticizing someone or something, do it with as few people as possible as to not throw someone under the bus.   
   - Ideally, we will reach a point where we can give both positive and constructive feedback in public. But while practicing feedback, this can be a good rule of thumb.
 6. Ask for feedback. 
   - Feedback shouldn't be a one-way street. Ask for feedback on your work and your feedback.
@@ -109,7 +109,7 @@ Set the scene on when and where the situation took place. Eg. “At the meeting 
 
 ### Addresses observable actions
 
-Explain what happened, eg. “You didn’t ask everyone what they did”
+Explain what happened. For example, "You didn’t ask everyone what they were doing".
 
 ### Communicates clearly and constructively
 
@@ -128,7 +128,7 @@ Ask them to come up with solutions. If they can’t, give them alternatives
 The SBI model is a method for giving constructive feedback. It stands for Situation, Behavior, and Impact.
 #### When to use
 When you want to give feedback after an event or situation.
-Don't wait too long to give feedback. Feedback is best given as soon as possible after the event or situation. A rule of thumb is to give feedback within 24 hours of the event or situation, and at least within a week.
+Don't wait too long. Feedback is best given as soon as possible after the event or situation. A rule of thumb is to give feedback within 24 hours of the event or situation, and at least within a week.
 #### How to use
 1. Describe the situation (S).
   - Set the scene on when and where the situation took place. E.g., "At the meeting this Wednesday when you hosted standup".
@@ -166,7 +166,7 @@ If you want to help the receiver, you can follow up with a suggested improvement
 #### How to use
 - For simple gratification, just say “Thank you”, "Great thinking", or simply "Nice".
 - It's usually better with at bit more context. E.g., "Thank you for taking the time to help me with this.", "Great thinking on how to solve this problem.", or "Nice work on the design."
-- Don't give gratification for the sake of giving gratification. Make sure that it's genuine and that it's for the benefit of the receiver.
+- Only give gratification when it's genuine and that it's for the benefit of the receiver.
 
 #### Pros
 - It's quick and easy.
@@ -185,7 +185,7 @@ If you want to help the receiver, you can follow up with a suggested improvement
 
 #### How to use
 - Say what you observe. E.g., “It seems like you’re writing while I’m talking to you", “You’re looking away”, or “You’re not taking notes”.
-- Avoid giving your interpretation of the situation. E.g., “You’re not paying attention”, “You’re not interested”, or “You’re not listening”.
+- Avoid interpreting the situation or making assumptions about the individual's state. For example, instead of saying “You’re not paying attention”, “You’re not interested”, or “You’re not listening”, simply state your observations.
 
 #### Pros
 - It's quick and easy.
@@ -205,7 +205,7 @@ If you want to help the receiver, you can follow up with a suggested improvement
 - [Feedback in pair programming](#feedback-in-pair-programming)
 
 #### How to use
-- Say "I have some feedback for you, but I don't want to interrupt you. Can I cycle back to it later?"
+- Say "I have some feedback for you, but I don't want to interrupt you. Can we discuss it later?"
 - Say "I would have done this differently. It's fine for now. Let's cycle back to it later."
 - Note down the issue and return to it when you have time. E.g., by adding a TODO: comment in the code, add it as a chore, or put it in the calendar.
 
@@ -220,6 +220,8 @@ If you want to help the receiver, you can follow up with a suggested improvement
 - It can be hard to remember what the feedback was about if you don't write it down.
 
 ### Avoiding Kanye / Yes-and
+The title of this method is inspired by Kanye West's infamous interruption of Taylor Swift at the 2009 MTV Video Music Awards. It's also known as "Yes-and".
+
 #### When to use
 - When a meeting participant is saying something that is not correct and you want to correct them.
 - E.g., when they say "The budget is 100.000 DKK", but you know that it's 200.000 DKK.
