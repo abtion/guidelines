@@ -272,23 +272,23 @@ In the case of feedback it stands for "Must change", "Should change", "Could cha
 
 ## Feedback in different situations
 ### Feedback in meetings
-- [Instant gratification](#instant-gratification) is a great way to build trust and strengthen relationships.
-- [Avoiding Kanye / Yes-and](#avoiding-kanye--yes-and) is a great way to correct someone respectfully.
-- [Cycle back](#cycle-back) is a great way to give feedback without interrupting the flow.
-- ([Instant observation](#instant-observation)) can be used if the group has a high level of trust.
+- [Instant gratification](#instant-gratification): Praise someone in a short and concise way.
+- [Avoiding Kanye / Yes-and](#avoiding-kanye--yes-and): Correct someone respectfully.
+- [Cycle back](#cycle-back): Give feedback without interrupting the flow.
+- ([Instant observation](#instant-observation)): Observe and describe potentially problematic behavior. Can be used if the group has a high level of trust.
 
 ### Feedback in code reviews
-- [Instant gratification](#instant-gratification) is a great way to quickly appreciate someone's work.
-- [MoSCoW method](#moscow-method) is a great way to give feedback on code.
+- [Instant gratification](#instant-gratification): Praise someone in a short and concise way.
+- [MoSCoW method](#moscow-method): Give feedback on code.
 
 ### Feedback in pair programming
-- [Instant gratification](#instant-gratification) is a great way to quickly appreciate someone's work.
-- [Instant observation](#instant-observation) is a great way to defuse a potential conflict.
-- [Cycle back](#cycle-back) is a great way to give feedback without interrupting the flow.
+- [Instant gratification](#instant-gratification): Praise someone in a short and concise way.
+- [Instant observation](#instant-observation): Observe and describe potentially problematic behavior.
+- [Cycle back](#cycle-back) Give feedback without interrupting the flow.
 
 ### Feedback to the client
-- [Instant gratification](#instant-gratification) is a way to build trust and strengthen relationships.
-- [SBI model](#sbi-model) is a great way to give constructive feedback.
+- [Instant gratification](#instant-gratification) Praise someone in a short and concise way.
+- [SBI model](#sbi-model) Give constructive feedback in a structured manner.
 - When the client asks for something that you don't think is a good idea, it's always better to say "I will look into it" and return with an answer later.
 
 ## Radical Candor
