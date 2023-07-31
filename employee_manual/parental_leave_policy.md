@@ -2,13 +2,13 @@
 
 TL;DR: Mothers have 15 weeks of paid parental leave, fathers have 11.
 
-## Why a new policy
+### Why a new policy
 
 New regulations regarding parental leave were recently introduced, dedicating some of the time and potential subsidies to the father. We want to support this development by updating our parental leave policy for 2023 to match this new arrangement.
 
 This new policy allows for full salary during parental leave for a period of up to a total of 11 weeks for fathers and 15 weeks for mothers. Not all families have exactly one mother and one father - naturally, they are covered as well. We’ll figure out which rules apply to specific situations when relevant.
 
-## How long
+### How long
 
 Technically, parental leave subsidies are based on several different types of leave, which explains the 11 and 15 week cap for fathers and mothers respectively:
 
@@ -16,7 +16,7 @@ Technically, parental leave subsidies are based on several different types of le
 - Birth leave for both parents (2 weeks)
 - Parental leave (9 weeks dedicated to each parent)
 
-## What to be aware of
+### What to be aware of
 
 It is a precondition for salary during parental leave that we can acquire the regular subsidies we are entitled to. Make sure to plan accordingly with your manager.
 
@@ -26,7 +26,7 @@ Should you wish to be on leave for a longer period than the 11 or 15 weeks, you 
 
 This policy replaces all previous policies and agreements in current employment contracts.
 
-## Further reading
+### Further reading
 
 More info here: [Danish](https://www.borger.dk/familie-og-boern/barsel-oversigt) / [English](https://lifeindenmark.borger.dk/working/work-rights/leave-of-absence/maternity-and-parental-leave#)
 
