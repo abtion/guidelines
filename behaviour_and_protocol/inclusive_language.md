@@ -86,6 +86,13 @@ a list of words that can be hurtful to other people and should be avoided.
 **Good**
 > That is a wild idea.
 
+## No-brainer
+**Bad**
+> This decision is a no-brainer.
+
+**Good**
+> This is an easy decision.
+
 # Additional reading
 - [Apple Style Guide](https://help.apple.com/applestyleguide/#/apsg346ef241?sub=apd565c2b8a8f654)
 - [Bias-free communication | Microsoft Docs](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
