@@ -1,5 +1,7 @@
 # Parental leave policy
 
+TL;DR: Women have 15 weeks of paid parental leave, men have 11.
+
 New regulations regarding parental leave were recently introduced, dedicating some of the time and potential subsidies to the father. We want to support this development by updating our parental leave policy for 2023 to match this new arrangement.
 
 This new policy allows for full salary during parental leave for a period of up to a total of 11 weeks for fathers and 15 weeks for mothers. Not all families have exactly one mother and one father - naturally, they are covered as well. We’ll figure out which rules apply to specific situations when relevant.
