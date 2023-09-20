@@ -34,7 +34,7 @@ This document tries to describe what feedback is, how to give it, and when to gi
       - [How to use](#how-to-use-3)
       - [Pros](#pros-3)
       - [Cons](#cons-3)
-    - [Avoiding Kanye / Yes-and](#avoiding-kanye--yes-and)
+    - [Yes-and (AKA "Avoid being Kanye")](#yes-and-aka-avoid-being-kanye)
       - [When to use](#when-to-use-4)
       - [How to use](#how-to-use-4)
       - [Pros](#pros-4)
@@ -223,7 +223,7 @@ If you want to help the receiver, you can follow up with a suggested improvement
 - The receiver might spend time overthinking what the feedback is about.
 - It can be hard to remember what the feedback was about if you don't write it down.
 
-### Avoiding Kanye / Yes-and
+### Yes-and (AKA "Avoid being Kanye")
 The title of this method is inspired by Kanye West's infamous interruption of Taylor Swift at the 2009 MTV Video Music Awards. It's also known as "Yes-and".
 
 #### When to use
