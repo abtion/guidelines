@@ -56,6 +56,7 @@ This document tries to describe what feedback is, how to give it, and when to gi
       - [Ruinous Empathy](#ruinous-empathy)
       - [Obnoxious Aggression](#obnoxious-aggression)
       - [Manipulative Insincerity](#manipulative-insincerity)
+      - [Radical Candor](#radical-candor-1)
     - [The matrix](#the-matrix)
   - [Resources](#resources)
 
@@ -310,6 +311,9 @@ Obnoxious Aggression, also called brutal honesty or front stabbing, is what happ
 
 #### Manipulative Insincerity
 Manipulative Insincerity — backstabbing, political or passive-aggressive behavior — is what happens when you neither Care Personally nor Challenge Directly. It’s praise that is insincere, flattery to a person’s face and harsh criticism behind their back. Often it’s a self-protective reaction to Obnoxious Aggression. This is the worst kind of feedback fail.
+
+#### Radical Candor
+Radical Candor, sometimes known as 'being respectfully blunt,' occurs when you Challenge Directly and Care Personally. It's guidance that is both kind and clear, as well as specific and sincere. Giving honest feedback to peers can be challenging, especially when you care about them. The key is to view it as a means of helping each other improve.
 
 ### The matrix
 ![Radical Candor Matrix](./radical-candor-matrix.png)
