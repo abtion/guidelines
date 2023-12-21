@@ -2,6 +2,10 @@
 
 This document tries to describe what feedback is, how to give it, and when to give it - all in an Abtion context.
 
+
+<img src="megaphone.png" alt="Megaphone" width="200" />
+
+
 - [Feedback](#feedback)
   - [Types of feedback](#types-of-feedback)
   - [Pointers on maintaining a healthy feedback culture](#pointers-on-maintaining-a-healthy-feedback-culture)
@@ -69,6 +73,9 @@ Feedback is often divided into three categories:
 - Evaluation: Constructive feedback that is held up against a set of guidelines or a goal. E.g., for a performance review.
 
 ## Pointers on maintaining a healthy feedback culture
+
+<img src="ideas.png" alt="Ideas" width="200" />
+
 ### Before giving feedback
 1. Announce that you want to give feedback.
   - Prepare the receiver by getting a "micro-yes" from them. E.g., by asking "Can I give you some feedback?"
@@ -272,6 +279,9 @@ In the case of feedback it stands for "Must change", "Should change", "Could cha
 - Avoid language like “This is better” or “That’s not how to do it”.
 
 ## Feedback in different situations
+
+<img src="doctor.png" alt="Doctor" width="200" />
+
 ### Feedback in meetings
 - [Instant gratification](#instant-gratification): Praise someone in a short and concise way.
 - [Avoiding Kanye / Yes-and](#avoiding-kanye--yes-and): Correct someone respectfully.
