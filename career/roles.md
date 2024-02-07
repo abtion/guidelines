@@ -94,3 +94,29 @@ The following descriptions are indications of what is expecting of a person havi
 ### Usage of time
 - 80% On-project
 - 20% Technology & Product
+
+## Engineering Manager
+### Guiding stars for the role
+- Leadership and people development
+- Team collaboration 
+- Process improvement
+- Culture and community building
+
+### Process			
+- Facilitates meetings with the team (and the client) to continuously improve the workflow. Eg. through retrospectives.
+- Ensures that the processes and the team work fit our values best possible.
+
+### Tech
+- Facilitates and takes part in knowledge-sharing. Eg. through pair programming.
+
+### Team				
+- Helps developers grow their skillset. Eg. through conversations about goal setting.
+- Takes part in hiring, retention, and offboarding.
+- Helps colleagues to solve conflicts.
+- Sets managees’ salaries based on their skill set within our progression framework.
+- Takes part in defining guidelines for the company.
+- Takes part in setting teams for projects with a focus on the team members’ optimal learnings
+
+### Delivery
+- Flags to the client when their demands require us to sacrifice quality (or their money).
+- Helps make decisions on when to slack on our delivery. Eg. in edge cases when team members get stressed.
