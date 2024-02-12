@@ -120,3 +120,18 @@ The following descriptions are indications of what is expecting of a person havi
 ### Delivery
 - Flags to the client when their demands require us to sacrifice quality (or their money).
 - Helps make decisions on when to slack on our delivery. Eg. in edge cases when team members get stressed.
+
+##  Business Development Engineer
+### Guiding stars for the role
+- Between client, tech and project
+
+Solution-centered software engineer who consults customers on how to create, maintain, and expand their solutions. 
+They may lead a team during the development phase.
+Business development engineers focus on a few clients so that they can stay close to the technical implementation, the industry, and the people behind the solution.  They work with long-term clients to engage in long-term collaboration rather than trying to establish new relationships.
+They collaborate with sales, solution architects (tech leads), and UXers to find the best recommendations for the client through workshops. Later on, they work with a development team (UI, developers) to implement the solution. 
+
+Business development engineers are firstly evaluated as software engineers. Other KPIs involve client satisfaction and rebizz.  
+
+### Usage of time
+- 90% On-project
+- 10% Client engagement
