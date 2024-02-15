@@ -16,3 +16,22 @@ Collective ownership gives control of the entire project to all team members. "Y
 ## Collective contribution
 - Pair up! Team members work simultaneously on the same tasks.
 - Keep it simple. We want people to be able to pitch in.
+
+# Values as virtues
+
+Inspired by [Voluntās](https://voluntas.com/) we have defined a set of virtues.
+These virtues are meant to be a guide on how to approach situations where our values are in conflict.
+They are set up as "X over Y" to make it clear that we value both, but aim to prioritize the first.
+
+## Trust
+- Team over individuals
+- Autonomy over control
+- Transparency over appearances
+## Betterment
+- Quality over progress
+- Feedback over consideration
+- Proactivity over minimizing work
+## Sustainability
+- Simplicity over versatility
+- Lunch time over crunch time
+- Core components over custom components
