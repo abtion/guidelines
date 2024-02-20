@@ -34,4 +34,4 @@ They are set up as "X over Y" to make it clear that we value both, but aim to pr
 ## Sustainability
 - Simplicity over versatility
 - Lunch time over crunch time
-- Core components over custom components
+- Defaults over personal preference
