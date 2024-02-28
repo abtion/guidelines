@@ -113,6 +113,8 @@ Ask them to come up with solutions. If they can’t, give them alternatives
 ## Feedback methods
 ### SBI model
 The SBI model is a method for giving constructive feedback. It stands for Situation, Behavior, and Impact.
+You can also check out Lara Hogan's [Feedback Equation](https://larahogan.me/blog/feedback-equation/) for a slightly different take on the SBI model.
+
 #### When to use
 When you want to give feedback after an event or situation.
 Don't wait too long. Feedback is best given as soon as possible after the event or situation. A rule of thumb is to give feedback within 24 hours of the event or situation, and at least within a week.
