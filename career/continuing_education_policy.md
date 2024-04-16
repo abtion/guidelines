@@ -4,6 +4,7 @@ We are excited to announce the establishment of a professional development budge
 
 ## Policy Details
 
+
 ### Annual Budget
 Each employee is entitled to an annual reimbursement of up to DKK 6,000 for expenses incurred in activities or learning endeavors that enhance your professional skills.
 
