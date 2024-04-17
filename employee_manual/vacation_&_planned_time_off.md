@@ -26,4 +26,4 @@ Here's an overview of the usual ones, all subject to change and individual plann
 - The Friday after Kristi Himmelfart / Ascension Day
 - Week 29 and 30 
 - Week between Christmas and New Year (including 24th and 31st of December)
-- First friday of the year (in order to follow our standard of 6 weeks / 24 days per year)
+- 1 non-specific day in January (in order to follow our standard of 6 weeks / 24 days per year)
