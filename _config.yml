@@ -9,8 +9,8 @@ abtion_gpt_url: "https://abtion-gpt-next.osc-fr1.scalingo.io/"
 
 # SEO
 title: Abtion guidelines
-tagline: Abtion guidelines are extracted from real problems encountered and solutions.
-description: Abtion guidelines are extracted from real problems encountered and solutions.
+tagline: Extracted from real problems we've encountered and the solutions we found along the way.
+description: Extracted from real problems we've encountered and the solutions we found along the way.
 email: hello@abtion.com
 social:
   name: Abtion A/S
