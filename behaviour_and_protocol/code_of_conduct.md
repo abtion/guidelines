@@ -1,6 +1,6 @@
 # Abtion Code of Conduct
 
-## 1. Purpose
+## Purpose
 
 At Abtion we aim to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
@@ -9,7 +9,7 @@ This code of conduct outlines our expectations for all those who participate in 
 We invite all those who are in our community to help us create safe and positive experiences for everyone.
 
 
-## 2. Expected Behavior
+## Expected Behavior
 
 The following behaviors are expected and requested of all community members:
 
@@ -20,7 +20,7 @@ The following behaviors are expected and requested of all community members:
   * Be mindful of your surroundings and of your fellow participants. Alert a manager if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
   * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-## 3. Unacceptable Behavior
+## Unacceptable Behavior
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
@@ -35,7 +35,7 @@ The following behaviors are considered harassment and are unacceptable within ou
   * Sustained disruption of community events, including talks and presentations.
 
 
-## 4. Consequences of Unacceptable Behavior
+## Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any Abtion employee or contractor, including sponsors and those with decision-making authority, will not be tolerated.
 
@@ -43,29 +43,29 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If someone engages in unacceptable behavior, a manager may take any action they deem appropriate.
 
-## 5. Reporting Guidelines
+## Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a manager as soon as possible.
 
 
-## 6. Addressing Grievances
+## Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify a manager with a concise description of your grievance.
 
-## 7. Scope
+## Scope
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 8. Contact info
+## Contact info
 
 ```
   Hari Carreras
   hc@abtion.com
 ```
 
-## 9. License and attribution
+## License and attribution
 
 This is largely taken from Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
