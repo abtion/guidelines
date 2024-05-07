@@ -1,26 +1,95 @@
-# Consulting 101
-At Abtion, we work with our clients to create world-class solutions that provide value to their businesses. As a consulting company, we are fortunate to have collaborated with a wide range of companies over the years from solo entrepreneurs to large Danish corporations. Key to this success is that we acknowledge that every client is different and has different needs.
+Consulting 101
+==============
 
-If you are coming from a product company, it can be unclear what consulting is, and what your new role as a consultant requires. Our goal with this document is to provide a clearer overview of consulting, dos and don'ts, etiquette, etc. We believe that training people and bringing them closer to the client ensures that we can give clients better advice and products. As a reminder, please note that the following are guidelines and not strict rules.
+Introduction to Consulting
+--------------------------
 
-## Client communication
-- Recognize the client's style of communication. You should not aim to mirror it but it gives you a sense of the tone that they might expect from you.
-- We use a digital project management tool (Asana is our default one) as our collaboration platform for prioritizing work with the client. We prefer our clients to be engaged in this collaboration but it is ultimately your responsibility to add and prioritize tasks. Asana is primarily available for the client to provide transparency and as a communication channel. As Asana is public to the client, we expect you to communicate professionally in comments, task descriptions, etc.
-- We want everyone independent of their role to participate actively in client communication both during meetings but also in Slack, Asana, e-mails, or wherever the communication happens. Remember to chat with your team before you reach out to the client. Your colleague might already have asked the same question, and we want to avoid spamming the client with questions. For a more in-depth introduction to how we facilitate team meetings at Abtion, please have a look at [this document](./how_to_facilitate_team_meetings.md).
-- Respond to messages from clients in a timely manner, and forward them to the relevant PM if you are no longer involved in the project. Keep a professional tone, read your messages before you hit send, and give notice if you are unable to provide answers the same day. As much as possible, aim to keep the client conversations in the open/external Slack channel where your colleagues can also see the messages.
-- Always summarize a plan with the client (or team) at the end of the meeting. The aim is to ensure that expectations are aligned. After the meeting, update relevant tasks in Asana with the new information either in the description or as comments, so people have a clear overview of what to do.
+As a consulting company, we are fortunate to have collaborated with a wide range of companies over the years from solo entrepreneurs to large Danish corporations. Key to this success is that we acknowledge that every client is different and has different needs.
 
-### Technical advice and communication
-- Learn to recognize your audience. - As developers, technical details and optimizations can be hugely important   and fascinating but it is crucial that you understand your audience. The   client may not know that upsert is not a misspelled version of upset and   that a page size could refer to an OS-related term and not the paper that   you would use in a printer.
-- When working with estimates, provide the client with an overview of the technical challenges without diving too much into the technical details. The goal is that the client understands what is necessary even if they might not understand how it works. You may want to ask the client how many technical details they want since some clients are highly technical and may want deeper insights about the implementation.
-- When explaining an issue that occurred in the system, explain the challenges that the team went through, and why it occurred despite our test coverage, pair programming efforts, etc.
-- When estimating, your job is to be realistic. A common error among inexperienced consultants is to make the client believe that the task is easy and therefore making them happy. This leads to going over budget and over the defined deadline. Share your concerns so that the client can identify what are their possibilities. Help them brainstorm to overcome the possible problems. Sales should be informed when your concerns might have larger implications, and you are working with a potential client.
+If you are coming from a product company, it can be unclear what consulting is, and what your new role as a consultant requires. Our goal with this document is to provide a clearer overview of consulting. We believe that training people and bringing them closer to the client ensures that we can give clients better advice and products. 
 
-## Etiquette
-- Arrive on time and be prepared.
-- Remember time tracking in the correct project.
-- When you call a meeting, always have an agenda, and for longer meetings, make sure you take notes.
-- Always listen but don't be afraid to take the lead.
-- Dress appropriately whether the meeting is in-person or handled remotely, but remember that you can be professional without wearing formal attire.
-- For remote meetings, have the camera on, make sure that the background is presentable, and conduct the meeting in a quiet room with no disturbances. Mute yourself if there is any background noise or disturbances.
-- Remember to be aware of your digital presence. Remain professional throughout the process whether this means in Asana, Git, your Harvest comments, or the codebase.
+As a reminder, please note that the following are guidelines and not strict rules.
+
+This document is divided into the following sections:
+- [Client Communication](#client-communication)
+- [Technical Communication](#technical-communication)
+- [Etiquette and Professionalism](#etiquette-and-professionalism)
+- [Proactiveness](#proactiveness)
+- [Solution-Oriented Approach](#solution-oriented-approach)
+- [Understanding the Client’s Perspective](#understanding-the-clients-perspective)
+- [Client-Specific Insights](#client-specific-insights)
+
+Client Communication
+--------------------
+
+* **Recognize and understand the client's preferred communication style.**
+  * If a client prefers to understand the context for your solutions in detail, provide comprehensive explanations.
+* **Keep communication transparent and public.**
+  * When communicating about a specific task, be sure to keep the communication in a shared platform like Asana or Slack. Ideally on the task itself.
+  * Use public channels for communication to ensure transparency and alignment within the team.
+* **Respond to client messages promptly.**
+  * Example: "Thank you for your message, I will review and get back to you by tomorrow."
+* **Summarize plans and expectations with the client and team after meetings, updating tasks and communication channels accordingly.**
+  * Example: After a meeting, summarize key points and next steps in Slack or in Asana.
+
+Technical Communication
+----------------------------------
+
+* **Tailor communication to the client's technical understanding.**
+  * Ask the client how technical they would like the explanation to be.
+  * If the client is non-technical, keep the explanations simple and eg. use metaphors.
+* **Provide realistic estimates and openly discuss potential technical challenges and solutions.**
+  * Example: "Based on our initial assessment, this feature might take approximately two weeks due to its complexity."
+* **Explain system issues, highlighting the steps taken and the reasons for unexpected outcomes.**
+  * Example: "The issue occurred because of a rare concurrency bug that we've now addressed with additional tests."
+
+Etiquette and Professionalism
+-----------------------------
+
+* **Punctuality for meetings.**
+  * Some meetings require more preparation than others. Make sure to prepare for the meeting.
+  * Example: Arrive 5-10 minutes early to setup and review meeting materials.
+* **Stay professional in both physical and digital interactions.**
+  * You do not need formal attire for client meetings, but you should be presentable.
+  * Your messages are a part of your professional image. Make sure they are thought-through and polite.
+* **Ensure a professional setup for remote interactions.**
+  * Example: Ensure the background is tidy and well-lit for video meetings.
+* **Keep track of time spent on projects accurately and consistently.**
+  * Example: Log your hours daily to maintain accurate project timelines and budgeting.
+
+Proactiveness
+-----------------------
+
+* **Be proactive in identifying and addressing potential issues or enhancements.**
+  * Example: "I noticed this process could be optimized to reduce steps and improve efficiency."
+* **Engage in proactive communication while being mindful of the implementation's impact.**
+  * Example: Before implementing a change, discuss potential impacts with the client and team.
+
+Solution-Oriented Approach
+--------------------------
+
+* **Avoid outright denials when addressing client requests; instead, propose alternative solutions or phased approaches.**
+  * Avoid: "That's impossible."
+  * Try: "That's challenging, but let's explore some alternatives that might work."
+* **Suggest a Proof of Concept (POC) for technically challenging or untested solutions to demonstrate if they're feasible.**
+  * Example: "We can develop a small POC to test this approach within a week."
+
+Understanding the Client’s Perspective
+-------------------------------------------
+
+* **View and assess the platform from the client's perspective to better understand their needs.**
+  * You might find new features or improvements that the client has not thought of.
+  * Example: Regularly use the client's platform yourself to identify areas for improvement.
+* **Focus on delivering features that not only meet technical specifications but also help the client's user experience.**
+  * Example: "This feature was designed with your team's workflow in mind, reducing the steps required to achieve the result."
+
+Client-Specific Insights
+------------------------
+
+* **Understand Client Preferences.**
+  * Continuously engage with clients to learn about their preferences and operational styles.
+  * Example: Some clients prefer regular Show and Tell-meetings to stay updated on project progress.
+* **Match the Client's Tone and preferred communication.**
+  * Use insights gained from interactions to refine communication methods.
+  * Example: Some clients prefer direct and concise communication, while others prefer detailed explanations.
+  * Example: Some clients like visual representations, while others prefer written explanations.
