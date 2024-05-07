@@ -6,6 +6,8 @@ TL;DR: Mothers have 15 weeks of paid parental leave, fathers have 11.
 
 Our approach is designed to support you through each stage of parental leave, ensuring you feel confident, prepared, and valued from the moment you start your leave to your return to the workplace.
 
+Our policy allows for full salary during parental leave for a period of up to a total of 11 weeks for fathers and 15 weeks for mothers. Not all families have exactly one mother and one father - naturally, they are covered as well. We’ll figure out which rules apply to specific situations when relevant.
+
 ### Before parental leave:
 
 - Pre-leave consultation: We offer a meeting with an external parental consultant to all expectant employees. This consultation will assist you in creating a personalized parental plan for you and your partner, addressing any concerns, and setting expectations for your leave and return.
