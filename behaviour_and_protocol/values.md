@@ -27,10 +27,12 @@ They are set up as "X over Y" to make it clear that we value both, but aim to pr
 - Team over individuals
 - Autonomy over control
 - Transparency over appearances
+
 ## Betterment
 - Quality over progress
 - Feedback over consideration
 - Proactivity over minimizing work
+
 ## Sustainability
 - Simplicity over versatility
 - Lunch time over crunch time
