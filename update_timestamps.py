@@ -4,8 +4,9 @@ from git import Repo # type: ignore
 
 # Path to the repository
 repo = Repo(os.getcwd())
-# Get the list of changed files
-changed_files_paths = [item.a_path for item in repo.index.diff(None) if item.a_path.endswith('.md')]
+# Get the list of changed files since the last push
+upstream_commit = repo.git.rev_parse('@{u}')
+changed_files_paths = [item.a_path for item in repo.commit(upstream_commit).diff(None) if item.a_path.endswith('.md')]
 
 # Define the timestamp format
 timestamp_format = "%Y-%m-%d"
