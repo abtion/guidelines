@@ -47,17 +47,16 @@ We administrate all gear in [Asana](https://app.asana.com/0/1177794690825926/119
 When we reach the moment of replacing gear, we are looking into ways to give a 2nd life to our gear. There is a possibility to buy the gear for personal use for a, of course, reasonable deducted price. Or donate it to a fund, to sponsor those who need it. -- Any suggestions here? Shout out! Or sell it to companies like 'greenmind' who repair and re-sell used products.
 
 ## Lunch and office snacks
-We plan to take a lunch break at 11.30pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack on or to drink in our kitchens. If there is anything missing in your preference, don’t hesitate to reach out to our office managers/snack managers. 
+We plan to take a lunch break at 12.30pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack on or to drink in our kitchens. If there is anything missing in your preference, don’t hesitate to reach out to our office managers/snack managers. 
 
 Another important consuming product next to food, is coffee. At Abtion we love good coffee! Our passion makes us look out for good beans to provide a decent cup. We like variety and trying out new coffee from time to time, so if you have any suggestions in regards to that, don't be shy - please share it!
 
 
 ## Sampension
 ### Pension plan
-When being a 100% Abtioneer (After 3 months), you become a member of our pension and 'life insurance' plan with Sampension. When being a part of the plan, you will be contacted by Sampension to arrange a counselling meeting. During this meeting you will be introduced to the benefits Sampension automatically offers as part of Abtion's agreement. In addition you get an offer to adapt your pension plan to your own preferences. 
+At Abtion you become part of our pension and 'life insurance' plan with Sampension. When being a part of the plan, you can have a counselling meeting with Sampension. During this meeting you will be introduced to the benefits Sampension automatically offers as part of Abtion's agreement. In addition you get an offer to adapt your pension plan to your own preferences. 
 
 Your onboarding starts after Sampension has received your first payment. This payment has a standard of 8%, 6% by you and 2% by Abtion. 
-All you have to do is sit back and relax and wait for a phone call or email from Sampension.
 
 Log in to sampension.dk and get a hold on your numbers and coverages. Here you see all your savings and the amount of coverage by illness and loss. 
 
@@ -73,24 +72,4 @@ It includes
 4. Examination by a specialist, surgery or treatment as well as follow-up at hospitals and clinics
 5. guidance by sick leave or when on sick leave.
 
-There is also a possibility to get a health insurance for your family through our agreement. 
-
-## Discounts
-Find all the discount codes in 1password under the vault 'Discounts for Abtioneers'
-
-### SATS
-Get your sweat on with discount of 70 kr. on a membership with SATS. 
-
-### OrganicBasics
-Abtion has a discount code of OrganicBasics, which makes you able to shop on their webshop with a 20% discount. See their beautiful clothes here: [https://dk.organicbasics.com](https://dk.organicbasics.com)
-
-### Mini Universet
-If anyone needs some goods for the small ones from the family: we got 40% discount on [miniuniverset.dk](https://miniuniverset.dk) 
-
-### CODAN insurance
-We got a 10% discount on CODAN insurances. If you have two or more insurances, you will also get a combined discount.
-
-### Soapnut Republic
-Soapnut Republic has plenty of products based on natural ingredients. Abtion has 30% discount on your purchase and free delivery to your home address. 
-[https://soapnutrepublic.dk/](https://soapnutrepublic.dk/)
-
+There is also a possibility to get a health insurance for your family through our agreement.
