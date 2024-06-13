@@ -17,9 +17,9 @@ Collective ownership gives control of the entire project to all team members. "Y
 - Pair up! Team members work simultaneously on the same tasks.
 - Keep it simple. We want people to be able to pitch in.
 
-# Values as virtues
+# Guiding values
 
-Inspired by [Voluntās](https://voluntas.com/) we have defined a set of virtues.
+Inspired by [Voluntās](https://voluntas.com/) we have defined a set of [virtues](https://voluntas.com/our-philosophy/).
 These virtues are meant to be a guide on how to approach situations where our values are in conflict.
 They are set up as "X over Y" to make it clear that we value both, but aim to prioritize the first.
 
