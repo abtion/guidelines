@@ -25,7 +25,7 @@ Client Communication
 * **Recognize and understand the client's preferred communication style.**
   * If a client prefers to understand the context for your solutions in detail, provide comprehensive explanations.
 * **Keep communication transparent and public.**
-  * When communicating about a specific task, be sure to keep the communication in a shared platform like Asana or Slack. Ideally on the task itself.
+  * When communicating about a specific task, be sure to keep the communication in a shared platform like Slack or Asana. Ideally on the task itself.
   * Use public channels for communication to ensure transparency and alignment within the team.
 * **Respond to client messages promptly.**
   * Example: "Thank you for your message, I will review and get back to you by tomorrow."
