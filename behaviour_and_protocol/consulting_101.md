@@ -29,8 +29,8 @@ Client Communication
   * Use public channels for communication to ensure transparency and alignment within the team.
 * **Respond to client messages clearly and on time.**
   * If you need time to eg. analyse a task or estimate changes, it is beneficial to communicate that to the client. Example: "Thank you for your message, I will take some time to analyse and get back to you by tomorrow."
-* **Summarize plans and expectations with the client and team after meetings, updating tasks and communication channels accordingly.**
-  * Example: After a meeting, summarize key points and next steps in Slack or in Asana.
+* **After a meeting, summarize key points and next steps in Slack or in Asana.**
+  * This ensures documentation and a shared memory on what has been decided.
 
 Technical Communication
 ----------------------------------
