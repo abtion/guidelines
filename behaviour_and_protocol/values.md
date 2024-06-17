@@ -1,3 +1,5 @@
+# Values
+
 Values are pointless if not put into practice. Our values are reflected in the following behaviors.
 
 # Collective ownership
