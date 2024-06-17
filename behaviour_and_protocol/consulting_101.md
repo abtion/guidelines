@@ -38,10 +38,10 @@ Technical Communication
 * **Tailor communication to the client's technical understanding.**
   * Ask the client how technical they would like the explanation to be.
   * If the client is non-technical, keep the explanations simple and eg. use metaphors.
-* **Provide realistic estimates and openly discuss potential technical challenges and solutions.**
-  * Example: "Based on our initial assessment, this feature might take approximately two weeks due to its complexity."
-* **Explain system issues, highlighting the steps taken and the reasons for unexpected outcomes.**
-  * Example: "The issue occurred because of a rare concurrency bug that we've now addressed with additional tests."
+* **Provide realistic estimates and pose potential challenges and solutions.**
+  * Example: "We have estimated the SSO login as an XL-task. The documentation for the SSO is new to us, so we would have to spend some time researching. Alternatively, an email-based login would be an L-task."
+* **Explain system issues, highlighting the reasons for unexpected outcomes and the steps taken to fix these.**
+  * Example: "The issue occurred because the user could input text, and we were expecting numbers. We've updated the input and added additional tests."
 
 Etiquette and Professionalism
 -----------------------------
