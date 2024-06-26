@@ -55,7 +55,7 @@ Etiquette and Professionalism
 * **Ensure a professional setup for remote interactions.**
   * Example: Ensure the background is tidy and well-lit for video meetings.
 * **Keep track of time spent on projects accurately and consistently.**
-  * Example: Log your hours daily to maintain accurate project timelines and budgeting.
+  * Log your hours daily to maintain accurate project timelines and budgeting.
 
 Proactiveness
 -----------------------
