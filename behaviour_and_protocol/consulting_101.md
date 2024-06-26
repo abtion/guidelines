@@ -72,6 +72,8 @@ Solution-Oriented Approach
 * **Avoid outright denials when addressing client requests; instead, propose alternative solutions or phased approaches.**
   * Avoid: "That's impossible."
   * Try: "That's challenging, but let's explore some alternatives that might work."
+  * Avoid: "It will take too much time."
+  * Try: "This is a complex feature. If this is critical for the project, we can research and estimate it before we move on."
 * **Suggest a Proof of Concept (POC) for technically challenging or untested solutions to demonstrate if they're feasible.**
   * Example: "We can develop a small POC to test this approach within a week."
 
