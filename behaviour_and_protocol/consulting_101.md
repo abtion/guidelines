@@ -61,7 +61,8 @@ Proactiveness
 -----------------------
 
 * **Be proactive in identifying and addressing potential issues or enhancements.**
-  * Example: "I noticed this process could be optimized to reduce steps and improve efficiency."
+  * If you find something that could be fixed, could be optimized, or could be updated in other ways, communicate this to the team.
+  * Example: "I noticed a strange pattern in the data and wanted to make sure that this is not an error or would otherwise impact the project."
 * **Engage in proactive communication while being mindful of the implementation's impact.**
   * Example: Before implementing a change, discuss potential impacts with the client and team.
 
