@@ -74,6 +74,8 @@ Solution-Oriented Approach
   * Try: "That's challenging, but let's explore some alternatives that might work."
   * Avoid: "It will take too much time."
   * Try: "This is a complex feature. If this is critical for the project, we can research and estimate it before we move on."
+  * Avoid: "Do you really need that?"
+  * Try: "Let us put it in the ice box and assess it when we have finished the business critical features."
 * **Suggest a Proof of Concept (POC) for technically challenging or untested solutions to demonstrate if they're feasible.**
   * Example: "We can develop a small POC to test this approach within a week."
 
