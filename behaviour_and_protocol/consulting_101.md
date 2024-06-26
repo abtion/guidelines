@@ -86,7 +86,7 @@ Understanding the Client’s Perspective
   * You might find new features or improvements that the client has not thought of.
   * Example: Regularly use the client's platform yourself to identify areas for improvement.
 * **Focus on delivering features that not only meet technical specifications but also help the client's user experience.**
-  * Example: "This feature was designed with your team's workflow in mind, reducing the steps required to achieve the result."
+  * Example: "This feature was updated to speed up your process. It will help your team to achieve results faster."
 
 Client-Specific Insights
 ------------------------
