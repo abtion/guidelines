@@ -50,7 +50,7 @@ Etiquette and Professionalism
   * Some meetings require more preparation than others. Make sure to prepare for the meeting.
   * Example: Arrive 5-10 minutes early to setup and review meeting materials.
 * **Stay professional in both physical and digital interactions.**
-  * You do not need formal attire for client meetings, but you should be presentable. This also applies to your background in online meetings.
+  * You do not need formal attire for client meetings, but you should be presentable.
   * Your messages are a part of your professional image. Make sure they are thought-through and polite.
 * **Ensure a professional setup for remote interactions.**
   * Example: Ensure the background is tidy and well-lit for video meetings.
