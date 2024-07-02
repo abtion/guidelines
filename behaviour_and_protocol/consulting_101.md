@@ -68,10 +68,11 @@ Proactiveness
 
 Solution-Oriented Approach
 --------------------------
-
+* **Ask questions to understand the client's needs and propose solutions that align with their goals.**
+  * Example: "Could you explain the problem you are facing in more detail? This will help us to propose a solution that fits your needs."
 * **Avoid outright denials when addressing client requests; instead, propose alternative solutions or phased approaches.**
   * Avoid: "That's impossible."
-  * Try: "That's challenging, but let's explore some alternatives that might work."
+  * Try: "That's challenging. Could you elaborate on the problem you are aiming to solve? Perhaps there are alternatives that might work."
   * Avoid: "It will take too much time."
   * Try: "This is a complex feature. If this is critical for the project, we can research and estimate it before we move on."
   * Avoid: "Do you really need that?"
