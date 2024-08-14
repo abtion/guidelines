@@ -67,7 +67,7 @@ fatal: failed to write commit object
 ```
 
 Run `export GPG_TTY=$(tty)` in your terminal and try again.
-
+If that fixes it, add it to your shell initializer (`.bashrc`, `.zshrc`, `.fishrc`, ...).
 
 ### I don't like having to type my password in all the time.
 
