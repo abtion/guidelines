@@ -15,6 +15,7 @@ This document is divided into the following sections:
 - [Communicating technical stuff](#communicating-technical-stuff)
 - [Planning for the future](#planning-for-the-future)
 - [Aiming for solutions](#aiming-for-solutions)
+- [Additional resources](#additional-resources)
 
 Communicating with a client
 --------------------
@@ -74,3 +75,7 @@ Aiming for solutions
   * Instead of *"It will take too much time."* you could say *"This is a complex feature. If this is critical for the project, we can research and estimate it before we move on."*
   * Instead of *"Do you really need that?"* you could say *"Let us put it in the ice box and assess it when we have finished the business critical features."*
   * You could also suggest a Proof of Concept (POC) to demonstrate if the solution is feasible.
+
+Additional resources
+---------------------
+* **The Trusted Advisor** by David H. Maister, Charles H. Green, and Robert M. Galford
