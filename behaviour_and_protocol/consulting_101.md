@@ -20,7 +20,7 @@ This document is divided into the following sections:
 Communicating with a client
 --------------------
 
-* * **Understand client preferences in communication and process.**
+* **Understand client preferences in communication and process.**
   * By continuously engaging with clients, we can learn about their preferences and operational styles.
   * Example: Some clients prefer regular Show and Tell-meetings to stay updated on project progress.
   * Some clients want comprehensive explanations, while others prefer a more concise approach.
