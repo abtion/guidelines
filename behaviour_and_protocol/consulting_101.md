@@ -1,26 +1,81 @@
-# Consulting 101
-At Abtion, we work with our clients to create world-class solutions that provide value to their businesses. As a consulting company, we are fortunate to have collaborated with a wide range of companies over the years from solo entrepreneurs to large Danish corporations. Key to this success is that we acknowledge that every client is different and has different needs.
+Consulting 101
+==============
 
-If you are coming from a product company, it can be unclear what consulting is, and what your new role as a consultant requires. Our goal with this document is to provide a clearer overview of consulting, dos and don'ts, etiquette, etc. We believe that training people and bringing them closer to the client ensures that we can give clients better advice and products. As a reminder, please note that the following are guidelines and not strict rules.
+Introduction to Consulting
+--------------------------
 
-## Client communication
-- Recognize the client's style of communication. You should not aim to mirror it but it gives you a sense of the tone that they might expect from you.
-- We use a digital project management tool (Asana is our default one) as our collaboration platform for prioritizing work with the client. We prefer our clients to be engaged in this collaboration but it is ultimately your responsibility to add and prioritize tasks. Asana is primarily available for the client to provide transparency and as a communication channel. As Asana is public to the client, we expect you to communicate professionally in comments, task descriptions, etc.
-- We want everyone independent of their role to participate actively in client communication both during meetings but also in Slack, Asana, e-mails, or wherever the communication happens. Remember to chat with your team before you reach out to the client. Your colleague might already have asked the same question, and we want to avoid spamming the client with questions. For a more in-depth introduction to how we facilitate team meetings at Abtion, please have a look at [this document](./how_to_facilitate_team_meetings.md).
-- Respond to messages from clients in a timely manner, and forward them to the relevant PM if you are no longer involved in the project. Keep a professional tone, read your messages before you hit send, and give notice if you are unable to provide answers the same day. As much as possible, aim to keep the client conversations in the open/external Slack channel where your colleagues can also see the messages.
-- Always summarize a plan with the client (or team) at the end of the meeting. The aim is to ensure that expectations are aligned. After the meeting, update relevant tasks in Asana with the new information either in the description or as comments, so people have a clear overview of what to do.
+As a consulting company, we are fortunate to have collaborated with a wide range of companies over the years from solo entrepreneurs to large Danish corporations. Key to this success is that we acknowledge that every client is different and has different needs.
+We believe that training people and bringing them closer to the client ensures that we can give clients better advice and products. 
 
-### Technical advice and communication
-- Learn to recognize your audience. - As developers, technical details and optimizations can be hugely important   and fascinating but it is crucial that you understand your audience. The   client may not know that upsert is not a misspelled version of upset and   that a page size could refer to an OS-related term and not the paper that   you would use in a printer.
-- When working with estimates, provide the client with an overview of the technical challenges without diving too much into the technical details. The goal is that the client understands what is necessary even if they might not understand how it works. You may want to ask the client how many technical details they want since some clients are highly technical and may want deeper insights about the implementation.
-- When explaining an issue that occurred in the system, explain the challenges that the team went through, and why it occurred despite our test coverage, pair programming efforts, etc.
-- When estimating, your job is to be realistic. A common error among inexperienced consultants is to make the client believe that the task is easy and therefore making them happy. This leads to going over budget and over the defined deadline. Share your concerns so that the client can identify what are their possibilities. Help them brainstorm to overcome the possible problems. Sales should be informed when your concerns might have larger implications, and you are working with a potential client.
+Our goal with this document is to give ideas on how to approach clients and projects.
 
-## Etiquette
-- Arrive on time and be prepared.
-- Remember time tracking in the correct project.
-- When you call a meeting, always have an agenda, and for longer meetings, make sure you take notes.
-- Always listen but don't be afraid to take the lead.
-- Dress appropriately whether the meeting is in-person or handled remotely, but remember that you can be professional without wearing formal attire.
-- For remote meetings, have the camera on, make sure that the background is presentable, and conduct the meeting in a quiet room with no disturbances. Mute yourself if there is any background noise or disturbances.
-- Remember to be aware of your digital presence. Remain professional throughout the process whether this means in Asana, Git, your Harvest comments, or the codebase.
+This document is divided into the following sections:
+- [Communicating with a client](#communicating-with-a-client)
+- [Understanding the client's perspective](#understanding-the-clients-perspective)
+- [Communicating technical stuff](#communicating-technical-stuff)
+- [Planning for the future](#planning-for-the-future)
+- [Aiming for solutions](#aiming-for-solutions)
+- [Additional resources](#additional-resources)
+
+Communicating with a client
+--------------------
+
+* **Understand client preferences in communication and process.**
+  * By continuously engaging with clients, we can learn about their preferences and operational styles.
+  * Example: Some clients prefer regular Show and Tell-meetings to stay updated on project progress.
+  * Some clients want comprehensive explanations, while others prefer a more concise approach.
+  * You could always ask the client how they prefer to communicate.
+  * A client might not know what their preferred style is so it can be beneficial to try different approaches.
+* **Keep communication transparent and public.**
+  * To ensure that the entire team is on the same page, it helps to keep communication transparent. Like a public Slack channel or Asana task.
+  * When communicating about a specific task, it makes sense to keep the communication on the specific task in Asana. That way the information is available for everyone - also future team members.
+* **Respond to client messages clearly and on time.**
+  * If you need time to eg. analyse a task or estimate changes, it is beneficial to communicate that to the client. 
+  * Example: "Thank you for your message, I will take some time to analyse and get back to you by tomorrow."
+* **After a meeting, summarize key points and next steps in Slack or in Asana.**
+  * This helps to ensure documentation and a shared memory on what has been decided.
+
+Understanding the client's perspective
+-------------------------------------------
+
+* **View and assess the platform from the client's perspective to better understand their needs.**
+  * You might find new features or improvements that the client has not thought of.
+  * Some teams have had success with a *"Test the product as a user"* day.
+* **Focus on delivering features that not only meet technical specifications but also help the client's user experience.**
+  * Example: "This feature was updated to speed up your process. It will help your team to achieve results faster."
+
+Communicating technical stuff
+----------------------------------
+
+* **Tailor communication to the client's technical understanding.**
+  * If the client is non-technical, you could use metaphors or analogies to explain the technical concepts.
+  * You could always ask the client how technical they would like the explanation to be.
+* **Provide realistic estimates and pose potential challenges and solutions.**
+  * Example: "We have estimated the SSO login as an XL-task. The documentation for the SSO is new to us, so we would have to spend some time researching. Alternatively, an email-based login would be an L-task."
+* **Explain system issues, highlighting the reasons for unexpected outcomes and the steps taken to fix these.**
+  * Example: "The issue occurred because the user could input text, and we were expecting numbers. We've updated the input and added additional tests."
+
+Planning for the future
+-----------------------
+
+* **Be proactive in identifying and addressing potential issues or enhancements.**
+  * As consultants, we've learned to leave things better than we found them, but if you find something that takes more time to improve, it can help to communicate this to the team. It could end up being a feature request.
+  * Example: "I noticed a strange pattern in the data and wanted to make sure that this is not an error or would otherwise impact the project."
+* **Keep a list of potential improvements or issues.**
+  * This could be a list of "Version 2.0" features or technical chores that could be addressed in the future.
+
+Aiming for solutions
+--------------------------
+* **Ask questions to understand the client's needs and propose solutions that align with their goals.**
+  * A client might ask for a specific feature, and if we understand the reason behind the request, we might be able to propose a better solution.
+  * Example: "Could you explain the problem you are facing in more detail? This will help us to propose a solution that fits your needs."
+* **Avoid outright denials when addressing client requests; instead, propose alternative solutions or phased approaches.**
+  * By softening the response, you can help the client to understand the complexity of the request and propose a solution that fits their needs.
+  * Instead of *"That's impossible."* you could say *"That's challenging. Could you elaborate on the problem you are aiming to solve? Perhaps there are alternatives that might work."*
+  * Instead of *"It will take too much time."* you could say *"This is a complex feature. If this is critical for the project, we can research and estimate it before we move on."*
+  * Instead of *"Do you really need that?"* you could say *"Let us put it in the ice box and assess it when we have finished the business critical features."*
+  * You could also suggest a Proof of Concept (POC) to demonstrate if the solution is feasible.
+
+Additional resources
+---------------------
+* **The Trusted Advisor** by David H. Maister, Charles H. Green, and Robert M. Galford
