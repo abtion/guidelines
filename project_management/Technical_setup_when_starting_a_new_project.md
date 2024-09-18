@@ -70,6 +70,16 @@ Setup automerge github action
   - create github automerge action
     - copy auto-merge.yml, dependabot.yml, workflows/auto-merge-dependabot.yml from [muffi/.github](https://github.com/abtion/muffi/tree/main/.github) into [clientname]-[projectname]/.github
 
+Repo settings
+  - Disallow `Allow rebase merging` (because it is incompatible with `Require signed commits`)
+  - Enable `Allow auto-merge`
+  - Enable `Automatically delete head branches Loading`
+  - Enable `Always suggest updating pull request branches`
+  - Setup `Rules`. Add a branch ruleset
+    - In addition to the defaults make the following changes:
+    - Target branch: Include default branch
+    - Enable `Require signed commit`
+
 ## *4. Heroku project setup (NOT relevant for all projects)
 - create a new account [clientname]@abtion.com
 - create a new team [clientname]
