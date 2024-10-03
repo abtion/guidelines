@@ -1,3 +1,7 @@
+# SLA
+
+An SLA gives clients peace of mind, ensuring their solution is fully managed. In short, we handle updates, monitoring, and proactively address issues
+
 ## Maintenance window goal
 
 When we stop actively working on a project, the project moves to the maintenance phase. Any project that does not have a full-time team on it is considered to be on maintenance. The maintenance window goal is to ensure that the project does not go to a state where we would not want to work on it. The maintenance window also serves as a pragmatic way of bulking tasks to reduce context-switch.
