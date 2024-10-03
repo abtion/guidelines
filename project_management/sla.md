@@ -1,6 +1,6 @@
 # SLA
 
-An SLA gives clients peace of mind, ensuring their solution is fully managed. In short, we handle updates, monitoring, and proactively address issues
+An SLA (Service Level Agreement) gives clients peace of mind, ensuring their solution is fully managed. In short, we handle updates, monitoring, and proactively address issues
 
 ## Maintenance window goal
 
