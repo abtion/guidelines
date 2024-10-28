@@ -72,9 +72,9 @@ Setup automerge github action
 
 Repo settings
   - Disallow `Allow rebase merging` (because it is incompatible with `Require signed commits`)
+  - Enable `Always suggest updating pull request branches`
   - Enable `Allow auto-merge`
   - Enable `Automatically delete head branches`
-  - Enable `Always suggest updating pull request branches`
   - Setup `Rules`. Add a branch ruleset
     - In addition to the defaults make the following changes:
     - Target branch: Include default branch
