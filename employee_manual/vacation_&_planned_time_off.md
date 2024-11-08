@@ -11,7 +11,7 @@ To make sure things run smoothly, we have a few requierements you need to follow
 - Direct all vacation planning and questions regarding time off to Daniel
 - Notify about time off as early as possible - the closer we get, the bigger the risk that the schedule doesn’t allow it
 - Create an out-of-office event in your calendar so we know when you’re unavailable
-- Set "out of office" period under profile settings in Asana
+- Set an "out of office" period at the bottom of the profile tab under settings in Asana
 - Set your Slack status to “On vacation” and choose when for it to clear
 - Track the time on “Vacation” in Harvest. Put 7,5h pr day - a week should amount to 30h
 
