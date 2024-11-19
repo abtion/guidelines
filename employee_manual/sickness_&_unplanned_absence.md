@@ -7,4 +7,6 @@ When you are sick, notify your manager and the project team you are currently wo
 If your child is ill, you have the right to two days of paid leave from the first day of the illness. Make sure to let your team and/or manager know about your absence in due time, and update your slack status accordingly.
 
 ## Loss
-In case of loss Abtion supports your absence and allows you to stay home as long as needed with full salary. This concerns closely related family members (children, parents, siblings or partner). In other cases your absence will be deducted from salary or vacation days.
+In the event of a death in the household (partner or child) you are entitled to 26 weeks (6 months) of fully paid leave. This is in line with the regulations for bereavement leave, which is the period during which reimbursement is available in connection with the death of a child: https://www.borger.dk/sundhed-og-sygdom/doedsfald--hospice-og-behandlingstestamente/sorgorlov
+
+In case of other serious events such as divorce or the loss of a close relative, we'll figure out an individual arrangement to suit the situation.
