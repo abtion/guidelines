@@ -27,15 +27,24 @@ They are set up as "X over Y" to make it clear that we value both, but aim to pr
 
 ## Trust
 - Team over individuals
+  - Individual difficulties are team difficulties - include the team in figuring them out
 - Autonomy over control
+  - Build a process that caters to self-reliance, not one that calls for control
 - Transparency over appearances
+  - Share everything, also the things you are not proud of yet
 
 ## Betterment
 - Quality over progress
+  - A valuable feature is of no value if it breaks
 - Feedback over consideration
+  - No one benefits from avoiding difficult conversations
 - Proactivity over minimizing work
-
+  - If something can be improved, bring it up to the team
+  
 ## Sustainability
 - Simplicity over versatility
+  - Build products that do a few things well, rather than a lot of things poorly
 - Lunch time over crunch time
+  - Work at a sustainable pace - resist the urge to skip breaks
 - Defaults over personal preference
+  - What works well for most, is better than what works perfectly for you
