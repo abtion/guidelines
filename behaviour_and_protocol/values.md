@@ -29,7 +29,7 @@ They are set up as "X over Y" to make it clear that we value both, but aim to pr
 - Team over individuals
   - Individual difficulties are team difficulties - include the team in figuring them out
 - Autonomy over control
-    - Build a process that caters to self-reliance, not one that calls for control
+  - Build a process that caters to self-reliance, not one that calls for control
 - Transparency over appearances
   - Share everything, also the things you are not proud of yet
 
