@@ -36,6 +36,9 @@ Technically, parental leave subsidies are based on several different types of le
 - Birth leave for both parents (2 weeks)
 - Parental leave (9 weeks dedicated to each parent)
 
+## Early or Late Birth Adjustments:
+In the event that your baby is born before the expected due date, any remaining pregnancy leave days leading up to the birth will no longer be available. Conversely, if your baby is born after the due date, you will receive additional pregnancy leave days equal to the number of days beyond the original due date.
+
 ## What to be aware of
 
 It is a precondition for salary during parental leave that we can acquire the regular subsidies we are entitled to. Make sure to plan accordingly with your manager.
