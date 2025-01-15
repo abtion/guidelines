@@ -22,7 +22,7 @@ Add the GPG key to your GitHub account (This is step 14 from the "Generating a n
 
 To set up GPG signed commits, replace `YOUR_GPG_KEY` id in the following script, and run it:
 
-`YOUR_GPG_KEY` will be a long string of hex digits like: `981F5859DB768873A306424DAB0254A0AB3ECAA4`
+`YOUR_GPG_KEY` will be your email or a long string of hex digits like: `981F5859DB768873A306424DAB0254A0AB3ECAA4`
 
 ```sh
 git config --global --unset gpg.format # use the default, in case you previously set it to `ssh`
