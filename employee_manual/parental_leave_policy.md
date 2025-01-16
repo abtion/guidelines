@@ -12,7 +12,8 @@ Our policy allows for full salary during parental leave for a period of up to a 
 
 - Pre-leave consultation: We offer a meeting with an external parental consultant to all expectant employees. This consultation will assist you in creating a personalized parental plan for you and your partner, addressing any concerns, and setting expectations for your leave and return.
 - Parental plan development: Together with the parental consultant, you will develop a comprehensive parental plan that outlines your work transition, covering all aspects from the start of your leave to your return. See the details of the parental consultant at [barselseksperten.dk](https://www.barselseksperten.dk/barselsplanforaeldre)
-- Agreements with manager: It is your responsibility to provide your parental leave plan to your manager. Agree with your manager first the temporary dates of your leave for forecast and then the exact date when you know. 
+- Agreements with manager: It is your responsibility to provide your parental leave plan to your manager. Agree with your manager first the temporary dates of your leave for forecast and then the exact date when you know.
+- Abtion offers access to the "Barselspakke" from Klinik for Kvindekroppen to support recovery and well-being after childbirth. This package provides postnatal care, including physical therapy and recovery guidance, and is available for employees or their partner. The package is fully covered by Abtion. For details, visit [Klinik for Kvindekroppen](https://klinikforkvindekroppen.dk/barselspakke-for-virksomheder)
 
 ### During parental leave:
 
