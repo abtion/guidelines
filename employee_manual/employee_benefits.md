@@ -1,5 +1,14 @@
 # Employee benefits
 
+## Profit sharing
+20% of Abtions yearly profit is shared among employees using the following key:
+- 1 year at Abtion = 1 share
+- 3 years at Abtion = 2 shares
+- 6 years at Abtion = 3 shares
+
+It is paid out in May (based on profit from the year before) to all employees who have been with Abtion for more than a year. It will appear on your payslip as "Tantieme".
+
+
 ## Gear Plan
 We all know the importance of good gear. That is why we introduce you all to our new Gear Plan. Instead of having a gear budget, we ensure everyone has the right gear to optimise workflow and efficiency. 
 
