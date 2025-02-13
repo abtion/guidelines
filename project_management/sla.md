@@ -42,4 +42,4 @@ The team working on the project should determine the relevant maintenance window
 
 ## Scheduling the maintenance window
 
-After the customer has approved the maintenance window, the PM will schedule a task on the Digital Infrastructure board.
+After the customer has approved the maintenance window, the PM will schedule a task on the Application Service planning board.
