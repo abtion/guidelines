@@ -39,7 +39,7 @@ The login for asana@abtion.com is in 1Password.
 
 ## 3. Update our [stack document](/tools_and_services/stack_and_services.md) in inside Abtion with new tools
 
-## 4. Plan a post-morten
+## 4. Plan a post-mortem
 
 ## 5. Plan a Thursday-praise
 A 15-20 minute after-lunch meeting where the team shares the accomplishments of the project with the rest of the company. This ritual is a celebration of our efforts, and it often mentions the challenges that the team had to overcome.
