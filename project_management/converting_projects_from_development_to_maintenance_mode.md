@@ -1,6 +1,9 @@
 # Converting Projects From Development Mode To Maintenance Mode
 
-## 1. Error notification setup
+## 1. Create a maintenance window card
+[Create a card](https://app.asana.com/0/1202299052095355/1205116132800075) that includes the correct period, status and available hours. WordPress projects follow a monthly maintenance period.
+
+## 2. Error notification setup
 
 If the project is active, we want team members to be notified. If the project is in maintenance mode, we want Application Service Asana board to be notified.
 
@@ -33,3 +36,10 @@ Remember to Delete the other rules if there is more then the three above.
 Emails sent to the Google Group will be passed on to asana@abtion.com. Each email received in asana@abtion.com will be created as a new card in the Application Service Board in Asana.
 
 The login for asana@abtion.com is in 1Password.
+
+## 3. Update our [stack document](/tools_and_services/stack_and_services.md) in inside Abtion with new tools
+
+## 4. Plan a post-mortem
+
+## 5. Plan a Thursday-praise
+A 15-20 minute after-lunch meeting where the team shares the accomplishments of the project with the rest of the company. This ritual is a celebration of our efforts, and it often mentions the challenges that the team had to overcome.
