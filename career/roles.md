@@ -58,7 +58,7 @@ The following descriptions are indications of what is expecting of a person havi
 - Budget
 - Strategy planning
 
-## Principal Engineer
+## Jesper Sørensen - Principal Engineer
 ### Guiding stars for the role
 - Teach leadership and coaching
 - Responsible for tools
