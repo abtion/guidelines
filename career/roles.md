@@ -68,7 +68,7 @@ The following descriptions are indications of what is expecting of a person havi
 - Scalability and security
 - Client value focus
 
-### Responsibilities
+### Responsibilities
 ### On-project
 - Be an ambassador for our development culture.
 - Balance refactoring and delivering when coding, planning and mentoring.
