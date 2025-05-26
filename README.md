@@ -17,5 +17,3 @@ bundle exec jekyll serve --verbose
 These guidelines are created with the help of the whole organization. Anyone is welcome to open a PR to any section of the guidelines.
 
 Anything added to the guideline must have been extracted from a project.
-
-{% include abtion-gpt.html %}
