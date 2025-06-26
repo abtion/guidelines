@@ -20,14 +20,12 @@ Add the GPG key to your GitHub account (This is step 14 from the "Generating a n
 
 ## Configure git to default to signed commits
 
-To set up GPG signed commits, replace `YOUR_GPG_KEY` id in the following script, and run it:
-
-`YOUR_GPG_KEY` will be your email or a long string of hex digits like: `981F5859DB768873A306424DAB0254A0AB3ECAA4`
+To set up GPG signed commits, replace `YOUR_EMAIL` id in the following script, and run it:
 
 ```sh
 git config --global --unset gpg.format # use the default, in case you previously set it to `ssh`
 git config --global commit.gpgSign true
-git config --global user.signingKey YOUR_GPG_KEY
+git config --global user.signingKey YOUR_EMAIL
 ```
 
 You may want to use `--local` instead if you want to set up GPG signing (or use a different key) 
