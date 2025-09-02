@@ -13,13 +13,12 @@ Therefore here's a guideline specifically for that.
 - 🟡 [Kinsta](https://kinsta.com) - Hosting of staging and livesites. We use Kinsta for old projects, and should try to move them to Pressable, when we actively develop for them.
 
 ### Plugins
-
-- 🟡 [ManageWP Worker](https://wordpress.org/plugins/worker) - Overview, backup and updating of existing websites. We have been using this system for managing wordpress sites, but now we are moving away from it, and updating sites manually first on Staging and then on Production.
+In this section we publish preferred plugins, and plugins we are phasing out.
 
 #### Components
 Recommended way of building new wordpress projects is by using Gutenberg, and creating Abtion's plugin for components.
 
-- 🟢 [Gutenberg Block Editor](https://developer.wordpress.org/block-editor/)
+- 🟢 [Gutenberg Block Editor](https://developer.wordpress.org/block-editor) - Experience the flexibility that blocks allow
 
 - 🟡 [Advanced Custom Fields Pro](https://www.advancedcustomfields.com/pro) - Handles integration with custom fields in Wordpress. We have purchased license for unlimited sites and are using this plugin on many of our older wp projects.
 
@@ -42,12 +41,6 @@ Advanced translation/ multilanguage. This is used on older projects and should b
 - 🔴 [WPML](https://wpml.org) (phased out) -
 Translation/multilangua sites. We still have it on some of our older projects. Should try to move them to [MultilingualPress](https://multilingualpress.org).
 
-- 🟢 [WooCommerce](https://woocommerce.com) -
-E-commerce software for Wordpress
-
-- 🟢 [WP All Import Pro](https://www.wpallimport.com)
-Solution for importing XML and CSV files to WordPress. Import to Posts, Pages, and Custom Post Types. Can be installed on unlimited number of sites. Currently we have clients buying individual licenses.
-
 #### SEO
 - 🟢 [Yoast SEO/ Yoast SEO Premium](https://yoast.com/wordpress/plugins/seo) - All-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps. Free and paid version.
 
@@ -57,3 +50,12 @@ Privacy friendly, GDPR compliant and self-hosted. Matomo is the #1 Google Analyt
 
 - 🔴 Connect Matomo
 This plugin requires custom setup to collect data on Pressable. It is allowed on Kinsta out of the box. When migrating a client - we must ensure we get the history and setup the plugin properly on Pressable.
+
+#### Other
+- 🟢 [WooCommerce](https://woocommerce.com) -
+E-commerce software for Wordpress
+
+- 🟢 [WP All Import Pro](https://www.wpallimport.com)
+Solution for importing XML and CSV files to WordPress. Import to Posts, Pages, and Custom Post Types. Can be installed on unlimited number of sites. Currently we have clients buying individual licenses.
+
+- 🟡 [ManageWP Worker](https://wordpress.org/plugins/worker) - Overview, backup and updating of existing websites. We have been using this system for managing wordpress sites, but now we are moving away from it, and updating sites manually first on Staging and then on Production.
