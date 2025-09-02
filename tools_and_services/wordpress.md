@@ -36,15 +36,24 @@ https://www.advancedcustomfields.com/pro/
 - 🟢 WS Form PRO
 Smart. Fast. Forms. Clients can pay a license themselves, or we can purchase agency license and use it on unlimited sites.
 https://wsform.com/
+
 - 🟢 Gravity Forms
 We already have an agency license, that we are using on several clients.
 https://www.gravityforms.com/
 
-#### Polylang
+#### Translations
+For all new clients who need translations we will be using MultilingualPress. This plugin requires multisite installation. 
+
+- 🟢 MultilingualPress
+Turn WordPress Multisite into a multilingual network with built-in automatic translation. Simple, secure, and scalable multilingual WordPress.
+https://multilingualpress.org
+
+- 🟡 Polylang
 Advanced translation/ multilanguage
+This is used on older projects and should be replaced by MultilingualPress.
 https://polylang.pro/
 
-#### WPML (phased out)
+- 🔴 WPML (phased out)
 Translation/multilangua sites
 https://wpml.org/
 Phased out. Polylang takes over.
@@ -75,3 +84,11 @@ https://www.wpallimport.com/
 All-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps
 Free and paid version.
 https://yoast.com/wordpress/plugins/seo/
+
+#### Tracking and analytics
+- 🟢 Matomo Analytics 
+Privacy friendly, GDPR compliant and self-hosted. Matomo is the #1 Google Analytics alternative that gives you control of your data. Free and secure.
+Can be used both on Pressable and Kinsta
+https://matomo.org/
+- 🔴 Connect Matomo
+This plugin requires custom setup to collect data on Pressable. It is allowed on Kinsta out of the box. When migrating a client - we must ensure we get the history and setup the plugin properly on Pressable.
