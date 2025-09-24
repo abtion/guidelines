@@ -25,12 +25,12 @@ SLAs are paid per hour. If a task cannot be completed on the scheduled maintenan
 
 ## Estimating a maintenance window.
 
-To get to a first estimate, the team may use a point system based on 4 common factors:
+To get to a first estimate, the team may use a point system based on common factors:
 
-- Frequent small changes requested
 - Large app
 - High traffic
-- Legacy code / Low test coverage
+- Legacy code
+- Low test coverage
 
 The project is classified depending on how many items are relevant to the project.
 
