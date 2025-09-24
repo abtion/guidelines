@@ -9,15 +9,14 @@ The maintenance window is not a tool for moving a project out of the legacy stat
 
 During a planned maintenance window, the DI team will perform tasks such as:
 - Update security vulnerabilities (by Dependabot).
+- Update other libraries (most relevant first).
+- Update programming language.
+- Update the main framework.
 - Check the Asana board for any reported bugs and fix them.
 - Check error tracking tool and fix small issues. If the bugs are complex to solve, the team will inform the client.
-- Check the Asana board for any small prioritized task
-- Monitor app. Check metrics and add-ons and services. Are add-on plans correct? Do we need to upgrade resources?
 - Check the Asana board for chores.
-- Update programming language
-- Update the main framework
-- Update other libraries (most relevant first)
-- Create new tests
+- Create new tests.
+- Monitor app. Check metrics and add-ons and services. Are add-on plans correct? Do we need to upgrade resources?
 
 Note that it is not expected that the team performs all actions during a maintenance window. The team will assess what is the most important for the project.
 
