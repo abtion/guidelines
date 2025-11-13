@@ -90,8 +90,8 @@ Use the 🟢 services unless there's a good reason not to. If there is a 🔴 se
 - 🟡 [AppSignal](https://www.appsignal.com/)
 - 🟡 [Rollbar](https://elements.heroku.com/addons/rollbar)
 - 🟡 [New Relic](https://newrelic.com). In Heroku: use the addon.
-- 🔴 [Papertrail](https://www.papertrail.com/)
-- 🔴 [Librato](https://elements.heroku.com/addons/librato)
+- 🔴 [Papertrail](https://www.papertrail.com/) We prefer to use the self hosted sentry instead
+- 🔴 [Librato](https://elements.heroku.com/addons/librato) It has not resulted in much value for us in the past
 - 🔴 [Sentry](sentry.io) In Heroku: use the addon. Avoid on small projects as it is cumbersome to set up to notify in Application Service when the project goes into maintenance.
 
 ### Emails
