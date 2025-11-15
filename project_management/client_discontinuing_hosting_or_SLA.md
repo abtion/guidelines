@@ -7,7 +7,7 @@ If a client wish to terminate their agreement please follow this step-by-step gu
 1. Check the client’s contact (g-drive) to find the notice period (standard 3. months)
 
 
-2. When you know the notice period send a mail to the client to confirm the termination by xx-date and inform when the last payment will happen. The termination MUST be written. If the termination is based on the client going backrupt or ending the collaboration totally remember to ask if they want an extraction of the code. 
+2. When you know the notice period send a mail to the client to confirm the termination by xx-date and inform when the last payment will happen. The termination MUST be written. If the termination is based on the client going bankrupt or ending the collaboration totally remember to ask if they want an extraction of the code. 
  
      a) Yes they want an extraction - plan this as close to the notice date as possible. Remember to book a developer as they also can close down heroku etc. which Abtion needs to close. 
      
