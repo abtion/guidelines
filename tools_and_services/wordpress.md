@@ -29,6 +29,13 @@ Smart. Fast. Forms. Clients can pay a license themselves, or we can purchase age
 - 🟢 [Gravity Forms](https://www.gravityforms.com) -
 We already have an agency license, that we are using on several clients.
 
+#### Folders
+- 🟢 [Real Media Library](https://wordpress.org/plugins/real-media-library-lite/)
+Free, but it has some extension plugins for a one time cost. For instance [physical folders](https://devowl.io/wordpress-real-physical-media/).
+
+- 🟡 [Media Library Folders](https://wordpress.org/plugins/media-library-plus/)
+Free. Not as nice looking as Real Media Library. Files are physically placed in chosen folders instead of the normal `uploads/year//month/`. However, it has an annoying and confusin "reset" plugin.
+
 #### Translations
 For all new clients who need translations we will be using MultilingualPress. This plugin requires multisite installation. 
 
