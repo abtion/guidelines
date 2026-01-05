@@ -23,7 +23,7 @@ Finding a balance between trying out something new or using a well-known tool is
 
 - 🟢 npm
 - 🟡 yarn
-- 🟡 pnpm
+- 🔴 pnpm
 
 ## Frameworks
 
