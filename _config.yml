@@ -4,10 +4,6 @@ remote_theme: abtion/github-pages-theme
 plugins:
   - jekyll-seo-tag
 
-# GitHub repository for edit links
-github:
-  repository_url: https://github.com/abtion/guidelines
-
 # SEO
 title: Abtion guidelines
 tagline: Extracted from real problems we've encountered and the solutions we found along the way.
