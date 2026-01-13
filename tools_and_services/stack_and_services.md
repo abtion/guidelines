@@ -19,6 +19,12 @@ Finding a balance between trying out something new or using a well-known tool is
 
 .NET has its own built-in SDK manager.
 
+### Javascript
+
+- 🟢 npm
+- 🟡 yarn
+- 🔴 pnpm
+
 ## Frameworks
 
 ### Web apps
