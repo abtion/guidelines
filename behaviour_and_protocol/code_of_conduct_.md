@@ -2,7 +2,7 @@
 
 ## Purpose
 
-At Abtion we aim to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+At Abtion we aim to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -24,13 +24,13 @@ The following behaviors are expected and requested of all community members:
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
-  * Violence, threats of violence or violent language directed against another person.
-  * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+  * Violence, threats of violence, or violent language directed against another person.
+  * Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language.
   * Posting or displaying sexually explicit or violent material.
   * Posting or threatening to post other people's personally identifying information ("doxing").
   * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-  * Unwelcome sexual attention. This includes, sexualized imagery, comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-  * Deliberate intimidation, stalking or following (online or in person).
+  * Unwelcome sexual attention. This includes, sexualized imagery, comments, or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+  * Deliberate intimidation, stalking, or following (online or in person).
   * Advocating for, or encouraging, any of the above behavior.
   * Sustained disruption of community events, including talks and presentations.
 
