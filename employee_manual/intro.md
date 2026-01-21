@@ -17,9 +17,9 @@ As thinkers and doers, we will engage in group critiques from time to time. We b
 
 ## Code of conduct
 
-Everyone at Abtion treats each other with the utmost respect, considering each other's privacy, space, beliefs and customs. Not only in our own team but also towards clients and partners outside Abtion. We provide a work environment free of discrimination and harassment, where all national origins, religions, ages, sexual orientations, disabilities or marital statuses are respected.
+Everyone at Abtion treats each other with the utmost respect, considering each other's privacy, space, beliefs, and customs. Not only in our own team but also towards clients and partners outside Abtion. We provide a work environment free of discrimination and harassment, where all national origins, religions, ages, sexual orientations, disabilities, or marital statuses are respected.
 
-We prohibit unwelcome sexual advances, requests and other verbal or physical harassment. In our environment we can speak freely and are able to express ourselves. We intend pleasant collaborations and provide a helping hand when desired.
+We prohibit unwelcome sexual advances, requests, and other verbal or physical harassment. In our environment we can speak freely and are able to express ourselves. We intend pleasant collaborations and provide a helping hand when desired.
 
 Physical and verbal violence are not included on our list of healthy and mature working methods.
 Do not use, possess, or sell illegal drugs on Abtion’s property and falsification of documents or records is, of course, illegal.
