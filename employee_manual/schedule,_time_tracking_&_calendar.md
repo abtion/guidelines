@@ -3,9 +3,9 @@
 ## Only 4 days a week
 We have implemented 4 day work week! Meaning, we work 30 hours from Monday to Thursday. In order to make the 4dww successful, we align our schedules.
 - Meet at work earliest at 7:30 and latest at 9:00. 
-- Your day finishes after 7,5 hours of work excluding a 30 min lunch break from 11.30 -12.00.
+- Your day finishes after 7,5 hours of work excluding a 30 min lunch break from 12.15 - 12.45.
 
-We only work 4 days a week by default, and have Fridays off. There are 2 exceptions we'd like you to be aware of, as first, we have 5 internal days per year which will be held on Fridays. Those are mandatory for all employees, but don't worry.. they are FUN! Second, when a public holiday takes place on a weekday from Monday to Thursday, we will use Friday as a compensation day to keep 4 working days per week.
+We only work 4 days a week by default, and have Fridays off. There are 2 exceptions we'd like you to be aware of, as first, we have 4 internal days per year which will be held on Fridays. Those are mandatory for all employees, but don't worry.. they are FUN! Second, when a public holiday takes place on a weekday from Monday to Thursday, we will use Friday as a compensation day to keep 4 working days per week.
 
 One extra day of weekend gives more value then you might think. It really gives you this extra time to fully reload and start the news week fresh and energised. This extra free time comes along with more focus on effeciency during your working days. Plan your time at the hairdresser, dentist or other non-urgent appointments on Fridays and dedicate your time at work effectively from Monday to Thursday. 
 
