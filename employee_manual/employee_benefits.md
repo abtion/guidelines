@@ -56,7 +56,7 @@ We administrate all gear in [Asana](https://app.asana.com/0/1177794690825926/119
 When we reach the moment of replacing gear, we are looking into ways to give a 2nd life to our gear. There is a possibility to buy the gear for personal use for a, of course, reasonable deducted price. Or donate it to a fund, to sponsor those who need it. -- Any suggestions here? Shout out! Or sell it to companies like 'greenmind' who repair and re-sell used products.
 
 ## Lunch and office snacks
-We plan to take a lunch break at 12.30pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack on or to drink in our kitchens. If there is anything missing in your preference, don’t hesitate to reach out to our office managers/snack managers. 
+We plan to take a lunch break at 12.15 pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack on or to drink in our kitchens. If there is anything missing in your preference, do not hesitate to reach out to our office managers/snack managers. 
 
 Another important consuming product next to food, is coffee. At Abtion we love good coffee! Our passion makes us look out for good beans to provide a decent cup. We like variety and trying out new coffee from time to time, so if you have any suggestions in regards to that, don't be shy - please share it!
 
@@ -65,20 +65,20 @@ Another important consuming product next to food, is coffee. At Abtion we love g
 ### Pension plan
 At Abtion you become part of our pension and 'life insurance' plan with Sampension. When being a part of the plan, you can have a counselling meeting with Sampension. During this meeting you will be introduced to the benefits Sampension automatically offers as part of Abtion's agreement. In addition you get an offer to adapt your pension plan to your own preferences. 
 
-Your onboarding starts after Sampension has received your first payment. This payment has a standard of 8%, 6% by you and 2% by Abtion. 
+Your onboarding starts after Sampension has received your first payment. This payment has a standard of 8%, 6% by you and 2% by Abtion. Around 14 days after the first payment you will be contacted by Sampension with a physical letter to arrange the counselling meeting with them. 
 
 Log in to sampension.dk and get a hold on your numbers and coverages. Here you see all your savings and the amount of coverage by illness and loss. 
 
 ### Health care
 When login to sampension.dk, click on health plan, and find all the benefits and information belonging to your personal police. 
 
-Some of the benefits don't require a doctors visit. Simply give them a call and they ensure quick help. 
+Some of the benefits do not require a doctors visit. Simply give them a call and they ensure quick help. 
 
 It includes
-1. Stress coaching: in relation to personal crises, children, divorce, lifestyle and abuse. The well-being line is handled by a special health professional counseling team, which consists of nurses, doctors, physiotherapists, psychotherapists and psychologists. 
-2. Treatment with a physiotherapist, chiropractor, acupuncturist, osteopath, masseur or reflexologist Without a doctors visit. 
+1. Stress coaching: in relation to personal crises, children, divorce, lifestyle, and abuse. The well-being line is handled by a special health professional counseling team, which consists of nurses, doctors, physiotherapists, psychotherapists, and psychologists. 
+2. Treatment with a physiotherapist, chiropractor, acupuncturist, osteopath, masseur, or reflexologist without a doctors visit. 
 3. Guidance from a dietitian. 
-4. Examination by a specialist, surgery or treatment as well as follow-up at hospitals and clinics
-5. guidance by sick leave or when on sick leave.
+4. Examination by a specialist, surgery, or treatment as well as follow-up at hospitals and clinics
+5. Guidance by sick leave or when on sick leave.
 
 There is also a possibility to get a health insurance for your family through our agreement.
