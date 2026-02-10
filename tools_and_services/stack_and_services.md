@@ -130,3 +130,7 @@ Use the 🟢 services unless there's a good reason not to. If there is a 🔴 se
 ### Sending and receiving SMS
 
 - 🟢 [InMobile](https://www.inmobile.com/)
+
+### Surveys
+
+- 🔴 [Typeform](https://www.typeform.com/) Used in dao. When the responses hit the limit, it shows an error message. Not possible to hide the widget automatically. 
