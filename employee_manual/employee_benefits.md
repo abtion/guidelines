@@ -19,41 +19,26 @@ We all know the importance of good gear. That is why we introduce you all to our
 This standardised gear suggestion can be changed according to needs and offers:
 
 For all Abtioneers:
-- 1 or 2 4K Screens (LG)
+- 1 or 2 4K Screens
 - Headphones with noise cancellation on ears and mic
-   - Jabra Evolve 85 over-ear 
-   - OR Jabra 75 on-ear 
-   - OR a personal preferred headset + modmic wired/wireless 
 - Keyboard + mouse
-  - Apple magic keyboard and mouse/trackpad
-  - Logitech Keyboard (Ergo K860 or Solar K750) + Logitech mouse (MX Master 3)
-  - Mouse mat size M or L
-- Optional TwelveSouth HiRise
+- Optional HiRise
 
 For developers and designers:
 - Laptop
-  - Mac
-    - MBP 16' with touchbar
-    - 2.4GHz 8-core 9th-generation Intel Core i9 processor
-    - 16GB 2666MHz DDR4 memory + 512 GB SSD
-    - Upgrade on Graphics card for designers
-- Windows, Linux
-  - Dell XPS 15
-    - 15,6' with Core i7 
-    - 32GB RAM 1000GB SSD 15.6"
+  - MacBook Pro
+  - Windows or linux option available
 
-For PM’s and other roles:
- - Laptop 
-    - Mac, MBP 13’ or 16’ with touchbar
-    - Windows, Lenovo Thinkpad T14 
-- Additional gear such as phone, other headphones, etc. 
+For PM’s:
+- MacBook Pro or Air
+- Phone
 
 ### setup at the office
 Ideally, all desks and pairing stations have the same setup for easy use by all. Personal desks for those who work the best at their own palace. Flex desks for guests and Abtioneers who are not attached to their own desks. This can be useful when in need of a more quiet place and all meeting rooms are occupied.  Each desk consists of either 1 or 2 screens, keyboard + mouse, and optional a highrise. 
 
 We administrate all gear in [Asana](https://app.asana.com/0/1177794690825926/1197231131487319)(both in-house gear and gear you have at home.)
 
-When we reach the moment of replacing gear, we are looking into ways to give a 2nd life to our gear. There is a possibility to buy the gear for personal use for a, of course, reasonable deducted price. Or donate it to a fund, to sponsor those who need it. -- Any suggestions here? Shout out! Or sell it to companies like 'greenmind' who repair and re-sell used products.
+When we reach the moment of replacing gear, we are looking into ways to give a 2nd life to our gear. There is a possibility to buy the gear for personal use for a, of course, reasonable deducted price. 
 
 ## Lunch and office snacks
 We plan to take a lunch break at 12.15 pm. We have daily catering delivering a tasty lunch for all our employees. There is enough variety to satisfy all kinds of diets and we are very open for new proposals. Besides lunch, you can always find something to snack on or to drink in our kitchens. If there is anything missing in your preference, do not hesitate to reach out to our office managers/snack managers. 
@@ -66,6 +51,8 @@ Another important consuming product next to food, is coffee. At Abtion we love g
 At Abtion you become part of our pension and 'life insurance' plan with Sampension. When being a part of the plan, you can have a counselling meeting with Sampension. During this meeting you will be introduced to the benefits Sampension automatically offers as part of Abtion's agreement. In addition you get an offer to adapt your pension plan to your own preferences. 
 
 Your onboarding starts after Sampension has received your first payment. This payment has a standard of 8%, 6% by you and 2% by Abtion. Around 14 days after the first payment you will be contacted by Sampension with a physical letter to arrange the counselling meeting with them. 
+
+On the first meeting, you will need to choose your pension scheme. People planning to retire outside Denmark may benefit from Non-deductible pension (§ 53 A). Make sure to ask Sampension about your options here.
 
 Log in to sampension.dk and get a hold on your numbers and coverages. Here you see all your savings and the amount of coverage by illness and loss. 
 
