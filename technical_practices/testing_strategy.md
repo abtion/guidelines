@@ -45,9 +45,12 @@ AI-first projects benefit from testing just as much as standard ones and should 
 
 ## Exceptions & Special Cases
 
-### Short-term Projects
-Some projects are inherently short-lived — for example, a CMS used only to populate initial content for an app (e.g., Respons).
-When the team and the client agree that a deliverable is "single-use", testing rules may be skipped.
+### Low-coverage Projects
+Testing rules may be relaxed when the client and the team explicitly agree to it — whether the deliverable is single-use software, a large proof of concept, or operates in an environment with high tolerance to failures. The key principle is pragmatism, as long as the client understands the trade-offs and accepts the associated risks.
+
+Examples include a short-lived CMS used only to populate initial content for an app (e.g., Respons), or a time-boxed prototype built under tight budget constraints.
+
+Any deviation from the standard testing rules should be documented in the project's README.
 
 ### Legacy Projects
 
