@@ -59,6 +59,9 @@ Privacy friendly, GDPR compliant and self-hosted. Matomo is the #1 Google Analyt
 This plugin requires custom setup to collect data on Pressable. It is allowed on Kinsta out of the box. When migrating a client - we must ensure we get the history and setup the plugin properly on Pressable.
 
 #### Other
+- 🟢 [easy-basic-authentication](https://wordpress.org/plugins/easy-basic-authentication/) -
+For whole site basic authentication on staging sites
+
 - 🟢 [WooCommerce](https://woocommerce.com) -
 E-commerce software for Wordpress
 
