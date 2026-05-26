@@ -34,7 +34,7 @@
 You can request access to vaults through Slack in #access-and-permissions.
 
 ## Google groups
-- A google group will be set up per client, e.g. `danish-shipping@abtion.com`.
+- A google group will be set up per client, e.g. `name-of-client@abtion.com`.
 - The group will be used for creating client-specific accounts for services such as github, azure, etc.
 
 ## Github
@@ -42,7 +42,7 @@ You can request access to vaults through Slack in #access-and-permissions.
 - Access is controlled through teams. Abtioneers are part of teams. Teams have access to repos. E.g. Wordpress team will have access to several repos.
 - To give a better overview, members should not be granted direct access to any repo. 
 - The Abtion team has read access to all repos. All Abtioneers are members of the Abtion team.
-- Every new client with a developer team will have their own Github team. E.g. `danish-shipping`.
+- Every new client with a developer team will have their own Github team. 
 - Every client has a github account - using the team's google group. This account is added as a member of the client team.
 - Several teams may have access to the same repos. E.g. The Digital Infrastructure team may have access to some clients' repos while they are on maintenance.
 
@@ -64,7 +64,7 @@ You can request access to teams through Slack in #access-and-permissions.
 
 This applies only to `platform.claude.com` (the Anthropic Console used for API keys and agents). The Claude Code / claude.ai user subscription for day-to-day coding is a separate matter, included in our options and description and billed to the client at our normal pricing.
 
-- Every client that needs API keys or agents has their own Claude organization, named after the team's google group. E.g. `danish-shipping`.
+- Every client that needs API keys or agents has their own Claude organization, named after the team's google group. 
 - The client is invited as `admin` of the organization, and their credit card is used for all API and agent usage. Costs can add up quickly, so this must not flow through Abtion's account.
 
 You can request access through Slack in #access-and-permissions.
