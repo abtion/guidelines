@@ -60,6 +60,15 @@ You can request access to teams through Slack in #access-and-permissions.
 
 You can request access to teams through Slack in #access-and-permissions.
 
+## Claude (platform.claude.com)
+
+This applies only to `platform.claude.com` (the Anthropic Console used for API keys and agents). The Claude Code / claude.ai user subscription for day-to-day coding is a separate matter, included in our options and description and billed to the client at our normal pricing.
+
+- Every client that needs API keys or agents has their own Claude organization, named after the team's google group. E.g. `danish-shipping`.
+- The client is invited as `admin` of the organization, and their credit card is used for all API and agent usage. Costs can add up quickly, so this must not flow through Abtion's account.
+
+You can request access through Slack in #access-and-permissions.
+
 ## Managing accounts:
 
   - Keep the [license overview](https://app.asana.com/0/1149529931138025/list) up to date. This will help us track the activity on services and licenses as well as  make it easier to downgrade/upgrade when needed. 

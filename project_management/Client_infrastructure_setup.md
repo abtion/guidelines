@@ -1,8 +1,10 @@
-# Technical setup when starting a new project
+# Client infrastructure setup
 
 ## General
 
-When starting a new project for a client, we try to be consistent with resource allocation.
+This runbook covers provisioning client infrastructure — Github, Heroku/Azure, Claude, 1Password, Google Groups. Most of it is done when starting a new project, but the same steps apply later in the project lifecycle whenever a client needs a new service (e.g. adding Azure or Claude to a project that has been running for years).
+
+We aim to be consistent with resource allocation across clients.
 
 You can read more about basic rules & culture surrounding these resources in [Access and permissions](https://inside.abtion.com/tools_and_services/access_and_permissions).
 
@@ -115,3 +117,14 @@ The goal of the setup is to have the client owning their own directory with bill
     - add email of each team member as contributor
 4. Update the Asana licenses overview as per [Purchasing licenses and memberships](https://inside.abtion.com/tools_and_services/purchasing_licenses_and_memberships)
   - If it is using "abtion-general-subscription", add a due date on an estimate on when you believe the subscription should be transferred to the client. Bear in mind that Abtion will be paying for the client's subscription until then.
+
+## *5. Claude setup (NOT relevant for all projects)
+
+Only needed when we will build agents or provision API keys on `platform.claude.com` on behalf of the client. The Claude Code / claude.ai coding subscription is unrelated — it is included in our options and description and billed separately at our normal pricing.
+
+
+1. On `platform.claude.com`, create a new organization named `[clientname]` (matching the team's google group).
+2. Invite the client as `admin` of the organization.
+3. Add the client's credit card as the organization's payment method (unless not yet possible — in which case use Abtion's card and create an Asana ticket to transfer billing, as per the Preparation step).
+
+You need to create the organization from the team account. It is not possible to create it from your personal account, as you'll be already part of Abtion's organization. 
