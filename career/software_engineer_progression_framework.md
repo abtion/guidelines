@@ -51,6 +51,12 @@ _Developers usually spend 1 year in this role._
 
 - You write code that passes CI.
 
+- You use AI assistants to learn faster and produce more than you could alone.
+
+- You review every line before committing it.
+
+- You use AI beyond code - drafting PR descriptions, summarising tickets, and generating documentation.
+
 ### Good colleague
 - You care about your work.
 
@@ -59,6 +65,8 @@ _Developers usually spend 1 year in this role._
 - You seek to improve your work.
 
 - You grow through pair programming with team members of various seniority.
+
+- You ask for help when you don't understand AI-generated output, rather than committing what you can't explain.
 
 ### Recognized as
 
@@ -95,7 +103,11 @@ _Developers usually spend 2 years in this role._
 
 - You deliver features by merging small incremental changes. 
 
-- You write tests for your code. 
+- You write tests for your code.
+
+- You lean on AI assistants to move faster on day-to-day work, giving them the context they need to produce useful output and rejecting results that don't meet our standards.
+
+- You keep AI-generated code lean, reviewing and trimming it to fit only what's needed.
 
 ### Good colleague
 - You deliver work that is relevant within the current milestone of a project.
@@ -108,7 +120,9 @@ _Developers usually spend 2 years in this role._
 
 - You identify unclear requirements. 
 
-- You communicate promptly when issues arise. 
+- You communicate promptly when issues arise.
+
+- You spot repetitive tasks in the project and flag them as candidates for automation.
 
 ### Recognized as 
 - Someone who consistently closes tasks in their area of expertise collaborating with less experienced developers. 
@@ -143,6 +157,12 @@ _Developers usually spend 3 years in this role._
 
 - You work test-driven.
 
+- You actively integrate AI assistants into your workflow - for exploration, refactors, and tests - and recognize the cases where they slow you down.
+  
+- You create features that are thought out. You maximize AI's output by planning before working.
+
+- You experiment with agentic workflows - letting AI take multi-step actions. 
+
 ### Good colleague
 - You are able to prioritize tasks. 
 
@@ -152,7 +172,13 @@ _Developers usually spend 3 years in this role._
 
 - You actively give feedback. 
 
-- You enforce a culture of knowledge sharing, eg. through pair programming. 
+- You enforce a culture of knowledge sharing, eg. through pair programming.
+
+- You help less experienced developers use AI assistants effectively without losing ownership of their code.
+
+- You are mindful of privacy and security when using AI with client code and data.
+
+- You share what you learn with the team.
 
 ### Recognized as
 - Someone who shows ownership of the project and is comfortable across the stack. 
@@ -188,6 +214,14 @@ _Developers usually spend 4 years in this role._
 
 - You leave codebases better than how you found them.
 
+- You model effective AI-assisted workflows that lift the team's output, while holding that code to the same bar in review - catching overengineering, hallucinated APIs, and weak tests regardless of how it was produced.
+  
+- You draw on your agentic AI experience to continuously raise the project's level of automation.
+
+- You build project-level automations using AI - pipelines, scripts, and workflows that reduce manual work for the team.
+
+- You evaluate emerging AI tooling and propose additions to the team's stack when they deliver clear value.
+  
 ### Good colleague
 - You share ownership of the entire project, including areas outside of the codebase.
 
@@ -238,7 +272,9 @@ _Developers usually spend 4 years in this role._
 
 - You transform clients’ needs to a foundation for your team members to continue working on through conversations with the client.
 
-- You take part in discussions about development strategy. 
+- You take part in discussions about development strategy.
+
+- You drive AI adoption across Abtion as a whole - shaping tooling choices and pushing automation into every part of how we work, from estimation and client communication to maintenance and delivery.
 
 ### Good code
 - You architect systems that can handle many potential futures.
@@ -261,6 +297,12 @@ _Developers usually spend 4 years in this role._
 - You warn relevant stakeholders of potential issues. 
 
 - You ensure collective product ownership so the team is not dependent on any team member.
+
+- You identify opportunities where AI can add value for the client - in their codebase, workflows, or business - and turn them into concrete proposals.
+
+- You automate parts of the client's own workflow as part of your delivery, leaving them with capabilities and knowledge they can own and build on.
+
+- You measure AI adoption and delivery impact across projects.
 
 ### Recognized as
 - A helpful consultant that consistently delivers high-value solutions for real problems.
@@ -306,6 +348,10 @@ _Developers usually spend 4 years in this role._
 
 - You bring new working-methods that improve the company’s overall performance.
 
+- You shape Abtion's AI usage by balancing emerging best practices with our real-world context: team preferences, client profiles, business strategy, and budgets.
+
+- You set company-wide goals for AI impact - covering productivity, quality, and automation coverage.
+
 ### Good colleague
 - You collaborate with sales about high-level estimates and prioritization.
 
@@ -316,6 +362,8 @@ _Developers usually spend 4 years in this role._
 - You provide executives high-level guidance on technical decisions when necessary.
 
 - You mentor other engineers to reach your level (and surpass it).
+
+- You contribute to external discussions on AI-augmented delivery, shaping how Abtion is perceived in the industry.
 
 ### Recognized as
 - Someone who plays a key role in the technical direction of the company and has introduced positive changes across multiple teams.
