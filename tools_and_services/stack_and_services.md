@@ -35,11 +35,23 @@ Finding a balance between trying out something new or using a well-known tool is
 
 ### Websites
 
-- [Strapi](https://strapi.io/) as CMS
 - [Next.js](nextjs.org/) as frontend (with or without CMS)
 - [WordPress](https://wordpress.com/)\*
 
 \* WordPress has its own [guideline](wordpress) as it's a whole separate ecosystem
+
+#### CMS
+
+Use this table to pick the right CMS based on how much content flexibility the client needs:
+
+| Customization needs | CMS |
+|---|---|
+| High — customizable pages with blocks that change | WordPress |
+| Medium — change text and assets in a rigid structure | 🟡 Payload |
+| Low — no changes expected | [Webflow](https://webflow.com/) or None (plain React) |
+
+- 🔴 [Strapi](https://strapi.io/) — previously used, no longer recommended as default
+- 🟡 [Payload](https://payloadcms.com/) — best candidate so far for default CMS on medium-complexity projects; schema-as-code, self-hostable, strong TypeScript/Next.js integration
 
 ### Mobile apps
 
