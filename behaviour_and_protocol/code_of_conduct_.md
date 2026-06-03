@@ -60,10 +60,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## Contact info
 
-```
-  Hari Carreras
-  hc@abtion.com
-```
+If you need to report an incident, contact your manager.
 
 ## License and attribution
 
