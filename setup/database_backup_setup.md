@@ -2,7 +2,11 @@
 
 An s3 bucket (abtion-backups) has been created for securely storing encrypted database copies for clients with SLA.
 
-## Instructions
+## Scalingo
+
+> **TODO:** This section needs to be written. Document how to set up automated database backups for Scalingo-hosted projects, including where credentials are stored and how to verify backups are running.
+
+## Heroku
 
 The AWS credentials for the user with write access to the bucket is in 1Password internal infrastructure vault (AWS backups - s3-uploader).
 
