@@ -28,7 +28,7 @@
 - Every comment should be seen as a suggestion. Ask questions until you
   understand it and agree that the change would be an improvement.
 - Tag the appropriate people in the PR (`git annotate` can be useful here).
-- Add a link to the ticket in Asana, Trello, JIRA etc.
+- Add a link to the ticket in the project's task tracker (e.g. Asana).
 - For frontend changes, consider including GIFs or screenshots showing what has
   changed.
 
