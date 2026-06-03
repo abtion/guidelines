@@ -8,7 +8,7 @@ Along with a shared vault, will you have storage for your own private passwords.
 
 - In 1pw you can find log-in credentials to internal stuff like WiFi-code, internal used applications and access to project related data. 
 
-- [Managing access to 1pw vaults and project data](https://abtion.github.io/guidelines/tools_and_services/managing_access_to_1pw_vaults_and_project_data.html) introduces you to our way of working with 1pw. The magic to keep it all nice and tight, we educate ourselves to be our own gatekeeper. Everyone is actively contributing to the main rules and culture.
+- [Access and permissions](https://abtion.github.io/guidelines/tools_and_services/access_and_permissions.html) introduces you to our way of working with 1pw. The magic to keep it all nice and tight, we educate ourselves to be our own gatekeeper. Everyone is actively contributing to the main rules and culture.
 
 ### Security Policy
 
@@ -16,7 +16,7 @@ The policy establishes the minimum baseline security and requirements for all Ab
 
 Please read our Security Policy and inplementation guides in our [Information security folder](https://drive.google.com/drive/u/0/folders/1HpCJWB6lXyG-UYViyLBQDE9cMuG9y92H) 
 
-After inplementing the required steps, you sign the appendix digitially. Any troubles or questions, or do you need a buddy to help you through the steps, don't worry and just ask Rune P. or anyone else in the office to help you out. 
+After implementing the required steps, you sign the appendix digitally. Any troubles or questions, or do you need a buddy to help you through the steps, don't worry and just ask anyone in the office to help you out. 
 
 ## Headquarters security
 
