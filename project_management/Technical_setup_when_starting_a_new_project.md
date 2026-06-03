@@ -80,6 +80,10 @@ Repo settings
     - Target branch: Include default branch
     - Enable `Require signed commit`
 
+## *4. Scalingo project setup (NOT relevant for all projects)
+
+> **TODO:** This section needs to be written. Scalingo is our preferred PaaS (🟢 in [stack and services](https://inside.abtion.com/tools_and_services/stack_and_services)). Cover: creating the app, connecting to the GitHub repo, setting up review apps, configuring environment variables in 1Password, and handing over billing to the client.
+
 ## *4. Heroku project setup (NOT relevant for all projects)
 - create a new account [clientname]@abtion.com
 - create a new team [clientname]
