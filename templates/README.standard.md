@@ -26,7 +26,6 @@ URL to the project
 Asana:
 URL to Abtion's own related git repositories (frontend / backend / admin area / microservices)
 Harvest:
-Travis:
 Client name, and if possible, contact details including IT contact details
 Name, and a short description of any services that the project is using (error tracking, activity monitoring, log registry, email service, etc). Include where to get the credentials. E.g., 1Password under admin+project@abtion.com.
 
