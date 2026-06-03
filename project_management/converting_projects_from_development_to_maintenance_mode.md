@@ -5,35 +5,40 @@
 
 ## 2. Error notification setup
 
-If the project is active, we want team members to be notified. If the project is in maintenance mode, we want Application Service Asana board to be notified.
+If the project is active, we want team members to be notified. If the project is in maintenance mode, we want the Application Service Asana board to be notified.
 
-### Notify the Google Group using Rollbar.
-1. Setup Rollbar (if using Heroku, add it as an addon) using the team Heroku account.
-2. In Rollbar go to - Projects in the left menubar - Click on the mail icon under integrations
-3. Change the email alerts to notify only the team heroku account. Receive notifications on:
+### Notify the Google Group using Sentry self-hosted (preferred)
+
+We run a self-hosted Sentry instance at [sentry.abtion.com](https://sentry.abtion.com).
+
+1. Create a project in sentry.abtion.com for the client (if one does not already exist).
+2. Configure the project's DSN in the application.
+3. In Sentry, go to the project's Alert settings and add an alert rule:
+   1. When: A new issue is created
+   2. Action: Send a notification to the client Google Group email (e.g. client@abtion.com)
+4. Remove any alert rules that point to individual team members.
+
+### Notify the Google Group using Rollbar (alternative)
+
+Use Rollbar if the project already has it set up and migrating to Sentry is not worth the effort.
+
+1. In Rollbar, go to Projects → click the mail icon under integrations.
+2. Change email alerts to notify only the client Google Group. Receive notifications on:
    1. New item
    2. Item Reactivated
    3. Reopened item
 
-Do this by clicking Edit - Under users choose Client-Abtion user. Remove any other checkmark in the pop-up. If you are unsure which user is the correct one go to Settings - Users and look which user has the client@abtion mail.  
+Click Edit → under Users choose the Client-Abtion user and remove all other checkmarks. If you are unsure which user is correct, go to Settings → Users and find the one with the client@abtion.com mail.
 
-Remember to Delete the other rules if there is more then the three above.
-
-### Notify the Google Group using Sentry.
-
-1. Setup Sentry (if using Heroku, add it as an addon) using the team Heroku account created in step 4. You'll need the tier Team (small).
-2. Invite the team Google Group to the project (you will need to create a Sentry account with this email).
-3. Change the email alerts to notify only the team heroku account.
-   1. When: A new issue is created
-   2. Send a notification to team@abtion.com
+Delete any rules beyond the three above.
 
 ### Forward Google Group emails to Asana board
 
 1. Add asana@abtion.com as a member of the Google Group.
-2. Select "Subscription" to "Each email" (default)
+2. Set "Subscription" to "Each email" (default).
 3. Remove previous team members from the group.
 
-Emails sent to the Google Group will be passed on to asana@abtion.com. Each email received in asana@abtion.com will be created as a new card in the Application Service Board in Asana.
+Emails sent to the Google Group will be passed on to asana@abtion.com. Each email received there will be created as a new card in the Application Service Board in Asana.
 
 The login for asana@abtion.com is in 1Password.
 
