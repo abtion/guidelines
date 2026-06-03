@@ -1,13 +1,13 @@
 # Go Live Checklist
 
-- [ ] Use the right servers (dynos). If it's hosted in Heroku, the minimum accepted Dyno type for production is Standard.
-- [ ] Use a production-ready database with automatic backups. In Heroku, the minimum accepted Postgres plan is "standard-1"
+- [ ] Use a production-grade hosting plan, not a free or development tier.
+- [ ] Use a production-ready database with automatic backups enabled.
 - [ ] Mails are not using @abtion.com in `from` field.
 - [ ] Mail links point to the right domain.
 - [ ] Delete test data, if any was created.
 - [ ] Test with real users and get feedback.
 - [ ] Logging should be using a large enough plan.
-- [ ] If using SendGrid, check with their support how to avoid being suspended because of a sudden spike in mail.
+- [ ] Verify your mail provider's sending limits and confirm the app won't hit them on launch.
 - [ ] Check that the app's mails gets good scores with mail-tester.com.
 
 ## If a new domain is being used
