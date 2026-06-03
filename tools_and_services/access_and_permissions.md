@@ -48,6 +48,12 @@ You can request access to vaults through Slack in #access-and-permissions.
 
 You can request access to teams through Slack in #access-and-permissions.
 
+## Scalingo
+
+> **TODO:** This section needs to be written. Scalingo is our preferred PaaS (🟢 in [stack and services](https://inside.abtion.com/tools_and_services/stack_and_services)). Cover: how collaborator access is structured, the equivalent of Heroku's team/member/admin roles, how to request and revoke access, and where credentials are stored in 1Password.
+
+You can request access through Slack in #access-and-permissions.
+
 ## Heroku
 
 - Access is controlled through heroku teams. Teams own project pipelines and apps. Abtioneers are members of teams
