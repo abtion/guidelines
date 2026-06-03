@@ -24,19 +24,17 @@ Timeline
 - Story Creation on note cards, mark with priority of high, medium or low- 1 hour
 - Story Creation in Asana for any note card labelled high or medium - 1 hour
 
-# Fraxx example: 
+# Example agenda
 
-
-Development Kickoff Agenda - Fraxx & Abtion 
+Development Kickoff Agenda - [Client] & Abtion
 
 - Since last time
 - New faces around the table
-- “What have we been up to” (Abtion)
-- Any updates from Fraxx? (Client)
+- "What have we been up to" (Abtion)
+- Any updates from [Client]?
 
-- Identity design
+- Identity design (if applicable)
   - First take on concept, look and feel (Abtion)
-
 
 - Development kick-off
   - User stories (All, facilitated by PM)
@@ -46,28 +44,25 @@ Development Kickoff Agenda - Fraxx & Abtion
   - Find the landmines and anti-goals
 - Clarify the tech requirements (Tech team)
   - Browsers, languages, domains etc.
-  - Requirements for video
+  - Media hosting needs
   - Hosting
   - Need for tracking/statistics
   - Mails
 
-
 - Create and sign off on GDPR expectations (PM)
-  - What data will we persist and how long? 
+  - What data will we persist and how long?
   - How will data be exported or deleted?
-  - SLA / Maintenance in the future 
+  - SLA / Maintenance in the future
 
+# Questions to consider (project-specific)
 
+- Does the client need any content translated or localised? Who is responsible?
+- What media formats do we need to support (mobile, tablet, desktop)?
+- Is a data processor agreement needed?
+- How much time will dev and design need to pair?
+- Do we need analytics or social tracking? Which tools?
+- What mail system does the client already use?
 
- # Remember notes - This is of course with the specific project in mind
- 
-- Hosting of videos - what about the economy vs. quality?
-- What video format do we need in order to fit both mobile, tablet and desktop?
-- Data processor agreement needed?
-- Talk about the time dev and design need to pair
-- Make sure we touch tracking like GA and SoMe
-- The content must be translated to Norwegian by Fraxx
-- What mail system do they use?
 
 
 
