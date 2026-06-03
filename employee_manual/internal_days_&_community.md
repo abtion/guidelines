@@ -34,5 +34,5 @@ Don't know to get started? Join the initiative on slack and add yourself to our 
 Socializing with your colleagues Thursday after work is a cause worth supporting :v:
 
 Two things that are good to know in that regard:
-- At the office: Drinks, beers and sodas for consumption at the office are always sponsored - we’re usually well-stocked, but reach out to Katrine or Dafna, if you’re missing anything specific.
-- Outside the office: When 3 or more Abtioneers get together for a Thursday drink outside the office, the first round is on Abtion - this goes whether you have a Pleo card or not, so feel free to send a mobilepay request to Dafna when needed (just remember to text her a picture of the receipt)
+- At the office: Drinks, beers and sodas for consumption at the office are always sponsored - we’re usually well-stocked, but reach out to your office manager if you’re missing anything specific.
+- Outside the office: When 3 or more Abtioneers get together for a Thursday drink outside the office, the first round is on Abtion - this goes whether you have a Pleo card or not, so feel free to send a mobilepay request to your office manager when needed (just remember to include a picture of the receipt)
