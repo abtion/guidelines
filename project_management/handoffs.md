@@ -1,5 +1,9 @@
 # Client Handoffs
 
+## Scalingo Handoff
+
+> **TODO:** This section needs to be written. Scalingo is our preferred PaaS (🟢 in [stack and services](https://inside.abtion.com/tools_and_services/stack_and_services)). Cover the equivalent of the Heroku handoff below: timeline, what to hand over (app, addons, environment variables), how to transfer ownership to the client's Scalingo account, and closing up Abtion-owned resources.
+
 ## Heroku Handoff
 
 ### Two weeks prior
