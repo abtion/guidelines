@@ -16,7 +16,7 @@ This document describes the now, and thus won't focus a lot on - for instance - 
 
 There are experiments with:
 - AI agents autonomously generating pull requests based on project tasks.
-- Standardizing task descriptions to make them more agent friendly (for both controlled and autonomous agents)
+- Standardizing many parts of the flow to make them more agent-friendly. Right now that includes task descriptions, autofixing agents, and gathering, summarizing, and processing large contexts from multiple sources, including meetings.
 - Generating - the initial version of - minor projects based on designs from claude design.
 
 ### Where we - currently believe that we - are headed
