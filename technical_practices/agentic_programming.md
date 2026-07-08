@@ -11,7 +11,7 @@ This document describes the now, and thus won't focus a lot on - for instance - 
 
 ### Where we are now
 
-- The developer is the architect (assisted by an agent with project context)
+- The developer is the architect with the vision, judgment, and responsibility. The agents execute the work with the relevant context.
 - All work is primarily implemented locally by developers, mostly with agentic programming
 
 There are experiments with:
