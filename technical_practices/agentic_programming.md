@@ -7,7 +7,7 @@ Most of the information in here is merely recommendations. Devs free to deviate 
 ## Where we are, where we are headed
 
 AI tools are improving rapidly, and so will this document.
-This document describes the now, and thus won't focus a lot on - for instance - autonomouse agents (We simply haven't established best practices yet)
+This document describes the now, and thus won't focus a lot on - for instance - autonomous agents (We simply haven't established best practices yet)
 
 ### Where we are now
 
