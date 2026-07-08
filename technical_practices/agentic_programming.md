@@ -131,7 +131,7 @@ It is recommended to have a separate [worktree](https://git-scm.com/docs/git-wor
 It is our recommendation to be thoughtful about working on things in parallel. Based on an internal survey (June 2026), while devs tend to answer that parallel work makes them more productive, the conclusion is not very clear. Also no devs found it ideal to work on more than at most 3 tasks at a time.
 
 > [!TIP]
-> Try if you can spent the "idle" time on thinking about or researching the task at hand (or working on something that supports the task).
+> Try if you can spend the "idle" time on thinking about or researching the task at hand (or working on something that supports the task).
 
 ## Guidelines for AI-generated PRs
 
