@@ -153,3 +153,41 @@ To avoid security and economic concerns, such as: agents getting stuck in loops,
 Is this still needed?
 
 ## How to create and share skills across projects
+
+Currently we use [Brewale](https://brewale.dev) as our shared skill registry.
+
+Brewale exposes skills and conventions via MCP, allowing whatever agent you use, to have access to the shared skill pool.
+
+After connecting your agent to the Brewale MCP and instructing it to use it, skill exploration and usage should be automatic. The agent chooses what to use and when. Some skills may only be used if explicitly asked to.
+
+### Quick start
+
+You need an invite to the Abtion org on Brewale before any of this works - ask an admin to send one, then sign up from the link.
+
+Then run the installer and follow the prompts:
+
+```bash
+npx brewale
+```
+
+It detects your agent (Claude Code, Codex CLI, Cursor, VS Code, Zed) and writes the MCP config for you. Verify with `npx brewale status`.
+
+```json
+{
+  "mcpServers": {
+    "brewale": {
+      "type": "http",
+      "url": "https://mcp.brewale.dev/mcp"
+    }
+  }
+}
+```
+
+See the [Brewale docs](https://brewale.dev/docs) for details.
+
+### Creating and sharing skills
+
+Anyone can contribute a skill, in two ways:
+
+- Open a PR to the [abtion/ai](https://github.com/abtion/ai) repo.
+- Ask your agent to create the skill in Brewale. It ends up as a draft that you review and approve before it becomes available to everyone.
