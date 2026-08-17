@@ -147,10 +147,6 @@ To avoid security and economic concerns, such as: agents getting stuck in loops,
 - Can only submit draft PRs
 - Have a hard TTL (e.g. they are killed if they take too long)
 
-## Prompt engineering basics and Abtion-specific patterns
-
-Is this still needed?
-
 ## How to create and share skills across projects
 
 Currently we use [Brewale](https://brewale.dev) as our shared skill registry.
