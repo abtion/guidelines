@@ -15,3 +15,16 @@ https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
 > * What effect have my changes made?
 > * Why was the change needed?
 > * What are the changes in reference to?
+
+## Agent-generated commit messages
+
+As long as the commit messages are good (according to the above advice), it is not important how they are made.
+
+However, we do often see that agent-generated messages are:
+
+- Just a compressed version of the code changes
+- Not good at communicating the intention (the *why*).
+- Too verbose (they are often overly long and include unimportant technical details)
+
+To avoid this, devs are advised to write commit messages themselves, or at least put in some degree of effort to communicate intention.
+This also works as a nudge towards understanding the code that will be committed.
