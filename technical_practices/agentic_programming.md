@@ -147,9 +147,6 @@ To avoid security and economic concerns, such as: agents getting stuck in loops,
 - Can only submit draft PRs
 - Have a hard TTL (e.g. they are killed if they take too long)
 
-## Guidelines for AI in client work (transparency, quality bar, what we tell clients)
-
-
 ## Prompt engineering basics and Abtion-specific patterns
 
 Is this still needed?
