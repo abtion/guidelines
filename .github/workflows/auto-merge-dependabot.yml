@@ -1,0 +1,21 @@
+name: Dependabot Auto-Merge
+
+on:
+  pull_request_target:
+
+permissions:
+  pull-requests: write
+  contents: write
+
+jobs:
+  dependabot:
+    if: github.event.pull_request.user.login == 'dependabot[bot]'
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: abtion/dependabot-auto-merge@v1.1.0
+        with:
+          config: >-
+            [
+              { "update-type": "semver-minor" },
+            ]
+          github-token: ${{ secrets.GITHUB_TOKEN }}
