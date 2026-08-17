@@ -19,6 +19,8 @@ There are experiments with:
 - Standardizing many parts of the flow to make them more agent-friendly. Right now that includes task descriptions, autofixing agents, and gathering, summarizing, and processing large contexts from multiple sources, including meetings.
 - Generating - the initial version of - minor projects based on designs from claude design.
 
+Another thing we are working on, which is not really an "experiment" but more an ongoing process is figuring out a good way to make useful tools, skills, and guidelines available for agents at the individual-, project-, and company level. We need to do this in a way that leaves room for each project to define the business-specific context its agents need. At the time of writing, Brewale and Palette are parts of that process.
+
 ### Where we - currently believe that we - are headed
 
 - The developer is still the architect
@@ -40,7 +42,7 @@ Use the following checklist to set up context for your project:
 - [ ] `.agents/skills/agent-setup/SKILL.md`. Sets up MCP servers and skills for the used agent (so that devs can just ask an agent to `invoke ".agents/skills/agent-setup/SKILL.md"`)
 
 Some of these files will be pre-populated by our templates, make sure to adjust them for the project.
-Gathering and sharing the right context is a big part of agentic programming, and this will keep evolving rapidly. We are experimenting with how to make useful tools, skills, and guidelines available for agents at the individual, project, and company level, while still leaving room for each project to define the business-specific context its agents need. At the time of writing, Brewale and Palette are part of that process.
+
 > [!TIP]
 > If a project is large or complex, split the contents of `docs/architecture.md` file into separate sections. Then reference each section in an overarching `docs/architecture.md`. This will make it easier for the agent to find the right information without scanning the entire repository.
 
