@@ -69,3 +69,6 @@ It includes
 5. Guidance by sick leave or when on sick leave.
 
 There is also a possibility to get a health insurance for your family through our agreement.
+
+## Gynstudio
+Through [Gynstudio](https://gynstudio.dk/) in Copenhagen you and your partner have free access to specialists in women's and men's health, covering areas such as cycle health, fertility and pregnancy loss, and menopause and andropause. Book online or call the clinic and say that you are an Abtion employee. Abtion is billed directly, so there is no cost for you, and we never learn who used the program.
