@@ -53,6 +53,8 @@ Use this table to pick the right CMS based on how much content flexibility the c
 - 🔴 [Strapi](https://strapi.io/) — previously used, no longer recommended as default
 - 🟡 [Payload](https://payloadcms.com/) — best candidate so far for default CMS on medium-complexity projects; schema-as-code, self-hostable, strong TypeScript/Next.js integration
 
+Content flexibility is not the only thing to weigh. Pick Payload over Webflow — even when the customization needs are low — whenever the site has to do something Webflow can't, such as integrating with third-party systems, running custom logic, or putting content behind a login.
+
 ### Mobile apps
 
 - [React Native](https://reactnative.dev/)
