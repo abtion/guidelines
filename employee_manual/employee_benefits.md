@@ -71,4 +71,13 @@ It includes
 There is also a possibility to get a health insurance for your family through our agreement.
 
 ## Gynstudio
-Through [Gynstudio](https://gynstudio.dk/) in Copenhagen you and your partner have free access to specialists in women's and men's health, covering areas such as cycle health, fertility and pregnancy loss, and menopause and andropause. Book online or call the clinic and say that you are an Abtion employee. Abtion is billed directly, so there is no cost for you, and we never learn who used the program.
+
+Through [Gynstudio](https://gynstudio.dk/) in Copenhagen, you and your partner have free access to specialists in women's and men's health across different stages of life. The programme covers three areas:
+
+1. Cycle health, including hormonal health and endometriosis
+2. Perinatal health, including fertility, pregnancy and pregnancy loss
+3. Peri menopause and andropause health
+
+All Abtioneers also have free access to **STUDIOtalk**, where Gynstudio shares knowledge and guidance on relevant health topics. Gynstudio offers health screenings and individual consultations, including blood sample analyses and guidance on possible next steps.
+
+Book online or call the clinic and say that you are an Abtion employee. Abtion is billed directly, so there is no cost for you, and we never learn who used the programme.
