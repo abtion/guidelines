@@ -80,4 +80,4 @@ Through [Gynstudio](https://gynstudio.dk/) in Copenhagen, you and your partner h
 
 All Abtioneers also have free access to **STUDIOtalk**, where Gynstudio shares knowledge and guidance on relevant health topics. Gynstudio offers health screenings and individual consultations, including blood sample analyses and guidance on possible next steps.
 
-Book online or call the clinic and say that you are an Abtion employee. Abtion is billed directly, so there is no cost for you, and we never learn who used the programme.
+Book online or call the clinic and say that you are an Abtion employee. Abtion is billed directly, so there is no cost for you. Your use of the programme is 100% anonymous to Abtion, and we are not told who uses it.

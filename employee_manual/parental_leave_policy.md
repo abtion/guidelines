@@ -8,6 +8,14 @@ Our approach is designed to support you through each stage of parental leave, en
 
 Our policy allows for full salary during parental leave for a period of up to a total of 11 weeks for fathers and 15 weeks for mothers. Not all families have exactly one mother and one father - naturally, they are covered as well. We’ll figure out which rules apply to specific situations when relevant.
 
+### Support around fertility, pregnancy and pregnancy loss
+
+The journey towards becoming a parent can take many forms. Through our collaboration with [Gynstudio](https://gynstudio.dk/), you and your partner have access to specialist support around fertility, pregnancy, pregnancy loss and health around childbirth.
+
+You can use this support whether you are trying to conceive, expecting a child or dealing with pregnancy loss. You do not need to be planning parental leave to use the programme.
+
+Reach out to the Gynstudio team for more help and sparring. Book directly with Gynstudio and mention that you are an Abtion employee. Abtion covers the cost. Your use of the programme is 100% anonymous to Abtion, and we are not told who uses it.
+
 ### Before parental leave:
 
 - Pre-leave consultation: We offer a meeting with an external parental consultant to all expectant employees. This consultation will assist you in creating a personalized parental plan for you and your partner, addressing any concerns, and setting expectations for your leave and return.
