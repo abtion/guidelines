@@ -12,9 +12,7 @@ During a planned maintenance window, the DI team will perform tasks such as:
 - Update other libraries (most relevant first).
 - Update programming language.
 - Update the main framework.
-- Check the Asana board for any reported bugs and fix them.
 - Check error tracking tool and fix small issues. If the bugs are complex to solve, the team will inform the client.
-- Check the Asana board for chores.
 - Create new tests.
 - Monitor app. Check metrics and add-ons and services. Are add-on plans correct? Do we need to upgrade resources?
 
